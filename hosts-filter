@@ -20,6 +20,7 @@
 0.0.0.0 ads.adaptv.advertising.com
 0.0.0.0 ads.adfox.ru
 0.0.0.0 ads.betweendigital.com
+0.0.0.0 ads.blogherads.com
 0.0.0.0 ads.pubmatic.com
 0.0.0.0 ads.servenobid.com
 0.0.0.0 ads.traffichunt.com
@@ -76,6 +77,7 @@
 0.0.0.0 cdn.onthe.io
 0.0.0.0 cdn.optimizely.com
 0.0.0.0 cdn.retailrocket.net
+0.0.0.0 cdn.segment.io
 0.0.0.0 cdn01.nativeroll.tv
 0.0.0.0 cdn-bgp.bluestacks.com
 0.0.0.0 cdn-gl.imrworldwide.com
@@ -99,6 +101,7 @@
 0.0.0.0 conv-blizzard-emea.cd.serving-sys.com
 0.0.0.0 counter.rambler.ru
 0.0.0.0 counter.yadro.ru
+0.0.0.0 crbcdn.jsfiddle.net
 0.0.0.0 crl.globalsign.net
 0.0.0.0 csi.gstatic.com
 0.0.0.0 csm.fr.eu.criteo.net
@@ -118,6 +121,7 @@
 0.0.0.0 events.redditmedia.com
 0.0.0.0 evt.mxplay.com
 0.0.0.0 exchange.buzzoola.com
+0.0.0.0 fast.appcues.com
 0.0.0.0 fastlane.rubiconproject.com
 0.0.0.0 fastlane-adv.rubiconproject.com
 0.0.0.0 fe3cr.delivery.mp.microsoft.com
