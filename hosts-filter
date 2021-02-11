@@ -17,6 +17,7 @@
 0.0.0.0 ade.googlesyndication.com
 0.0.0.0 adfox-c2s-ams.creativecdn.com
 0.0.0.0 adfox-hb-bidder.rutarget.ru
+0.0.0.0 adindex.ru
 0.0.0.0 ads.adaptv.advertising.com
 0.0.0.0 ads.adfox.ru
 0.0.0.0 ads.betweendigital.com
@@ -53,6 +54,7 @@
 0.0.0.0 b.scorecardresearch.com
 0.0.0.0 b2b.ainews.kz
 0.0.0.0 b0305003-cf2bnyrypw4vgsra-c2r-ds.metric.gstatic.com
+0.0.0.0 bam.nr-data.net
 0.0.0.0 beacons.gcp.gvt2.com
 0.0.0.0 beacons.gvt2.com
 0.0.0.0 beacons2.gvt2.com
@@ -110,6 +112,7 @@
 0.0.0.0 d7.c4.b5.a1.top.list.ru
 0.0.0.0 de83112b7fdc8c8ca3ca8e3f9ee150d2.safeframe.googlesyndication.com
 0.0.0.0 displaycatalog.mp.microsoft.com
+0.0.0.0 dmx.districtm.io
 0.0.0.0 dns.msftncsi.com
 0.0.0.0 eas.outlook.com
 0.0.0.0 eb.bluestacks.com
@@ -192,9 +195,11 @@
 0.0.0.0 my.rtmark.net
 0.0.0.0 nep.advangelists.com
 0.0.0.0 nvda.d2.sc.omtrdc.net
+0.0.0.0 nynbmd3m7ah73o53xghgltg6fczlqi3o-c2r.metric.gstatic.com
 0.0.0.0 ocsp.msocsp.com
 0.0.0.0 onecs-live.azureedge.net
 0.0.0.0 onesignal.com
+0.0.0.0 ontetag-sys.com
 0.0.0.0 otm-r.com
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 passwordsleakcheck-pa.googleapis.com
@@ -227,6 +232,7 @@
 0.0.0.0 rpc-php.trafficfactory.biz
 0.0.0.0 runative-syndicate.com
 0.0.0.0 s.skimresources.com
+0.0.0.0 s.yjtag.jp
 0.0.0.0 s.youtube.com
 0.0.0.0 s3.buysellads.com
 0.0.0.0 s7.addthis.com
@@ -292,6 +298,7 @@
 0.0.0.0 tsfe.trafficshaping.dsp.mp.microsoft.com
 0.0.0.0 tsyndicate.com
 0.0.0.0 tt.onthe.io
+0.0.0.0 ttru.onthe.io
 0.0.0.0 u.openx.net
 0.0.0.0 u.startup.mobile.webvisor.com
 0.0.0.0 userlocation.googleapis.com
@@ -306,10 +313,12 @@
 0.0.0.0 vz-cdn2.trafficjunky.net
 0.0.0.0 warning.rt.ru
 0.0.0.0 watson.telemetry.microsoft.com
+0.0.0.0 web.hb.ad.cpe.dotomi.com
 0.0.0.0 widget.svk-native.ru
 0.0.0.0 wikia-d.openx.net
 0.0.0.0 www.bandisoft.com
 0.0.0.0 www.bing.com
+0.0.0.0 www.buymeacoffee.com
 0.0.0.0 www.facebook.com
 0.0.0.0 www.googleadservices.com
 0.0.0.0 www.googletagmanager.com
