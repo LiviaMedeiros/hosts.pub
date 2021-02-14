@@ -11,6 +11,7 @@
 0.0.0.0 a.opmnstr.com
 0.0.0.0 a.optmnstr.com
 0.0.0.0 a.realsrv.com
+0.0.0.0 abort-count.smbeat.jp
 0.0.0.0 acdn.adnxs.com
 0.0.0.0 ad.doubleclick.net
 0.0.0.0 ad.mail.ru
@@ -46,12 +47,15 @@
 0.0.0.0 api.rlcdn.com
 0.0.0.0 api.smbeat.jp
 0.0.0.0 api-pnote.noahapps.jp
+0.0.0.0 aplhabet.applinzi.com
 0.0.0.0 app.adjust.com
 0.0.0.0 app.link
 0.0.0.0 app-measurement.com
 0.0.0.0 as.casalemedia.com
 0.0.0.0 ase.clmbtech.com
 0.0.0.0 as-sec.casalemedia.com
+0.0.0.0 attitude.applinzi.com
+0.0.0.0 attitude.appmeasurements.com
 0.0.0.0 b.scorecardresearch.com
 0.0.0.0 b2b.ainews.kz
 0.0.0.0 b0305003-cf2bnyrypw4vgsra-c2r-ds.metric.gstatic.com
@@ -63,7 +67,9 @@
 0.0.0.0 beacons4.gvt2.com
 0.0.0.0 beacon.wikia-services.com
 0.0.0.0 bh.contextweb.com
+0.0.0.0 bi.yeshen.com
 0.0.0.0 bidder.criteo.com
+0.0.0.0 brilliant.applinzi.com
 0.0.0.0 bs-dante.ru
 0.0.0.0 bttrack.com
 0.0.0.0 c.aaxads.com
@@ -154,6 +160,7 @@
 0.0.0.0 hb.undertone.com
 0.0.0.0 hbopenbid.pubmatic.com
 0.0.0.0 hbx.media.net
+0.0.0.0 health.appmeasurements.com
 0.0.0.0 htlb.casalemedia.com
 0.0.0.0 hw-cdn2.adtng.com
 0.0.0.0 hw-cdn2.trafficjunky.net
@@ -192,7 +199,9 @@
 0.0.0.0 mc.yandex.ru
 0.0.0.0 media.trafficjunky.net
 0.0.0.0 minidumps.smbeat.jp
+0.0.0.0 mixture.applinzi.com
 0.0.0.0 mobile.yandexadexchange.net
+0.0.0.0 mqtt-mini.facebook.com
 0.0.0.0 mxvp-feature-toggle-prod-1.zenmxapps.com
 0.0.0.0 my.rtmark.net
 0.0.0.0 nep.advangelists.com
@@ -217,6 +226,7 @@
 0.0.0.0 pixel.33across.com
 0.0.0.0 pl14969850.passeura.com
 0.0.0.0 player.adtelligent.com
+0.0.0.0 postback.applinzi.com
 0.0.0.0 pp.userapi.com
 0.0.0.0 prebid-eu.creativecdn.com
 0.0.0.0 prebid-server.rubiconproject.com
@@ -230,6 +240,7 @@
 0.0.0.0 r.remarketingpixel.com
 0.0.0.0 reachms.bfmio.com
 0.0.0.0 redhat.tt.omtrdc.net
+0.0.0.0 reign.appmeasurements.com
 0.0.0.0 relap.io
 0.0.0.0 report.appmetrica.yandex.net
 0.0.0.0 rosenberg.appmetrica.yandex.net
@@ -277,6 +288,8 @@
 0.0.0.0 stats.g.doubleclick.net
 0.0.0.0 stats.wp.com
 0.0.0.0 storage.cloud.kargo.com
+0.0.0.0 stup5.appmeasurements.com
+0.0.0.0 stup7.appmeasurements.com
 0.0.0.0 sun1-15.userapi.com
 0.0.0.0 sun1-19.userapi.com
 0.0.0.0 sun9-42.userapi.com
@@ -302,6 +315,7 @@
 0.0.0.0 top-fwz1.mail.ru
 0.0.0.0 tpc.googlesyndication.com
 0.0.0.0 tracking.retailrocket.net
+0.0.0.0 tracking-3-9f58.trnox.com
 0.0.0.0 tsfe.trafficshaping.dsp.mp.microsoft.com
 0.0.0.0 tsyndicate.com
 0.0.0.0 tt.onthe.io
