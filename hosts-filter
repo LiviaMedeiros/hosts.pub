@@ -11,6 +11,8 @@
 0.0.0.0 a.opmnstr.com
 0.0.0.0 a.optmnstr.com
 0.0.0.0 a.realsrv.com
+0.0.0.0 a.teads.tv
+0.0.0.0 aax.amazon-adsystem.com
 0.0.0.0 abort-count.smbeat.jp
 0.0.0.0 acdn.adnxs.com
 0.0.0.0 ad.doubleclick.net
@@ -43,6 +45,7 @@
 0.0.0.0 an.yandex.ru
 0.0.0.0 analytics.archive.org
 0.0.0.0 ap.lijit.com
+0.0.0.0 apex.go.sonobi.com
 0.0.0.0 api.amplitude.com
 0.0.0.0 api.rlcdn.com
 0.0.0.0 api.smbeat.jp
@@ -77,6 +80,7 @@
 0.0.0.0 c.deployads.com
 0.0.0.0 c.rambler.ru
 0.0.0.0 c2shb.ssp.yahoo.com
+0.0.0.0 cas.criteo.com
 0.0.0.0 cdn.bizible.com
 0.0.0.0 cdn.directadvert.ru
 0.0.0.0 cdn.districtm.ca
@@ -160,7 +164,9 @@
 0.0.0.0 hb.undertone.com
 0.0.0.0 hbopenbid.pubmatic.com
 0.0.0.0 hbx.media.net
+0.0.0.0 hb-api.omnitagjs.com
 0.0.0.0 health.appmeasurements.com
+0.0.0.0 hm.baidu.com
 0.0.0.0 htlb.casalemedia.com
 0.0.0.0 hw-cdn2.adtng.com
 0.0.0.0 hw-cdn2.trafficjunky.net
@@ -180,6 +186,7 @@
 0.0.0.0 js-sec.indexww.com
 0.0.0.0 kraken.rambler.ru
 0.0.0.0 krk.kargo.com
+0.0.0.0 launcherus.yeshen.com
 0.0.0.0 loadus.exelator.com
 0.0.0.0 location.services.mozilla.com
 0.0.0.0 login.live.com
@@ -202,6 +209,7 @@
 0.0.0.0 mixture.applinzi.com
 0.0.0.0 mobile.yandexadexchange.net
 0.0.0.0 mqtt-mini.facebook.com
+0.0.0.0 mtrx.go.sonobi.com
 0.0.0.0 mxvp-feature-toggle-prod-1.zenmxapps.com
 0.0.0.0 my.rtmark.net
 0.0.0.0 nep.advangelists.com
@@ -228,6 +236,7 @@
 0.0.0.0 player.adtelligent.com
 0.0.0.0 postback.applinzi.com
 0.0.0.0 pp.userapi.com
+0.0.0.0 prebid.media.net
 0.0.0.0 prebid-eu.creativecdn.com
 0.0.0.0 prebid-server.rubiconproject.com
 0.0.0.0 prebid.a-mo.net
@@ -246,6 +255,7 @@
 0.0.0.0 rosenberg.appmetrica.yandex.net
 0.0.0.0 rpc-php.trafficfactory.biz
 0.0.0.0 runative-syndicate.com
+0.0.0.0 s.pubmine.com
 0.0.0.0 s.skimresources.com
 0.0.0.0 s.yjtag.jp
 0.0.0.0 s.youtube.com
@@ -276,6 +286,7 @@
 0.0.0.0 ssl.google-analytics.com
 0.0.0.0 ssp.rambler.ru
 0.0.0.0 ssp.otm-r.com
+0.0.0.0 st.top100.ru
 0.0.0.0 startup.mobile.webvisor.com
 0.0.0.0 startup.mobile.yandex.net
 0.0.0.0 static.cloudflareinsights.com
