@@ -105,6 +105,7 @@
 0.0.0.0 cloud.bluestacks.com
 0.0.0.0 cloudapp.net
 0.0.0.0 cm.adgrx.com
+0.0.0.0 cm.g.doubleclick.net
 0.0.0.0 collector.githubapp.com
 0.0.0.0 config.uca.cloud.unity3d.com
 0.0.0.0 connect.facebook.net
@@ -258,6 +259,7 @@
 0.0.0.0 rpc-php.trafficfactory.biz
 0.0.0.0 rrtui5f6tpiu7ugumdxrdoqieczlqi3o-c2r.metric.gstatic.com
 0.0.0.0 runative-syndicate.com
+0.0.0.0 ru.fp.kaspersky-labs.com
 0.0.0.0 s.pubmine.com
 0.0.0.0 s.skimresources.com
 0.0.0.0 s.yjtag.jp
@@ -319,6 +321,7 @@
 0.0.0.0 t.appsflyer.com
 0.0.0.0 tagan.adlightning.com
 0.0.0.0 tags-cdn.deployads.com
+0.0.0.0 tag.1rx.io
 0.0.0.0 telemetry-in.battle.net
 0.0.0.0 telephonyspamprotect-pa.googleapis.com
 0.0.0.0 thrtle.com
@@ -355,6 +358,7 @@
 0.0.0.0 www.bandisoft.com
 0.0.0.0 www.bing.com
 0.0.0.0 www.buymeacoffee.com
+0.0.0.0 www.doubleclickbygoogle.com
 0.0.0.0 www.facebook.com
 0.0.0.0 www.googleadservices.com
 0.0.0.0 www.googletagmanager.com
