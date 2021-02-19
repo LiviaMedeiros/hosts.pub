@@ -48,6 +48,7 @@
 0.0.0.0 ap.lijit.com
 0.0.0.0 apex.go.sonobi.com
 0.0.0.0 api.amplitude.com
+0.0.0.0 api.facebook.com
 0.0.0.0 api.rlcdn.com
 0.0.0.0 api.smbeat.jp
 0.0.0.0 api-pnote.noahapps.jp
@@ -86,6 +87,7 @@
 0.0.0.0 cdn.bizible.com
 0.0.0.0 cdn.directadvert.ru
 0.0.0.0 cdn.districtm.ca
+0.0.0.0 cdn.iframe.ly
 0.0.0.0 cdn.iubenda.com
 0.0.0.0 cdn.izooto.com
 0.0.0.0 cdn.mxpnl.com
@@ -102,6 +104,7 @@
 0.0.0.0 certify-js.alexametrics.com
 0.0.0.0 chromesyncpasswords-pa.googleapis.com
 0.0.0.0 clck.yandex.ru
+0.0.0.0 clickiocdn.com
 0.0.0.0 cloud.bluestacks.com
 0.0.0.0 cloudapp.net
 0.0.0.0 cm.adgrx.com
@@ -165,6 +168,7 @@
 0.0.0.0 gum.criteo.com
 0.0.0.0 hb.nexage.com
 0.0.0.0 hb.undertone.com
+0.0.0.0 hbe199.hybrid.ai
 0.0.0.0 hbopenbid.pubmatic.com
 0.0.0.0 hbx.media.net
 0.0.0.0 hb-api.omnitagjs.com
@@ -211,6 +215,7 @@
 0.0.0.0 minidumps.smbeat.jp
 0.0.0.0 mixture.applinzi.com
 0.0.0.0 mobile.yandexadexchange.net
+0.0.0.0 moevideo-sync.rutarget.ru
 0.0.0.0 mqtt-mini.facebook.com
 0.0.0.0 mtrx.go.sonobi.com
 0.0.0.0 mxvp-feature-toggle-prod-1.zenmxapps.com
@@ -258,8 +263,10 @@
 0.0.0.0 rosenberg.appmetrica.yandex.net
 0.0.0.0 rpc-php.trafficfactory.biz
 0.0.0.0 rrtui5f6tpiu7ugumdxrdoqieczlqi3o-c2r.metric.gstatic.com
+0.0.0.0 rtb.com.ru
 0.0.0.0 runative-syndicate.com
 0.0.0.0 ru.fp.kaspersky-labs.com
+0.0.0.0 s.clickiocdn.com
 0.0.0.0 s.pubmine.com
 0.0.0.0 s.skimresources.com
 0.0.0.0 s.yjtag.jp
@@ -314,9 +321,11 @@
 0.0.0.0 sun9-63.userapi.com
 0.0.0.0 sync.bfmio.com
 0.0.0.0 sync.srv.stackadapt.com
+0.0.0.0 sync.dmp.otm-r.com
 0.0.0.0 syndication.traffichaus.com
 0.0.0.0 syndication.twitter.com
 0.0.0.0 s-img.mgid.com
+0.0.0.0 s-static.ak.facebook.com
 0.0.0.0 s.amazon-adsystem.com
 0.0.0.0 t.appsflyer.com
 0.0.0.0 tagan.adlightning.com
@@ -331,6 +340,7 @@
 0.0.0.0 top100-images.rambler.ru
 0.0.0.0 top-fwz1.mail.ru
 0.0.0.0 tpc.googlesyndication.com
+0.0.0.0 track.recreativ.ru
 0.0.0.0 tracking.retailrocket.net
 0.0.0.0 tracking-3-9f58.trnox.com
 0.0.0.0 tsfe.trafficshaping.dsp.mp.microsoft.com
