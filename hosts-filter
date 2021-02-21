@@ -1,5 +1,6 @@
 0.0.0.0 0opudicsekraihvb1bjb6yllfnd6m1612635724.nuid.imrworldwide.com
 0.0.0.0 3wnp9.ru
+0.0.0.0 4crwatnnvikekdce1c89sveqasdae1613850334.nuid.imrworldwide.com
 0.0.0.0 194-vvc-221.mktoresp.com
 0.0.0.0 289310.selcdn.ru
 0.0.0.0 5922505.fls.doubleclick.net
@@ -18,6 +19,7 @@
 0.0.0.0 ad.adriver.ru
 0.0.0.0 ad.doubleclick.net
 0.0.0.0 ad.mail.ru
+0.0.0.0 adashx4ae.ut.taobao.com
 0.0.0.0 ade.clmbtech.com
 0.0.0.0 ade.googlesyndication.com
 0.0.0.0 adfox-c2s-ams.creativecdn.com
@@ -49,6 +51,7 @@
 0.0.0.0 apex.go.sonobi.com
 0.0.0.0 api.amplitude.com
 0.0.0.0 api.facebook.com
+0.0.0.0 api.mixpanel.com
 0.0.0.0 api.rlcdn.com
 0.0.0.0 api.smbeat.jp
 0.0.0.0 api-pnote.noahapps.jp
@@ -129,6 +132,7 @@
 0.0.0.0 c.amazon-adsystem.com
 0.0.0.0 d7.c4.b5.a1.top.list.ru
 0.0.0.0 de83112b7fdc8c8ca3ca8e3f9ee150d2.safeframe.googlesyndication.com
+0.0.0.0 decide.mixpanel.com
 0.0.0.0 displaycatalog.mp.microsoft.com
 0.0.0.0 dmx.districtm.io
 0.0.0.0 dns.msftncsi.com
@@ -137,6 +141,7 @@
 0.0.0.0 eb2.3lift.com
 0.0.0.0 ecommerce.iap.unity3d.com
 0.0.0.0 edge.quantserve.com
+0.0.0.0 edge-mqtt.facebook.com
 0.0.0.0 eus.rubiconproject.com
 0.0.0.0 events.appsflyer.com
 0.0.0.0 events.redditmedia.com
@@ -151,6 +156,7 @@
 0.0.0.0 firefox.settings.services.mozilla.com
 0.0.0.0 footprints-pa.googleapis.com
 0.0.0.0 fp.msedge.net
+0.0.0.0 g.whatsapp.net
 0.0.0.0 g2.gumgum.com
 0.0.0.0 gads.pubmatic.com
 0.0.0.0 games.mail.ru
@@ -202,6 +208,7 @@
 0.0.0.0 m.mixadvert.com
 0.0.0.0 m1.nsimg.net
 0.0.0.0 m2.nsimg.net
+0.0.0.0 macblurayplayer.com
 0.0.0.0 main.exoclick.com
 0.0.0.0 main.realsrv.com
 0.0.0.0 maps.windows.com
@@ -249,6 +256,7 @@
 0.0.0.0 prebid-server.rubiconproject.com
 0.0.0.0 prebid.a-mo.net
 0.0.0.0 prime.rambler.ru
+0.0.0.0 privatestats.whatsapp.net
 0.0.0.0 public.servenobid.com
 0.0.0.0 px.adhigh.net
 0.0.0.0 px.ads.linkedin.com
@@ -285,10 +293,12 @@
 0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 secure-dcr.imrworldwide.com
 0.0.0.0 seg.ad.gt
+0.0.0.0 self.events.data.microsoft.com
 0.0.0.0 servicer.mgid.com
 0.0.0.0 settings.crashlytics.com
 0.0.0.0 settings-win.data.microsoft.com
 0.0.0.0 shavar.services.mozilla.com
+0.0.0.0 sitefinity-insight.azureedge.net
 0.0.0.0 skslm.swiftkey.net
 0.0.0.0 snopes-d.openx.net
 0.0.0.0 srv.buysellads.com
@@ -306,6 +316,7 @@
 0.0.0.0 static.doubleclick.net
 0.0.0.0 static.hotjar.com
 0.0.0.0 static.smi2.net
+0.0.0.0 static.whatsapp.net
 0.0.0.0 static2.smi2.net
 0.0.0.0 static8.smi2.net
 0.0.0.0 stats.g.doubleclick.net
@@ -324,6 +335,7 @@
 0.0.0.0 sync.dmp.otm-r.com
 0.0.0.0 syndication.traffichaus.com
 0.0.0.0 syndication.twitter.com
+0.0.0.0 s-bid.rmp.rakuten.com
 0.0.0.0 s-img.mgid.com
 0.0.0.0 s-static.ak.facebook.com
 0.0.0.0 s.amazon-adsystem.com
@@ -382,4 +394,5 @@
 0.0.0.0 x.bidswitch.net
 0.0.0.0 yhb.p.otm-r.com
 0.0.0.0 yummy.drom.ru
+0.0.0.0 zen.yandex.ru
 0.0.0.0 zoomdecorate.rambler.ru
