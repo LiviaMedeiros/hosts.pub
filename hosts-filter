@@ -52,12 +52,14 @@
 0.0.0.0 ap.lijit.com
 0.0.0.0 apex.go.sonobi.com
 0.0.0.0 api.amplitude.com
+0.0.0.0 api.demandbase.com
 0.0.0.0 api.facebook.com
 0.0.0.0 api.mixpanel.com
 0.0.0.0 api.rlcdn.com
 0.0.0.0 api.smbeat.jp
 0.0.0.0 api-pnote.noahapps.jp
 0.0.0.0 api-pnote2.noahapps.jp
+0.0.0.0 api.company-target.com
 0.0.0.0 aplhabet.applinzi.com
 0.0.0.0 app.adjust.com
 0.0.0.0 app.link
@@ -67,6 +69,7 @@
 0.0.0.0 as-sec.casalemedia.com
 0.0.0.0 attitude.applinzi.com
 0.0.0.0 attitude.appmeasurements.com
+0.0.0.0 autocomplete.demandbase.com
 0.0.0.0 b.scorecardresearch.com
 0.0.0.0 b2b.ainews.kz
 0.0.0.0 b0305003-cf2bnyrypw4vgsra-c2r-ds.metric.gstatic.com
@@ -90,6 +93,7 @@
 0.0.0.0 c2shb.ssp.yahoo.com
 0.0.0.0 cas.criteo.com
 0.0.0.0 cdn.bizible.com
+0.0.0.0 cdn.connect.mail.ru
 0.0.0.0 cdn.directadvert.ru
 0.0.0.0 cdn.districtm.ca
 0.0.0.0 cdn.iframe.ly
@@ -140,6 +144,7 @@
 0.0.0.0 displaycatalog.mp.microsoft.com
 0.0.0.0 dmx.districtm.io
 0.0.0.0 dns.msftncsi.com
+0.0.0.0 dpm.demdex.net
 0.0.0.0 eas.outlook.com
 0.0.0.0 eb.bluestacks.com
 0.0.0.0 eb2.3lift.com
@@ -193,6 +198,7 @@
 0.0.0.0 ib.3lift.com
 0.0.0.0 id.rambler.ru
 0.0.0.0 image6.pubmatic.com
+0.0.0.0 img.en25.com
 0.0.0.0 impossibleexpansion.com
 0.0.0.0 in.appcenter.ms
 0.0.0.0 in.treasuredata.com
@@ -312,6 +318,7 @@
 0.0.0.0 skslm.swiftkey.net
 0.0.0.0 snopes-d.openx.net
 0.0.0.0 srv.buysellads.com
+0.0.0.0 srv.carbonads.net
 0.0.0.0 ssc-cms.33across.com
 0.0.0.0 ssc.33across.com
 0.0.0.0 sslwidget.criteo.com
@@ -321,6 +328,7 @@
 0.0.0.0 st.top100.ru
 0.0.0.0 startup.mobile.webvisor.com
 0.0.0.0 startup.mobile.yandex.net
+0.0.0.0 static.addtoany.com
 0.0.0.0 static.cloudflareinsights.com
 0.0.0.0 static.criteo.net
 0.0.0.0 static.doubleclick.net
