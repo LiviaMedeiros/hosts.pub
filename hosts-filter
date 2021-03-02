@@ -153,6 +153,7 @@
 0.0.0.0 edge.quantserve.com
 0.0.0.0 edge-mqtt.facebook.com
 0.0.0.0 eus.rubiconproject.com
+0.0.0.0 eu-u.openx.net
 0.0.0.0 events.appsflyer.com
 0.0.0.0 events.redditmedia.com
 0.0.0.0 evt.mxplay.com
@@ -270,6 +271,7 @@
 0.0.0.0 prebid-eu.creativecdn.com
 0.0.0.0 prebid-server.rubiconproject.com
 0.0.0.0 prebid.a-mo.net
+0.0.0.0 prg.smartadserver.com
 0.0.0.0 prime.rambler.ru
 0.0.0.0 privatestats.whatsapp.net
 0.0.0.0 public.servenobid.com
@@ -316,6 +318,7 @@
 0.0.0.0 settings.crashlytics.com
 0.0.0.0 settings-win.data.microsoft.com
 0.0.0.0 shavar.services.mozilla.com
+0.0.0.0 simpleanalytics.io
 0.0.0.0 sitefinity-insight.azureedge.net
 0.0.0.0 skslm.swiftkey.net
 0.0.0.0 snopes-d.openx.net
@@ -415,6 +418,7 @@
 0.0.0.0 www.tns-counter.ru
 0.0.0.0 x.bidswitch.net
 0.0.0.0 yhb.p.otm-r.com
+0.0.0.0 yieldlove-d.openx.net
 0.0.0.0 yummy.drom.ru
 0.0.0.0 zen.yandex.ru
 0.0.0.0 zoomdecorate.rambler.ru
