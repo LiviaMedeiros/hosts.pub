@@ -108,6 +108,7 @@
 0.0.0.0 cdn.optimizely.com
 0.0.0.0 cdn.retailrocket.net
 0.0.0.0 cdn.segment.io
+0.0.0.0 cdn.viglink.com
 0.0.0.0 cdn01.nativeroll.tv
 0.0.0.0 cdn-bgp.bluestacks.com
 0.0.0.0 cdn-gl.imrworldwide.com
@@ -149,6 +150,7 @@
 0.0.0.0 dmx.districtm.io
 0.0.0.0 dns.msftncsi.com
 0.0.0.0 dpm.demdex.net
+0.0.0.0 eaf2c06282c5188e6602eca6adba3328.safeframe.googlesyndication.com
 0.0.0.0 eas.outlook.com
 0.0.0.0 eb.bluestacks.com
 0.0.0.0 eb2.3lift.com
@@ -179,6 +181,7 @@
 0.0.0.0 geo.prod.do.dsp.mp.microsoft.com
 0.0.0.0 geolocation.onetrust.com
 0.0.0.0 geover.prod.do.dsp.mp.microsoft.com
+0.0.0.0 glitter.services.disqus.com
 0.0.0.0 go.microsoft.com
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 google-analytics.com
@@ -215,6 +218,7 @@
 0.0.0.0 kraken.rambler.ru
 0.0.0.0 krk.kargo.com
 0.0.0.0 launcherus.yeshen.com
+0.0.0.0 links.services.disqus.com
 0.0.0.0 loadus.exelator.com
 0.0.0.0 location.services.mozilla.com
 0.0.0.0 login.live.com
@@ -290,6 +294,7 @@
 0.0.0.0 reachms.bfmio.com
 0.0.0.0 recommender.um.rambler.ru
 0.0.0.0 redhat.tt.omtrdc.net
+0.0.0.0 referrer.disqus.com
 0.0.0.0 reign.appmeasurements.com
 0.0.0.0 relap.io
 0.0.0.0 report.appmetrica.yandex.net
@@ -378,6 +383,7 @@
 0.0.0.0 tag.1rx.io
 0.0.0.0 telemetry-in.battle.net
 0.0.0.0 telephonyspamprotect-pa.googleapis.com
+0.0.0.0 tempest.services.disqus.com
 0.0.0.0 thrtle.com
 0.0.0.0 tlx.3lift.com
 0.0.0.0 top.mail.ru
