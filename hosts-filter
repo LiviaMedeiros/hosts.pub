@@ -221,6 +221,7 @@
 0.0.0.0 links.services.disqus.com
 0.0.0.0 loadus.exelator.com
 0.0.0.0 location.services.mozilla.com
+0.0.0.0 log.mmstat.com
 0.0.0.0 login.live.com
 0.0.0.0 loyalty.rambler-co.ru
 0.0.0.0 lptag.liveperson.net
@@ -399,6 +400,7 @@
 0.0.0.0 tsyndicate.com
 0.0.0.0 tt.onthe.io
 0.0.0.0 ttru.onthe.io
+0.0.0.0 tui.taobao.com
 0.0.0.0 u.openx.net
 0.0.0.0 u.startup.mobile.webvisor.com
 0.0.0.0 userapi.com
