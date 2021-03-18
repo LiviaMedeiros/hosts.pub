@@ -69,6 +69,7 @@
 0.0.0.0 app.adjust.com
 0.0.0.0 app.link
 0.0.0.0 app-measurement.com
+0.0.0.0 ar.tns-counter.ru
 0.0.0.0 as.casalemedia.com
 0.0.0.0 ase.clmbtech.com
 0.0.0.0 as-sec.casalemedia.com
@@ -79,6 +80,7 @@
 0.0.0.0 b2b.ainews.kz
 0.0.0.0 b0305003-cf2bnyrypw4vgsra-c2r-ds.metric.gstatic.com
 0.0.0.0 bam.nr-data.net
+0.0.0.0 banners.adfox.ru
 0.0.0.0 beacons.gcp.gvt2.com
 0.0.0.0 beacons.gvt2.com
 0.0.0.0 beacons2.gvt2.com
@@ -88,14 +90,18 @@
 0.0.0.0 bh.contextweb.com
 0.0.0.0 bi.yeshen.com
 0.0.0.0 bidder.criteo.com
+0.0.0.0 bing.com
 0.0.0.0 brilliant.applinzi.com
+0.0.0.0 browser.pipe.aria.microsoft.com
 0.0.0.0 bs-dante.ru
 0.0.0.0 bs.serving-sys.com
 0.0.0.0 bttrack.com
 0.0.0.0 c.aaxads.com
 0.0.0.0 c.bigmir.net
+0.0.0.0 c.bing.com
 0.0.0.0 c.deployads.com
 0.0.0.0 c.evidon.com
+0.0.0.0 c.msn.com
 0.0.0.0 c.rambler.ru
 0.0.0.0 c2shb.ssp.yahoo.com
 0.0.0.0 cas.criteo.com
@@ -116,6 +122,7 @@
 0.0.0.0 cdn.viglink.com
 0.0.0.0 cdn01.nativeroll.tv
 0.0.0.0 cdn-bgp.bluestacks.com
+0.0.0.0 cdn-comments.rambler.ru
 0.0.0.0 cdn-gl.imrworldwide.com
 0.0.0.0 cdn.x-lift.jp
 0.0.0.0 cdp.cloud.unity3d.com
@@ -193,6 +200,7 @@
 0.0.0.0 google-analytics.com
 0.0.0.0 graph.facebook.com
 0.0.0.0 green.erne.co
+0.0.0.0 grid.bidswitch.net
 0.0.0.0 growth-pa.googleapis.com
 0.0.0.0 gum.criteo.com
 0.0.0.0 hb.nexage.com
@@ -211,6 +219,7 @@
 0.0.0.0 ib.adnxs.com
 0.0.0.0 ib.3lift.com
 0.0.0.0 id.rambler.ru
+0.0.0.0 iecvlist.microsoft.com
 0.0.0.0 image6.pubmatic.com
 0.0.0.0 img.en25.com
 0.0.0.0 impossibleexpansion.com
@@ -268,6 +277,7 @@
 0.0.0.0 onecs-live.azureedge.net
 0.0.0.0 onesignal.com
 0.0.0.0 ontetag-sys.com
+0.0.0.0 otf.msn.com
 0.0.0.0 otm-r.com
 0.0.0.0 p.cityadstrack.com
 0.0.0.0 pagead2.googlesyndication.com
@@ -294,6 +304,7 @@
 0.0.0.0 prg.smartadserver.com
 0.0.0.0 prime.rambler.ru
 0.0.0.0 privatestats.whatsapp.net
+0.0.0.0 profile.ssp.rambler.ru
 0.0.0.0 public.servenobid.com
 0.0.0.0 px.adhigh.net
 0.0.0.0 px.ads.linkedin.com
@@ -313,6 +324,7 @@
 0.0.0.0 rosenberg.appmetrica.yandex.net
 0.0.0.0 rpc-php.trafficfactory.biz
 0.0.0.0 rrtui5f6tpiu7ugumdxrdoqieczlqi3o-c2r.metric.gstatic.com
+0.0.0.0 rtax.criteo.com
 0.0.0.0 rtb.com.ru
 0.0.0.0 rules.quantcount.com
 0.0.0.0 runative-syndicate.com
@@ -328,6 +340,7 @@
 0.0.0.0 safebrowsing.googleapis.com
 0.0.0.0 sb.scorecardresearch.com
 0.0.0.0 screenrant.com
+0.0.0.0 script.hotjar.com
 0.0.0.0 script.ioam.de
 0.0.0.0 scripts.mediavine.com
 0.0.0.0 sdk.privacy-center.org
@@ -403,6 +416,7 @@
 0.0.0.0 tags-cdn.deployads.com
 0.0.0.0 tag.1rx.io
 0.0.0.0 target.smi2.net
+0.0.0.0 tbcdnwidgetsprod.azureedge.net
 0.0.0.0 telemetry-in.battle.net
 0.0.0.0 telephonyspamprotect-pa.googleapis.com
 0.0.0.0 tempest.services.disqus.com
