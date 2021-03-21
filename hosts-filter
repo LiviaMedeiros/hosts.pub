@@ -53,6 +53,7 @@
 0.0.0.0 ampcid.google.com
 0.0.0.0 an.yandex.ru
 0.0.0.0 analytics.archive.org
+0.0.0.0 analytics.app-adforce.jp
 0.0.0.0 analytics.dns-shop.ru
 0.0.0.0 ap.lijit.com
 0.0.0.0 apex.go.sonobi.com
@@ -68,6 +69,7 @@
 0.0.0.0 aplhabet.applinzi.com
 0.0.0.0 app.adjust.com
 0.0.0.0 app.link
+0.0.0.0 app-adforce.jp
 0.0.0.0 app-measurement.com
 0.0.0.0 ar.tns-counter.ru
 0.0.0.0 as.casalemedia.com
@@ -125,6 +127,7 @@
 0.0.0.0 cdn-bgp.bluestacks.com
 0.0.0.0 cdn-comments.rambler.ru
 0.0.0.0 cdn-gl.imrworldwide.com
+0.0.0.0 cdn-images-1.medium.com
 0.0.0.0 cdn.x-lift.jp
 0.0.0.0 cdp.cloud.unity3d.com
 0.0.0.0 certify.alexametrics.com
@@ -264,6 +267,7 @@
 0.0.0.0 media.trafficjunky.net
 0.0.0.0 medium.com
 0.0.0.0 minidumps.smbeat.jp
+0.0.0.0 miro.medium.com
 0.0.0.0 mixture.applinzi.com
 0.0.0.0 mobile.yandexadexchange.net
 0.0.0.0 moevideo-sync.rutarget.ru
