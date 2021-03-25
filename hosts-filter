@@ -20,6 +20,7 @@
 0.0.0.0 a.realsrv.com
 0.0.0.0 a.teads.tv
 0.0.0.0 aax.amazon-adsystem.com
+0.0.0.0 aa.online-metrix.net
 0.0.0.0 abort-count.smbeat.jp
 0.0.0.0 acdn.adnxs.com
 0.0.0.0 ad.adriver.ru
@@ -76,10 +77,12 @@
 0.0.0.0 as.casalemedia.com
 0.0.0.0 ase.clmbtech.com
 0.0.0.0 as-sec.casalemedia.com
+0.0.0.0 at.cbsi.com
 0.0.0.0 attitude.applinzi.com
 0.0.0.0 attitude.appmeasurements.com
 0.0.0.0 autocomplete.demandbase.com
 0.0.0.0 b.scorecardresearch.com
+0.0.0.0 b.stats.paypal.com
 0.0.0.0 b2b.ainews.kz
 0.0.0.0 b0305003-cf2bnyrypw4vgsra-c2r-ds.metric.gstatic.com
 0.0.0.0 bam.nr-data.net
@@ -158,6 +161,7 @@
 0.0.0.0 counter.yadro.ru
 0.0.0.0 crbcdn.jsfiddle.net
 0.0.0.0 crl.globalsign.net
+0.0.0.0 cs.ns1p.net
 0.0.0.0 csharpcorner.azureedge.net
 0.0.0.0 csi.gstatic.com
 0.0.0.0 csm.fr.eu.criteo.net
@@ -165,6 +169,7 @@
 0.0.0.0 currency.prebid.org
 0.0.0.0 customer.api.drift.com
 0.0.0.0 c.amazon-adsystem.com
+0.0.0.0 c.go-mpulse.net
 0.0.0.0 d7.c4.b5.a1.top.list.ru
 0.0.0.0 data16.adlooxtracking.com
 0.0.0.0 de83112b7fdc8c8ca3ca8e3f9ee150d2.safeframe.googlesyndication.com
@@ -181,6 +186,7 @@
 0.0.0.0 edge.quantserve.com
 0.0.0.0 edge-mqtt.facebook.com
 0.0.0.0 eus.rubiconproject.com
+0.0.0.0 eu-aa.online-metrix.net
 0.0.0.0 eu-u.openx.net
 0.0.0.0 event.api.drift.com
 0.0.0.0 events.appsflyer.com
@@ -206,6 +212,7 @@
 0.0.0.0 geolocation.onetrust.com
 0.0.0.0 geover.prod.do.dsp.mp.microsoft.com
 0.0.0.0 glitter.services.disqus.com
+0.0.0.0 global.proper.io
 0.0.0.0 go.microsoft.com
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 google-analytics.com
@@ -225,16 +232,20 @@
 0.0.0.0 htlb.casalemedia.com
 0.0.0.0 hw-cdn2.adtng.com
 0.0.0.0 hw-cdn2.trafficjunky.net
+0.0.0.0 h.online-metrix.net
 0.0.0.0 i.clean.gg
 0.0.0.0 i.mxplayer.j2inter.com
+0.0.0.0 i2ad.jp
 0.0.0.0 ib.adnxs.com
 0.0.0.0 ib.3lift.com
 0.0.0.0 id.rambler.ru
 0.0.0.0 idm-d.openx.net
+0.0.0.0 idx.liadm.com
 0.0.0.0 iecvlist.microsoft.com
 0.0.0.0 image6.pubmatic.com
 0.0.0.0 img.en25.com
 0.0.0.0 impossibleexpansion.com
+0.0.0.0 imp-adedge.i-mobile.co.jp
 0.0.0.0 in.appcenter.ms
 0.0.0.0 in.treasuredata.com
 0.0.0.0 informer.yandex.ru
@@ -266,6 +277,7 @@
 0.0.0.0 main.exoclick.com
 0.0.0.0 main.realsrv.com
 0.0.0.0 maps.windows.com
+0.0.0.0 match.adsrvr.org
 0.0.0.0 match.prod.bidr.io
 0.0.0.0 matchid.adfox.yandex.ru
 0.0.0.0 matching.mobilebanner.ru
@@ -276,6 +288,7 @@
 0.0.0.0 medium.com
 0.0.0.0 messaging.api.drift.com
 0.0.0.0 microsoftmscompoc.tt.omtrdc.net
+0.0.0.0 mid.rkdms.com
 0.0.0.0 minidumps.smbeat.jp
 0.0.0.0 miro.medium.com
 0.0.0.0 mixture.applinzi.com
@@ -369,6 +382,7 @@
 0.0.0.0 securemetrics.apple.com
 0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 secure-dcr.imrworldwide.com
+0.0.0.0 secure-us.imrworldwide.com
 0.0.0.0 seg.ad.gt
 0.0.0.0 segments.company-target.com
 0.0.0.0 self.events.data.microsoft.com
@@ -381,6 +395,7 @@
 0.0.0.0 sitefinity-insight.azureedge.net
 0.0.0.0 skslm.swiftkey.net
 0.0.0.0 snopes-d.openx.net
+0.0.0.0 spad.i-mobile.co.jp
 0.0.0.0 srtb.msn.com
 0.0.0.0 srv.buysellads.com
 0.0.0.0 srv.carbonads.net
@@ -401,6 +416,7 @@
 0.0.0.0 static.criteo.net
 0.0.0.0 static.doubleclick.net
 0.0.0.0 static.hotjar.com
+0.0.0.0 static.scroll.com
 0.0.0.0 static.smi2.net
 0.0.0.0 static.whatsapp.net
 0.0.0.0 static1.smi2.net
@@ -465,6 +481,7 @@
 0.0.0.0 u.startup.mobile.webvisor.com
 0.0.0.0 userapi.com
 0.0.0.0 userlocation.googleapis.com
+0.0.0.0 usllpic0ehftly7ucsqusa7x254prmdm4xoxkikac640d8ec5ab21494am1.e.aa.online-metrix.net
 0.0.0.0 utarget.ru
 0.0.0.0 v10.events.data.microsoft.com
 0.0.0.0 vitals.vercel-insights.com
@@ -491,6 +508,7 @@
 0.0.0.0 www.googletagservices.com
 0.0.0.0 www.msftconnecttest.com
 0.0.0.0 www.snopes.com
+0.0.0.0 www.summerhamster.com
 0.0.0.0 www.taiwannews.com.tw
 0.0.0.0 www.fastly-insights.com
 0.0.0.0 www.google-analytics.com
@@ -500,4 +518,5 @@
 0.0.0.0 yieldlove-d.openx.net
 0.0.0.0 yummy.drom.ru
 0.0.0.0 zen.yandex.ru
+0.0.0.0 zn5grs3028zvpg0rh-redventures.siteintercept.qualtrics.com
 0.0.0.0 zoomdecorate.rambler.ru
