@@ -62,6 +62,7 @@
 0.0.0.0 api.demandbase.com
 0.0.0.0 api.facebook.com
 0.0.0.0 api.mixpanel.com
+0.0.0.0 api.popin.cc
 0.0.0.0 api.rlcdn.com
 0.0.0.0 api.segment.io
 0.0.0.0 api.smbeat.jp
@@ -234,6 +235,7 @@
 0.0.0.0 hw-cdn2.adtng.com
 0.0.0.0 hw-cdn2.trafficjunky.net
 0.0.0.0 h.online-metrix.net
+0.0.0.0 i.bongacash.com
 0.0.0.0 i.clean.gg
 0.0.0.0 i.mxplayer.j2inter.com
 0.0.0.0 i2ad.jp
@@ -245,6 +247,7 @@
 0.0.0.0 iecvlist.microsoft.com
 0.0.0.0 image6.pubmatic.com
 0.0.0.0 img.en25.com
+0.0.0.0 img.ak.impact-ad.jp
 0.0.0.0 impossibleexpansion.com
 0.0.0.0 imp-adedge.i-mobile.co.jp
 0.0.0.0 in.appcenter.ms
@@ -256,6 +259,7 @@
 0.0.0.0 js-agent.newrelic.com
 0.0.0.0 js-sec.indexww.com
 0.0.0.0 js.hs-analytics.net
+0.0.0.0 js.hs-scripts.com
 0.0.0.0 kraken.rambler.ru
 0.0.0.0 krk.kargo.com
 0.0.0.0 launcherus.yeshen.com
@@ -395,6 +399,7 @@
 0.0.0.0 simpleanalytics.io
 0.0.0.0 sitefinity-insight.azureedge.net
 0.0.0.0 skslm.swiftkey.net
+0.0.0.0 snap.licdn.com
 0.0.0.0 snopes-d.openx.net
 0.0.0.0 spad.i-mobile.co.jp
 0.0.0.0 srtb.msn.com
@@ -428,6 +433,7 @@
 0.0.0.0 static7.smi2.net
 0.0.0.0 static8.smi2.net
 0.0.0.0 staticxx.facebook.com
+0.0.0.0 static.ads-twitter.com
 0.0.0.0 stats.g.doubleclick.net
 0.0.0.0 stats.wp.com
 0.0.0.0 storage.cloud.kargo.com
@@ -480,6 +486,7 @@
 0.0.0.0 twitterinc.tt.omtrdc.net
 0.0.0.0 u.openx.net
 0.0.0.0 u.startup.mobile.webvisor.com
+0.0.0.0 uh.nakanohito.jp
 0.0.0.0 userapi.com
 0.0.0.0 userlocation.googleapis.com
 0.0.0.0 usllpic0ehftly7ucsqusa7x254prmdm4xoxkikac640d8ec5ab21494am1.e.aa.online-metrix.net
