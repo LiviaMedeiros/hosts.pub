@@ -194,6 +194,7 @@
 0.0.0.0 ecommerce.iap.unity3d.com
 0.0.0.0 edge.quantserve.com
 0.0.0.0 edge-mqtt.facebook.com
+0.0.0.0 etahub.com
 0.0.0.0 eus.rubiconproject.com
 0.0.0.0 eu-aa.online-metrix.net
 0.0.0.0 eu-u.openx.net
@@ -240,6 +241,9 @@
 0.0.0.0 health.appmeasurements.com
 0.0.0.0 hm.baidu.com
 0.0.0.0 htlb.casalemedia.com
+0.0.0.0 ht-cdn.trafficjunky.net
+0.0.0.0 ht-cdn2.adtng.com
+0.0.0.0 hw-cdn.trafficjunky.net
 0.0.0.0 hw-cdn2.adtng.com
 0.0.0.0 hw-cdn2.trafficjunky.net
 0.0.0.0 h.online-metrix.net
