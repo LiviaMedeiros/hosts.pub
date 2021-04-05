@@ -187,6 +187,8 @@
 0.0.0.0 de83112b7fdc8c8ca3ca8e3f9ee150d2.safeframe.googlesyndication.com
 0.0.0.0 decide.mixpanel.com
 0.0.0.0 displaycatalog.mp.microsoft.com
+0.0.0.0 dm.hybrid.ai
+0.0.0.0 dmg.digitaltarget.ru
 0.0.0.0 dmx.districtm.io
 0.0.0.0 dns.msftncsi.com
 0.0.0.0 dpm.demdex.net
@@ -366,7 +368,9 @@
 0.0.0.0 prime.rambler.ru
 0.0.0.0 privatestats.whatsapp.net
 0.0.0.0 profile.ssp.rambler.ru
+0.0.0.0 ps.ntvk1.ru
 0.0.0.0 public.servenobid.com
+0.0.0.0 pub-eu.p.otm-r.com
 0.0.0.0 px.adhigh.net
 0.0.0.0 px.ads.linkedin.com
 0.0.0.0 quantcast.mgr.consensu.org
@@ -399,6 +403,7 @@
 0.0.0.0 s3.buysellads.com
 0.0.0.0 s7.addthis.com
 0.0.0.0 safebrowsing.googleapis.com
+0.0.0.0 sape-sync.rutarget.ru
 0.0.0.0 sb.scorecardresearch.com
 0.0.0.0 screenrant.com
 0.0.0.0 script.hotjar.com
@@ -432,6 +437,7 @@
 0.0.0.0 ssc.33across.com
 0.0.0.0 sslwidget.criteo.com
 0.0.0.0 ssl.google-analytics.com
+0.0.0.0 ssp.adriver.ru
 0.0.0.0 ssp.rambler.ru
 0.0.0.0 ssp.otm-r.com
 0.0.0.0 ssum-sec.casalemedia.com
@@ -439,6 +445,7 @@
 0.0.0.0 st4-11.vk.com
 0.0.0.0 startup.mobile.webvisor.com
 0.0.0.0 startup.mobile.yandex.net
+0.0.0.0 stat.adlabs.ru
 0.0.0.0 stat.media
 0.0.0.0 static.addtoany.com
 0.0.0.0 static.cloudflareinsights.com
@@ -472,7 +479,9 @@
 0.0.0.0 sun9-63.userapi.com
 0.0.0.0 sun9-64.userapi.com
 0.0.0.0 sync.bfmio.com
+0.0.0.0 sync.republer.com
 0.0.0.0 sync.srv.stackadapt.com
+0.0.0.0 sync3.adsniper.ru
 0.0.0.0 sync.dmp.otm-r.com
 0.0.0.0 syndication.traffichaus.com
 0.0.0.0 syndication.twitter.com
@@ -481,6 +490,7 @@
 0.0.0.0 s-static.ak.facebook.com
 0.0.0.0 s.amazon-adsystem.com
 0.0.0.0 t.appsflyer.com
+0.0.0.0 tag.digitaltarget.ru
 0.0.0.0 tagan.adlightning.com
 0.0.0.0 tags.bkrtx.com
 0.0.0.0 tags.bluekai.com
@@ -531,6 +541,7 @@
 0.0.0.0 watson.telemetry.microsoft.com
 0.0.0.0 wcm.solution.weborama.fr
 0.0.0.0 web.hb.ad.cpe.dotomi.com
+0.0.0.0 wf.frontend.weborama.fr
 0.0.0.0 widget.svk-native.ru
 0.0.0.0 wikia-d.openx.net
 0.0.0.0 www.bandisoft.com
