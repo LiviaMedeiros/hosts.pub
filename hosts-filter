@@ -49,6 +49,7 @@
 0.0.0.0 adservice.google.ru
 0.0.0.0 ads-api.twitter.com
 0.0.0.0 adviser.bs-dante.ru
+0.0.0.0 ad-cdn.technoratimedia.com
 0.0.0.0 ad-eu.p.otm-r.com
 0.0.0.0 ad.3dnews.ru
 0.0.0.0 aliradar.com
@@ -104,6 +105,7 @@
 0.0.0.0 bh.contextweb.com
 0.0.0.0 bi.yeshen.com
 0.0.0.0 bidder.criteo.com
+0.0.0.0 biddr.brealtime.com
 0.0.0.0 bing.com
 0.0.0.0 brilliant.applinzi.com
 0.0.0.0 browser.pipe.aria.microsoft.com
@@ -125,6 +127,7 @@
 0.0.0.0 cdn.consentmanager.mgr.consensu.org
 0.0.0.0 cdn.directadvert.ru
 0.0.0.0 cdn.districtm.ca
+0.0.0.0 cdn.districtm.io
 0.0.0.0 cdn.iframe.ly
 0.0.0.0 cdn.iubenda.com
 0.0.0.0 cdn.izooto.com
@@ -199,6 +202,7 @@
 0.0.0.0 ecommerce.iap.unity3d.com
 0.0.0.0 edge.quantserve.com
 0.0.0.0 edge-mqtt.facebook.com
+0.0.0.0 entitlements.jwplayer.com
 0.0.0.0 etahub.com
 0.0.0.0 eus.rubiconproject.com
 0.0.0.0 eu-aa.online-metrix.net
@@ -238,6 +242,7 @@
 0.0.0.0 grid.bidswitch.net
 0.0.0.0 growth-pa.googleapis.com
 0.0.0.0 gum.criteo.com
+0.0.0.0 hb.emxdgt.com
 0.0.0.0 hb.nexage.com
 0.0.0.0 hb.undertone.com
 0.0.0.0 hbe199.hybrid.ai
@@ -359,6 +364,7 @@
 0.0.0.0 player.adtelligent.com
 0.0.0.0 postback.applinzi.com
 0.0.0.0 pp.userapi.com
+0.0.0.0 prd.jwpltx.com
 0.0.0.0 prebid.media.net
 0.0.0.0 prebid-eu.creativecdn.com
 0.0.0.0 prebid-server.rubiconproject.com
@@ -368,6 +374,7 @@
 0.0.0.0 prime.rambler.ru
 0.0.0.0 privatestats.whatsapp.net
 0.0.0.0 profile.ssp.rambler.ru
+0.0.0.0 pr-bh.ybp.yahoo.com
 0.0.0.0 ps.ntvk1.ru
 0.0.0.0 public.servenobid.com
 0.0.0.0 pub-eu.p.otm-r.com
@@ -482,6 +489,7 @@
 0.0.0.0 sync.republer.com
 0.0.0.0 sync.srv.stackadapt.com
 0.0.0.0 sync3.adsniper.ru
+0.0.0.0 sync-tm.everesttech.net
 0.0.0.0 sync.dmp.otm-r.com
 0.0.0.0 syndication.traffichaus.com
 0.0.0.0 syndication.twitter.com
@@ -564,6 +572,7 @@
 0.0.0.0 yhb.p.otm-r.com
 0.0.0.0 yieldlove-d.openx.net
 0.0.0.0 yummy.drom.ru
+0.0.0.0 z.moatads.com
 0.0.0.0 zen.yandex.ru
 0.0.0.0 zn5grs3028zvpg0rh-redventures.siteintercept.qualtrics.com
 0.0.0.0 zoomdecorate.rambler.ru
