@@ -141,6 +141,7 @@
 0.0.0.0 cdn.retailrocket.net
 0.0.0.0 cdn.segment.io
 0.0.0.0 cdn.speedcurve.com
+0.0.0.0 cdn.switchadhub.com
 0.0.0.0 cdn.viglink.com
 0.0.0.0 cdn01.nativeroll.tv
 0.0.0.0 cdn-bgp.bluestacks.com
@@ -191,6 +192,8 @@
 0.0.0.0 dc1.ksn.kaspersky-labs.com
 0.0.0.0 de83112b7fdc8c8ca3ca8e3f9ee150d2.safeframe.googlesyndication.com
 0.0.0.0 decide.mixpanel.com
+0.0.0.0 delivery.g.switchadhub.com
+0.0.0.0 delivery.swid.switchadhub.com
 0.0.0.0 displaycatalog.mp.microsoft.com
 0.0.0.0 dm.hybrid.ai
 0.0.0.0 dmg.digitaltarget.ru
