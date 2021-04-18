@@ -71,6 +71,7 @@
 0.0.0.0 api.rlcdn.com
 0.0.0.0 api.segment.io
 0.0.0.0 api.smbeat.jp
+0.0.0.0 api2.branch.io
 0.0.0.0 api-pnote.noahapps.jp
 0.0.0.0 api-pnote2.noahapps.jp
 0.0.0.0 api.company-target.com
@@ -124,6 +125,7 @@
 0.0.0.0 cas.criteo.com
 0.0.0.0 cc.swiftype.com
 0.0.0.0 cdn.bizible.com
+0.0.0.0 cdn.carbonads.com
 0.0.0.0 cdn.connect.mail.ru
 0.0.0.0 cdn.consentmanager.mgr.consensu.org
 0.0.0.0 cdn.directadvert.ru
@@ -139,6 +141,7 @@
 0.0.0.0 cdn.onthe.io
 0.0.0.0 cdn.optimizely.com
 0.0.0.0 cdn.retailrocket.net
+0.0.0.0 cdn.segment.com
 0.0.0.0 cdn.segment.io
 0.0.0.0 cdn.speedcurve.com
 0.0.0.0 cdn.switchadhub.com
@@ -147,6 +150,7 @@
 0.0.0.0 cdn-bgp.bluestacks.com
 0.0.0.0 cdn-client.medium.com
 0.0.0.0 cdn-comments.rambler.ru
+0.0.0.0 cdn-eu.dynamicyield.com
 0.0.0.0 cdn-gl.imrworldwide.com
 0.0.0.0 cdn-images-1.medium.com
 0.0.0.0 cdn.x-lift.jp
@@ -197,6 +201,7 @@
 0.0.0.0 displaycatalog.mp.microsoft.com
 0.0.0.0 dm.hybrid.ai
 0.0.0.0 dmg.digitaltarget.ru
+0.0.0.0 dmp.vihub.ru
 0.0.0.0 dmx.districtm.io
 0.0.0.0 dns.msftncsi.com
 0.0.0.0 dpm.demdex.net
@@ -223,6 +228,7 @@
 0.0.0.0 fastlane-adv.rubiconproject.com
 0.0.0.0 fe3cr.delivery.mp.microsoft.com
 0.0.0.0 firebaseinstallations.googleapis.com
+0.0.0.0 firebaselogging.googleapis.com
 0.0.0.0 firebase-settings.crashlytics.com
 0.0.0.0 firefox.settings.services.mozilla.com
 0.0.0.0 fls-na.amazon.com
@@ -385,6 +391,7 @@
 0.0.0.0 profile.ssp.rambler.ru
 0.0.0.0 pr-bh.ybp.yahoo.com
 0.0.0.0 ps.ntvk1.ru
+0.0.0.0 pubads.g.doubleclick.net
 0.0.0.0 public.servenobid.com
 0.0.0.0 pub-eu.p.otm-r.com
 0.0.0.0 px.adhigh.net
@@ -394,10 +401,12 @@
 0.0.0.0 r.remarketingpixel.com
 0.0.0.0 radar.cedexis.com
 0.0.0.0 rcmjs.um.rambler.ru
+0.0.0.0 rcom-eu.dynamicyield.com
 0.0.0.0 reachms.bfmio.com
 0.0.0.0 recommender.um.rambler.ru
 0.0.0.0 recreativ.ru
 0.0.0.0 redhat.tt.omtrdc.net
+0.0.0.0 redirect.frontend.weborama.fr
 0.0.0.0 referrer.disqus.com
 0.0.0.0 reign.appmeasurements.com
 0.0.0.0 relap.io
@@ -436,6 +445,7 @@
 0.0.0.0 seg.ad.gt
 0.0.0.0 segments.company-target.com
 0.0.0.0 self.events.data.microsoft.com
+0.0.0.0 servicer.lentainform.com
 0.0.0.0 servicer.mgid.com
 0.0.0.0 sessions.bugsnag.com
 0.0.0.0 settings.crashlytics.com
@@ -486,8 +496,10 @@
 0.0.0.0 storage.cloud.kargo.com
 0.0.0.0 stup5.appmeasurements.com
 0.0.0.0 stup7.appmeasurements.com
+0.0.0.0 st-eu.dynamicyield.com
 0.0.0.0 sun1-15.userapi.com
 0.0.0.0 sun1-19.userapi.com
+0.0.0.0 sun1-86.userapi.com
 0.0.0.0 sun1-93.userapi.com
 0.0.0.0 sun9-31.userapi.com
 0.0.0.0 sun9-42.userapi.com
@@ -498,12 +510,14 @@
 0.0.0.0 sync.bfmio.com
 0.0.0.0 sync.republer.com
 0.0.0.0 sync.srv.stackadapt.com
+0.0.0.0 sync.upravel.com
 0.0.0.0 sync3.adsniper.ru
 0.0.0.0 sync-tm.everesttech.net
 0.0.0.0 sync.dmp.otm-r.com
 0.0.0.0 syndication.traffichaus.com
 0.0.0.0 syndication.twitter.com
 0.0.0.0 s-bid.rmp.rakuten.com
+0.0.0.0 s-img.lentainform.com
 0.0.0.0 s-img.mgid.com
 0.0.0.0 s-static.ak.facebook.com
 0.0.0.0 s.amazon-adsystem.com
@@ -524,6 +538,7 @@
 0.0.0.0 tempest.services.disqus.com
 0.0.0.0 thrtle.com
 0.0.0.0 tlx.3lift.com
+0.0.0.0 tns-counter.ru
 0.0.0.0 top.mail.ru
 0.0.0.0 top100.rambler.ru
 0.0.0.0 top100-images.rambler.ru
@@ -548,6 +563,7 @@
 0.0.0.0 usllpic0ehftly7ucsqusa7x254prmdm4xoxkikac640d8ec5ab21494am1.e.aa.online-metrix.net
 0.0.0.0 utarget.ru
 0.0.0.0 v10.events.data.microsoft.com
+0.0.0.0 videonow-sync.rutarget.ru
 0.0.0.0 vitals.vercel-insights.com
 0.0.0.0 vk.com
 0.0.0.0 vkontakte.ru
