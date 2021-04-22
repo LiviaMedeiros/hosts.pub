@@ -20,11 +20,13 @@
 0.0.0.0 a.optmnstr.com
 0.0.0.0 a.realsrv.com
 0.0.0.0 a.teads.tv
+0.0.0.0 a2446.casalemedia.com
 0.0.0.0 aax.amazon-adsystem.com
 0.0.0.0 aa.online-metrix.net
 0.0.0.0 abort-count.smbeat.jp
 0.0.0.0 acdn.adnxs.com
 0.0.0.0 ad.adriver.ru
+0.0.0.0 ad.atdmt.com
 0.0.0.0 ad.doubleclick.net
 0.0.0.0 ad.mail.ru
 0.0.0.0 adashx4ae.ut.taobao.com
@@ -87,6 +89,7 @@
 0.0.0.0 ar.tns-counter.ru
 0.0.0.0 as.casalemedia.com
 0.0.0.0 ase.clmbtech.com
+0.0.0.0 assets.quantcount.com
 0.0.0.0 as-sec.casalemedia.com
 0.0.0.0 at.cbsi.com
 0.0.0.0 attitude.applinzi.com
@@ -104,6 +107,7 @@
 0.0.0.0 beacons3.gvt2.com
 0.0.0.0 beacons4.gvt2.com
 0.0.0.0 beacons5.gvt3.com
+0.0.0.0 beacon-us-west.rubiconproject.com
 0.0.0.0 beacon.wikia-services.com
 0.0.0.0 bh.contextweb.com
 0.0.0.0 bi.yeshen.com
@@ -114,6 +118,7 @@
 0.0.0.0 browser.pipe.aria.microsoft.com
 0.0.0.0 bs-dante.ru
 0.0.0.0 bs.serving-sys.com
+0.0.0.0 btlr.sharethrough.com
 0.0.0.0 bttrack.com
 0.0.0.0 c.aaxads.com
 0.0.0.0 c.bigmir.net
@@ -122,6 +127,7 @@
 0.0.0.0 c.evidon.com
 0.0.0.0 c.msn.com
 0.0.0.0 c.rambler.ru
+0.0.0.0 c1.adform.net
 0.0.0.0 c2shb.ssp.yahoo.com
 0.0.0.0 cas.criteo.com
 0.0.0.0 cc.swiftype.com
@@ -207,6 +213,7 @@
 0.0.0.0 dmx.districtm.io
 0.0.0.0 dns.msftncsi.com
 0.0.0.0 dpm.demdex.net
+0.0.0.0 e.serverbid.com
 0.0.0.0 eaf2c06282c5188e6602eca6adba3328.safeframe.googlesyndication.com
 0.0.0.0 eas.outlook.com
 0.0.0.0 eb.bluestacks.com
@@ -309,6 +316,7 @@
 0.0.0.0 launcherus.yeshen.com
 0.0.0.0 launches.appsflyer.com
 0.0.0.0 licensebuttons.net
+0.0.0.0 lijit2waycm.netmng.com
 0.0.0.0 likemore-go.imgsmail.ru
 0.0.0.0 links.services.disqus.com
 0.0.0.0 loadus.exelator.com
@@ -352,6 +360,7 @@
 0.0.0.0 mxvp-feature-toggle-prod-1.zenmxapps.com
 0.0.0.0 my.rtmark.net
 0.0.0.0 nep.advangelists.com
+0.0.0.0 node-p1w-eegeiw.sitescout.com
 0.0.0.0 nvda.d2.sc.omtrdc.net
 0.0.0.0 nynbmd3m7ah73o53xghgltg6fczlqi3o-c2r.metric.gstatic.com
 0.0.0.0 ocsp.msocsp.com
@@ -362,8 +371,10 @@
 0.0.0.0 otf.msn.com
 0.0.0.0 otm-r.com
 0.0.0.0 p.cityadstrack.com
+0.0.0.0 p.rfihub.com
 0.0.0.0 p5s5k4vc3d2rvcutx7wvwqm53kyda2zm-c2r.metric.gstatic.com
 0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 partner.googleadservices.com
 0.0.0.0 passwordsleakcheck-pa.googleapis.com
 0.0.0.0 pb.adriver.ru
 0.0.0.0 peoplestack-pa.googleapis.com
@@ -431,6 +442,7 @@
 0.0.0.0 s3.buysellads.com
 0.0.0.0 s7.addthis.com
 0.0.0.0 safebrowsing.googleapis.com
+0.0.0.0 samsungcis.tt.omtrdc.net
 0.0.0.0 sape-sync.rutarget.ru
 0.0.0.0 sb.scorecardresearch.com
 0.0.0.0 screenrant.com
@@ -438,10 +450,12 @@
 0.0.0.0 script.ioam.de
 0.0.0.0 scripts.mediavine.com
 0.0.0.0 sdk.privacy-center.org
+0.0.0.0 secure.adnxs.com
 0.0.0.0 secure.quantserve.com
 0.0.0.0 secureads.g.doubleclick.net
 0.0.0.0 securemetrics.apple.com
 0.0.0.0 securepubads.g.doubleclick.net
+0.0.0.0 secure-assets.rubiconproject.com
 0.0.0.0 secure-dcr.imrworldwide.com
 0.0.0.0 secure-us.imrworldwide.com
 0.0.0.0 seg.ad.gt
@@ -456,6 +470,7 @@
 0.0.0.0 simpleanalytics.io
 0.0.0.0 sitefinity-insight.azureedge.net
 0.0.0.0 skslm.swiftkey.net
+0.0.0.0 smartlock.google.com
 0.0.0.0 snap.licdn.com
 0.0.0.0 snopes-d.openx.net
 0.0.0.0 spad.i-mobile.co.jp
@@ -476,6 +491,7 @@
 0.0.0.0 startup.mobile.yandex.net
 0.0.0.0 stat.adlabs.ru
 0.0.0.0 stat.media
+0.0.0.0 statad.ru
 0.0.0.0 static.addtoany.com
 0.0.0.0 static.cloudflareinsights.com
 0.0.0.0 static.criteo.net
