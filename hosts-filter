@@ -111,6 +111,7 @@
 0.0.0.0 beacon.wikia-services.com
 0.0.0.0 bh.contextweb.com
 0.0.0.0 bi.yeshen.com
+0.0.0.0 bid.glass
 0.0.0.0 bidder.criteo.com
 0.0.0.0 biddr.brealtime.com
 0.0.0.0 bing.com
@@ -615,6 +616,7 @@
 0.0.0.0 www.googletagservices.com
 0.0.0.0 www.msftconnecttest.com
 0.0.0.0 www.snopes.com
+0.0.0.0 www.statcounter.com
 0.0.0.0 www.summerhamster.com
 0.0.0.0 www.taiwannews.com.tw
 0.0.0.0 www.fastly-insights.com
