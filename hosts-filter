@@ -84,6 +84,7 @@
 0.0.0.0 app.adjust.world
 0.0.0.0 app.link
 0.0.0.0 app-ab09.marketo.com
+0.0.0.0 app-ab22.marketo.com
 0.0.0.0 app-adforce.jp
 0.0.0.0 app-measurement.com
 0.0.0.0 ar.tns-counter.ru
@@ -155,6 +156,7 @@
 0.0.0.0 cdn.switchadhub.com
 0.0.0.0 cdn.viglink.com
 0.0.0.0 cdn01.nativeroll.tv
+0.0.0.0 cdn4.buysellads.net
 0.0.0.0 cdn-bgp.bluestacks.com
 0.0.0.0 cdn-client.medium.com
 0.0.0.0 cdn-comments.rambler.ru
@@ -605,6 +607,7 @@
 0.0.0.0 wf.frontend.weborama.fr
 0.0.0.0 widget.svk-native.ru
 0.0.0.0 wikia-d.openx.net
+0.0.0.0 ws.sharethis.com
 0.0.0.0 www.bandisoft.com
 0.0.0.0 www.bing.com
 0.0.0.0 www.buymeacoffee.com
