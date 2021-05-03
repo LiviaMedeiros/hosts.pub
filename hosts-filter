@@ -175,6 +175,7 @@
 0.0.0.0 cloudapp.net
 0.0.0.0 cm.adgrx.com
 0.0.0.0 cm.g.doubleclick.net
+0.0.0.0 cm.lentainform.com
 0.0.0.0 collector.githubapp.com
 0.0.0.0 config.uca.cloud.unity3d.com
 0.0.0.0 connect.facebook.net
@@ -196,6 +197,7 @@
 0.0.0.0 csharpcorner.azureedge.net
 0.0.0.0 csi.gstatic.com
 0.0.0.0 csm.fr.eu.criteo.net
+0.0.0.0 cstatic.weborama.fr
 0.0.0.0 cszz.ru
 0.0.0.0 currency.prebid.org
 0.0.0.0 customer.api.drift.com
@@ -206,6 +208,7 @@
 0.0.0.0 data16.adlooxtracking.com
 0.0.0.0 dc1-file.ksn.kaspersky-labs.com
 0.0.0.0 dc1.ksn.kaspersky-labs.com
+0.0.0.0 ddnk.advertur.ru
 0.0.0.0 de83112b7fdc8c8ca3ca8e3f9ee150d2.safeframe.googlesyndication.com
 0.0.0.0 decide.mixpanel.com
 0.0.0.0 delivery.g.switchadhub.com
@@ -436,11 +439,13 @@
 0.0.0.0 rrtui5f6tpiu7ugumdxrdoqieczlqi3o-c2r.metric.gstatic.com
 0.0.0.0 rtax.criteo.com
 0.0.0.0 rtb.com.ru
+0.0.0.0 ru.mmstat.com
 0.0.0.0 rules.quantcount.com
 0.0.0.0 runative-syndicate.com
 0.0.0.0 ru.fp.kaspersky-labs.com
 0.0.0.0 r.2ad.wtf
 0.0.0.0 s.clickiocdn.com
+0.0.0.0 s.click.aliexpress.com
 0.0.0.0 s.pubmine.com
 0.0.0.0 s.skimresources.com
 0.0.0.0 s.yjtag.jp
@@ -478,6 +483,7 @@
 0.0.0.0 sitefinity-insight.azureedge.net
 0.0.0.0 skslm.swiftkey.net
 0.0.0.0 smartlock.google.com
+0.0.0.0 smi2.ru
 0.0.0.0 snap.licdn.com
 0.0.0.0 snopes-d.openx.net
 0.0.0.0 spad.i-mobile.co.jp
@@ -515,6 +521,7 @@
 0.0.0.0 static7.smi2.net
 0.0.0.0 static8.smi2.net
 0.0.0.0 staticxx.facebook.com
+0.0.0.0 static-ru.plista.com
 0.0.0.0 static-sl.insales.ru
 0.0.0.0 static.ads-twitter.com
 0.0.0.0 stats.g.doubleclick.net
@@ -602,6 +609,7 @@
 0.0.0.0 vz-cdn.trafficjunky.net
 0.0.0.0 vz-cdn2.adtng.com
 0.0.0.0 vz-cdn2.trafficjunky.net
+0.0.0.0 w.uptolike.com
 0.0.0.0 warning.rt.ru
 0.0.0.0 watson.telemetry.microsoft.com
 0.0.0.0 wcm.solution.weborama.fr
