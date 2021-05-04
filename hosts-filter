@@ -461,6 +461,7 @@
 0.0.0.0 script.hotjar.com
 0.0.0.0 script.ioam.de
 0.0.0.0 scripts.mediavine.com
+0.0.0.0 sdk.split.io
 0.0.0.0 sdk.privacy-center.org
 0.0.0.0 secure.adnxs.com
 0.0.0.0 secure.quantserve.com
@@ -500,6 +501,7 @@
 0.0.0.0 ssum-sec.casalemedia.com
 0.0.0.0 st.top100.ru
 0.0.0.0 st4-11.vk.com
+0.0.0.0 st4-15.vk.com
 0.0.0.0 startup.mobile.webvisor.com
 0.0.0.0 startup.mobile.yandex.net
 0.0.0.0 stat.adlabs.ru
