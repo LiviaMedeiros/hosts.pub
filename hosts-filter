@@ -137,6 +137,7 @@
 0.0.0.0 c2shb.ssp.yahoo.com
 0.0.0.0 cas.criteo.com
 0.0.0.0 cc.swiftype.com
+0.0.0.0 cdn.adpushup.com
 0.0.0.0 cdn.bizible.com
 0.0.0.0 cdn.carbonads.com
 0.0.0.0 cdn.connect.mail.ru
@@ -217,6 +218,7 @@
 0.0.0.0 ddnk.advertur.ru
 0.0.0.0 de83112b7fdc8c8ca3ca8e3f9ee150d2.safeframe.googlesyndication.com
 0.0.0.0 decide.mixpanel.com
+0.0.0.0 delivery.adrecover.com
 0.0.0.0 delivery.g.switchadhub.com
 0.0.0.0 delivery.swid.switchadhub.com
 0.0.0.0 displaycatalog.mp.microsoft.com
@@ -626,6 +628,7 @@
 0.0.0.0 vz-cdn2.adtng.com
 0.0.0.0 vz-cdn2.trafficjunky.net
 0.0.0.0 w.uptolike.com
+0.0.0.0 wapi.kassa.rambler.ru
 0.0.0.0 warning.rt.ru
 0.0.0.0 watson.telemetry.microsoft.com
 0.0.0.0 wcm.solution.weborama.fr
