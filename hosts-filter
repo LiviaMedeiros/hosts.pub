@@ -47,6 +47,7 @@
 0.0.0.0 ads.trafficjunky.net
 0.0.0.0 ads.tremorhub.com
 0.0.0.0 ads2.contentabc.com
+0.0.0.0 ads2.servebom.com
 0.0.0.0 adsco.re
 0.0.0.0 adserver-us.adtech.advertising.com
 0.0.0.0 adservice.google.com
@@ -137,6 +138,7 @@
 0.0.0.0 c2shb.ssp.yahoo.com
 0.0.0.0 cas.criteo.com
 0.0.0.0 cc.swiftype.com
+0.0.0.0 cd09c44a921ea06b6267798cd4e17f7b.safeframe.googlesyndication.com
 0.0.0.0 cdn.adpushup.com
 0.0.0.0 cdn.bizible.com
 0.0.0.0 cdn.carbonads.com
@@ -181,6 +183,7 @@
 0.0.0.0 cm.adgrx.com
 0.0.0.0 cm.g.doubleclick.net
 0.0.0.0 cm.lentainform.com
+0.0.0.0 cmp.teads.mgr.consensu.org
 0.0.0.0 collector.githubapp.com
 0.0.0.0 config.uca.cloud.unity3d.com
 0.0.0.0 connect.facebook.net
@@ -228,6 +231,7 @@
 0.0.0.0 dmx.districtm.io
 0.0.0.0 dns.msftncsi.com
 0.0.0.0 dpm.demdex.net
+0.0.0.0 dt.adsafeprotected.com
 0.0.0.0 e.serverbid.com
 0.0.0.0 eaf2c06282c5188e6602eca6adba3328.safeframe.googlesyndication.com
 0.0.0.0 eas.outlook.com
@@ -306,6 +310,7 @@
 0.0.0.0 idx.liadm.com
 0.0.0.0 iecvlist.microsoft.com
 0.0.0.0 image6.pubmatic.com
+0.0.0.0 images.outbrainimg.com
 0.0.0.0 img.en25.com
 0.0.0.0 img.ak.impact-ad.jp
 0.0.0.0 impossibleexpansion.com
@@ -316,6 +321,7 @@
 0.0.0.0 informer.yandex.ru
 0.0.0.0 instantmessaging-pa.googleapis.com
 0.0.0.0 js.hscollectedforms.net
+0.0.0.0 js.spotx.tv
 0.0.0.0 jsc.lentainform.com
 0.0.0.0 jsc.mgid.com
 0.0.0.0 js-agent.newrelic.com
@@ -339,6 +345,7 @@
 0.0.0.0 loadus.exelator.com
 0.0.0.0 location.services.mozilla.com
 0.0.0.0 log.mmstat.com
+0.0.0.0 log.outbrainimg.com
 0.0.0.0 login.live.com
 0.0.0.0 logx.optimizely.com
 0.0.0.0 loyalty.rambler-co.ru
@@ -402,6 +409,7 @@
 0.0.0.0 perf-events.cloud.unity3d.com
 0.0.0.0 phar.gu-web.net
 0.0.0.0 ping.chartbeat.net
+0.0.0.0 pixel.adsafeprotected.com
 0.0.0.0 pixel.mathtag.com
 0.0.0.0 pixel.quantserve.com
 0.0.0.0 pixel.rubiconproject.com
@@ -478,6 +486,7 @@
 0.0.0.0 scripts.mediavine.com
 0.0.0.0 sdk.split.io
 0.0.0.0 sdk.privacy-center.org
+0.0.0.0 search.spotxchange.com
 0.0.0.0 secure.adnxs.com
 0.0.0.0 secure.quantserve.com
 0.0.0.0 secureads.g.doubleclick.net
@@ -499,6 +508,7 @@
 0.0.0.0 sitefinity-insight.azureedge.net
 0.0.0.0 skslm.swiftkey.net
 0.0.0.0 smartlock.google.com
+0.0.0.0 smetrics.opensource.com
 0.0.0.0 smi2.ru
 0.0.0.0 snap.licdn.com
 0.0.0.0 snopes-d.openx.net
@@ -523,6 +533,7 @@
 0.0.0.0 stat.media
 0.0.0.0 statad.ru
 0.0.0.0 static.addtoany.com
+0.0.0.0 static.adsafeprotected.com
 0.0.0.0 static.cloudflareinsights.com
 0.0.0.0 static.criteo.net
 0.0.0.0 static.doubleclick.net
@@ -562,6 +573,7 @@
 0.0.0.0 sun9-64.userapi.com
 0.0.0.0 sync.bfmio.com
 0.0.0.0 sync.republer.com
+0.0.0.0 sync.search.spotxchange.com
 0.0.0.0 sync.srv.stackadapt.com
 0.0.0.0 sync.upravel.com
 0.0.0.0 sync3.adsniper.ru
@@ -576,6 +588,7 @@
 0.0.0.0 s.amazon-adsystem.com
 0.0.0.0 t.appsflyer.com
 0.0.0.0 t.paypal.com
+0.0.0.0 t.teads.tv
 0.0.0.0 tag.digitaltarget.ru
 0.0.0.0 tagan.adlightning.com
 0.0.0.0 tags.bkrtx.com
@@ -634,6 +647,7 @@
 0.0.0.0 wcm.solution.weborama.fr
 0.0.0.0 web.hb.ad.cpe.dotomi.com
 0.0.0.0 wf.frontend.weborama.fr
+0.0.0.0 widgets.outbrain.com
 0.0.0.0 widget.svk-native.ru
 0.0.0.0 wikia-d.openx.net
 0.0.0.0 ws.sharethis.com
