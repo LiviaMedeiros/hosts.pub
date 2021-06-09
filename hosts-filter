@@ -568,6 +568,7 @@
 0.0.0.0 static.doubleclick.net
 0.0.0.0 static.hotjar.com
 0.0.0.0 static.scroll.com
+0.0.0.0 static.securedtouch.com
 0.0.0.0 static.smi2.net
 0.0.0.0 static.whatsapp.net
 0.0.0.0 static1.smi2.net
@@ -592,6 +593,7 @@
 0.0.0.0 sun1-86.userapi.com
 0.0.0.0 sun1-90.userapi.com
 0.0.0.0 sun1-93.userapi.com
+0.0.0.0 sun2.megafon-irkutsk.userapi.com
 0.0.0.0 sun9-5.userapi.com
 0.0.0.0 sun9-22.userapi.com
 0.0.0.0 sun9-30.userapi.com
