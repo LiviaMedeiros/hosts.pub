@@ -175,6 +175,7 @@
 0.0.0.0 cdn.speedcurve.com
 0.0.0.0 cdn.switchadhub.com
 0.0.0.0 cdn.taboola.com
+0.0.0.0 cdn.tagcommander.com
 0.0.0.0 cdn.viglink.com
 0.0.0.0 cdn01.nativeroll.tv
 0.0.0.0 cdn4.buysellads.net
@@ -205,6 +206,7 @@
 0.0.0.0 connect.facebook.net
 0.0.0.0 connect.mail.ru
 0.0.0.0 connect.ok.ru
+0.0.0.0 consent.trustarc.com
 0.0.0.0 consentmanager.mgr.consensu.org
 0.0.0.0 contactsui-pa.googleapis.com
 0.0.0.0 content.adriver.ru
@@ -491,6 +493,7 @@
 0.0.0.0 rosenberg.appmetrica.yandex.net
 0.0.0.0 rpc-php.trafficfactory.biz
 0.0.0.0 rrtui5f6tpiu7ugumdxrdoqieczlqi3o-c2r.metric.gstatic.com
+0.0.0.0 rt.rtoaster.jp
 0.0.0.0 rtax.criteo.com
 0.0.0.0 rtb.com.ru
 0.0.0.0 ru.mmstat.com
@@ -628,6 +631,7 @@
 0.0.0.0 s-img.mgid.com
 0.0.0.0 s-static.ak.facebook.com
 0.0.0.0 s.amazon-adsystem.com
+0.0.0.0 s.go-mpulse.net
 0.0.0.0 t.appsflyer.com
 0.0.0.0 t.paypal.com
 0.0.0.0 t.teads.tv
