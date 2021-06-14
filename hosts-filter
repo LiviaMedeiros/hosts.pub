@@ -214,6 +214,7 @@
 0.0.0.0 content-autofill.googleapis.com
 0.0.0.0 control.smbeat.jp
 0.0.0.0 conversation.api.drift.com
+0.0.0.0 conversions.appsflyer.com
 0.0.0.0 conv-blizzard-emea.cd.serving-sys.com
 0.0.0.0 counter.drom.ru
 0.0.0.0 counter.rambler.ru
@@ -405,6 +406,7 @@
 0.0.0.0 miro.medium.com
 0.0.0.0 mixture.applinzi.com
 0.0.0.0 mobile.yandexadexchange.net
+0.0.0.0 mobile-collector.newrelic.com
 0.0.0.0 moevideo-sync.rutarget.ru
 0.0.0.0 mpsnare.iesnare.com
 0.0.0.0 mqtt-mini.facebook.com
