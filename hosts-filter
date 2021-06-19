@@ -185,6 +185,7 @@
 0.0.0.0 cdn-eu.dynamicyield.com
 0.0.0.0 cdn-gl.imrworldwide.com
 0.0.0.0 cdn-images-1.medium.com
+0.0.0.0 cdn-pci.optimizely.com
 0.0.0.0 cdn.stat-rock.com
 0.0.0.0 cdn.x-lift.jp
 0.0.0.0 cdp.cloud.unity3d.com
@@ -620,6 +621,7 @@
 0.0.0.0 sun9-60.userapi.com
 0.0.0.0 sun9-63.userapi.com
 0.0.0.0 sun9-64.userapi.com
+0.0.0.0 surveyjs.azureedge.net
 0.0.0.0 sync.bfmio.com
 0.0.0.0 sync.crwdcntrl.net
 0.0.0.0 sync.republer.com
