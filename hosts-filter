@@ -24,6 +24,7 @@
 0.0.0.0 a2446.casalemedia.com
 0.0.0.0 aax.amazon-adsystem.com
 0.0.0.0 aa.online-metrix.net
+0.0.0.0 abdurantom.com
 0.0.0.0 abort-count.smbeat.jp
 0.0.0.0 ac.ajur.info
 0.0.0.0 acdn.adnxs.com
@@ -130,6 +131,7 @@
 0.0.0.0 biddr.brealtime.com
 0.0.0.0 bing.com
 0.0.0.0 blogroll.livedoor.net
+0.0.0.0 bodelen.com
 0.0.0.0 brilliant.applinzi.com
 0.0.0.0 browser.pipe.aria.microsoft.com
 0.0.0.0 bs-dante.ru
@@ -137,6 +139,7 @@
 0.0.0.0 btlr.sharethrough.com
 0.0.0.0 bttrack.com
 0.0.0.0 c.aaxads.com
+0.0.0.0 c.adsco.re
 0.0.0.0 c.bigmir.net
 0.0.0.0 c.bing.com
 0.0.0.0 c.deployads.com
@@ -144,6 +147,8 @@
 0.0.0.0 c.msn.com
 0.0.0.0 c.rambler.ru
 0.0.0.0 c1.adform.net
+0.0.0.0 c1.popads.net
+0.0.0.0 c2.popads.net
 0.0.0.0 c2shb.ssp.yahoo.com
 0.0.0.0 carbon-cdn.ccgateway.net
 0.0.0.0 cas.criteo.com
@@ -186,6 +191,7 @@
 0.0.0.0 cdn-gl.imrworldwide.com
 0.0.0.0 cdn-images-1.medium.com
 0.0.0.0 cdn-pci.optimizely.com
+0.0.0.0 cdn.runative-syndicate.com
 0.0.0.0 cdn.stat-rock.com
 0.0.0.0 cdn.x-lift.jp
 0.0.0.0 cdp.cloud.unity3d.com
@@ -249,6 +255,7 @@
 0.0.0.0 delivery.adrecover.com
 0.0.0.0 delivery.g.switchadhub.com
 0.0.0.0 delivery.swid.switchadhub.com
+0.0.0.0 denetsuk.com
 0.0.0.0 displaycatalog.mp.microsoft.com
 0.0.0.0 dm.hybrid.ai
 0.0.0.0 dmg.digitaltarget.ru
@@ -305,6 +312,7 @@
 0.0.0.0 go.microsoft.com
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 google-analytics.com
+0.0.0.0 graizoah.com
 0.0.0.0 graph.facebook.com
 0.0.0.0 green.erne.co
 0.0.0.0 grid.bidswitch.net
@@ -347,6 +355,7 @@
 0.0.0.0 in.treasuredata.com
 0.0.0.0 inapps.appsflyer.com
 0.0.0.0 informer.yandex.ru
+0.0.0.0 inpagepush.com
 0.0.0.0 instantmessaging-pa.googleapis.com
 0.0.0.0 instreamvideo-sync.rutarget.ru
 0.0.0.0 j.zucks.net.zimg.jp
@@ -427,9 +436,11 @@
 0.0.0.0 o.ss2.us
 0.0.0.0 ocsp.msocsp.com
 0.0.0.0 odr.mookie1.com
+0.0.0.0 offerimage.com
 0.0.0.0 onecs-live.azureedge.net
 0.0.0.0 onedrive.live.com
 0.0.0.0 onesignal.com
+0.0.0.0 onmarshtompor.com
 0.0.0.0 ontetag-sys.com
 0.0.0.0 otf.msn.com
 0.0.0.0 otm-r.com
@@ -469,8 +480,10 @@
 0.0.0.0 prime.rambler.ru
 0.0.0.0 privatestats.whatsapp.net
 0.0.0.0 profile.ssp.rambler.ru
+0.0.0.0 propeller-tracking.com
 0.0.0.0 pr-bh.ybp.yahoo.com
 0.0.0.0 ps.ntvk1.ru
+0.0.0.0 ptoushoa.com
 0.0.0.0 pubads.g.doubleclick.net
 0.0.0.0 public.servenobid.com
 0.0.0.0 pub-eu.p.otm-r.com
@@ -503,9 +516,11 @@
 0.0.0.0 rtb.com.ru
 0.0.0.0 ru.mmstat.com
 0.0.0.0 rules.quantcount.com
+0.0.0.0 rum-static.pingdom.net
 0.0.0.0 runative-syndicate.com
 0.0.0.0 ru.fp.kaspersky-labs.com
 0.0.0.0 r.2ad.wtf
+0.0.0.0 s.adroll.com
 0.0.0.0 s.clickiocdn.com
 0.0.0.0 s.click.aliexpress.com
 0.0.0.0 s.pubmine.com
@@ -516,6 +531,7 @@
 0.0.0.0 s0.2mdn.net
 0.0.0.0 s3.buysellads.com
 0.0.0.0 s7.addthis.com
+0.0.0.0 s10.histats.com
 0.0.0.0 safebrowsing.googleapis.com
 0.0.0.0 samsungcis.tt.omtrdc.net
 0.0.0.0 sape-sync.rutarget.ru
@@ -560,6 +576,7 @@
 0.0.0.0 srv.carbonads.net
 0.0.0.0 ssc-cms.33across.com
 0.0.0.0 ssc.33across.com
+0.0.0.0 ssl.cdne.cpmstar.com
 0.0.0.0 sslwidget.criteo.com
 0.0.0.0 ssl.google-analytics.com
 0.0.0.0 ssm3ohyroj56f2pvyr4spe2vnszlqafj-c2r.metric.gstatic.com
@@ -567,6 +584,7 @@
 0.0.0.0 ssp.rambler.ru
 0.0.0.0 ssp.otm-r.com
 0.0.0.0 ssum-sec.casalemedia.com
+0.0.0.0 st.bebi.com
 0.0.0.0 st.top100.ru
 0.0.0.0 st4-11.vk.com
 0.0.0.0 st4-15.vk.com
@@ -685,6 +703,7 @@
 0.0.0.0 usllpic0ehftly7ucsqusa7x254prmdm4xoxkikac640d8ec5ab21494am1.e.aa.online-metrix.net
 0.0.0.0 utarget.ru
 0.0.0.0 v10.events.data.microsoft.com
+0.0.0.0 venetrigni.com
 0.0.0.0 videonow-sync.rutarget.ru
 0.0.0.0 vitals.vercel-insights.com
 0.0.0.0 vk.com
@@ -695,6 +714,7 @@
 0.0.0.0 vz-cdn.trafficjunky.net
 0.0.0.0 vz-cdn2.adtng.com
 0.0.0.0 vz-cdn2.trafficjunky.net
+0.0.0.0 w.sharethis.com
 0.0.0.0 w.uptolike.com
 0.0.0.0 wapi.kassa.rambler.ru
 0.0.0.0 warning.rt.ru
@@ -703,6 +723,7 @@
 0.0.0.0 web.hb.ad.cpe.dotomi.com
 0.0.0.0 web-metrica.yandex.ru
 0.0.0.0 wf.frontend.weborama.fr
+0.0.0.0 whos.amung.us
 0.0.0.0 widgets.outbrain.com
 0.0.0.0 widget.svk-native.ru
 0.0.0.0 wikia-d.openx.net
@@ -725,6 +746,7 @@
 0.0.0.0 www.google-analytics.com
 0.0.0.0 www.tns-counter.ru
 0.0.0.0 x.bidswitch.net
+0.0.0.0 xml.realtime-bid.com
 0.0.0.0 yhb.p.otm-r.com
 0.0.0.0 yieldlove-d.openx.net
 0.0.0.0 yummy.drom.ru
