@@ -31,6 +31,7 @@
 0.0.0.0 acdn.adnxs.com
 0.0.0.0 ad.adriver.ru
 0.0.0.0 ad.atdmt.com
+0.0.0.0 ad.crwdcntrl.net
 0.0.0.0 ad.doubleclick.net
 0.0.0.0 ad.mail.ru
 0.0.0.0 adashx4ae.ut.taobao.com
@@ -119,6 +120,7 @@
 0.0.0.0 b0305003-cf2bnyrypw4vgsra-c2r-ds.metric.gstatic.com
 0.0.0.0 bam.nr-data.net
 0.0.0.0 banners.adfox.ru
+0.0.0.0 bbc.gscontxt.net
 0.0.0.0 beacons.gcp.gvt2.com
 0.0.0.0 beacons.gvt2.com
 0.0.0.0 beacons2.gvt2.com
@@ -184,6 +186,7 @@
 0.0.0.0 cdn.switchadhub.com
 0.0.0.0 cdn.taboola.com
 0.0.0.0 cdn.tagcommander.com
+0.0.0.0 cdn.tinypass.com
 0.0.0.0 cdn.viglink.com
 0.0.0.0 cdn01.nativeroll.tv
 0.0.0.0 cdn4.buysellads.net
@@ -415,6 +418,7 @@
 0.0.0.0 medium.com
 0.0.0.0 messaging.api.drift.com
 0.0.0.0 metrics.aetn.com
+0.0.0.0 me-cdn.effectivemeasure.net
 0.0.0.0 microsoftmscompoc.tt.omtrdc.net
 0.0.0.0 mid.rkdms.com
 0.0.0.0 minidumps.smbeat.jp
@@ -435,6 +439,7 @@
 0.0.0.0 njs.services.livejournal.com
 0.0.0.0 node-p1w-eegeiw.sitescout.com
 0.0.0.0 nvda.d2.sc.omtrdc.net
+0.0.0.0 nvidia.tt.omtrdc.net
 0.0.0.0 nynbmd3m7ah73o53xghgltg6fczlqi3o-c2r.metric.gstatic.com
 0.0.0.0 o.ss2.us
 0.0.0.0 ocsp.msocsp.com
@@ -632,6 +637,8 @@
 0.0.0.0 sun1-93.userapi.com
 0.0.0.0 sun2.megafon-irkutsk.userapi.com
 0.0.0.0 sun9-5.userapi.com
+0.0.0.0 sun9-8.userapi.com
+0.0.0.0 sun9-17.userapi.com
 0.0.0.0 sun9-22.userapi.com
 0.0.0.0 sun9-30.userapi.com
 0.0.0.0 sun9-31.userapi.com
@@ -641,6 +648,7 @@
 0.0.0.0 sun9-53.userapi.com
 0.0.0.0 sun9-59.userapi.com
 0.0.0.0 sun9-60.userapi.com
+0.0.0.0 sun9-61.userapi.com
 0.0.0.0 sun9-63.userapi.com
 0.0.0.0 sun9-64.userapi.com
 0.0.0.0 surveyjs.azureedge.net
@@ -669,6 +677,7 @@
 0.0.0.0 tagan.adlightning.com
 0.0.0.0 tags.bkrtx.com
 0.0.0.0 tags.bluekai.com
+0.0.0.0 tags.crwdcntrl.net
 0.0.0.0 tags.tiqcdn.com
 0.0.0.0 tags-cdn.deployads.com
 0.0.0.0 tag.1rx.io
