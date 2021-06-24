@@ -315,6 +315,7 @@
 0.0.0.0 glitter.services.disqus.com
 0.0.0.0 global.proper.io
 0.0.0.0 glyph.medium.com
+0.0.0.0 gn44l42owwk55ueyyi3hotjr4cydaqce-c2r.metric.gstatic.com
 0.0.0.0 go.microsoft.com
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 google-analytics.com
@@ -638,6 +639,7 @@
 0.0.0.0 sun2.megafon-irkutsk.userapi.com
 0.0.0.0 sun9-5.userapi.com
 0.0.0.0 sun9-8.userapi.com
+0.0.0.0 sun9-16.userapi.com
 0.0.0.0 sun9-17.userapi.com
 0.0.0.0 sun9-22.userapi.com
 0.0.0.0 sun9-30.userapi.com
@@ -685,6 +687,7 @@
 0.0.0.0 target.smi2.net
 0.0.0.0 targeting.api.drift.com
 0.0.0.0 tbcdnwidgetsprod.azureedge.net
+0.0.0.0 telemetry.gfe.nvidia.com
 0.0.0.0 telemetry-in.battle.net
 0.0.0.0 telephonyspamprotect-pa.googleapis.com
 0.0.0.0 tempest.services.disqus.com
