@@ -58,6 +58,7 @@
 0.0.0.0 adserver-eu.adtech.advertising.com
 0.0.0.0 adserver-us.adtech.advertising.com
 0.0.0.0 adservice.google.com
+0.0.0.0 adservice.google.com.ua
 0.0.0.0 adservice.google.ru
 0.0.0.0 ads-api.twitter.com
 0.0.0.0 adviser.bs-dante.ru
@@ -280,6 +281,7 @@
 0.0.0.0 ecommerce.iap.unity3d.com
 0.0.0.0 edge.quantserve.com
 0.0.0.0 edge-mqtt.facebook.com
+0.0.0.0 egksstlnzri3stqvw5ehmie4gcydaykq-c2r.metric.gstatic.com
 0.0.0.0 entitlements.jwplayer.com
 0.0.0.0 etahub.com
 0.0.0.0 eus.rubiconproject.com
@@ -464,6 +466,7 @@
 0.0.0.0 partner.googleadservices.com
 0.0.0.0 passwordsleakcheck-pa.googleapis.com
 0.0.0.0 pb.adriver.ru
+0.0.0.0 pbs.alfasense.com
 0.0.0.0 peoplestack-pa.googleapis.com
 0.0.0.0 people-pa.googleapis.com
 0.0.0.0 perf-events.cloud.unity3d.com
