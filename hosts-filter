@@ -164,6 +164,7 @@
 0.0.0.0 cdn.adpushup.com
 0.0.0.0 cdn.bizible.com
 0.0.0.0 cdn.blueconic.net
+0.0.0.0 cdn.buymeacoffee.com
 0.0.0.0 cdn.carbonads.com
 0.0.0.0 cdn.connect.mail.ru
 0.0.0.0 cdn.consentmanager.mgr.consensu.org
@@ -192,6 +193,7 @@
 0.0.0.0 cdn.viglink.com
 0.0.0.0 cdn01.nativeroll.tv
 0.0.0.0 cdn4.buysellads.net
+0.0.0.0 cdnjs.buymeacoffee.com
 0.0.0.0 cdn-bgp.bluestacks.com
 0.0.0.0 cdn-client.medium.com
 0.0.0.0 cdn-comments.rambler.ru
@@ -249,6 +251,7 @@
 0.0.0.0 customer.api.drift.com
 0.0.0.0 c.amazon-adsystem.com
 0.0.0.0 c.go-mpulse.net
+0.0.0.0 d.turn.com
 0.0.0.0 d1z2jf7jlzjs58.cloudfront.net
 0.0.0.0 d2c8v52ll5s99u.cloudfront.net
 0.0.0.0 d7.c4.b5.a1.top.list.ru
@@ -265,6 +268,7 @@
 0.0.0.0 delivery.swid.switchadhub.com
 0.0.0.0 denetsuk.com
 0.0.0.0 developers.facebook.com
+0.0.0.0 dis.criteo.com
 0.0.0.0 displaycatalog.mp.microsoft.com
 0.0.0.0 dm.hybrid.ai
 0.0.0.0 dmg.digitaltarget.ru
@@ -478,6 +482,7 @@
 0.0.0.0 pixel.rubiconproject.com
 0.0.0.0 pixel.tapad.com
 0.0.0.0 pixel.wp.com
+0.0.0.0 pixel-apac.rubiconproject.com
 0.0.0.0 pixel-sync.sitescout.com
 0.0.0.0 pixel.33across.com
 0.0.0.0 pl14969850.passeura.com
@@ -532,6 +537,7 @@
 0.0.0.0 rt.rtoaster.jp
 0.0.0.0 rtax.criteo.com
 0.0.0.0 rtb.com.ru
+0.0.0.0 rtb.openx.net
 0.0.0.0 ru.mmstat.com
 0.0.0.0 rules.quantcount.com
 0.0.0.0 rum-static.pingdom.net
@@ -608,6 +614,7 @@
 0.0.0.0 st.top100.ru
 0.0.0.0 st4-11.vk.com
 0.0.0.0 st4-15.vk.com
+0.0.0.0 stags.bluekai.com
 0.0.0.0 startup.mobile.webvisor.com
 0.0.0.0 startup.mobile.yandex.net
 0.0.0.0 stat.adlabs.ru
@@ -754,9 +761,12 @@
 0.0.0.0 u.openx.net
 0.0.0.0 u.startup.mobile.webvisor.com
 0.0.0.0 uh.nakanohito.jp
+0.0.0.0 ups.analytics.yahoo.com
 0.0.0.0 userapi.com
 0.0.0.0 userlocation.googleapis.com
 0.0.0.0 usllpic0ehftly7ucsqusa7x254prmdm4xoxkikac640d8ec5ab21494am1.e.aa.online-metrix.net
+0.0.0.0 usllpic0lq4k4kxuheufkdy2z2pw7mwe6guptz343b4e3af40f155fd7am1.e.aa.online-metrix.net
+0.0.0.0 usllpic0sko7magwjo6mvfobnt5zgrrn5ha4zclid6ad58bc9907329eam1.e.aa.online-metrix.net
 0.0.0.0 utarget.ru
 0.0.0.0 v10.events.data.microsoft.com
 0.0.0.0 venetrigni.com
