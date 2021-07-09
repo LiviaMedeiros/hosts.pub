@@ -35,6 +35,7 @@
 0.0.0.0 ad.doubleclick.net
 0.0.0.0 ad.mail.ru
 0.0.0.0 adashx4ae.ut.taobao.com
+0.0.0.0 addons-pa.clients6.google.com
 0.0.0.0 ade.clmbtech.com
 0.0.0.0 ade.googlesyndication.com
 0.0.0.0 adfox-c2s-ams.creativecdn.com
@@ -113,6 +114,7 @@
 0.0.0.0 at.cbsi.com
 0.0.0.0 attitude.applinzi.com
 0.0.0.0 attitude.appmeasurements.com
+0.0.0.0 auction.unityads.unity3d.com
 0.0.0.0 autocomplete.demandbase.com
 0.0.0.0 autocontext.begun.ru
 0.0.0.0 autocounter.lentainform.com
@@ -175,6 +177,7 @@
 0.0.0.0 cdn.iubenda.com
 0.0.0.0 cdn.izooto.com
 0.0.0.0 cdn.js.tapone.jp
+0.0.0.0 cdn.keywee.co
 0.0.0.0 cdn.lodeo.io
 0.0.0.0 cdn.mouseflow.com
 0.0.0.0 cdn.mxpnl.com
@@ -211,6 +214,7 @@
 0.0.0.0 chromesyncpasswords-pa.googleapis.com
 0.0.0.0 clck.yandex.ru
 0.0.0.0 clickiocdn.com
+0.0.0.0 clients6.google.com
 0.0.0.0 cloud.bluestacks.com
 0.0.0.0 cloud.mail.ru
 0.0.0.0 cloudapp.net
@@ -221,6 +225,7 @@
 0.0.0.0 cms.quantserve.com
 0.0.0.0 collector.githubapp.com
 0.0.0.0 config.uca.cloud.unity3d.com
+0.0.0.0 config.unityads.unity3d.com
 0.0.0.0 connect.facebook.net
 0.0.0.0 connect.mail.ru
 0.0.0.0 connect.ok.ru
@@ -403,6 +408,7 @@
 0.0.0.0 log.mmstat.com
 0.0.0.0 log.outbrainimg.com
 0.0.0.0 login.live.com
+0.0.0.0 login.vk.com
 0.0.0.0 logx.optimizely.com
 0.0.0.0 loyalty.rambler-co.ru
 0.0.0.0 lptag.liveperson.net
@@ -446,6 +452,7 @@
 0.0.0.0 mxvp-feature-toggle-prod-1.zenmxapps.com
 0.0.0.0 my.rtmark.net
 0.0.0.0 mybbc-analytics.files.bbci.co.uk
+0.0.0.0 myphonenumbers-pa.googleapis.com
 0.0.0.0 nep.advangelists.com
 0.0.0.0 njs.services.livejournal.com
 0.0.0.0 node-p1w-eegeiw.sitescout.com
@@ -560,6 +567,7 @@
 0.0.0.0 samsungcis.tt.omtrdc.net
 0.0.0.0 sape-sync.rutarget.ru
 0.0.0.0 sb.scorecardresearch.com
+0.0.0.0 scone-pa.clients6.google.com
 0.0.0.0 screenrant.com
 0.0.0.0 script.hotjar.com
 0.0.0.0 script.ioam.de
@@ -623,10 +631,12 @@
 0.0.0.0 statad.ru
 0.0.0.0 static.addtoany.com
 0.0.0.0 static.adsafeprotected.com
+0.0.0.0 static.chartbeat.com
 0.0.0.0 static.cloudflareinsights.com
 0.0.0.0 static.criteo.net
 0.0.0.0 static.doubleclick.net
 0.0.0.0 static.hotjar.com
+0.0.0.0 static.klaviyo.com
 0.0.0.0 static.scroll.com
 0.0.0.0 static.securedtouch.com
 0.0.0.0 static.smi2.net
@@ -786,10 +796,12 @@
 0.0.0.0 warning.rt.ru
 0.0.0.0 watson.telemetry.microsoft.com
 0.0.0.0 wcm.solution.weborama.fr
+0.0.0.0 web.facebook.com
 0.0.0.0 web.hb.ad.cpe.dotomi.com
 0.0.0.0 web-metrica.yandex.ru
 0.0.0.0 wf.frontend.weborama.fr
 0.0.0.0 whos.amung.us
+0.0.0.0 widget.beop.io
 0.0.0.0 widgets.outbrain.com
 0.0.0.0 widget.svk-native.ru
 0.0.0.0 wikia-d.openx.net
