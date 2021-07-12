@@ -317,6 +317,7 @@
 0.0.0.0 px.moatads.com
 0.0.0.0 z.moatads.com
 0.0.0.0 odr.mookie1.com
+0.0.0.0 ads.mopub.com
 0.0.0.0 cdn.mouseflow.com
 0.0.0.0 location.services.mozilla.com
 0.0.0.0 firefox.settings.services.mozilla.com
@@ -430,6 +431,8 @@
 0.0.0.0 cdn.stat-rock.com
 0.0.0.0 www.statcounter.com
 0.0.0.0 www.summerhamster.com
+0.0.0.0 init.supersonicads.com
+0.0.0.0 outcome-ssp.supersonicads.com
 0.0.0.0 cc.swiftype.com
 0.0.0.0 cdn.switchadhub.com
 0.0.0.0 delivery.g.switchadhub.com
@@ -631,6 +634,7 @@
 0.0.0.0 tags.crwdcntrl.net
 0.0.0.0 dpm.demdex.net
 0.0.0.0 mscom.demdex.net
+0.0.0.0 doubleclick.net
 0.0.0.0 ad.doubleclick.net
 0.0.0.0 5922505.fls.doubleclick.net
 0.0.0.0 cm.g.doubleclick.net
@@ -730,6 +734,8 @@
 0.0.0.0 sofia.trustx.org
 0.0.0.0 mc.webvisor.org
 0.0.0.0 gaua.hit.gemius.pl
+0.0.0.0 something.00ed983688.kacwyb.pl
+0.0.0.0 www.00ed983688.kacwyb.pl
 0.0.0.0 adsco.re
 0.0.0.0 c.adsco.re
 0.0.0.0 ad.3dnews.ru
@@ -821,6 +827,7 @@
 0.0.0.0 mc.yandex.ru
 0.0.0.0 web-metrica.yandex.ru
 0.0.0.0 zen.yandex.ru
+0.0.0.0 ana.bandi.so
 0.0.0.0 prebid.digitru.st
 0.0.0.0 cdn01.nativeroll.tv
 0.0.0.0 js.spotx.tv
