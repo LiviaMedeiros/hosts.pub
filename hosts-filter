@@ -76,6 +76,8 @@
 0.0.0.0 ads.betweendigital.com
 0.0.0.0 reachms.bfmio.com
 0.0.0.0 sync.bfmio.com
+0.0.0.0 api-new.bignox.com
+0.0.0.0 launcher-api.bignox.com
 0.0.0.0 bing.com
 0.0.0.0 c.bing.com
 0.0.0.0 www.bing.com
@@ -152,6 +154,7 @@
 0.0.0.0 st-eu.dynamicyield.com
 0.0.0.0 hb.emxdgt.com
 0.0.0.0 img.en25.com
+0.0.0.0 enormousearth.com
 0.0.0.0 etahub.com
 0.0.0.0 c.evidon.com
 0.0.0.0 loadus.exelator.com
@@ -176,6 +179,9 @@
 0.0.0.0 ampcid.google.com
 0.0.0.0 clients6.google.com
 0.0.0.0 addons-pa.clients6.google.com
+0.0.0.0 espresso-pa.clients6.google.com
+0.0.0.0 people-pa.clients6.google.com
+0.0.0.0 peoplestackwebexperiments-pa.clients6.google.com
 0.0.0.0 scone-pa.clients6.google.com
 0.0.0.0 smartlock.google.com
 0.0.0.0 partner.googleadservices.com
@@ -184,6 +190,7 @@
 0.0.0.0 contactsui-pa.googleapis.com
 0.0.0.0 content-autofill.googleapis.com
 0.0.0.0 crashlyticsreports-pa.googleapis.com
+0.0.0.0 dialercallinfolookup-pa.googleapis.com
 0.0.0.0 firebaseinstallations.googleapis.com
 0.0.0.0 firebaselogging.googleapis.com
 0.0.0.0 footprints-pa.googleapis.com
@@ -199,6 +206,7 @@
 0.0.0.0 speechs3proto2-pa.googleapis.com
 0.0.0.0 telephonyspamprotect-pa.googleapis.com
 0.0.0.0 userlocation.googleapis.com
+0.0.0.0 www.googleoptimize.com
 0.0.0.0 ade.googlesyndication.com
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 9e906bdbc01e82b034090521585dcbfa.safeframe.googlesyndication.com
@@ -308,6 +316,7 @@
 0.0.0.0 tsfe.trafficshaping.dsp.mp.microsoft.com
 0.0.0.0 target.microsoft.com
 0.0.0.0 watson.telemetry.microsoft.com
+0.0.0.0 www.microvirt.com
 0.0.0.0 m.mixadvert.com
 0.0.0.0 api.mixpanel.com
 0.0.0.0 decide.mixpanel.com
@@ -407,6 +416,7 @@
 0.0.0.0 static.securedtouch.com
 0.0.0.0 sedoparking.com
 0.0.0.0 cdn.segment.com
+0.0.0.0 live.sekindo.com
 0.0.0.0 ads.servebom.com
 0.0.0.0 ads2.servebom.com
 0.0.0.0 ads.servenobid.com
@@ -579,6 +589,7 @@
 0.0.0.0 relap.io
 0.0.0.0 api.segment.io
 0.0.0.0 cdn.segment.io
+0.0.0.0 o287829.ingest.sentry.io
 0.0.0.0 simpleanalytics.io
 0.0.0.0 sdk.split.io
 0.0.0.0 app-adforce.jp
@@ -628,6 +639,7 @@
 0.0.0.0 cloudapp.net
 0.0.0.0 d1z2jf7jlzjs58.cloudfront.net
 0.0.0.0 d2c8v52ll5s99u.cloudfront.net
+0.0.0.0 d2v02itv0y9u9t.cloudfront.net
 0.0.0.0 csm.fr.eu.criteo.net
 0.0.0.0 static.criteo.net
 0.0.0.0 ad.crwdcntrl.net
