@@ -1,9 +1,11 @@
 0.0.0.0 dm.hybrid.ai
 0.0.0.0 hbe199.hybrid.ai
+0.0.0.0 grs.dbankcloud.asia
 0.0.0.0 solty.biz
 0.0.0.0 rpc-php.trafficfactory.biz
 0.0.0.0 cdn.districtm.ca
 0.0.0.0 api.popin.cc
+0.0.0.0 grs.dbankcloud.cn
 0.0.0.0 green.erne.co
 0.0.0.0 cdn.keywee.co
 0.0.0.0 eb2.3lift.com
@@ -132,6 +134,7 @@
 0.0.0.0 gum.criteo.com
 0.0.0.0 rtax.criteo.com
 0.0.0.0 sslwidget.criteo.com
+0.0.0.0 grs.dbankcloud.com
 0.0.0.0 api.demandbase.com
 0.0.0.0 autocomplete.demandbase.com
 0.0.0.0 denetsuk.com
@@ -345,6 +348,7 @@
 0.0.0.0 mobile-collector.newrelic.com
 0.0.0.0 hb.nexage.com
 0.0.0.0 ls.dtrace.nvidia.com
+0.0.0.0 events.gfe.nvidia.com
 0.0.0.0 telemetry.gfe.nvidia.com
 0.0.0.0 offerimage.com
 0.0.0.0 a.omappapi.com
@@ -552,6 +556,7 @@
 0.0.0.0 pixel.wp.com
 0.0.0.0 stats.wp.com
 0.0.0.0 ups.analytics.yahoo.com
+0.0.0.0 analytics.query.yahoo.com
 0.0.0.0 c2shb.ssp.yahoo.com
 0.0.0.0 pr-bh.ybp.yahoo.com
 0.0.0.0 bi.yeshen.com
@@ -783,6 +788,7 @@
 0.0.0.0 static-sl.insales.ru
 0.0.0.0 d7.c4.b5.a1.top.list.ru
 0.0.0.0 ad.mail.ru
+0.0.0.0 aj-https.mail.ru
 0.0.0.0 cloud.mail.ru
 0.0.0.0 connect.mail.ru
 0.0.0.0 cdn.connect.mail.ru
@@ -793,8 +799,13 @@
 0.0.0.0 content.rbc.medialand.ru
 0.0.0.0 matching.mobilebanner.ru
 0.0.0.0 ps.ntvk1.ru
+0.0.0.0 api.ok.ru
 0.0.0.0 connect.ok.ru
+0.0.0.0 liveut2-dl.ok.ru
+0.0.0.0 liveut2-kv.ok.ru
+0.0.0.0 liveut2-m100.ok.ru
 0.0.0.0 m.ok.ru
+0.0.0.0 tamtam.ok.ru
 0.0.0.0 loyalty.rambler-co.ru
 0.0.0.0 c.rambler.ru
 0.0.0.0 cdn-comments.rambler.ru
@@ -821,6 +832,7 @@
 0.0.0.0 moevideo-sync.rutarget.ru
 0.0.0.0 sape-sync.rutarget.ru
 0.0.0.0 videonow-sync.rutarget.ru
+0.0.0.0 pfm-stat.online.sberbank.ru
 0.0.0.0 289310.selcdn.ru
 0.0.0.0 smi2.ru
 0.0.0.0 amp.smi2.ru
