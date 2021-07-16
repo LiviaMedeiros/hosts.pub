@@ -281,6 +281,7 @@
 0.0.0.0 s-img.lentainform.com
 0.0.0.0 servicer.lentainform.com
 0.0.0.0 RU.info.lgsmartad.com
+0.0.0.0 RU.lgtvsdp.com
 0.0.0.0 idx.liadm.com
 0.0.0.0 snap.licdn.com
 0.0.0.0 ap.lijit.com
@@ -459,6 +460,7 @@
 0.0.0.0 pixel.tapad.com
 0.0.0.0 ad-cdn.technoratimedia.com
 0.0.0.0 thrtle.com
+0.0.0.0 log.tiktokv.com
 0.0.0.0 cdn.tinypass.com
 0.0.0.0 tags.tiqcdn.com
 0.0.0.0 syndication.traffichaus.com
@@ -591,6 +593,7 @@
 0.0.0.0 ttru.onthe.io
 0.0.0.0 tttt.onthe.io
 0.0.0.0 global.proper.io
+0.0.0.0 propermessage.io
 0.0.0.0 relap.io
 0.0.0.0 api.segment.io
 0.0.0.0 cdn.segment.io
@@ -650,6 +653,7 @@
 0.0.0.0 ad.crwdcntrl.net
 0.0.0.0 sync.crwdcntrl.net
 0.0.0.0 tags.crwdcntrl.net
+0.0.0.0 bc.ad.daum.net
 0.0.0.0 dpm.demdex.net
 0.0.0.0 mscom.demdex.net
 0.0.0.0 doubleclick.net
@@ -850,6 +854,7 @@
 0.0.0.0 an.yandex.ru
 0.0.0.0 clck.yandex.ru
 0.0.0.0 informer.yandex.ru
+0.0.0.0 sovetnik.market.yandex.ru
 0.0.0.0 mc.yandex.ru
 0.0.0.0 web-metrica.yandex.ru
 0.0.0.0 zen.yandex.ru
