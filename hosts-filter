@@ -449,6 +449,7 @@
 0.0.0.0 sync.srv.stackadapt.com
 0.0.0.0 cdn.stat-rock.com
 0.0.0.0 www.statcounter.com
+0.0.0.0 crash.steampowered.com
 0.0.0.0 www.summerhamster.com
 0.0.0.0 init.supersonicads.com
 0.0.0.0 outcome-ssp.supersonicads.com
@@ -469,6 +470,7 @@
 0.0.0.0 tags.tiqcdn.com
 0.0.0.0 syndication.traffichaus.com
 0.0.0.0 ads.traffichunt.com
+0.0.0.0 static.trafficjunky.com
 0.0.0.0 in.treasuredata.com
 0.0.0.0 ads.tremorhub.com
 0.0.0.0 2ciy2-9kbup.ads.tremorhub.com
