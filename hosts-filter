@@ -191,6 +191,7 @@
 0.0.0.0 smartlock.google.com
 0.0.0.0 partner.googleadservices.com
 0.0.0.0 www.googleadservices.com
+0.0.0.0 businesscalls.googleapis.com
 0.0.0.0 chromesyncpasswords-pa.googleapis.com
 0.0.0.0 contactsui-pa.googleapis.com
 0.0.0.0 content-autofill.googleapis.com
@@ -655,6 +656,7 @@
 0.0.0.0 d1z2jf7jlzjs58.cloudfront.net
 0.0.0.0 d2c8v52ll5s99u.cloudfront.net
 0.0.0.0 d2v02itv0y9u9t.cloudfront.net
+0.0.0.0 us-central1-amp-error-reporting.cloudfunctions.net
 0.0.0.0 csm.fr.eu.criteo.net
 0.0.0.0 static.criteo.net
 0.0.0.0 ad.crwdcntrl.net
@@ -735,6 +737,7 @@
 0.0.0.0 fm.nvc.turtur.nuancemobility.net
 0.0.0.0 fm.nvc.ukua.nuancemobility.net
 0.0.0.0 fm.nvc.vievie.nuancemobility.net
+0.0.0.0 nutaku.net
 0.0.0.0 nvda.d2.sc.omtrdc.net
 0.0.0.0 abcnews.tt.omtrdc.net
 0.0.0.0 aetv.tt.omtrdc.net
