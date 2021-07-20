@@ -482,6 +482,7 @@
 0.0.0.0 d.turn.com
 0.0.0.0 ads-api.twitter.com
 0.0.0.0 syndication.twitter.com
+0.0.0.0 homegeton.ucoz.com
 0.0.0.0 hb.undertone.com
 0.0.0.0 cdp.cloud.unity3d.com
 0.0.0.0 perf-events.cloud.unity3d.com
@@ -737,7 +738,6 @@
 0.0.0.0 fm.nvc.turtur.nuancemobility.net
 0.0.0.0 fm.nvc.ukua.nuancemobility.net
 0.0.0.0 fm.nvc.vievie.nuancemobility.net
-0.0.0.0 nutaku.net
 0.0.0.0 nvda.d2.sc.omtrdc.net
 0.0.0.0 abcnews.tt.omtrdc.net
 0.0.0.0 aetv.tt.omtrdc.net
