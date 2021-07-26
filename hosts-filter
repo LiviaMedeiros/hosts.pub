@@ -185,6 +185,7 @@
 0.0.0.0 clients6.google.com
 0.0.0.0 addons-pa.clients6.google.com
 0.0.0.0 chat-pa.clients6.google.com
+0.0.0.0 developerprofiles-pa.clients6.google.com
 0.0.0.0 espresso-pa.clients6.google.com
 0.0.0.0 people-pa.clients6.google.com
 0.0.0.0 peoplestackwebexperiments-pa.clients6.google.com
@@ -565,6 +566,8 @@
 0.0.0.0 st4-11.vk.com
 0.0.0.0 st4-15.vk.com
 0.0.0.0 services.vlitag.com
+0.0.0.0 report.appmetrica.webvisor.com
+0.0.0.0 report-1.appmetrica.webvisor.com
 0.0.0.0 startup.mobile.webvisor.com
 0.0.0.0 u.startup.mobile.webvisor.com
 0.0.0.0 beacon.wikia-services.com
