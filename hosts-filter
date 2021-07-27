@@ -70,6 +70,7 @@
 0.0.0.0 inapps.appsflyer.com
 0.0.0.0 launches.appsflyer.com
 0.0.0.0 t.appsflyer.com
+0.0.0.0 stat.appsgeyser.com
 0.0.0.0 tracking.apptrackerlink.com
 0.0.0.0 ad.atdmt.com
 0.0.0.0 hm.baidu.com
@@ -189,8 +190,10 @@
 0.0.0.0 espresso-pa.clients6.google.com
 0.0.0.0 people-pa.clients6.google.com
 0.0.0.0 peoplestackwebexperiments-pa.clients6.google.com
+0.0.0.0 realtimesupport.clients6.google.com
 0.0.0.0 scone-pa.clients6.google.com
 0.0.0.0 signaler-pa.clients6.google.com
+0.0.0.0 tracedepot-pa.clients6.google.com
 0.0.0.0 smartlock.google.com
 0.0.0.0 partner.googleadservices.com
 0.0.0.0 www.googleadservices.com
@@ -411,6 +414,7 @@
 0.0.0.0 events.redditmedia.com
 0.0.0.0 r.remarketingpixel.com
 0.0.0.0 sync.republer.com
+0.0.0.0 spn-v1.revampcdn.com
 0.0.0.0 p.rfihub.com
 0.0.0.0 mid.rkdms.com
 0.0.0.0 api.rlcdn.com
@@ -642,6 +646,7 @@
 0.0.0.0 static.aio.media
 0.0.0.0 stat.media
 0.0.0.0 in.appcenter.ms
+0.0.0.0 www.clarity.ms
 0.0.0.0 s0.2mdn.net
 0.0.0.0 prebid.a-mo.net
 0.0.0.0 adx.adform.net
