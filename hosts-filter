@@ -253,6 +253,8 @@
 0.0.0.0 beacons5.gvt2.com
 0.0.0.0 beacons.gcp.gvt2.com
 0.0.0.0 beacons5.gvt3.com
+0.0.0.0 cdn.heapanalytics.com
+0.0.0.0 my.hellobar.com
 0.0.0.0 s10.histats.com
 0.0.0.0 script.hotjar.com
 0.0.0.0 static.hotjar.com
@@ -444,6 +446,7 @@
 0.0.0.0 e.serverbid.com
 0.0.0.0 bs.serving-sys.com
 0.0.0.0 conv-blizzard-emea.cd.serving-sys.com
+0.0.0.0 platform-api.sharethis.com
 0.0.0.0 w.sharethis.com
 0.0.0.0 ws.sharethis.com
 0.0.0.0 btlr.sharethrough.com
@@ -670,6 +673,7 @@
 0.0.0.0 cloudapp.net
 0.0.0.0 d1z2jf7jlzjs58.cloudfront.net
 0.0.0.0 d2c8v52ll5s99u.cloudfront.net
+0.0.0.0 d2oh4tlt9mrke9.cloudfront.net
 0.0.0.0 d2v02itv0y9u9t.cloudfront.net
 0.0.0.0 us-central1-amp-error-reporting.cloudfunctions.net
 0.0.0.0 csm.fr.eu.criteo.net
