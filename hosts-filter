@@ -167,6 +167,7 @@
 0.0.0.0 main.exoclick.com
 0.0.0.0 s-static.ak.facebook.com
 0.0.0.0 api.facebook.com
+0.0.0.0 badge.facebook.com
 0.0.0.0 z-p42-instagram.c10r.facebook.com
 0.0.0.0 developers.facebook.com
 0.0.0.0 edge-mqtt.facebook.com
@@ -222,6 +223,7 @@
 0.0.0.0 ade.googlesyndication.com
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 9e906bdbc01e82b034090521585dcbfa.safeframe.googlesyndication.com
+0.0.0.0 21cc870f153acdfd047e83fd9ab2e396.safeframe.googlesyndication.com
 0.0.0.0 78e7a32260d57b621405c558996f1f3c.safeframe.googlesyndication.com
 0.0.0.0 7220d3986c4b33aa4edf81d47e6bcf37.safeframe.googlesyndication.com
 0.0.0.0 19290202ecf2964d0b46cbae31c18dd9.safeframe.googlesyndication.com
@@ -316,6 +318,7 @@
 0.0.0.0 cdn-images-1.medium.com
 0.0.0.0 glyph.medium.com
 0.0.0.0 miro.medium.com
+0.0.0.0 panjeh.medium.com
 0.0.0.0 a.mgid.com
 0.0.0.0 jsc.mgid.com
 0.0.0.0 prebid.mgid.com
