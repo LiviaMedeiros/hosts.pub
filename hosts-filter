@@ -568,6 +568,7 @@
 0.0.0.0 venetrigni.com
 0.0.0.0 vitals.vercel-insights.com
 0.0.0.0 aloha.viber.com
+0.0.0.0 abtest.api.viber.com
 0.0.0.0 www.cdn.viber.com
 0.0.0.0 cdn.viglink.com
 0.0.0.0 vk.com
@@ -838,6 +839,7 @@
 0.0.0.0 adindex.ru
 0.0.0.0 adlabs.ru
 0.0.0.0 stat.adlabs.ru
+0.0.0.0 mc.admetrica.ru
 0.0.0.0 ad.adriver.ru
 0.0.0.0 content.adriver.ru
 0.0.0.0 pb.adriver.ru
