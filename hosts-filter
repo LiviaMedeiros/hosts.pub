@@ -187,6 +187,7 @@
 0.0.0.0 ampcid.google.com
 0.0.0.0 clients6.google.com
 0.0.0.0 addons-pa.clients6.google.com
+0.0.0.0 appsitemsuggest-pa.clients6.google.com
 0.0.0.0 chat-pa.clients6.google.com
 0.0.0.0 developerprofiles-pa.clients6.google.com
 0.0.0.0 espresso-pa.clients6.google.com
@@ -487,6 +488,7 @@
 0.0.0.0 cdn.tinypass.com
 0.0.0.0 dashboard.tinypass.com
 0.0.0.0 tags.tiqcdn.com
+0.0.0.0 trackjs.com
 0.0.0.0 syndication.traffichaus.com
 0.0.0.0 ads.traffichunt.com
 0.0.0.0 static.trafficjunky.com
