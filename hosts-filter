@@ -39,6 +39,7 @@
 0.0.0.0 vz-cdn2.adtng.com
 0.0.0.0 nep.advangelists.com
 0.0.0.0 ads.adaptv.advertising.com
+0.0.0.0 adserver.adtech.advertising.com
 0.0.0.0 adserver-eu.adtech.advertising.com
 0.0.0.0 adserver-us.adtech.advertising.com
 0.0.0.0 metrics.aetn.com
@@ -109,6 +110,7 @@
 0.0.0.0 a2446.casalemedia.com
 0.0.0.0 as.casalemedia.com
 0.0.0.0 as-sec.casalemedia.com
+0.0.0.0 dsum-sec.casalemedia.com
 0.0.0.0 htlb.casalemedia.com
 0.0.0.0 ssum-sec.casalemedia.com
 0.0.0.0 at.cbsi.com
@@ -305,6 +307,7 @@
 0.0.0.0 idx.liadm.com
 0.0.0.0 snap.licdn.com
 0.0.0.0 ap.lijit.com
+0.0.0.0 ce.lijit.com
 0.0.0.0 px.ads.linkedin.com
 0.0.0.0 login.live.com
 0.0.0.0 onedrive.live.com
@@ -434,6 +437,7 @@
 0.0.0.0 pixel-apac.rubiconproject.com
 0.0.0.0 prebid-server.rubiconproject.com
 0.0.0.0 secure-assets.rubiconproject.com
+0.0.0.0 token.rubiconproject.com
 0.0.0.0 runative-syndicate.com
 0.0.0.0 cdn.runative-syndicate.com
 0.0.0.0 dls.di.atlas.samsung.com
@@ -651,6 +655,7 @@
 0.0.0.0 s.yjtag.jp
 0.0.0.0 j.zucks.net.zimg.jp
 0.0.0.0 b2b.ainews.kz
+0.0.0.0 cdata.carambo.la
 0.0.0.0 app.link
 0.0.0.0 cdn.iframe.ly
 0.0.0.0 pp.vk.me
@@ -784,6 +789,7 @@
 0.0.0.0 rtb.openx.net
 0.0.0.0 snopes-d.openx.net
 0.0.0.0 u.openx.net
+0.0.0.0 us-u.openx.net
 0.0.0.0 wikia-d.openx.net
 0.0.0.0 yieldlove-d.openx.net
 0.0.0.0 rum-static.pingdom.net
