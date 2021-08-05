@@ -141,6 +141,7 @@
 0.0.0.0 rtax.criteo.com
 0.0.0.0 sslwidget.criteo.com
 0.0.0.0 grs.dbankcloud.com
+0.0.0.0 sm.dell.com
 0.0.0.0 api.demandbase.com
 0.0.0.0 autocomplete.demandbase.com
 0.0.0.0 denetsuk.com
@@ -158,6 +159,7 @@
 0.0.0.0 messaging.api.drift.com
 0.0.0.0 presence.api.drift.com
 0.0.0.0 targeting.api.drift.com
+0.0.0.0 js.driftt.com
 0.0.0.0 cdn-eu.dynamicyield.com
 0.0.0.0 rcom-eu.dynamicyield.com
 0.0.0.0 st-eu.dynamicyield.com
@@ -165,6 +167,7 @@
 0.0.0.0 hb.emxdgt.com
 0.0.0.0 img.en25.com
 0.0.0.0 enormousearth.com
+0.0.0.0 nexus.ensighten.com
 0.0.0.0 etahub.com
 0.0.0.0 c.evidon.com
 0.0.0.0 loadus.exelator.com
@@ -238,10 +241,13 @@
 0.0.0.0 eaf2c06282c5188e6602eca6adba3328.safeframe.googlesyndication.com
 0.0.0.0 f1d23f4a0b3a085867baf2a808aceaca.safeframe.googlesyndication.com
 0.0.0.0 tpc.googlesyndication.com
+0.0.0.0 googletagmanager.com
 0.0.0.0 www.googletagmanager.com
+0.0.0.0 googletagservices.com
 0.0.0.0 www.googletagservices.com
 0.0.0.0 graizoah.com
 0.0.0.0 csi.gstatic.com
+0.0.0.0 4huxm3t4q5up3bj3dgnky6sxcrp32pup-c2r.metric.gstatic.com
 0.0.0.0 568862-android-ds.metric.gstatic.com
 0.0.0.0 937380-android-ds.metric.gstatic.com
 0.0.0.0 b0305003-cf2bnyrypw4vgsra-c2r-ds.metric.gstatic.com
@@ -674,6 +680,7 @@
 0.0.0.0 sitefinity-insight.azureedge.net
 0.0.0.0 surveyjs.azureedge.net
 0.0.0.0 tbcdnwidgetsprod.azureedge.net
+0.0.0.0 thermaltake.azureedge.net
 0.0.0.0 telemetry-in.battle.net
 0.0.0.0 grid.bidswitch.net
 0.0.0.0 x.bidswitch.net
@@ -703,6 +710,7 @@
 0.0.0.0 5922505.fls.doubleclick.net
 0.0.0.0 cm.g.doubleclick.net
 0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 googleads4.g.doubleclick.net
 0.0.0.0 pubads.g.doubleclick.net
 0.0.0.0 secureads.g.doubleclick.net
 0.0.0.0 securepubads.g.doubleclick.net
@@ -859,6 +867,7 @@
 0.0.0.0 autocontext.begun.ru
 0.0.0.0 bs-dante.ru
 0.0.0.0 adviser.bs-dante.ru
+0.0.0.0 cdn.callibri.ru
 0.0.0.0 stat.clickfrog.ru
 0.0.0.0 rtb.com.ru
 0.0.0.0 cszz.ru
