@@ -61,6 +61,12 @@
 0.0.0.0 brilliant.applinzi.com
 0.0.0.0 mixture.applinzi.com
 0.0.0.0 postback.applinzi.com
+0.0.0.0 d.applovin.com
+0.0.0.0 ms.applovin.com
+0.0.0.0 rt.applovin.com
+0.0.0.0 d.applvn.com
+0.0.0.0 ms.applvn.com
+0.0.0.0 rt.applvn.com
 0.0.0.0 attitude.appmeasurements.com
 0.0.0.0 health.appmeasurements.com
 0.0.0.0 reign.appmeasurements.com
@@ -147,6 +153,7 @@
 0.0.0.0 denetsuk.com
 0.0.0.0 c.deployads.com
 0.0.0.0 tags-cdn.deployads.com
+0.0.0.0 file-service-default-114c67af0763a8a98e770ff3ee495371.fra1.digitaloceanspaces.com
 0.0.0.0 referrer.disqus.com
 0.0.0.0 glitter.services.disqus.com
 0.0.0.0 links.services.disqus.com
@@ -194,6 +201,7 @@
 0.0.0.0 clients6.google.com
 0.0.0.0 addons-pa.clients6.google.com
 0.0.0.0 appsitemsuggest-pa.clients6.google.com
+0.0.0.0 blobcomments-pa.clients6.google.com
 0.0.0.0 chat-pa.clients6.google.com
 0.0.0.0 developerprofiles-pa.clients6.google.com
 0.0.0.0 espresso-pa.clients6.google.com
@@ -343,6 +351,7 @@
 0.0.0.0 vortex.data.microsoft.com
 0.0.0.0 go.microsoft.com
 0.0.0.0 iecvlist.microsoft.com
+0.0.0.0 ieonline.microsoft.com
 0.0.0.0 fe3cr.delivery.mp.microsoft.com
 0.0.0.0 displaycatalog.mp.microsoft.com
 0.0.0.0 geo.prod.do.dsp.mp.microsoft.com
@@ -605,6 +614,7 @@
 0.0.0.0 pr-bh.ybp.yahoo.com
 0.0.0.0 bi.yeshen.com
 0.0.0.0 launcherus.yeshen.com
+0.0.0.0 ymetrica1.com
 0.0.0.0 s.youtube.com
 0.0.0.0 mxvp-feature-toggle-prod-1.zenmxapps.com
 0.0.0.0 script.ioam.de
