@@ -206,6 +206,7 @@
 0.0.0.0 developerprofiles-pa.clients6.google.com
 0.0.0.0 espresso-pa.clients6.google.com
 0.0.0.0 people-pa.clients6.google.com
+0.0.0.0 peoplestack-pa.clients6.google.com
 0.0.0.0 peoplestackwebexperiments-pa.clients6.google.com
 0.0.0.0 realtimesupport.clients6.google.com
 0.0.0.0 scone-pa.clients6.google.com
@@ -279,6 +280,7 @@
 0.0.0.0 s10.histats.com
 0.0.0.0 script.hotjar.com
 0.0.0.0 static.hotjar.com
+0.0.0.0 vars.hotjar.com
 0.0.0.0 js.hs-banner.com
 0.0.0.0 js.hs-scripts.com
 0.0.0.0 mpsnare.iesnare.com
@@ -656,6 +658,7 @@
 0.0.0.0 analytics.app-adforce.jp
 0.0.0.0 imp-adedge.i-mobile.co.jp
 0.0.0.0 spad.i-mobile.co.jp
+0.0.0.0 hbb.afl.rakuten.co.jp
 0.0.0.0 i2ad.jp
 0.0.0.0 img.ak.impact-ad.jp
 0.0.0.0 uh.nakanohito.jp
@@ -686,6 +689,7 @@
 0.0.0.0 px.adhigh.net
 0.0.0.0 csharpcorner.azureedge.net
 0.0.0.0 fgs-cdn.azureedge.net
+0.0.0.0 mmixstaticassets.azureedge.net
 0.0.0.0 onecs-live.azureedge.net
 0.0.0.0 sitefinity-insight.azureedge.net
 0.0.0.0 surveyjs.azureedge.net
