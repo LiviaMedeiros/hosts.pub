@@ -27,6 +27,7 @@
 0.0.0.0 secure.adnxs.com
 0.0.0.0 cdn.adpushup.com
 0.0.0.0 delivery.adrecover.com
+0.0.0.0 d.adroll.com
 0.0.0.0 s.adroll.com
 0.0.0.0 static.ads-twitter.com
 0.0.0.0 dt.adsafeprotected.com
@@ -92,6 +93,9 @@
 0.0.0.0 c.bing.com
 0.0.0.0 www.bing.com
 0.0.0.0 cdn.bizible.com
+0.0.0.0 imp2.bizographics.com
+0.0.0.0 sjs.bizographics.com
+0.0.0.0 www.bizographics.com
 0.0.0.0 tags.bkrtx.com
 0.0.0.0 ads.blogherads.com
 0.0.0.0 stags.bluekai.com
@@ -309,6 +313,8 @@
 0.0.0.0 ksn-file-geo.kaspersky-labs.com
 0.0.0.0 dc1.ksn.kaspersky-labs.com
 0.0.0.0 dc1-file.ksn.kaspersky-labs.com
+0.0.0.0 scripts.kissmetrics.com
+0.0.0.0 trk.kissmetrics.com
 0.0.0.0 a.klaviyo.com
 0.0.0.0 static.klaviyo.com
 0.0.0.0 api.lentainform.com
@@ -405,6 +411,7 @@
 0.0.0.0 a.opmnstr.com
 0.0.0.0 cdn.optimizely.com
 0.0.0.0 cdn-pci.optimizely.com
+0.0.0.0 341578140.log.optimizely.com
 0.0.0.0 logx.optimizely.com
 0.0.0.0 a.optmnstr.com
 0.0.0.0 otm-r.com
@@ -525,6 +532,7 @@
 0.0.0.0 tsyndicate.com
 0.0.0.0 d.turn.com
 0.0.0.0 ads-api.twitter.com
+0.0.0.0 analytics.twitter.com
 0.0.0.0 syndication.twitter.com
 0.0.0.0 homegeton.ucoz.com
 0.0.0.0 hb.undertone.com
@@ -613,6 +621,7 @@
 0.0.0.0 maps.windows.com
 0.0.0.0 pixel.wp.com
 0.0.0.0 stats.wp.com
+0.0.0.0 ads.yahoo.com
 0.0.0.0 ups.analytics.yahoo.com
 0.0.0.0 analytics.query.yahoo.com
 0.0.0.0 c2shb.ssp.yahoo.com
