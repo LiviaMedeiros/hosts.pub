@@ -22,6 +22,7 @@
 0.0.0.0 app.adjust.com
 0.0.0.0 tagan.adlightning.com
 0.0.0.0 data16.adlooxtracking.com
+0.0.0.0 cs.admanmedia.com
 0.0.0.0 acdn.adnxs.com
 0.0.0.0 ib.adnxs.com
 0.0.0.0 secure.adnxs.com
@@ -293,6 +294,13 @@
 0.0.0.0 cdn-gl.imrworldwide.com
 0.0.0.0 0opudicsekraihvb1bjb6yllfnd6m1612635724.nuid.imrworldwide.com
 0.0.0.0 4crwatnnvikekdce1c89sveqasdae1613850334.nuid.imrworldwide.com
+0.0.0.0 4gyez1dacqp34vgv65cdaejf7vkto1628710505.nuid.imrworldwide.com
+0.0.0.0 6wjnprs96mxej92iwdzjoqrk8uyso1628710511.nuid.imrworldwide.com
+0.0.0.0 bngxqkop6mcjqfnb9h8k5ke9zszqw1628711254.nuid.imrworldwide.com
+0.0.0.0 cernjduprghjpxjapgckrwcnkwhxy1628710479.nuid.imrworldwide.com
+0.0.0.0 i3nsgnl6v6molkikjvb78bvcd7dtz1628710620.nuid.imrworldwide.com
+0.0.0.0 njouhrk4waem5xfsa662773kpahje1628717414.nuid.imrworldwide.com
+0.0.0.0 ritul8lek7kx6kbhkt4rcjbs7iuqu1628710617.nuid.imrworldwide.com
 0.0.0.0 secure-dcr.imrworldwide.com
 0.0.0.0 secure-us.imrworldwide.com
 0.0.0.0 js-sec.indexww.com
@@ -348,6 +356,7 @@
 0.0.0.0 glyph.medium.com
 0.0.0.0 miro.medium.com
 0.0.0.0 panjeh.medium.com
+0.0.0.0 megadeliveryn.com
 0.0.0.0 a.mgid.com
 0.0.0.0 jsc.mgid.com
 0.0.0.0 prebid.mgid.com
@@ -404,6 +413,7 @@
 0.0.0.0 hb-api.omnitagjs.com
 0.0.0.0 onesignal.com
 0.0.0.0 cdn.onesignal.com
+0.0.0.0 onetag-sys.com
 0.0.0.0 geolocation.onetrust.com
 0.0.0.0 onmarshtompor.com
 0.0.0.0 ontetag-sys.com
@@ -429,6 +439,7 @@
 0.0.0.0 t.paypal.com
 0.0.0.0 cdn.petametrics.com
 0.0.0.0 static-ru.plista.com
+0.0.0.0 jadserve.postrelease.com
 0.0.0.0 propeller-tracking.com
 0.0.0.0 ptoushoa.com
 0.0.0.0 ads.pubmatic.com
@@ -490,9 +501,11 @@
 0.0.0.0 pixel-sync.sitescout.com
 0.0.0.0 s.skimresources.com
 0.0.0.0 prg.smartadserver.com
+0.0.0.0 ssbsync.smartadserver.com
 0.0.0.0 www.snopes.com
 0.0.0.0 apex.go.sonobi.com
 0.0.0.0 mtrx.go.sonobi.com
+0.0.0.0 sync.go.sonobi.com
 0.0.0.0 cdn.speedcurve.com
 0.0.0.0 search.spotxchange.com
 0.0.0.0 sync.search.spotxchange.com
@@ -647,6 +660,7 @@
 0.0.0.0 app.adjust.net.in
 0.0.0.0 ac.ajur.info
 0.0.0.0 analytics.bitrix.info
+0.0.0.0 sync.1rx.io
 0.0.0.0 tag.1rx.io
 0.0.0.0 widget.beop.io
 0.0.0.0 match.prod.bidr.io
@@ -743,6 +757,7 @@
 0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 stats.g.doubleclick.net
 0.0.0.0 static.doubleclick.net
+0.0.0.0 tag.durationmedia.net
 0.0.0.0 me-cdn.effectivemeasure.net
 0.0.0.0 sync-tm.everesttech.net
 0.0.0.0 go.ezoic.net
@@ -973,6 +988,7 @@
 0.0.0.0 an.yandex.ru
 0.0.0.0 clck.yandex.ru
 0.0.0.0 informer.yandex.ru
+0.0.0.0 aflt.market.yandex.ru
 0.0.0.0 sovetnik.market.yandex.ru
 0.0.0.0 mc.yandex.ru
 0.0.0.0 log.strm.yandex.ru
