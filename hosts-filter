@@ -305,6 +305,8 @@
 0.0.0.0 secure-us.imrworldwide.com
 0.0.0.0 js-sec.indexww.com
 0.0.0.0 inpagepush.com
+0.0.0.0 i.isnssdk.com
+0.0.0.0 mon.isnssdk.com
 0.0.0.0 cdn.iubenda.com
 0.0.0.0 rose.ixbt.com
 0.0.0.0 cdn.izooto.com
@@ -620,6 +622,7 @@
 0.0.0.0 www.cdn.viber.com
 0.0.0.0 cdn.viglink.com
 0.0.0.0 vk.com
+0.0.0.0 api.vk.com
 0.0.0.0 login.vk.com
 0.0.0.0 m.vk.com
 0.0.0.0 st4-11.vk.com
