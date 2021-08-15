@@ -327,6 +327,7 @@
 0.0.0.0 trk.kissmetrics.com
 0.0.0.0 a.klaviyo.com
 0.0.0.0 static.klaviyo.com
+0.0.0.0 ko-fi.com
 0.0.0.0 api.lentainform.com
 0.0.0.0 autocounter.lentainform.com
 0.0.0.0 cm.lentainform.com
@@ -426,6 +427,7 @@
 0.0.0.0 341578140.log.optimizely.com
 0.0.0.0 logx.optimizely.com
 0.0.0.0 a.optmnstr.com
+0.0.0.0 cmp.osano.com
 0.0.0.0 otm-r.com
 0.0.0.0 sync.dmp.otm-r.com
 0.0.0.0 ad-eu.p.otm-r.com
@@ -763,6 +765,7 @@
 0.0.0.0 tag.durationmedia.net
 0.0.0.0 me-cdn.effectivemeasure.net
 0.0.0.0 sync-tm.everesttech.net
+0.0.0.0 g.ezoic.net
 0.0.0.0 go.ezoic.net
 0.0.0.0 connect.facebook.net
 0.0.0.0 ozon2-st.secure.footprint.net
@@ -828,6 +831,7 @@
 0.0.0.0 aetv.tt.omtrdc.net
 0.0.0.0 microsoftmscompoc.tt.omtrdc.net
 0.0.0.0 nvidia.tt.omtrdc.net
+0.0.0.0 pluralsight.tt.omtrdc.net
 0.0.0.0 redhat.tt.omtrdc.net
 0.0.0.0 samsungcis.tt.omtrdc.net
 0.0.0.0 twitterinc.tt.omtrdc.net
