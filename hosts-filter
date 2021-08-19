@@ -16,7 +16,12 @@
 0.0.0.0 ssc-cms.33across.com
 0.0.0.0 c.aaxads.com
 0.0.0.0 abdurantom.com
+0.0.0.0 api-public.addthis.com
+0.0.0.0 m.addthis.com
 0.0.0.0 s7.addthis.com
+0.0.0.0 su.addthis.com
+0.0.0.0 cache.addthiscdn.com
+0.0.0.0 m.addthisedge.com
 0.0.0.0 static.addtoany.com
 0.0.0.0 cm.adgrx.com
 0.0.0.0 app.adjust.com
@@ -480,6 +485,7 @@
 0.0.0.0 token.rubiconproject.com
 0.0.0.0 runative-syndicate.com
 0.0.0.0 cdn.runative-syndicate.com
+0.0.0.0 pa.rxthdr.com
 0.0.0.0 dls.di.atlas.samsung.com
 0.0.0.0 b.scorecardresearch.com
 0.0.0.0 sb.scorecardresearch.com
