@@ -6,6 +6,7 @@
 0.0.0.0 cdn.districtm.ca
 0.0.0.0 api.popin.cc
 0.0.0.0 grs.dbankcloud.cn
+0.0.0.0 j.6sc.co
 0.0.0.0 green.erne.co
 0.0.0.0 cdn.keywee.co
 0.0.0.0 eb2.3lift.com
@@ -258,7 +259,9 @@
 0.0.0.0 cd09c44a921ea06b6267798cd4e17f7b.safeframe.googlesyndication.com
 0.0.0.0 ce1a385f188995f5dbd115bc5eae5715.safeframe.googlesyndication.com
 0.0.0.0 de83112b7fdc8c8ca3ca8e3f9ee150d2.safeframe.googlesyndication.com
+0.0.0.0 e0c08160511f4463986102d5ede37a66.safeframe.googlesyndication.com
 0.0.0.0 eaf2c06282c5188e6602eca6adba3328.safeframe.googlesyndication.com
+0.0.0.0 ede8b5a6c15e74c5ea9fecb37df3d334.safeframe.googlesyndication.com
 0.0.0.0 f1d23f4a0b3a085867baf2a808aceaca.safeframe.googlesyndication.com
 0.0.0.0 tpc.googlesyndication.com
 0.0.0.0 googletagmanager.com
@@ -386,6 +389,7 @@
 0.0.0.0 target.microsoft.com
 0.0.0.0 watson.telemetry.microsoft.com
 0.0.0.0 www.microvirt.com
+0.0.0.0 pixel.mintigo.com
 0.0.0.0 m.mixadvert.com
 0.0.0.0 api.mixpanel.com
 0.0.0.0 decide.mixpanel.com
