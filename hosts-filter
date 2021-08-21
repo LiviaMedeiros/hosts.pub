@@ -402,7 +402,9 @@
 0.0.0.0 odr.mookie1.com
 0.0.0.0 ads.mopub.com
 0.0.0.0 cdn.mouseflow.com
+0.0.0.0 classify-client.services.mozilla.com
 0.0.0.0 location.services.mozilla.com
+0.0.0.0 push.services.mozilla.com
 0.0.0.0 firefox.settings.services.mozilla.com
 0.0.0.0 shavar.services.mozilla.com
 0.0.0.0 www.msftconnecttest.com
@@ -729,6 +731,7 @@
 0.0.0.0 adx.adform.net
 0.0.0.0 c1.adform.net
 0.0.0.0 px.adhigh.net
+0.0.0.0 engine.adzerk.net
 0.0.0.0 csharpcorner.azureedge.net
 0.0.0.0 fgs-cdn.azureedge.net
 0.0.0.0 mmixstaticassets.azureedge.net
@@ -789,6 +792,7 @@
 0.0.0.0 phar.gu-web.net
 0.0.0.0 js.hs-analytics.net
 0.0.0.0 js.hscollectedforms.net
+0.0.0.0 www.jqueryscript.net
 0.0.0.0 crbcdn.jsfiddle.net
 0.0.0.0 licensebuttons.net
 0.0.0.0 blogroll.livedoor.net
@@ -905,6 +909,7 @@
 0.0.0.0 sofia.trustx.org
 0.0.0.0 mc.webvisor.org
 0.0.0.0 intake-analytics.wikimedia.org
+0.0.0.0 instant.page
 0.0.0.0 gaua.hit.gemius.pl
 0.0.0.0 something.00ed983688.kacwyb.pl
 0.0.0.0 www.00ed983688.kacwyb.pl
