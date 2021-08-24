@@ -410,6 +410,7 @@
 0.0.0.0 push.services.mozilla.com
 0.0.0.0 firefox.settings.services.mozilla.com
 0.0.0.0 shavar.services.mozilla.com
+0.0.0.0 stun.services.mozilla.com
 0.0.0.0 www.msftconnecttest.com
 0.0.0.0 dns.msftncsi.com
 0.0.0.0 c.msn.com
