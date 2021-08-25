@@ -88,6 +88,7 @@
 0.0.0.0 stat.appsgeyser.com
 0.0.0.0 tracking.apptrackerlink.com
 0.0.0.0 ad.atdmt.com
+0.0.0.0 sdk.audienceplay.com
 0.0.0.0 hm.baidu.com
 0.0.0.0 www.bandisoft.com
 0.0.0.0 st.bebi.com
@@ -206,6 +207,7 @@
 0.0.0.0 web.facebook.com
 0.0.0.0 www.facebook.com
 0.0.0.0 www.fastly-insights.com
+0.0.0.0 geoip-js.com
 0.0.0.0 collector.githubapp.com
 0.0.0.0 sw88.go.com
 0.0.0.0 google-analytics.com
@@ -552,6 +554,7 @@
 0.0.0.0 cdn.tinypass.com
 0.0.0.0 dashboard.tinypass.com
 0.0.0.0 tags.tiqcdn.com
+0.0.0.0 cdn.tpdads.com
 0.0.0.0 trackjs.com
 0.0.0.0 syndication.traffichaus.com
 0.0.0.0 ads.traffichunt.com
@@ -690,6 +693,7 @@
 0.0.0.0 cdn.districtm.io
 0.0.0.0 dmx.districtm.io
 0.0.0.0 cdn.lodeo.io
+0.0.0.0 log.logicanalytics.io
 0.0.0.0 cdn.onthe.io
 0.0.0.0 tt.onthe.io
 0.0.0.0 ttru.onthe.io
@@ -991,6 +995,7 @@
 0.0.0.0 recreativ.ru
 0.0.0.0 track.recreativ.ru
 0.0.0.0 cdn.retailrocket.ru
+0.0.0.0 a.ria.ru
 0.0.0.0 warning.rt.ru
 0.0.0.0 adfox-hb-bidder.rutarget.ru
 0.0.0.0 aidata-sync.rutarget.ru
