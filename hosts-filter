@@ -60,6 +60,7 @@
 0.0.0.0 aax.amazon-adsystem.com
 0.0.0.0 c.amazon-adsystem.com
 0.0.0.0 s.amazon-adsystem.com
+0.0.0.0 ws-na.amazon-adsystem.com
 0.0.0.0 fls-na.amazon.com
 0.0.0.0 api.amplitude.com
 0.0.0.0 app-measurement.com
@@ -154,6 +155,7 @@
 0.0.0.0 ssl.cdne.cpmstar.com
 0.0.0.0 firebase-settings.crashlytics.com
 0.0.0.0 settings.crashlytics.com
+0.0.0.0 script.crazyegg.com
 0.0.0.0 adfox-c2s-ams.creativecdn.com
 0.0.0.0 prebid-eu.creativecdn.com
 0.0.0.0 bidder.criteo.com
@@ -298,6 +300,7 @@
 0.0.0.0 beacons5.gvt3.com
 0.0.0.0 cdn.heapanalytics.com
 0.0.0.0 my.hellobar.com
+0.0.0.0 stack-exchange-dynamic-ads.herokuapp.com
 0.0.0.0 s10.histats.com
 0.0.0.0 script.hotjar.com
 0.0.0.0 static.hotjar.com
@@ -493,6 +496,7 @@
 0.0.0.0 p.rfihub.com
 0.0.0.0 mid.rkdms.com
 0.0.0.0 api.rlcdn.com
+0.0.0.0 cdn-plus.roxot-panel.com
 0.0.0.0 beacon-us-west.rubiconproject.com
 0.0.0.0 eus.rubiconproject.com
 0.0.0.0 fastlane.rubiconproject.com
@@ -698,6 +702,7 @@
 0.0.0.0 widget.beop.io
 0.0.0.0 match.prod.bidr.io
 0.0.0.0 api2.branch.io
+0.0.0.0 cdn.branch.io
 0.0.0.0 cdn.districtm.io
 0.0.0.0 dmx.districtm.io
 0.0.0.0 cdn.lodeo.io
