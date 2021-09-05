@@ -477,6 +477,7 @@
 0.0.0.0 b.stats.paypal.com
 0.0.0.0 t.paypal.com
 0.0.0.0 cdn.petametrics.com
+0.0.0.0 via.placeholder.com
 0.0.0.0 static-ru.plista.com
 0.0.0.0 jadserve.postrelease.com
 0.0.0.0 propeller-tracking.com
@@ -712,6 +713,7 @@
 0.0.0.0 match.prod.bidr.io
 0.0.0.0 api2.branch.io
 0.0.0.0 cdn.branch.io
+0.0.0.0 app.codefund.io
 0.0.0.0 cdn.districtm.io
 0.0.0.0 dmx.districtm.io
 0.0.0.0 cdn.lodeo.io
