@@ -474,6 +474,7 @@
 0.0.0.0 images.outbrainimg.com
 0.0.0.0 log.outbrainimg.com
 0.0.0.0 eas.outlook.com
+0.0.0.0 cdn.parsely.com
 0.0.0.0 pl14969850.passeura.com
 0.0.0.0 b.stats.paypal.com
 0.0.0.0 t.paypal.com
@@ -539,6 +540,7 @@
 0.0.0.0 e.serverbid.com
 0.0.0.0 bs.serving-sys.com
 0.0.0.0 conv-blizzard-emea.cd.serving-sys.com
+0.0.0.0 cloud.setupad.com
 0.0.0.0 platform-api.sharethis.com
 0.0.0.0 w.sharethis.com
 0.0.0.0 ws.sharethis.com
@@ -685,6 +687,7 @@
 0.0.0.0 u.startup.mobile.webvisor.com
 0.0.0.0 beacon.wikia-services.com
 0.0.0.0 maps.windows.com
+0.0.0.0 journey.wired.com
 0.0.0.0 pixel.wp.com
 0.0.0.0 stats.wp.com
 0.0.0.0 ads.yahoo.com
@@ -887,6 +890,7 @@
 0.0.0.0 ampconfig.sc.omtrdc.net
 0.0.0.0 nvda.d2.sc.omtrdc.net
 0.0.0.0 abcnews.tt.omtrdc.net
+0.0.0.0 adobe.tt.omtrdc.net
 0.0.0.0 aetv.tt.omtrdc.net
 0.0.0.0 microsoftmscompoc.tt.omtrdc.net
 0.0.0.0 nvidia.tt.omtrdc.net
