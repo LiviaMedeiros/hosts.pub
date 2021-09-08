@@ -719,6 +719,7 @@
 0.0.0.0 analytics.bitrix.info
 0.0.0.0 sync.1rx.io
 0.0.0.0 tag.1rx.io
+0.0.0.0 cdn.adapex.io
 0.0.0.0 widget.beop.io
 0.0.0.0 match.prod.bidr.io
 0.0.0.0 api2.branch.io
@@ -961,6 +962,7 @@
 0.0.0.0 mc.webvisor.org
 0.0.0.0 intake-analytics.wikimedia.org
 0.0.0.0 instant.page
+0.0.0.0 garu.hit.gemius.pl
 0.0.0.0 gaua.hit.gemius.pl
 0.0.0.0 something.00ed983688.kacwyb.pl
 0.0.0.0 www.00ed983688.kacwyb.pl
