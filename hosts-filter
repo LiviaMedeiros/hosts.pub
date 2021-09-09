@@ -62,8 +62,10 @@
 0.0.0.0 aliradar.com
 0.0.0.0 aax.amazon-adsystem.com
 0.0.0.0 c.amazon-adsystem.com
+0.0.0.0 rcm-na.amazon-adsystem.com
 0.0.0.0 s.amazon-adsystem.com
 0.0.0.0 ws-na.amazon-adsystem.com
+0.0.0.0 z-na.amazon-adsystem.com
 0.0.0.0 fls-na.amazon.com
 0.0.0.0 api.amplitude.com
 0.0.0.0 app-measurement.com
@@ -503,6 +505,7 @@
 0.0.0.0 a.realsrv.com
 0.0.0.0 main.realsrv.com
 0.0.0.0 xml.realtime-bid.com
+0.0.0.0 click.redditmail.com
 0.0.0.0 events.redditmedia.com
 0.0.0.0 ma.redhat.com
 0.0.0.0 r.remarketingpixel.com
@@ -961,6 +964,7 @@
 0.0.0.0 sofia.trustx.org
 0.0.0.0 mc.webvisor.org
 0.0.0.0 intake-analytics.wikimedia.org
+0.0.0.0 intake-logging.wikimedia.org
 0.0.0.0 instant.page
 0.0.0.0 garu.hit.gemius.pl
 0.0.0.0 gaua.hit.gemius.pl
