@@ -60,6 +60,7 @@
 0.0.0.0 pbs.alfasense.com
 0.0.0.0 s.click.aliexpress.com
 0.0.0.0 aliradar.com
+0.0.0.0 aan.amazon-adsystem.com
 0.0.0.0 aax.amazon-adsystem.com
 0.0.0.0 c.amazon-adsystem.com
 0.0.0.0 rcm-na.amazon-adsystem.com
@@ -94,6 +95,7 @@
 0.0.0.0 t.appsflyer.com
 0.0.0.0 stat.appsgeyser.com
 0.0.0.0 tracking.apptrackerlink.com
+0.0.0.0 telemetry.art19.com
 0.0.0.0 ad.atdmt.com
 0.0.0.0 sdk.audienceplay.com
 0.0.0.0 hm.baidu.com
@@ -307,6 +309,7 @@
 0.0.0.0 beacons5.gvt2.com
 0.0.0.0 beacons.gcp.gvt2.com
 0.0.0.0 beacons5.gvt3.com
+0.0.0.0 heapanalytics.com
 0.0.0.0 cdn.heapanalytics.com
 0.0.0.0 my.hellobar.com
 0.0.0.0 stack-exchange-dynamic-ads.herokuapp.com
@@ -393,6 +396,7 @@
 0.0.0.0 miro.medium.com
 0.0.0.0 panjeh.medium.com
 0.0.0.0 megadeliveryn.com
+0.0.0.0 stats.merriam-webster.com
 0.0.0.0 a.mgid.com
 0.0.0.0 jsc.mgid.com
 0.0.0.0 prebid.mgid.com
@@ -428,6 +432,7 @@
 0.0.0.0 ads.mopub.com
 0.0.0.0 cdn.mouseflow.com
 0.0.0.0 classify-client.services.mozilla.com
+0.0.0.0 contile.services.mozilla.com
 0.0.0.0 location.services.mozilla.com
 0.0.0.0 push.services.mozilla.com
 0.0.0.0 firefox.settings.services.mozilla.com
