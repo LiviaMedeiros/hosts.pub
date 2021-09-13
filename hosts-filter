@@ -70,6 +70,7 @@
 0.0.0.0 z-na.amazon-adsystem.com
 0.0.0.0 fls-na.amazon.com
 0.0.0.0 api.amplitude.com
+0.0.0.0 pixel.anyclip.com
 0.0.0.0 app-measurement.com
 0.0.0.0 fast.appcues.com
 0.0.0.0 securemetrics.apple.com
@@ -215,6 +216,7 @@
 0.0.0.0 developers.facebook.com
 0.0.0.0 edge-mqtt.facebook.com
 0.0.0.0 graph.facebook.com
+0.0.0.0 m.facebook.com
 0.0.0.0 mqtt-mini.facebook.com
 0.0.0.0 staticxx.facebook.com
 0.0.0.0 web.facebook.com
@@ -569,6 +571,7 @@
 0.0.0.0 cdn.speedcurve.com
 0.0.0.0 search.spotxchange.com
 0.0.0.0 sync.search.spotxchange.com
+0.0.0.0 vid.springserve.com
 0.0.0.0 sync.srv.stackadapt.com
 0.0.0.0 cdn.stat-rock.com
 0.0.0.0 www.statcounter.com
@@ -916,6 +919,7 @@
 0.0.0.0 usllpic0sko7magwjo6mvfobnt5zgrrn5ha4zclid6ad58bc9907329eam1.e.aa.online-metrix.net
 0.0.0.0 eu-aa.online-metrix.net
 0.0.0.0 h.online-metrix.net
+0.0.0.0 borderblue-d.openx.net
 0.0.0.0 eu-u.openx.net
 0.0.0.0 idm-d.openx.net
 0.0.0.0 kiosked-d.openx.net
