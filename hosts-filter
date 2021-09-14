@@ -70,6 +70,7 @@
 0.0.0.0 z-na.amazon-adsystem.com
 0.0.0.0 fls-na.amazon.com
 0.0.0.0 api.amplitude.com
+0.0.0.0 cdn.amplitude.com
 0.0.0.0 pixel.anyclip.com
 0.0.0.0 app-measurement.com
 0.0.0.0 fast.appcues.com
@@ -427,6 +428,7 @@
 0.0.0.0 api.mixpanel.com
 0.0.0.0 decide.mixpanel.com
 0.0.0.0 194-vvc-221.mktoresp.com
+0.0.0.0 232-owy-009.mktoresp.com
 0.0.0.0 log.mmstat.com
 0.0.0.0 ru.mmstat.com
 0.0.0.0 mb.moatads.com
@@ -511,6 +513,7 @@
 0.0.0.0 edge.quantserve.com
 0.0.0.0 pixel.quantserve.com
 0.0.0.0 secure.quantserve.com
+0.0.0.0 d7d3cf2e81d293050033-3dfc0615b0fd7b49143049256703bfce.ssl.cf1.rackcdn.com
 0.0.0.0 s-bid.rmp.rakuten.com
 0.0.0.0 a.realsrv.com
 0.0.0.0 main.realsrv.com
