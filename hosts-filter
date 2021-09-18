@@ -146,6 +146,7 @@
 0.0.0.0 htlb.casalemedia.com
 0.0.0.0 ssum-sec.casalemedia.com
 0.0.0.0 at.cbsi.com
+0.0.0.0 i.cdnkimg.com
 0.0.0.0 h.cedatoplayer.com
 0.0.0.0 radar.cedexis.com
 0.0.0.0 static.chartbeat.com
@@ -230,6 +231,7 @@
 0.0.0.0 findicons.com
 0.0.0.0 flux-cdn.com
 0.0.0.0 geoip-js.com
+0.0.0.0 in.getclicky.com
 0.0.0.0 collector.githubapp.com
 0.0.0.0 sw88.go.com
 0.0.0.0 google-analytics.com
@@ -242,8 +244,13 @@
 0.0.0.0 appsitemsuggest-pa.clients6.google.com
 0.0.0.0 blobcomments-pa.clients6.google.com
 0.0.0.0 chat-pa.clients6.google.com
+0.0.0.0 cloudresourcemanager.clients6.google.com
+0.0.0.0 cloudusersettings-pa.clients6.google.com
 0.0.0.0 developerprofiles-pa.clients6.google.com
 0.0.0.0 espresso-pa.clients6.google.com
+0.0.0.0 firealerts-pa.clients6.google.com
+0.0.0.0 firebase.clients6.google.com
+0.0.0.0 mobilesdk-pa.clients6.google.com
 0.0.0.0 people-pa.clients6.google.com
 0.0.0.0 peoplestack-pa.clients6.google.com
 0.0.0.0 peoplestackwebexperiments-pa.clients6.google.com
@@ -396,6 +403,7 @@
 0.0.0.0 macblurayplayer.com
 0.0.0.0 mantodea.mantisadnetwork.com
 0.0.0.0 events.mapbox.com
+0.0.0.0 jsc.marketgid.com
 0.0.0.0 app-ab09.marketo.com
 0.0.0.0 app-ab22.marketo.com
 0.0.0.0 pixel.mathtag.com
@@ -502,6 +510,7 @@
 0.0.0.0 cdn.permutive.com
 0.0.0.0 cdn.petametrics.com
 0.0.0.0 via.placeholder.com
+0.0.0.0 config.playwire.com
 0.0.0.0 static-ru.plista.com
 0.0.0.0 jadserve.postrelease.com
 0.0.0.0 propeller-tracking.com
@@ -530,6 +539,7 @@
 0.0.0.0 r.remarketingpixel.com
 0.0.0.0 sync.republer.com
 0.0.0.0 spn-v1.revampcdn.com
+0.0.0.0 assets.revcontent.com
 0.0.0.0 p.rfihub.com
 0.0.0.0 mid.rkdms.com
 0.0.0.0 api.rlcdn.com
@@ -547,6 +557,7 @@
 0.0.0.0 cdn.runative-syndicate.com
 0.0.0.0 pa.rxthdr.com
 0.0.0.0 dls.di.atlas.samsung.com
+0.0.0.0 ced.sascdn.com
 0.0.0.0 b.scorecardresearch.com
 0.0.0.0 sb.scorecardresearch.com
 0.0.0.0 screenrant.com
@@ -573,6 +584,7 @@
 0.0.0.0 s.skimresources.com
 0.0.0.0 prg.smartadserver.com
 0.0.0.0 ssbsync.smartadserver.com
+0.0.0.0 tagmanager.smartadserver.com
 0.0.0.0 www.snopes.com
 0.0.0.0 apex.go.sonobi.com
 0.0.0.0 mtrx.go.sonobi.com
@@ -634,6 +646,7 @@
 0.0.0.0 config.unityads.unity3d.com
 0.0.0.0 sync.upravel.com
 0.0.0.0 w.uptolike.com
+0.0.0.0 cdn.usefathom.com
 0.0.0.0 userapi.com
 0.0.0.0 sun2.megafon-irkutsk.userapi.com
 0.0.0.0 pp.userapi.com
@@ -687,6 +700,7 @@
 0.0.0.0 sun9-67.userapi.com
 0.0.0.0 sun9-69.userapi.com
 0.0.0.0 sun9-75.userapi.com
+0.0.0.0 vak345.com
 0.0.0.0 aml.valuecommerce.com
 0.0.0.0 dalb.valuecommerce.com
 0.0.0.0 dalc.valuecommerce.com
@@ -800,6 +814,7 @@
 0.0.0.0 www.clarity.ms
 0.0.0.0 s0.2mdn.net
 0.0.0.0 prebid.a-mo.net
+0.0.0.0 www.acint.net
 0.0.0.0 adx.adform.net
 0.0.0.0 c1.adform.net
 0.0.0.0 px.adhigh.net
@@ -1013,6 +1028,7 @@
 0.0.0.0 ssp.adriver.ru
 0.0.0.0 sync3.adsniper.ru
 0.0.0.0 ddnk.advertur.ru
+0.0.0.0 allstat-pp.ru
 0.0.0.0 autocontext.begun.ru
 0.0.0.0 bs-dante.ru
 0.0.0.0 adviser.bs-dante.ru
@@ -1041,6 +1057,7 @@
 0.0.0.0 top.mail.ru
 0.0.0.0 top-fwz1.mail.ru
 0.0.0.0 da.ce.b5.a0.top.mail.ru
+0.0.0.0 da.cb.b3.a1.top.mail.ru
 0.0.0.0 content.rbc.medialand.ru
 0.0.0.0 matching.mobilebanner.ru
 0.0.0.0 ps.ntvk1.ru
@@ -1080,6 +1097,7 @@
 0.0.0.0 moevideo-sync.rutarget.ru
 0.0.0.0 sape-sync.rutarget.ru
 0.0.0.0 videonow-sync.rutarget.ru
+0.0.0.0 cdn-rtb.sape.ru
 0.0.0.0 pfm-stat.online.sberbank.ru
 0.0.0.0 289310.selcdn.ru
 0.0.0.0 smi2.ru
