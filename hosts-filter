@@ -233,6 +233,7 @@
 0.0.0.0 geoip-js.com
 0.0.0.0 in.getclicky.com
 0.0.0.0 collector.githubapp.com
+0.0.0.0 cdn.glitch.com
 0.0.0.0 sw88.go.com
 0.0.0.0 google-analytics.com
 0.0.0.0 ssl.google-analytics.com
@@ -568,6 +569,7 @@
 0.0.0.0 live.sekindo.com
 0.0.0.0 ads.servebom.com
 0.0.0.0 ads2.servebom.com
+0.0.0.0 m.servedby-buysellads.com
 0.0.0.0 ads.servenobid.com
 0.0.0.0 public.servenobid.com
 0.0.0.0 e.serverbid.com
@@ -590,6 +592,7 @@
 0.0.0.0 mtrx.go.sonobi.com
 0.0.0.0 sync.go.sonobi.com
 0.0.0.0 cdn.speedcurve.com
+0.0.0.0 lux.speedcurve.com
 0.0.0.0 search.spotxchange.com
 0.0.0.0 sync.search.spotxchange.com
 0.0.0.0 vid.springserve.com
@@ -751,6 +754,7 @@
 0.0.0.0 seg.ad.gt
 0.0.0.0 api-2-0.spot.im
 0.0.0.0 events-collector.spot.im
+0.0.0.0 seo.spot.im
 0.0.0.0 app.adjust.net.in
 0.0.0.0 ac.ajur.info
 0.0.0.0 analytics.bitrix.info
@@ -777,6 +781,7 @@
 0.0.0.0 cdn.segment.io
 0.0.0.0 o287829.ingest.sentry.io
 0.0.0.0 simpleanalytics.io
+0.0.0.0 cdn.simpleanalytics.io
 0.0.0.0 sdk.split.io
 0.0.0.0 ln.ameba.jp
 0.0.0.0 sy.ameblo.jp
