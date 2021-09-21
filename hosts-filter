@@ -798,6 +798,7 @@
 0.0.0.0 uh.nakanohito.jp
 0.0.0.0 api-pnote.noahapps.jp
 0.0.0.0 api-pnote2.noahapps.jp
+0.0.0.0 js.rtoaster.jp
 0.0.0.0 rt.rtoaster.jp
 0.0.0.0 abort-count.smbeat.jp
 0.0.0.0 api.smbeat.jp
@@ -877,6 +878,7 @@
 0.0.0.0 go.ezoic.net
 0.0.0.0 connect.facebook.net
 0.0.0.0 0914.global.ssl.fastly.net
+0.0.0.0 clarium.global.ssl.fastly.net
 0.0.0.0 ozon2-st.secure.footprint.net
 0.0.0.0 adm.fwmrm.net
 0.0.0.0 mssl.fwmrm.net
