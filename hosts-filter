@@ -1,6 +1,8 @@
 0.0.0.0 dm.hybrid.ai
 0.0.0.0 hbe199.hybrid.ai
 0.0.0.0 m2d.m2.ai
+0.0.0.0 cdn.rebel.ai
+0.0.0.0 secure.rebel.ai
 0.0.0.0 grs.dbankcloud.asia
 0.0.0.0 solty.biz
 0.0.0.0 rpc-php.trafficfactory.biz
@@ -153,6 +155,7 @@
 0.0.0.0 static.chartbeat.com
 0.0.0.0 web-cache.chocomaru.com
 0.0.0.0 p.cityadstrack.com
+0.0.0.0 clevernt.com
 0.0.0.0 clickiocdn.com
 0.0.0.0 s.clickiocdn.com
 0.0.0.0 ade.clmbtech.com
@@ -230,6 +233,7 @@
 0.0.0.0 vip.chps-api.fc2.com
 0.0.0.0 counter1.fc2.com
 0.0.0.0 findicons.com
+0.0.0.0 media.flixfacts.com
 0.0.0.0 flux-cdn.com
 0.0.0.0 formcrafts.com
 0.0.0.0 geoip-js.com
@@ -373,6 +377,8 @@
 0.0.0.0 rose.ixbt.com
 0.0.0.0 cdn.izooto.com
 0.0.0.0 i.mxplayer.j2inter.com
+0.0.0.0 cdn-cis.jivosite.com
+0.0.0.0 telemetry.jivosite.com
 0.0.0.0 pre.ads.justpremium.com
 0.0.0.0 entitlements.jwplayer.com
 0.0.0.0 prd.jwpltx.com
@@ -465,6 +471,7 @@
 0.0.0.0 z.moatads.com
 0.0.0.0 odr.mookie1.com
 0.0.0.0 ads.mopub.com
+0.0.0.0 i.moshimo.com
 0.0.0.0 cdn.mouseflow.com
 0.0.0.0 classify-client.services.mozilla.com
 0.0.0.0 contile.services.mozilla.com
@@ -528,6 +535,7 @@
 0.0.0.0 config.playwire.com
 0.0.0.0 static-ru.plista.com
 0.0.0.0 jadserve.postrelease.com
+0.0.0.0 log.prezi.com
 0.0.0.0 propeller-tracking.com
 0.0.0.0 ptoushoa.com
 0.0.0.0 ads.pubmatic.com
@@ -782,6 +790,7 @@
 0.0.0.0 app.codefund.io
 0.0.0.0 cdn.districtm.io
 0.0.0.0 dmx.districtm.io
+0.0.0.0 media.ethicalads.io
 0.0.0.0 cdn.lodeo.io
 0.0.0.0 log.logicanalytics.io
 0.0.0.0 cdn.onthe.io
@@ -1015,6 +1024,7 @@
 0.0.0.0 api.browser.yandex.net
 0.0.0.0 startup.mobile.yandex.net
 0.0.0.0 mobile.yandexadexchange.net
+0.0.0.0 ad.yieldlab.net
 0.0.0.0 match.adsrvr.org
 0.0.0.0 analytics.archive.org
 0.0.0.0 consentmanager.mgr.consensu.org
