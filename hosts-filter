@@ -265,6 +265,7 @@
 0.0.0.0 scone-pa.clients6.google.com
 0.0.0.0 signaler-pa.clients6.google.com
 0.0.0.0 tracedepot-pa.clients6.google.com
+0.0.0.0 fcmatch.google.com
 0.0.0.0 smartlock.google.com
 0.0.0.0 partner.googleadservices.com
 0.0.0.0 www.googleadservices.com
@@ -326,6 +327,7 @@
 0.0.0.0 rrtui5f6tpiu7ugumdxrdoqieczlqi3o-c2r.metric.gstatic.com
 0.0.0.0 ssm3ohyroj56f2pvyr4spe2vnszlqafj-c2r.metric.gstatic.com
 0.0.0.0 g2.gumgum.com
+0.0.0.0 gumroad.com
 0.0.0.0 beacons.gvt2.com
 0.0.0.0 beacons2.gvt2.com
 0.0.0.0 beacons3.gvt2.com
@@ -377,6 +379,7 @@
 0.0.0.0 rose.ixbt.com
 0.0.0.0 cdn.izooto.com
 0.0.0.0 i.mxplayer.j2inter.com
+0.0.0.0 sjremetrics.java.com
 0.0.0.0 cdn-cis.jivosite.com
 0.0.0.0 telemetry.jivosite.com
 0.0.0.0 pre.ads.justpremium.com
@@ -566,6 +569,7 @@
 0.0.0.0 p.rfihub.com
 0.0.0.0 mid.rkdms.com
 0.0.0.0 api.rlcdn.com
+0.0.0.0 cloud.roistat.com
 0.0.0.0 cdn-plus.roxot-panel.com
 0.0.0.0 beacon-us-west.rubiconproject.com
 0.0.0.0 eus.rubiconproject.com
@@ -761,6 +765,7 @@
 0.0.0.0 bi.yeshen.com
 0.0.0.0 launcherus.yeshen.com
 0.0.0.0 ymetrica1.com
+0.0.0.0 fcmatch.youtube.com
 0.0.0.0 s.youtube.com
 0.0.0.0 mxvp-feature-toggle-prod-1.zenmxapps.com
 0.0.0.0 script.ioam.de
@@ -798,6 +803,8 @@
 0.0.0.0 tt.onthe.io
 0.0.0.0 ttru.onthe.io
 0.0.0.0 tttt.onthe.io
+0.0.0.0 c.oracleinfinity.io
+0.0.0.0 dc.oracleinfinity.io
 0.0.0.0 global.proper.io
 0.0.0.0 propermessage.io
 0.0.0.0 relap.io
@@ -1063,9 +1070,11 @@
 0.0.0.0 ddnk.advertur.ru
 0.0.0.0 allstat-pp.ru
 0.0.0.0 autocontext.begun.ru
+0.0.0.0 cdn.bitrix24.ru
 0.0.0.0 bs-dante.ru
 0.0.0.0 adviser.bs-dante.ru
 0.0.0.0 cdn.callibri.ru
+0.0.0.0 cc.calltracking.ru
 0.0.0.0 stat.clickfrog.ru
 0.0.0.0 rtb.com.ru
 0.0.0.0 cszz.ru
@@ -1086,6 +1095,7 @@
 0.0.0.0 connect.mail.ru
 0.0.0.0 cdn.connect.mail.ru
 0.0.0.0 games.mail.ru
+0.0.0.0 otvet.mail.ru
 0.0.0.0 r.mail.ru
 0.0.0.0 top.mail.ru
 0.0.0.0 top-fwz1.mail.ru
