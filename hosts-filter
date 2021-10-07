@@ -169,6 +169,7 @@
 0.0.0.0 segments.company-target.com
 0.0.0.0 ads2.contentabc.com
 0.0.0.0 bh.contextweb.com
+0.0.0.0 f.convertkit.com
 0.0.0.0 cookie-cdn.cookiepro.com
 0.0.0.0 ssl.cdne.cpmstar.com
 0.0.0.0 firebase-settings.crashlytics.com
@@ -562,6 +563,7 @@
 0.0.0.0 a.realsrv.com
 0.0.0.0 main.realsrv.com
 0.0.0.0 xml.realtime-bid.com
+0.0.0.0 events.reddit.com
 0.0.0.0 click.redditmail.com
 0.0.0.0 events.redditmedia.com
 0.0.0.0 ma.redhat.com
@@ -1170,6 +1172,7 @@
 0.0.0.0 web-metrica.yandex.ru
 0.0.0.0 zen.yandex.ru
 0.0.0.0 go.zdos.ru
+0.0.0.0 www.takiparkrb.site
 0.0.0.0 ana.bandi.so
 0.0.0.0 prebid.digitru.st
 0.0.0.0 ad.mox.tv
