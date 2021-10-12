@@ -114,6 +114,7 @@
 0.0.0.0 api-new.bignox.com
 0.0.0.0 launcher-api.bignox.com
 0.0.0.0 bing.com
+0.0.0.0 bat.bing.com
 0.0.0.0 c.bing.com
 0.0.0.0 www.bing.com
 0.0.0.0 cdn.bizible.com
@@ -239,6 +240,7 @@
 0.0.0.0 media.flixfacts.com
 0.0.0.0 flux-cdn.com
 0.0.0.0 formcrafts.com
+0.0.0.0 tracking.g2crowd.com
 0.0.0.0 geoip-js.com
 0.0.0.0 in.getclicky.com
 0.0.0.0 collector.githubapp.com
@@ -539,7 +541,9 @@
 0.0.0.0 esi.amp.permutive.com
 0.0.0.0 cdn.permutive.com
 0.0.0.0 cdn.petametrics.com
+0.0.0.0 ct.pinterest.com
 0.0.0.0 via.placeholder.com
+0.0.0.0 cdn.playbuzz.com
 0.0.0.0 config.playwire.com
 0.0.0.0 static-ru.plista.com
 0.0.0.0 jadserve.postrelease.com
