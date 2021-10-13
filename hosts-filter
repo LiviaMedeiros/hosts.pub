@@ -142,6 +142,7 @@
 0.0.0.0 s3.buysellads.com
 0.0.0.0 srv.buysellads.com
 0.0.0.0 exchange.buzzoola.com
+0.0.0.0 p9-bcy.byteimg.com
 0.0.0.0 mon-va.byteoversea.com
 0.0.0.0 cdn.carbonads.com
 0.0.0.0 a2446.casalemedia.com
@@ -1098,6 +1099,7 @@
 0.0.0.0 counter.drom.ru
 0.0.0.0 yummy.drom.ru
 0.0.0.0 adservice.google.ru
+0.0.0.0 piwik-gosbar.gosuslugi.ru
 0.0.0.0 likemore-go.imgsmail.ru
 0.0.0.0 mediator.imgsmail.ru
 0.0.0.0 static-sl.insales.ru
