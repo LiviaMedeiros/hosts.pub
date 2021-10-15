@@ -284,6 +284,7 @@
 0.0.0.0 dialercallinfolookup-pa.googleapis.com
 0.0.0.0 firebaseinstallations.googleapis.com
 0.0.0.0 firebaselogging.googleapis.com
+0.0.0.0 firebaselogging-pa.googleapis.com
 0.0.0.0 footprints-pa.googleapis.com
 0.0.0.0 geller-pa.googleapis.com
 0.0.0.0 growth-pa.googleapis.com
@@ -396,6 +397,7 @@
 0.0.0.0 prd.jwpltx.com
 0.0.0.0 storage.cloud.kargo.com
 0.0.0.0 krk.kargo.com
+0.0.0.0 m-12521.fp.kaspersky-labs.com
 0.0.0.0 ru.fp.kaspersky-labs.com
 0.0.0.0 ksn-cinfo-geo.kaspersky-labs.com
 0.0.0.0 ksn-crypto-catm-geo.kaspersky-labs.com
@@ -403,6 +405,7 @@
 0.0.0.0 ksn-file-geo.kaspersky-labs.com
 0.0.0.0 dc1.ksn.kaspersky-labs.com
 0.0.0.0 dc1-file.ksn.kaspersky-labs.com
+0.0.0.0 ds.kaspersky.com
 0.0.0.0 events.kiosked.com
 0.0.0.0 scripts.kiosked.com
 0.0.0.0 scripts.kissmetrics.com
@@ -842,6 +845,7 @@
 0.0.0.0 img.ak.impact-ad.jp
 0.0.0.0 count3.makeshop.jp
 0.0.0.0 uh.nakanohito.jp
+0.0.0.0 res.ads.nicovideo.jp
 0.0.0.0 api-pnote.noahapps.jp
 0.0.0.0 api-pnote2.noahapps.jp
 0.0.0.0 js.rtoaster.jp
@@ -934,6 +938,7 @@
 0.0.0.0 bbc.gscontxt.net
 0.0.0.0 phar.gu-web.net
 0.0.0.0 js.hs-analytics.net
+0.0.0.0 js.hsadspixel.net
 0.0.0.0 js.hscollectedforms.net
 0.0.0.0 www.jqueryscript.net
 0.0.0.0 crbcdn.jsfiddle.net
