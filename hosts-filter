@@ -54,12 +54,14 @@
 0.0.0.0 hw-cdn2.adtng.com
 0.0.0.0 vz-cdn2.adtng.com
 0.0.0.0 nep.advangelists.com
+0.0.0.0 advarkads.com
 0.0.0.0 ads.adaptv.advertising.com
 0.0.0.0 adserver.adtech.advertising.com
 0.0.0.0 adserver-eu.adtech.advertising.com
 0.0.0.0 adserver-us.adtech.advertising.com
 0.0.0.0 metrics.aetn.com
 0.0.0.0 fid.agkn.com
+0.0.0.0 analytics.ahrefs.com
 0.0.0.0 certify.alexametrics.com
 0.0.0.0 certify-js.alexametrics.com
 0.0.0.0 pbs.alfasense.com
@@ -159,6 +161,7 @@
 0.0.0.0 radar.cedexis.com
 0.0.0.0 static.chartbeat.com
 0.0.0.0 web-cache.chocomaru.com
+0.0.0.0 citrix.com
 0.0.0.0 p.cityadstrack.com
 0.0.0.0 clevernt.com
 0.0.0.0 clickiocdn.com
@@ -188,6 +191,7 @@
 0.0.0.0 rtax.criteo.com
 0.0.0.0 sslwidget.criteo.com
 0.0.0.0 browser-http-intake.logs.datadoghq.com
+0.0.0.0 datawrkz.com
 0.0.0.0 grs.dbankcloud.com
 0.0.0.0 sm.dell.com
 0.0.0.0 api.demandbase.com
@@ -392,6 +396,7 @@
 0.0.0.0 sjremetrics.java.com
 0.0.0.0 cdn-cis.jivosite.com
 0.0.0.0 telemetry.jivosite.com
+0.0.0.0 joom.com
 0.0.0.0 pre.ads.justpremium.com
 0.0.0.0 entitlements.jwplayer.com
 0.0.0.0 prd.jwpltx.com
@@ -877,6 +882,7 @@
 0.0.0.0 engine.adzerk.net
 0.0.0.0 csharpcorner.azureedge.net
 0.0.0.0 fgs-cdn.azureedge.net
+0.0.0.0 imbushuos3.azureedge.net
 0.0.0.0 mmixstaticassets.azureedge.net
 0.0.0.0 onecs-live.azureedge.net
 0.0.0.0 sitefinity-insight.azureedge.net
