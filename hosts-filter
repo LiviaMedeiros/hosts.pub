@@ -545,6 +545,7 @@
 0.0.0.0 images.outbrainimg.com
 0.0.0.0 log.outbrainimg.com
 0.0.0.0 eas.outlook.com
+0.0.0.0 cdn.panelbear.com
 0.0.0.0 cdn.parsely.com
 0.0.0.0 pl14969850.passeura.com
 0.0.0.0 b.stats.paypal.com
@@ -936,6 +937,7 @@
 0.0.0.0 0914.global.ssl.fastly.net
 0.0.0.0 clarium.global.ssl.fastly.net
 0.0.0.0 ozon2-st.secure.footprint.net
+0.0.0.0 cdn.fuseplatform.net
 0.0.0.0 adm.fwmrm.net
 0.0.0.0 mssl.fwmrm.net
 0.0.0.0 crl.globalsign.net
