@@ -641,6 +641,7 @@
 0.0.0.0 apex.go.sonobi.com
 0.0.0.0 mtrx.go.sonobi.com
 0.0.0.0 sync.go.sonobi.com
+0.0.0.0 eventlogger.soundcloud.com
 0.0.0.0 cdn.speedcurve.com
 0.0.0.0 lux.speedcurve.com
 0.0.0.0 search.spotxchange.com
@@ -906,6 +907,7 @@
 0.0.0.0 d2c8v52ll5s99u.cloudfront.net
 0.0.0.0 d2oh4tlt9mrke9.cloudfront.net
 0.0.0.0 d2v02itv0y9u9t.cloudfront.net
+0.0.0.0 d26b395fwzu5fz.cloudfront.net
 0.0.0.0 dzt1km7tv28ex.cloudfront.net
 0.0.0.0 us-central1-amp-error-reporting.cloudfunctions.net
 0.0.0.0 csm.fr.eu.criteo.net
