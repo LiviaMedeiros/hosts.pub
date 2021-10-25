@@ -248,6 +248,7 @@
 0.0.0.0 media.flixfacts.com
 0.0.0.0 flux-cdn.com
 0.0.0.0 formcrafts.com
+0.0.0.0 spoor-api.ft.com
 0.0.0.0 tracking.g2crowd.com
 0.0.0.0 geoip-js.com
 0.0.0.0 in.getclicky.com
@@ -521,6 +522,7 @@
 0.0.0.0 telemetry.gfe.nvidia.com
 0.0.0.0 telemetry.nvidia.com
 0.0.0.0 offerimage.com
+0.0.0.0 static.olark.com
 0.0.0.0 a.omappapi.com
 0.0.0.0 hb-api.omnitagjs.com
 0.0.0.0 onesignal.com
@@ -875,6 +877,7 @@
 0.0.0.0 pp.vk.me
 0.0.0.0 static.aio.media
 0.0.0.0 stat.media
+0.0.0.0 codepush.appcenter.ms
 0.0.0.0 in.appcenter.ms
 0.0.0.0 www.clarity.ms
 0.0.0.0 s0.2mdn.net
@@ -1068,6 +1071,7 @@
 0.0.0.0 match.adsrvr.org
 0.0.0.0 ads-servebom-com.cdn.ampproject.org
 0.0.0.0 analytics.archive.org
+0.0.0.0 clickio.mgr.consensu.org
 0.0.0.0 consentmanager.mgr.consensu.org
 0.0.0.0 cdn.consentmanager.mgr.consensu.org
 0.0.0.0 quantcast.mgr.consensu.org
