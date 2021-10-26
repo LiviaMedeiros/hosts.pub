@@ -246,6 +246,7 @@
 0.0.0.0 counter1.fc2.com
 0.0.0.0 findicons.com
 0.0.0.0 media.flixfacts.com
+0.0.0.0 api.flocktory.com
 0.0.0.0 flux-cdn.com
 0.0.0.0 formcrafts.com
 0.0.0.0 spoor-api.ft.com
@@ -294,9 +295,11 @@
 0.0.0.0 firebaselogging-pa.googleapis.com
 0.0.0.0 footprints-pa.googleapis.com
 0.0.0.0 geller-pa.googleapis.com
+0.0.0.0 gmscompliance-pa.googleapis.com
 0.0.0.0 growth-pa.googleapis.com
 0.0.0.0 instantmessaging-pa.googleapis.com
 0.0.0.0 myphonenumbers-pa.googleapis.com
+0.0.0.0 optimizationguide-pa.googleapis.com
 0.0.0.0 passwordsleakcheck-pa.googleapis.com
 0.0.0.0 people-pa.googleapis.com
 0.0.0.0 peoplestack-pa.googleapis.com
@@ -398,6 +401,7 @@
 0.0.0.0 i.mxplayer.j2inter.com
 0.0.0.0 sjremetrics.java.com
 0.0.0.0 cdn-cis.jivosite.com
+0.0.0.0 code.jivosite.com
 0.0.0.0 telemetry.jivosite.com
 0.0.0.0 joom.com
 0.0.0.0 pre.ads.justpremium.com
@@ -563,6 +567,7 @@
 0.0.0.0 config.playwire.com
 0.0.0.0 static-ru.plista.com
 0.0.0.0 jadserve.postrelease.com
+0.0.0.0 api.pozvonim.com
 0.0.0.0 log.prezi.com
 0.0.0.0 propeller-tracking.com
 0.0.0.0 ptoushoa.com
@@ -619,6 +624,7 @@
 0.0.0.0 sedoparking.com
 0.0.0.0 cdn.segment.com
 0.0.0.0 live.sekindo.com
+0.0.0.0 browser.sentry-cdn.com
 0.0.0.0 ads.servebom.com
 0.0.0.0 ads2.servebom.com
 0.0.0.0 m.servedby-buysellads.com
@@ -813,6 +819,7 @@
 0.0.0.0 seo.spot.im
 0.0.0.0 app.adjust.net.in
 0.0.0.0 ac.ajur.info
+0.0.0.0 bitrix.info
 0.0.0.0 analytics.bitrix.info
 0.0.0.0 sync.1rx.io
 0.0.0.0 tag.1rx.io
@@ -887,6 +894,7 @@
 0.0.0.0 c1.adform.net
 0.0.0.0 px.adhigh.net
 0.0.0.0 engine.adzerk.net
+0.0.0.0 cdntaimaninactionglobal00.azureedge.net
 0.0.0.0 csharpcorner.azureedge.net
 0.0.0.0 fgs-cdn.azureedge.net
 0.0.0.0 imbushuos3.azureedge.net
@@ -1112,6 +1120,9 @@
 0.0.0.0 adviser.bs-dante.ru
 0.0.0.0 cdn.callibri.ru
 0.0.0.0 cc.calltracking.ru
+0.0.0.0 cleversite.ru
+0.0.0.0 codes.cleversite.ru
+0.0.0.0 static1.cleversite.ru
 0.0.0.0 stat.clickfrog.ru
 0.0.0.0 rtb.com.ru
 0.0.0.0 cszz.ru
