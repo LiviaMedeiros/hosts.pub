@@ -109,6 +109,8 @@
 0.0.0.0 asteriresearch.com
 0.0.0.0 ad.atdmt.com
 0.0.0.0 sdk.audienceplay.com
+0.0.0.0 b2cdn.automatad.com
+0.0.0.0 us-east-pbs.automatad.com
 0.0.0.0 hm.baidu.com
 0.0.0.0 www.bandisoft.com
 0.0.0.0 st.bebi.com
@@ -207,6 +209,7 @@
 0.0.0.0 links.services.disqus.com
 0.0.0.0 tempest.services.disqus.com
 0.0.0.0 web.hb.ad.cpe.dotomi.com
+0.0.0.0 prebid-match.dotomi.com
 0.0.0.0 www.doubleclickbygoogle.com
 0.0.0.0 conversation.api.drift.com
 0.0.0.0 customer.api.drift.com
@@ -555,6 +558,7 @@
 0.0.0.0 eas.outlook.com
 0.0.0.0 cdn.panelbear.com
 0.0.0.0 cdn.parsely.com
+0.0.0.0 images.parsely.com
 0.0.0.0 pl14969850.passeura.com
 0.0.0.0 b.stats.paypal.com
 0.0.0.0 t.paypal.com
@@ -638,12 +642,14 @@
 0.0.0.0 w.sharethis.com
 0.0.0.0 ws.sharethis.com
 0.0.0.0 btlr.sharethrough.com
+0.0.0.0 match.sharethrough.com
 0.0.0.0 scripts.simpleanalyticscdn.com
 0.0.0.0 node-p1w-eegeiw.sitescout.com
 0.0.0.0 pixel-sync.sitescout.com
 0.0.0.0 s.skimresources.com
 0.0.0.0 prg.smartadserver.com
 0.0.0.0 ssbsync.smartadserver.com
+0.0.0.0 ssbsync-global.smartadserver.com
 0.0.0.0 tagmanager.smartadserver.com
 0.0.0.0 www.snopes.com
 0.0.0.0 apex.go.sonobi.com
@@ -892,9 +898,10 @@
 0.0.0.0 www.acint.net
 0.0.0.0 adx.adform.net
 0.0.0.0 c1.adform.net
+0.0.0.0 cm.adform.net
+0.0.0.0 track.adform.net
 0.0.0.0 px.adhigh.net
 0.0.0.0 engine.adzerk.net
-0.0.0.0 cdntaimaninactionglobal00.azureedge.net
 0.0.0.0 csharpcorner.azureedge.net
 0.0.0.0 fgs-cdn.azureedge.net
 0.0.0.0 imbushuos3.azureedge.net
@@ -969,6 +976,7 @@
 0.0.0.0 blogroll.livedoor.net
 0.0.0.0 lptag.liveperson.net
 0.0.0.0 munchkin.marketo.net
+0.0.0.0 amprtc.media.net
 0.0.0.0 hbx.media.net
 0.0.0.0 prebid.media.net
 0.0.0.0 evoke-windowsservices-tas.msedge.net
@@ -1021,6 +1029,7 @@
 0.0.0.0 nvidia.tt.omtrdc.net
 0.0.0.0 pluralsight.tt.omtrdc.net
 0.0.0.0 redhat.tt.omtrdc.net
+0.0.0.0 refinitiv.tt.omtrdc.net
 0.0.0.0 samsungcis.tt.omtrdc.net
 0.0.0.0 twitterinc.tt.omtrdc.net
 0.0.0.0 aa.online-metrix.net
