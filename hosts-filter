@@ -296,6 +296,7 @@
 0.0.0.0 firebaseinstallations.googleapis.com
 0.0.0.0 firebaselogging.googleapis.com
 0.0.0.0 firebaselogging-pa.googleapis.com
+0.0.0.0 firebaseremoteconfig.googleapis.com
 0.0.0.0 footprints-pa.googleapis.com
 0.0.0.0 geller-pa.googleapis.com
 0.0.0.0 gmscompliance-pa.googleapis.com
