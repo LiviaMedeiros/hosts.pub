@@ -178,6 +178,7 @@
 0.0.0.0 cdn.codeblackbelt.com
 0.0.0.0 api.company-target.com
 0.0.0.0 segments.company-target.com
+0.0.0.0 cdm.connatix.com
 0.0.0.0 ads2.contentabc.com
 0.0.0.0 bh.contextweb.com
 0.0.0.0 f.convertkit.com
@@ -519,6 +520,7 @@
 0.0.0.0 ocsp.msocsp.com
 0.0.0.0 evt.mxplay.com
 0.0.0.0 cdn.mxpnl.com
+0.0.0.0 api.narrativ.com
 0.0.0.0 events.release.narrativ.com
 0.0.0.0 lijit2waycm.netmng.com
 0.0.0.0 js-agent.newrelic.com
@@ -553,6 +555,7 @@
 0.0.0.0 pub-eu.p.otm-r.com
 0.0.0.0 yhb.p.otm-r.com
 0.0.0.0 ssp.otm-r.com
+0.0.0.0 odb.outbrain.com
 0.0.0.0 widgets.outbrain.com
 0.0.0.0 images.outbrainimg.com
 0.0.0.0 log.outbrainimg.com
@@ -560,10 +563,13 @@
 0.0.0.0 cdn.panelbear.com
 0.0.0.0 cdn.parsely.com
 0.0.0.0 images.parsely.com
+0.0.0.0 srv.pixel.parsely.com
 0.0.0.0 pl14969850.passeura.com
 0.0.0.0 b.stats.paypal.com
 0.0.0.0 t.paypal.com
+0.0.0.0 amp.permutive.com
 0.0.0.0 esi.amp.permutive.com
+0.0.0.0 vox.amp.permutive.com
 0.0.0.0 cdn.permutive.com
 0.0.0.0 cdn.petametrics.com
 0.0.0.0 ct.pinterest.com
@@ -607,6 +613,7 @@
 0.0.0.0 api.rlcdn.com
 0.0.0.0 cloud.roistat.com
 0.0.0.0 cdn-plus.roxot-panel.com
+0.0.0.0 ads.rubiconproject.com
 0.0.0.0 beacon-us-west.rubiconproject.com
 0.0.0.0 eus.rubiconproject.com
 0.0.0.0 fastlane.rubiconproject.com
@@ -624,6 +631,7 @@
 0.0.0.0 b.scorecardresearch.com
 0.0.0.0 sb.scorecardresearch.com
 0.0.0.0 screenrant.com
+0.0.0.0 connect.scroll.com
 0.0.0.0 static.scroll.com
 0.0.0.0 static.securedtouch.com
 0.0.0.0 sedoparking.com
@@ -836,6 +844,7 @@
 0.0.0.0 api2.branch.io
 0.0.0.0 cdn.branch.io
 0.0.0.0 app.codefund.io
+0.0.0.0 cdn.concert.io
 0.0.0.0 cdn.districtm.io
 0.0.0.0 dmx.districtm.io
 0.0.0.0 media.ethicalads.io
