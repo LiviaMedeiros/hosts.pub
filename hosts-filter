@@ -309,6 +309,7 @@
 0.0.0.0 people-pa.googleapis.com
 0.0.0.0 peoplestack-pa.googleapis.com
 0.0.0.0 phonedeviceverification-pa.googleapis.com
+0.0.0.0 reminders-pa.googleapis.com
 0.0.0.0 safebrowsing.googleapis.com
 0.0.0.0 speechs3proto2-pa.googleapis.com
 0.0.0.0 telephonyspamprotect-pa.googleapis.com
@@ -660,6 +661,7 @@
 0.0.0.0 ssbsync.smartadserver.com
 0.0.0.0 ssbsync-global.smartadserver.com
 0.0.0.0 tagmanager.smartadserver.com
+0.0.0.0 cdn.snigelweb.com
 0.0.0.0 www.snopes.com
 0.0.0.0 apex.go.sonobi.com
 0.0.0.0 mtrx.go.sonobi.com
