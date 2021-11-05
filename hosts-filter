@@ -574,6 +574,7 @@
 0.0.0.0 cdn.permutive.com
 0.0.0.0 cdn.petametrics.com
 0.0.0.0 ct.pinterest.com
+0.0.0.0 log.pinterest.com
 0.0.0.0 via.placeholder.com
 0.0.0.0 cdn.playbuzz.com
 0.0.0.0 config.playwire.com
@@ -685,6 +686,7 @@
 0.0.0.0 delivery.swid.switchadhub.com
 0.0.0.0 cdn.taboola.com
 0.0.0.0 trc.taboola.com
+0.0.0.0 vidstat.taboola.com
 0.0.0.0 cdn.tagcommander.com
 0.0.0.0 tui.taobao.com
 0.0.0.0 adashx4ae.ut.taobao.com
