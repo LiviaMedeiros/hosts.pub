@@ -10,6 +10,7 @@
 0.0.0.0 adservice.google.ca
 0.0.0.0 api.popin.cc
 0.0.0.0 grs.dbankcloud.cn
+0.0.0.0 b.6sc.co
 0.0.0.0 j.6sc.co
 0.0.0.0 green.erne.co
 0.0.0.0 cdn.keywee.co
@@ -39,6 +40,7 @@
 0.0.0.0 ib.adnxs.com
 0.0.0.0 secure.adnxs.com
 0.0.0.0 cdn.adpushup.com
+0.0.0.0 e3.adpushup.com
 0.0.0.0 delivery.adrecover.com
 0.0.0.0 d.adroll.com
 0.0.0.0 s.adroll.com
@@ -351,6 +353,7 @@
 0.0.0.0 pty4nh57fskfibh7y4z5btor6noh4e2s-c2r.metric.gstatic.com
 0.0.0.0 rrtui5f6tpiu7ugumdxrdoqieczlqi3o-c2r.metric.gstatic.com
 0.0.0.0 ssm3ohyroj56f2pvyr4spe2vnszlqafj-c2r.metric.gstatic.com
+0.0.0.0 sw5xqu2quojlmoc6r26i3zhxnkzlqloo-c2r.metric.gstatic.com
 0.0.0.0 g2.gumgum.com
 0.0.0.0 gumroad.com
 0.0.0.0 beacons.gvt2.com
@@ -718,6 +721,7 @@
 0.0.0.0 ads-api.twitter.com
 0.0.0.0 analytics.twitter.com
 0.0.0.0 syndication.twitter.com
+0.0.0.0 59e3fd97d0784951aaf980d5dbb23a79.js.ubembed.com
 0.0.0.0 6967988f564f4347b438eea799712c33.js.ubembed.com
 0.0.0.0 homegeton.ucoz.com
 0.0.0.0 hb.undertone.com
