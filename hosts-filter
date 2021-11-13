@@ -679,6 +679,8 @@
 0.0.0.0 eventlogger.soundcloud.com
 0.0.0.0 cdn.speedcurve.com
 0.0.0.0 lux.speedcurve.com
+0.0.0.0 pixel.spotify.com
+0.0.0.0 pixel-static.spotify.com
 0.0.0.0 search.spotxchange.com
 0.0.0.0 sync.search.spotxchange.com
 0.0.0.0 vid.springserve.com
@@ -896,6 +898,7 @@
 0.0.0.0 count3.makeshop.jp
 0.0.0.0 uh.nakanohito.jp
 0.0.0.0 res.ads.nicovideo.jp
+0.0.0.0 api.nicoad.nicovideo.jp
 0.0.0.0 api-pnote.noahapps.jp
 0.0.0.0 api-pnote2.noahapps.jp
 0.0.0.0 js.rtoaster.jp
