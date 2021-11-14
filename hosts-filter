@@ -100,6 +100,7 @@
 0.0.0.0 reign.appmeasurements.com
 0.0.0.0 stup5.appmeasurements.com
 0.0.0.0 stup7.appmeasurements.com
+0.0.0.0 attr.appsflyer.com
 0.0.0.0 conversions.appsflyer.com
 0.0.0.0 events.appsflyer.com
 0.0.0.0 inapps.appsflyer.com
@@ -227,6 +228,7 @@
 0.0.0.0 st-eu.dynamicyield.com
 0.0.0.0 srx.main.ebayrtm.com
 0.0.0.0 s815114181.t.eloqua.com
+0.0.0.0 cs.emxdgt.com
 0.0.0.0 hb.emxdgt.com
 0.0.0.0 img.en25.com
 0.0.0.0 enormousearth.com
@@ -303,6 +305,7 @@
 0.0.0.0 firebaseinstallations.googleapis.com
 0.0.0.0 firebaselogging.googleapis.com
 0.0.0.0 firebaselogging-pa.googleapis.com
+0.0.0.0 firebaseperusertopics-pa.googleapis.com
 0.0.0.0 firebaseremoteconfig.googleapis.com
 0.0.0.0 footprints-pa.googleapis.com
 0.0.0.0 geller-pa.googleapis.com
@@ -599,6 +602,9 @@
 0.0.0.0 image6.pubmatic.com
 0.0.0.0 ow.pubmatic.com
 0.0.0.0 s.pubmine.com
+0.0.0.0 aafce-4d6d3.api.pushwoosh.com
+0.0.0.0 cp.pushwoosh.com
+0.0.0.0 post-log.pushwoosh.com
 0.0.0.0 zn5grs3028zvpg0rh-redventures.siteintercept.qualtrics.com
 0.0.0.0 assets.quantcount.com
 0.0.0.0 rules.quantcount.com
@@ -738,6 +744,7 @@
 0.0.0.0 ecommerce.iap.unity3d.com
 0.0.0.0 auction.unityads.unity3d.com
 0.0.0.0 config.unityads.unity3d.com
+0.0.0.0 usermatch.targeting.unrulymedia.com
 0.0.0.0 sync.upravel.com
 0.0.0.0 w.uptolike.com
 0.0.0.0 cdn.usefathom.com
@@ -883,6 +890,8 @@
 0.0.0.0 simpleanalytics.io
 0.0.0.0 cdn.simpleanalytics.io
 0.0.0.0 sdk.split.io
+0.0.0.0 adfurikun.jp
+0.0.0.0 ginf.adfurikun.jp
 0.0.0.0 ln.ameba.jp
 0.0.0.0 sy.ameblo.jp
 0.0.0.0 app-adforce.jp
