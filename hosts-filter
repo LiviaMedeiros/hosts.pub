@@ -893,6 +893,7 @@
 0.0.0.0 o287829.ingest.sentry.io
 0.0.0.0 simpleanalytics.io
 0.0.0.0 cdn.simpleanalytics.io
+0.0.0.0 auth.split.io
 0.0.0.0 sdk.split.io
 0.0.0.0 adfurikun.jp
 0.0.0.0 ginf.adfurikun.jp
@@ -958,6 +959,7 @@
 0.0.0.0 x.bidswitch.net
 0.0.0.0 c.bigmir.net
 0.0.0.0 cdn.blueconic.net
+0.0.0.0 cdn-s2s.buysellads.net
 0.0.0.0 cdn4.buysellads.net
 0.0.0.0 srv.carbonads.net
 0.0.0.0 carbon-cdn.ccgateway.net
