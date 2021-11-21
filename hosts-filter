@@ -64,6 +64,7 @@
 0.0.0.0 metrics.aetn.com
 0.0.0.0 static.affiliatly.com
 0.0.0.0 fid.agkn.com
+0.0.0.0 js.agkn.com
 0.0.0.0 analytics.ahrefs.com
 0.0.0.0 certify.alexametrics.com
 0.0.0.0 certify-js.alexametrics.com
@@ -541,6 +542,7 @@
 0.0.0.0 api.narrativ.com
 0.0.0.0 events.release.narrativ.com
 0.0.0.0 lijit2waycm.netmng.com
+0.0.0.0 cmp.network-n.com
 0.0.0.0 js-agent.newrelic.com
 0.0.0.0 mobile-collector.newrelic.com
 0.0.0.0 hb.nexage.com
@@ -557,6 +559,7 @@
 0.0.0.0 cdn.onesignal.com
 0.0.0.0 onetag-sys.com
 0.0.0.0 geolocation.onetrust.com
+0.0.0.0 privacyportal.onetrust.com
 0.0.0.0 onmarshtompor.com
 0.0.0.0 ontetag-sys.com
 0.0.0.0 smetrics.opensource.com
@@ -893,7 +896,9 @@
 0.0.0.0 dc.oracleinfinity.io
 0.0.0.0 global.proper.io
 0.0.0.0 propermessage.io
+0.0.0.0 at.adtech.redventures.io
 0.0.0.0 relap.io
+0.0.0.0 ingest.make.rvapps.io
 0.0.0.0 api.segment.io
 0.0.0.0 cdn.segment.io
 0.0.0.0 o287829.ingest.sentry.io
@@ -912,6 +917,7 @@
 0.0.0.0 adservice.google.co.jp
 0.0.0.0 imp-adedge.i-mobile.co.jp
 0.0.0.0 spad.i-mobile.co.jp
+0.0.0.0 spcnv.i-mobile.co.jp
 0.0.0.0 hbb.afl.rakuten.co.jp
 0.0.0.0 i2ad.jp
 0.0.0.0 img.ak.impact-ad.jp
@@ -927,6 +933,7 @@
 0.0.0.0 api.smbeat.jp
 0.0.0.0 control.smbeat.jp
 0.0.0.0 minidumps.smbeat.jp
+0.0.0.0 e01.taggyad.jp
 0.0.0.0 cdn.js.tapone.jp
 0.0.0.0 cdn.x-lift.jp
 0.0.0.0 s.yjtag.jp
@@ -1008,6 +1015,7 @@
 0.0.0.0 connect.facebook.net
 0.0.0.0 0914.global.ssl.fastly.net
 0.0.0.0 clarium.global.ssl.fastly.net
+0.0.0.0 confiant-integrations.global.ssl.fastly.net
 0.0.0.0 ozon2-st.secure.footprint.net
 0.0.0.0 cdn.fuseplatform.net
 0.0.0.0 adm.fwmrm.net
@@ -1031,6 +1039,7 @@
 0.0.0.0 prebid.media.net
 0.0.0.0 evoke-windowsservices-tas.msedge.net
 0.0.0.0 fp.msedge.net
+0.0.0.0 st.nex8.net
 0.0.0.0 bam.nr-data.net
 0.0.0.0 cs.ns1p.net
 0.0.0.0 m1.nsimg.net
