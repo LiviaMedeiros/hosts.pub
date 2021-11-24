@@ -64,6 +64,7 @@
 0.0.0.0 adserver-us.adtech.advertising.com
 0.0.0.0 metrics.aetn.com
 0.0.0.0 static.affiliatly.com
+0.0.0.0 d.agkn.com
 0.0.0.0 fid.agkn.com
 0.0.0.0 js.agkn.com
 0.0.0.0 analytics.ahrefs.com
@@ -181,6 +182,7 @@
 0.0.0.0 static.cloudflareinsights.com
 0.0.0.0 fm.cnbc.com
 0.0.0.0 mps.cnbc.com
+0.0.0.0 saa.cnet.com
 0.0.0.0 cdn.codeblackbelt.com
 0.0.0.0 api.company-target.com
 0.0.0.0 segments.company-target.com
