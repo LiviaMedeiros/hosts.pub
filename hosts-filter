@@ -552,6 +552,7 @@
 0.0.0.0 js-agent.newrelic.com
 0.0.0.0 mobile-collector.newrelic.com
 0.0.0.0 hb.nexage.com
+0.0.0.0 s.nitropay.com
 0.0.0.0 ls.dtrace.nvidia.com
 0.0.0.0 activation.gfe.nvidia.com
 0.0.0.0 events.gfe.nvidia.com
@@ -659,6 +660,10 @@
 0.0.0.0 runative-syndicate.com
 0.0.0.0 cdn.runative-syndicate.com
 0.0.0.0 pa.rxthdr.com
+0.0.0.0 connect-metrics-collector.s-onetag.com
+0.0.0.0 get.s-onetag.com
+0.0.0.0 signal-metrics-collector-beta.s-onetag.com
+0.0.0.0 signal-segments.s-onetag.com
 0.0.0.0 dls.di.atlas.samsung.com
 0.0.0.0 ced.sascdn.com
 0.0.0.0 b.scorecardresearch.com
@@ -905,6 +910,7 @@
 0.0.0.0 dc.oracleinfinity.io
 0.0.0.0 global.proper.io
 0.0.0.0 propermessage.io
+0.0.0.0 log.propermessage.io
 0.0.0.0 at.adtech.redventures.io
 0.0.0.0 relap.io
 0.0.0.0 ingest.make.rvapps.io
