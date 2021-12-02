@@ -338,6 +338,7 @@
 0.0.0.0 5af2d7b4695096427b8cf8faf56e0d7d.safeframe.googlesyndication.com
 0.0.0.0 9e906bdbc01e82b034090521585dcbfa.safeframe.googlesyndication.com
 0.0.0.0 21cc870f153acdfd047e83fd9ab2e396.safeframe.googlesyndication.com
+0.0.0.0 65cfea6bee2432143819bcbc144d382e.safeframe.googlesyndication.com
 0.0.0.0 78e7a32260d57b621405c558996f1f3c.safeframe.googlesyndication.com
 0.0.0.0 479e10cb62f5ff5d0354bdd5768f8a6c.safeframe.googlesyndication.com
 0.0.0.0 836ebfc6ff77886c6fa487da0278b5b0.safeframe.googlesyndication.com
@@ -618,6 +619,7 @@
 0.0.0.0 ads.pubmatic.com
 0.0.0.0 gads.pubmatic.com
 0.0.0.0 hbopenbid.pubmatic.com
+0.0.0.0 image2.pubmatic.com
 0.0.0.0 image6.pubmatic.com
 0.0.0.0 ow.pubmatic.com
 0.0.0.0 s.pubmine.com
@@ -911,6 +913,9 @@
 0.0.0.0 tttt.onthe.io
 0.0.0.0 c.oracleinfinity.io
 0.0.0.0 dc.oracleinfinity.io
+0.0.0.0 bids.proper.io
+0.0.0.0 eb.proper.io
+0.0.0.0 events.proper.io
 0.0.0.0 global.proper.io
 0.0.0.0 propermessage.io
 0.0.0.0 log.propermessage.io
@@ -975,7 +980,9 @@
 0.0.0.0 c1.adform.net
 0.0.0.0 cm.adform.net
 0.0.0.0 track.adform.net
+0.0.0.0 pubserver-cdn.adhigh.net
 0.0.0.0 px.adhigh.net
+0.0.0.0 vast-f6-ru.adhigh.net
 0.0.0.0 engine.adzerk.net
 0.0.0.0 ds-aksb-a.akamaihd.net
 0.0.0.0 csharpcorner.azureedge.net
@@ -1124,6 +1131,7 @@
 0.0.0.0 eu-u.openx.net
 0.0.0.0 idm-d.openx.net
 0.0.0.0 kiosked-d.openx.net
+0.0.0.0 propermedia-d.openx.net
 0.0.0.0 rtb.openx.net
 0.0.0.0 snopes-d.openx.net
 0.0.0.0 u.openx.net
