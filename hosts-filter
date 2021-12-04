@@ -47,6 +47,7 @@
 0.0.0.0 d.adroll.com
 0.0.0.0 s.adroll.com
 0.0.0.0 static.ads-twitter.com
+0.0.0.0 cdn.adsafeprotected.com
 0.0.0.0 dt.adsafeprotected.com
 0.0.0.0 pixel.adsafeprotected.com
 0.0.0.0 static.adsafeprotected.com
@@ -599,6 +600,7 @@
 0.0.0.0 b.stats.paypal.com
 0.0.0.0 t.paypal.com
 0.0.0.0 boot.pbstck.com
+0.0.0.0 hawk.pcgamer.com
 0.0.0.0 tags.peer39.com
 0.0.0.0 amp.permutive.com
 0.0.0.0 esi.amp.permutive.com
@@ -866,6 +868,7 @@
 0.0.0.0 journey.wired.com
 0.0.0.0 pixel.wp.com
 0.0.0.0 stats.wp.com
+0.0.0.0 static.xvideos.com
 0.0.0.0 ads.yahoo.com
 0.0.0.0 ups.analytics.yahoo.com
 0.0.0.0 analytics.query.yahoo.com
@@ -1187,6 +1190,7 @@
 0.0.0.0 quantcast.mgr.consensu.org
 0.0.0.0 apis.quantcast.mgr.consensu.org
 0.0.0.0 cmp.teads.mgr.consensu.org
+0.0.0.0 vendorlist.consensu.org
 0.0.0.0 uhm26jyr11zv.www.freecodecamp.org
 0.0.0.0 currency.prebid.org
 0.0.0.0 sdk.privacy-center.org
