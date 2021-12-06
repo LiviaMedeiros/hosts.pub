@@ -848,6 +848,7 @@
 0.0.0.0 aloha.viber.com
 0.0.0.0 abtest.api.viber.com
 0.0.0.0 www.cdn.viber.com
+0.0.0.0 network-n-com.videoplayerhub.com
 0.0.0.0 cdn.viglink.com
 0.0.0.0 player-telemetry.vimeo.com
 0.0.0.0 vk.com
@@ -1330,6 +1331,7 @@
 0.0.0.0 ana.bandi.so
 0.0.0.0 prebid.digitru.st
 0.0.0.0 lightstep.medium.systems
+0.0.0.0 live.primis.tech
 0.0.0.0 s.console.adtarget.com.tr
 0.0.0.0 ad.mox.tv
 0.0.0.0 cdn01.nativeroll.tv
