@@ -219,6 +219,7 @@
 0.0.0.0 denetsuk.com
 0.0.0.0 c.deployads.com
 0.0.0.0 tags-cdn.deployads.com
+0.0.0.0 ads.digitalcaramel.com
 0.0.0.0 file-service-default-114c67af0763a8a98e770ff3ee495371.fra1.digitaloceanspaces.com
 0.0.0.0 referrer.disqus.com
 0.0.0.0 glitter.services.disqus.com
@@ -1330,6 +1331,7 @@
 0.0.0.0 www.takiparkrb.site
 0.0.0.0 ana.bandi.so
 0.0.0.0 prebid.digitru.st
+0.0.0.0 ru.viadata.store
 0.0.0.0 lightstep.medium.systems
 0.0.0.0 live.primis.tech
 0.0.0.0 s.console.adtarget.com.tr
