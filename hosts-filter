@@ -540,6 +540,7 @@
 0.0.0.0 contile.services.mozilla.com
 0.0.0.0 location.services.mozilla.com
 0.0.0.0 push.services.mozilla.com
+0.0.0.0 updates.push.services.mozilla.com
 0.0.0.0 firefox.settings.services.mozilla.com
 0.0.0.0 shavar.services.mozilla.com
 0.0.0.0 stun.services.mozilla.com
@@ -564,6 +565,7 @@
 0.0.0.0 events.gfe.nvidia.com
 0.0.0.0 telemetry.gfe.nvidia.com
 0.0.0.0 telemetry.nvidia.com
+0.0.0.0 consent.cmp.oath.com
 0.0.0.0 offerimage.com
 0.0.0.0 static.olark.com
 0.0.0.0 a.omappapi.com
@@ -1340,6 +1342,7 @@
 0.0.0.0 js.spotx.tv
 0.0.0.0 a.teads.tv
 0.0.0.0 t.teads.tv
+0.0.0.0 cdn.vidible.tv
 0.0.0.0 www.taiwannews.com.tw
 0.0.0.0 adservice.google.com.ua
 0.0.0.0 a1.api.bbc.co.uk
