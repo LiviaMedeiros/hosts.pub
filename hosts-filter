@@ -11,6 +11,7 @@
 0.0.0.0 cdn.districtm.ca
 0.0.0.0 adservice.google.ca
 0.0.0.0 api.popin.cc
+0.0.0.0 analytics.core.retell.cc
 0.0.0.0 grs.dbankcloud.cn
 0.0.0.0 b.6sc.co
 0.0.0.0 j.6sc.co
@@ -427,6 +428,7 @@
 0.0.0.0 js-sec.indexww.com
 0.0.0.0 hits.informer.com
 0.0.0.0 inpagepush.com
+0.0.0.0 x.instreamatic.com
 0.0.0.0 intelaxa.com
 0.0.0.0 cdn.intergi.com
 0.0.0.0 i.isnssdk.com
@@ -861,6 +863,8 @@
 0.0.0.0 st4-11.vk.com
 0.0.0.0 st4-15.vk.com
 0.0.0.0 services.vlitag.com
+0.0.0.0 ads.api.vungle.com
+0.0.0.0 cstatic.weborama.com
 0.0.0.0 dx.frontend.weborama.com
 0.0.0.0 web.webpushs.com
 0.0.0.0 report.appmetrica.webvisor.com
@@ -907,6 +911,7 @@
 0.0.0.0 sync.1rx.io
 0.0.0.0 tag.1rx.io
 0.0.0.0 cdn.adapex.io
+0.0.0.0 x01.aidata.io
 0.0.0.0 widget.beop.io
 0.0.0.0 match.prod.bidr.io
 0.0.0.0 api2.branch.io
