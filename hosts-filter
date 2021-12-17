@@ -486,6 +486,7 @@
 0.0.0.0 onedrive.live.com
 0.0.0.0 likes.services.livejournal.com
 0.0.0.0 njs.services.livejournal.com
+0.0.0.0 s.luxupcdnc.com
 0.0.0.0 macblurayplayer.com
 0.0.0.0 mantodea.mantisadnetwork.com
 0.0.0.0 events.mapbox.com
@@ -1000,6 +1001,7 @@
 0.0.0.0 pubserver-cdn.adhigh.net
 0.0.0.0 px.adhigh.net
 0.0.0.0 vast-f6-ru.adhigh.net
+0.0.0.0 inv-nets.admixer.net
 0.0.0.0 engine.adzerk.net
 0.0.0.0 ds-aksb-a.akamaihd.net
 0.0.0.0 csharpcorner.azureedge.net
