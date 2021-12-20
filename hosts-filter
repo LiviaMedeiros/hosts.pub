@@ -503,6 +503,7 @@
 0.0.0.0 app-ab09.marketo.com
 0.0.0.0 app-ab22.marketo.com
 0.0.0.0 pixel.mathtag.com
+0.0.0.0 starget.mathworks.com
 0.0.0.0 scripts.mediavine.com
 0.0.0.0 medium.com
 0.0.0.0 cdn-client.medium.com
@@ -653,6 +654,7 @@
 0.0.0.0 secure.quantserve.com
 0.0.0.0 d7d3cf2e81d293050033-3dfc0615b0fd7b49143049256703bfce.ssl.cf1.rackcdn.com
 0.0.0.0 s-bid.rmp.rakuten.com
+0.0.0.0 www.rbth.com
 0.0.0.0 a.realsrv.com
 0.0.0.0 main.realsrv.com
 0.0.0.0 xml.realtime-bid.com
@@ -1213,6 +1215,7 @@
 0.0.0.0 cdn.consentmanager.mgr.consensu.org
 0.0.0.0 quantcast.mgr.consensu.org
 0.0.0.0 apis.quantcast.mgr.consensu.org
+0.0.0.0 test.quantcast.mgr.consensu.org
 0.0.0.0 cmp.teads.mgr.consensu.org
 0.0.0.0 vendorlist.consensu.org
 0.0.0.0 uhm26jyr11zv.www.freecodecamp.org
