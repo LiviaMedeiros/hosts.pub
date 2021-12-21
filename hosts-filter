@@ -87,6 +87,7 @@
 0.0.0.0 z-na.amazon-adsystem.com
 0.0.0.0 fls-na.amazon.com
 0.0.0.0 api.amplitude.com
+0.0.0.0 api2.amplitude.com
 0.0.0.0 cdn.amplitude.com
 0.0.0.0 pixel.anyclip.com
 0.0.0.0 app-measurement.com
@@ -693,6 +694,7 @@
 0.0.0.0 signal-segments.s-onetag.com
 0.0.0.0 dls.di.atlas.samsung.com
 0.0.0.0 ced.sascdn.com
+0.0.0.0 images.scanalert.com
 0.0.0.0 b.scorecardresearch.com
 0.0.0.0 sb.scorecardresearch.com
 0.0.0.0 screenrant.com
@@ -862,6 +864,7 @@
 0.0.0.0 dalc.valuecommerce.com
 0.0.0.0 venetrigni.com
 0.0.0.0 vitals.vercel-insights.com
+0.0.0.0 seal.verisign.com
 0.0.0.0 aloha.viber.com
 0.0.0.0 abtest.api.viber.com
 0.0.0.0 www.cdn.viber.com
