@@ -878,6 +878,7 @@
 0.0.0.0 st4-11.vk.com
 0.0.0.0 st4-15.vk.com
 0.0.0.0 services.vlitag.com
+0.0.0.0 api.vungle.com
 0.0.0.0 ads.api.vungle.com
 0.0.0.0 cstatic.weborama.com
 0.0.0.0 dx.frontend.weborama.com
@@ -888,6 +889,7 @@
 0.0.0.0 u.startup.mobile.webvisor.com
 0.0.0.0 whourgie.com
 0.0.0.0 beacon.wikia-services.com
+0.0.0.0 rest.wildstar-online.com
 0.0.0.0 maps.windows.com
 0.0.0.0 journey.wired.com
 0.0.0.0 pixel.wp.com
