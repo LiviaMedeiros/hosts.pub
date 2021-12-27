@@ -641,6 +641,7 @@
 0.0.0.0 hbopenbid.pubmatic.com
 0.0.0.0 image2.pubmatic.com
 0.0.0.0 image6.pubmatic.com
+0.0.0.0 image8.pubmatic.com
 0.0.0.0 ow.pubmatic.com
 0.0.0.0 s.pubmine.com
 0.0.0.0 aafce-4d6d3.api.pushwoosh.com
@@ -671,6 +672,7 @@
 0.0.0.0 assets.revcontent.com
 0.0.0.0 p.rfihub.com
 0.0.0.0 mid.rkdms.com
+0.0.0.0 check.analytics.rlcdn.com
 0.0.0.0 api.rlcdn.com
 0.0.0.0 cloud.roistat.com
 0.0.0.0 cdn-plus.roxot-panel.com
