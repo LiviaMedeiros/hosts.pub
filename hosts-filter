@@ -561,6 +561,7 @@
 0.0.0.0 www.msftconnecttest.com
 0.0.0.0 dns.msftncsi.com
 0.0.0.0 c.msn.com
+0.0.0.0 browser.events.data.msn.com
 0.0.0.0 otf.msn.com
 0.0.0.0 srtb.msn.com
 0.0.0.0 ocsp.msocsp.com
