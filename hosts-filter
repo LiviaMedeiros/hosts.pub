@@ -241,6 +241,8 @@
 0.0.0.0 cdn-eu.dynamicyield.com
 0.0.0.0 rcom-eu.dynamicyield.com
 0.0.0.0 st-eu.dynamicyield.com
+0.0.0.0 src.ebay-us.com
+0.0.0.0 monitor.ebay.com
 0.0.0.0 srx.main.ebayrtm.com
 0.0.0.0 s815114181.t.eloqua.com
 0.0.0.0 cs.emxdgt.com
@@ -684,6 +686,7 @@
 0.0.0.0 fastlane-adv.rubiconproject.com
 0.0.0.0 pixel.rubiconproject.com
 0.0.0.0 pixel-apac.rubiconproject.com
+0.0.0.0 pixel-us-west.rubiconproject.com
 0.0.0.0 prebid-server.rubiconproject.com
 0.0.0.0 secure-assets.rubiconproject.com
 0.0.0.0 token.rubiconproject.com
@@ -996,7 +999,9 @@
 0.0.0.0 minidumps.smbeat.jp
 0.0.0.0 e01.taggyad.jp
 0.0.0.0 cdn.js.tapone.jp
+0.0.0.0 ssl.webtracker.jp
 0.0.0.0 cdn.x-lift.jp
+0.0.0.0 yads.c.yimg.jp
 0.0.0.0 s.yjtag.jp
 0.0.0.0 j.zucks.net.zimg.jp
 0.0.0.0 b2b.ainews.kz
