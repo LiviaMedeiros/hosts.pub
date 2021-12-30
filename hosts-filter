@@ -744,6 +744,7 @@
 0.0.0.0 lux.speedcurve.com
 0.0.0.0 pixel.spotify.com
 0.0.0.0 pixel-static.spotify.com
+0.0.0.0 event.spotxchange.com
 0.0.0.0 search.spotxchange.com
 0.0.0.0 sync.search.spotxchange.com
 0.0.0.0 vid.springserve.com
@@ -1016,6 +1017,7 @@
 0.0.0.0 codepush.appcenter.ms
 0.0.0.0 in.appcenter.ms
 0.0.0.0 www.clarity.ms
+0.0.0.0 gcdn.2mdn.net
 0.0.0.0 s0.2mdn.net
 0.0.0.0 prebid.a-mo.net
 0.0.0.0 www.acint.net
