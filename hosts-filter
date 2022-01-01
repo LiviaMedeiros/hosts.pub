@@ -271,6 +271,7 @@
 0.0.0.0 www.fastly-insights.com
 0.0.0.0 vip.chps-api.fc2.com
 0.0.0.0 counter1.fc2.com
+0.0.0.0 fcwuye.com
 0.0.0.0 findicons.com
 0.0.0.0 media.flixfacts.com
 0.0.0.0 api.flocktory.com
@@ -284,6 +285,7 @@
 0.0.0.0 collector.githubapp.com
 0.0.0.0 cdn.glitch.com
 0.0.0.0 sw88.go.com
+0.0.0.0 tredir.go.com
 0.0.0.0 google-analytics.com
 0.0.0.0 ssl.google-analytics.com
 0.0.0.0 www.google-analytics.com
@@ -1019,6 +1021,7 @@
 0.0.0.0 www.clarity.ms
 0.0.0.0 gcdn.2mdn.net
 0.0.0.0 s0.2mdn.net
+0.0.0.0 jsn.24smi.net
 0.0.0.0 prebid.a-mo.net
 0.0.0.0 www.acint.net
 0.0.0.0 ad-delivery.net
@@ -1095,6 +1098,7 @@
 0.0.0.0 0914.global.ssl.fastly.net
 0.0.0.0 clarium.global.ssl.fastly.net
 0.0.0.0 confiant-integrations.global.ssl.fastly.net
+0.0.0.0 feedify.net
 0.0.0.0 ozon2-st.secure.footprint.net
 0.0.0.0 cdn.fuseplatform.net
 0.0.0.0 adm.fwmrm.net
@@ -1313,6 +1317,7 @@
 0.0.0.0 liveut2-m100.ok.ru
 0.0.0.0 m.ok.ru
 0.0.0.0 tamtam.ok.ru
+0.0.0.0 pxksnymto.ru
 0.0.0.0 loyalty.rambler-co.ru
 0.0.0.0 c.rambler.ru
 0.0.0.0 cdn-comments.rambler.ru
@@ -1376,6 +1381,7 @@
 0.0.0.0 ru.viadata.store
 0.0.0.0 lightstep.medium.systems
 0.0.0.0 live.primis.tech
+0.0.0.0 www.smi.today
 0.0.0.0 s.console.adtarget.com.tr
 0.0.0.0 ad.mox.tv
 0.0.0.0 cdn01.nativeroll.tv
