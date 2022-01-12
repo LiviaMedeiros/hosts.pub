@@ -411,6 +411,7 @@
 0.0.0.0 my.hellobar.com
 0.0.0.0 stack-exchange-dynamic-ads.herokuapp.com
 0.0.0.0 s10.histats.com
+0.0.0.0 in.hotjar.com
 0.0.0.0 script.hotjar.com
 0.0.0.0 static.hotjar.com
 0.0.0.0 vars.hotjar.com
