@@ -11,6 +11,7 @@
 0.0.0.0 cdn.districtm.ca
 0.0.0.0 adservice.google.ca
 0.0.0.0 api.popin.cc
+0.0.0.0 img2.reactor.cc
 0.0.0.0 analytics.core.retell.cc
 0.0.0.0 grs.dbankcloud.cn
 0.0.0.0 b.6sc.co
@@ -200,6 +201,7 @@
 0.0.0.0 cdm.connatix.com
 0.0.0.0 ads2.contentabc.com
 0.0.0.0 bh.contextweb.com
+0.0.0.0 cdn.convertbox.com
 0.0.0.0 f.convertkit.com
 0.0.0.0 cookie-cdn.cookiepro.com
 0.0.0.0 ssl.cdne.cpmstar.com
@@ -215,6 +217,7 @@
 0.0.0.0 rtax.criteo.com
 0.0.0.0 sslwidget.criteo.com
 0.0.0.0 cutechin.com
+0.0.0.0 www.datadoghq-browser-agent.com
 0.0.0.0 browser-http-intake.logs.datadoghq.com
 0.0.0.0 datawrkz.com
 0.0.0.0 grs.dbankcloud.com
@@ -482,6 +485,7 @@
 0.0.0.0 static.klaviyo.com
 0.0.0.0 ko-fi.com
 0.0.0.0 cdn.ko-fi.com
+0.0.0.0 analytics.languagetoolplus.com
 0.0.0.0 api.lentainform.com
 0.0.0.0 autocounter.lentainform.com
 0.0.0.0 cm.lentainform.com
@@ -922,6 +926,7 @@
 0.0.0.0 fcmatch.youtube.com
 0.0.0.0 s.youtube.com
 0.0.0.0 mxvp-feature-toggle-prod-1.zenmxapps.com
+0.0.0.0 salesiq.zoho.com
 0.0.0.0 script.ioam.de
 0.0.0.0 js.smartredirect.de
 0.0.0.0 cstatic.weborama.fr
