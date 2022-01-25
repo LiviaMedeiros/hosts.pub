@@ -92,7 +92,11 @@
 0.0.0.0 api.amplitude.com
 0.0.0.0 api2.amplitude.com
 0.0.0.0 cdn.amplitude.com
+0.0.0.0 lreprx-server.anyclip.com
 0.0.0.0 pixel.anyclip.com
+0.0.0.0 play.anyclip.com
+0.0.0.0 player.anyclip.com
+0.0.0.0 trafficmanager.anyclip.com
 0.0.0.0 app-measurement.com
 0.0.0.0 fast.appcues.com
 0.0.0.0 securemetrics.apple.com
@@ -127,6 +131,7 @@
 0.0.0.0 sdk.audienceplay.com
 0.0.0.0 b2cdn.automatad.com
 0.0.0.0 us-east-pbs.automatad.com
+0.0.0.0 api.b2c.com
 0.0.0.0 hm.baidu.com
 0.0.0.0 www.bandisoft.com
 0.0.0.0 st.bebi.com
@@ -200,6 +205,7 @@
 0.0.0.0 cdn.codeblackbelt.com
 0.0.0.0 api.company-target.com
 0.0.0.0 segments.company-target.com
+0.0.0.0 cd.connatix.com
 0.0.0.0 cdm.connatix.com
 0.0.0.0 ads2.contentabc.com
 0.0.0.0 bh.contextweb.com
@@ -745,6 +751,7 @@
 0.0.0.0 ws.sharethis.com
 0.0.0.0 btlr.sharethrough.com
 0.0.0.0 match.sharethrough.com
+0.0.0.0 cdn.siftscience.com
 0.0.0.0 scripts.simpleanalyticscdn.com
 0.0.0.0 siteimproveanalytics.com
 0.0.0.0 node-p1w-eegeiw.sitescout.com
@@ -897,6 +904,7 @@
 0.0.0.0 aloha.viber.com
 0.0.0.0 abtest.api.viber.com
 0.0.0.0 www.cdn.viber.com
+0.0.0.0 literally-media.videoplayerhub.com
 0.0.0.0 network-n-com.videoplayerhub.com
 0.0.0.0 cdn.viglink.com
 0.0.0.0 player-telemetry.vimeo.com
@@ -936,6 +944,7 @@
 0.0.0.0 fcmatch.youtube.com
 0.0.0.0 s.youtube.com
 0.0.0.0 mxvp-feature-toggle-prod-1.zenmxapps.com
+0.0.0.0 www.zergnet.com
 0.0.0.0 salesiq.zoho.com
 0.0.0.0 script.ioam.de
 0.0.0.0 js.smartredirect.de
@@ -972,6 +981,7 @@
 0.0.0.0 media.ethicalads.io
 0.0.0.0 cdn.lodeo.io
 0.0.0.0 log.logicanalytics.io
+0.0.0.0 s.ntv.io
 0.0.0.0 cdn.onthe.io
 0.0.0.0 tt.onthe.io
 0.0.0.0 ttru.onthe.io
@@ -1069,6 +1079,7 @@
 0.0.0.0 surveyjs.azureedge.net
 0.0.0.0 tbcdnwidgetsprod.azureedge.net
 0.0.0.0 thermaltake.azureedge.net
+0.0.0.0 wompanalytics.azurewebsites.net
 0.0.0.0 telemetry-in.battle.net
 0.0.0.0 grid.bidswitch.net
 0.0.0.0 x.bidswitch.net
@@ -1085,6 +1096,7 @@
 0.0.0.0 d2oh4tlt9mrke9.cloudfront.net
 0.0.0.0 d2v02itv0y9u9t.cloudfront.net
 0.0.0.0 d2yyf02s9xqns0.cloudfront.net
+0.0.0.0 d24n15hnbwhuhn.cloudfront.net
 0.0.0.0 d26b395fwzu5fz.cloudfront.net
 0.0.0.0 dc8xl0ndzn2cb.cloudfront.net
 0.0.0.0 dzt1km7tv28ex.cloudfront.net
