@@ -192,6 +192,7 @@
 0.0.0.0 web-cache.chocomaru.com
 0.0.0.0 citrix.com
 0.0.0.0 p.cityadstrack.com
+0.0.0.0 x.clearbitjs.com
 0.0.0.0 clevernt.com
 0.0.0.0 clickiocdn.com
 0.0.0.0 s.clickiocdn.com
@@ -1328,6 +1329,7 @@
 0.0.0.0 tracker.giftd.ru
 0.0.0.0 adservice.google.ru
 0.0.0.0 piwik-gosbar.gosuslugi.ru
+0.0.0.0 habrahabr.ru
 0.0.0.0 likemore-go.imgsmail.ru
 0.0.0.0 mediator.imgsmail.ru
 0.0.0.0 static-sl.insales.ru
