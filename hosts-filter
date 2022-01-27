@@ -256,6 +256,7 @@
 0.0.0.0 rcom-eu.dynamicyield.com
 0.0.0.0 st-eu.dynamicyield.com
 0.0.0.0 src.ebay-us.com
+0.0.0.0 backstory.ebay.com
 0.0.0.0 monitor.ebay.com
 0.0.0.0 srx.main.ebayrtm.com
 0.0.0.0 s815114181.t.eloqua.com
@@ -1019,6 +1020,8 @@
 0.0.0.0 spad.i-mobile.co.jp
 0.0.0.0 spcnv.i-mobile.co.jp
 0.0.0.0 hbb.afl.rakuten.co.jp
+0.0.0.0 event.notifier.rakuten.co.jp
+0.0.0.0 anz.rd.rakuten.co.jp
 0.0.0.0 dsb.yahoo.co.jp
 0.0.0.0 yjtag.yahoo.co.jp
 0.0.0.0 i2ad.jp
