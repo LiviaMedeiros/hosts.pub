@@ -1010,6 +1010,7 @@
 0.0.0.0 ingest.make.rvapps.io
 0.0.0.0 api.segment.io
 0.0.0.0 cdn.segment.io
+0.0.0.0 o278969.ingest.sentry.io
 0.0.0.0 o287829.ingest.sentry.io
 0.0.0.0 simpleanalytics.io
 0.0.0.0 cdn.simpleanalytics.io
