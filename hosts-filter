@@ -755,6 +755,7 @@
 0.0.0.0 bs.serving-sys.com
 0.0.0.0 conv-blizzard-emea.cd.serving-sys.com
 0.0.0.0 cloud.setupad.com
+0.0.0.0 buttons-config.sharethis.com
 0.0.0.0 platform-api.sharethis.com
 0.0.0.0 w.sharethis.com
 0.0.0.0 ws.sharethis.com
@@ -1004,6 +1005,9 @@
 0.0.0.0 global.proper.io
 0.0.0.0 propermessage.io
 0.0.0.0 log.propermessage.io
+0.0.0.0 assets.pubpowerplatform.io
+0.0.0.0 ms.pubpowerplatform.io
+0.0.0.0 nc.pubpowerplatform.io
 0.0.0.0 at.adtech.redventures.io
 0.0.0.0 relap.io
 0.0.0.0 analytic.rollout.io
@@ -1271,6 +1275,7 @@
 0.0.0.0 vz-cdn.trafficjunky.net
 0.0.0.0 vz-cdn2.trafficjunky.net
 0.0.0.0 p.typekit.net
+0.0.0.0 webcachespace.net
 0.0.0.0 g.whatsapp.net
 0.0.0.0 privatestats.whatsapp.net
 0.0.0.0 static.whatsapp.net
