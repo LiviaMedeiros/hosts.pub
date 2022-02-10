@@ -349,6 +349,7 @@
 0.0.0.0 gmscompliance-pa.googleapis.com
 0.0.0.0 growth-pa.googleapis.com
 0.0.0.0 instantmessaging-pa.googleapis.com
+0.0.0.0 lamssettings-pa.googleapis.com
 0.0.0.0 myphonenumbers-pa.googleapis.com
 0.0.0.0 optimizationguide-pa.googleapis.com
 0.0.0.0 passwordsleakcheck-pa.googleapis.com
@@ -828,6 +829,7 @@
 0.0.0.0 tracking-3-9f58.trnox.com
 0.0.0.0 consent.trustarc.com
 0.0.0.0 tsyndicate.com
+0.0.0.0 px.srvcs.tumblr.com
 0.0.0.0 d.turn.com
 0.0.0.0 ads-api.twitter.com
 0.0.0.0 analytics.twitter.com
