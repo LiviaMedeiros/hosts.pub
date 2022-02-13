@@ -6,6 +6,7 @@
 0.0.0.0 00917082-71e9-498e-8343-00c3df06b798.edge.permutive.app
 0.0.0.0 grs.dbankcloud.asia
 0.0.0.0 as.ad4m.at
+0.0.0.0 moevideo.biz
 0.0.0.0 solty.biz
 0.0.0.0 rpc-php.trafficfactory.biz
 0.0.0.0 cdn.districtm.ca
@@ -599,6 +600,7 @@
 0.0.0.0 otf.msn.com
 0.0.0.0 srtb.msn.com
 0.0.0.0 ocsp.msocsp.com
+0.0.0.0 mtrcss.com
 0.0.0.0 evt.mxplay.com
 0.0.0.0 cdn.mxpnl.com
 0.0.0.0 api.narrativ.com
@@ -786,6 +788,7 @@
 0.0.0.0 search.spotxchange.com
 0.0.0.0 sync.search.spotxchange.com
 0.0.0.0 vid.springserve.com
+0.0.0.0 spylees.com
 0.0.0.0 s.srvmath.com
 0.0.0.0 sync.srv.stackadapt.com
 0.0.0.0 clc.stackoverflow.com
@@ -819,6 +822,7 @@
 0.0.0.0 tags.tiqcdn.com
 0.0.0.0 cdn.tpdads.com
 0.0.0.0 trackjs.com
+0.0.0.0 z.cdn.trafficbass.com
 0.0.0.0 syndication.traffichaus.com
 0.0.0.0 ads.traffichunt.com
 0.0.0.0 static.trafficjunky.com
@@ -907,6 +911,7 @@
 0.0.0.0 sun9-67.userapi.com
 0.0.0.0 sun9-69.userapi.com
 0.0.0.0 sun9-75.userapi.com
+0.0.0.0 utraff.com
 0.0.0.0 vak345.com
 0.0.0.0 aml.valuecommerce.com
 0.0.0.0 dalb.valuecommerce.com
@@ -917,6 +922,7 @@
 0.0.0.0 aloha.viber.com
 0.0.0.0 abtest.api.viber.com
 0.0.0.0 www.cdn.viber.com
+0.0.0.0 vidalak.com
 0.0.0.0 literally-media.videoplayerhub.com
 0.0.0.0 network-n-com.videoplayerhub.com
 0.0.0.0 cdn.viglink.com
@@ -956,6 +962,7 @@
 0.0.0.0 ymetrica1.com
 0.0.0.0 fcmatch.youtube.com
 0.0.0.0 s.youtube.com
+0.0.0.0 ytimgg.com
 0.0.0.0 mxvp-feature-toggle-prod-1.zenmxapps.com
 0.0.0.0 www.zergnet.com
 0.0.0.0 salesiq.zoho.com
@@ -1064,7 +1071,9 @@
 0.0.0.0 js.users.51.la
 0.0.0.0 cdata.carambo.la
 0.0.0.0 app.link
+0.0.0.0 vst.dfnetwork.link
 0.0.0.0 cdn.iframe.ly
+0.0.0.0 ads.adlook.me
 0.0.0.0 csync.loopme.me
 0.0.0.0 pp.vk.me
 0.0.0.0 static.aio.media
@@ -1090,6 +1099,7 @@
 0.0.0.0 engine.adzerk.net
 0.0.0.0 ds-aksb-a.akamaihd.net
 0.0.0.0 statics-marketingsites-eus-ms-com.akamaized.net
+0.0.0.0 cdn.alfasense.net
 0.0.0.0 csharpcorner.azureedge.net
 0.0.0.0 fgs-cdn.azureedge.net
 0.0.0.0 imbushuos3.azureedge.net
@@ -1268,6 +1278,8 @@
 0.0.0.0 zdstatic.speedtest.net
 0.0.0.0 skslm.swiftkey.net
 0.0.0.0 trackcmp.net
+0.0.0.0 res41.traffer.net
+0.0.0.0 res75.traffer.net
 0.0.0.0 ads.trafficjunky.net
 0.0.0.0 ctrack.trafficjunky.net
 0.0.0.0 ht-cdn.trafficjunky.net
@@ -1287,6 +1299,7 @@
 0.0.0.0 startup.mobile.yandex.net
 0.0.0.0 mobile.yandexadexchange.net
 0.0.0.0 ad.yieldlab.net
+0.0.0.0 aj2396.online
 0.0.0.0 match.adsrvr.org
 0.0.0.0 ads-servebom-com.cdn.ampproject.org
 0.0.0.0 static-addtoany-com.cdn.ampproject.org
@@ -1371,6 +1384,7 @@
 0.0.0.0 content.rbc.medialand.ru
 0.0.0.0 stat-analytics.mediavitrina.ru
 0.0.0.0 matching.mobilebanner.ru
+0.0.0.0 code.moviead55.ru
 0.0.0.0 ps.ntvk1.ru
 0.0.0.0 api.ok.ru
 0.0.0.0 connect.ok.ru
@@ -1415,6 +1429,7 @@
 0.0.0.0 289310.selcdn.ru
 0.0.0.0 smi2.ru
 0.0.0.0 amp.smi2.ru
+0.0.0.0 ssso.ru
 0.0.0.0 statad.ru
 0.0.0.0 widget.svk-native.ru
 0.0.0.0 tns-counter.ru
@@ -1425,6 +1440,7 @@
 0.0.0.0 utarget.ru
 0.0.0.0 dmp.vihub.ru
 0.0.0.0 vkontakte.ru
+0.0.0.0 xcec.ru
 0.0.0.0 counter.yadro.ru
 0.0.0.0 matchid.adfox.yandex.ru
 0.0.0.0 adfstat.yandex.ru
@@ -1445,7 +1461,10 @@
 0.0.0.0 lightstep.medium.systems
 0.0.0.0 live.primis.tech
 0.0.0.0 www.smi.today
+0.0.0.0 rocketme.top
 0.0.0.0 s.console.adtarget.com.tr
+0.0.0.0 v.kost.tv
+0.0.0.0 cdn.laim.tv
 0.0.0.0 ad.mox.tv
 0.0.0.0 cdn01.nativeroll.tv
 0.0.0.0 js.spotx.tv
