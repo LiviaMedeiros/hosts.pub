@@ -285,6 +285,7 @@
 0.0.0.0 staticxx.facebook.com
 0.0.0.0 web.facebook.com
 0.0.0.0 www.facebook.com
+0.0.0.0 nel.fastly-insights.com
 0.0.0.0 www.fastly-insights.com
 0.0.0.0 vip.chps-api.fc2.com
 0.0.0.0 counter1.fc2.com
@@ -455,6 +456,7 @@
 0.0.0.0 bngxqkop6mcjqfnb9h8k5ke9zszqw1628711254.nuid.imrworldwide.com
 0.0.0.0 cernjduprghjpxjapgckrwcnkwhxy1628710479.nuid.imrworldwide.com
 0.0.0.0 i3nsgnl6v6molkikjvb78bvcd7dtz1628710620.nuid.imrworldwide.com
+0.0.0.0 khzlru97h7jakkqi73dpgycojuxve1644856178.nuid.imrworldwide.com
 0.0.0.0 njouhrk4waem5xfsa662773kpahje1628717414.nuid.imrworldwide.com
 0.0.0.0 qhunq9avqwliclbu9bdie2vuqfbbz1632471894.nuid.imrworldwide.com
 0.0.0.0 qyhttjaswzqdr6ytforq0rm8rkwnf1632471482.nuid.imrworldwide.com
@@ -485,6 +487,7 @@
 0.0.0.0 joom.com
 0.0.0.0 pre.ads.justpremium.com
 0.0.0.0 entitlements.jwplayer.com
+0.0.0.0 ping-meta-prd.jwpltx.com
 0.0.0.0 prd.jwpltx.com
 0.0.0.0 storage.cloud.kargo.com
 0.0.0.0 krk.kargo.com
@@ -1155,6 +1158,7 @@
 0.0.0.0 stats.g.doubleclick.net
 0.0.0.0 survey.g.doubleclick.net
 0.0.0.0 static.doubleclick.net
+0.0.0.0 be.durationmedia.net
 0.0.0.0 tag.durationmedia.net
 0.0.0.0 me-cdn.effectivemeasure.net
 0.0.0.0 api.enthusiastgaming.net
