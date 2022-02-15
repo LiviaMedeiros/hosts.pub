@@ -739,6 +739,7 @@
 0.0.0.0 signal-beacon.s-onetag.com
 0.0.0.0 signal-metrics-collector-beta.s-onetag.com
 0.0.0.0 signal-segments.s-onetag.com
+0.0.0.0 ak.sail-horizon.com
 0.0.0.0 dls.di.atlas.samsung.com
 0.0.0.0 ced.sascdn.com
 0.0.0.0 images.scanalert.com
@@ -819,6 +820,7 @@
 0.0.0.0 cdn.thisiswaldo.com
 0.0.0.0 thrtle.com
 0.0.0.0 log.tiktokv.com
+0.0.0.0 stat.tildacdn.com
 0.0.0.0 cdn.tinypass.com
 0.0.0.0 dashboard.tinypass.com
 0.0.0.0 experience.tinypass.com
@@ -928,6 +930,7 @@
 0.0.0.0 vidalak.com
 0.0.0.0 literally-media.videoplayerhub.com
 0.0.0.0 network-n-com.videoplayerhub.com
+0.0.0.0 snigelweb-com.videoplayerhub.com
 0.0.0.0 cdn.viglink.com
 0.0.0.0 player-telemetry.vimeo.com
 0.0.0.0 vk.com
@@ -1086,6 +1089,7 @@
 0.0.0.0 www.clarity.ms
 0.0.0.0 gcdn.2mdn.net
 0.0.0.0 s0.2mdn.net
+0.0.0.0 oracle.112.2o7.net
 0.0.0.0 jsn.24smi.net
 0.0.0.0 prebid.a-mo.net
 0.0.0.0 www.acint.net
@@ -1174,6 +1178,7 @@
 0.0.0.0 cdn.fuseplatform.net
 0.0.0.0 adm.fwmrm.net
 0.0.0.0 mssl.fwmrm.net
+0.0.0.0 ssl.geoplugin.net
 0.0.0.0 crl.globalsign.net
 0.0.0.0 c.go-mpulse.net
 0.0.0.0 s.go-mpulse.net
