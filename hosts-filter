@@ -1138,6 +1138,7 @@
 0.0.0.0 dc8xl0ndzn2cb.cloudfront.net
 0.0.0.0 dzt1km7tv28ex.cloudfront.net
 0.0.0.0 us-central1-amp-error-reporting.cloudfunctions.net
+0.0.0.0 csm.jp2.as.criteo.net
 0.0.0.0 csm.fr.eu.criteo.net
 0.0.0.0 csm.nl.eu.criteo.net
 0.0.0.0 static.criteo.net
@@ -1402,6 +1403,7 @@
 0.0.0.0 liveut2-m100.ok.ru
 0.0.0.0 m.ok.ru
 0.0.0.0 tamtam.ok.ru
+0.0.0.0 c.pravo.ru
 0.0.0.0 pxksnymto.ru
 0.0.0.0 loyalty.rambler-co.ru
 0.0.0.0 c.rambler.ru
