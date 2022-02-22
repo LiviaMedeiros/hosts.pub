@@ -167,6 +167,7 @@
 0.0.0.0 api.btloader.com
 0.0.0.0 bttrack.com
 0.0.0.0 sessions.bugsnag.com
+0.0.0.0 sync.bumlam.com
 0.0.0.0 cdn.buymeacoffee.com
 0.0.0.0 cdnjs.buymeacoffee.com
 0.0.0.0 www.buymeacoffee.com
@@ -752,6 +753,7 @@
 0.0.0.0 sedoparking.com
 0.0.0.0 cdn.segment.com
 0.0.0.0 live.sekindo.com
+0.0.0.0 sonar.semantiqo.com
 0.0.0.0 browser.sentry-cdn.com
 0.0.0.0 ads.servebom.com
 0.0.0.0 ads2.servebom.com
@@ -992,6 +994,7 @@
 0.0.0.0 ac.ajur.info
 0.0.0.0 bitrix.info
 0.0.0.0 analytics.bitrix.info
+0.0.0.0 sync.1dmp.io
 0.0.0.0 sync.1rx.io
 0.0.0.0 tag.1rx.io
 0.0.0.0 cdn.adapex.io
@@ -1092,6 +1095,7 @@
 0.0.0.0 oracle.112.2o7.net
 0.0.0.0 jsn.24smi.net
 0.0.0.0 prebid.a-mo.net
+0.0.0.0 acint.net
 0.0.0.0 www.acint.net
 0.0.0.0 ad-delivery.net
 0.0.0.0 adx.adform.net
@@ -1395,6 +1399,7 @@
 0.0.0.0 stat-analytics.mediavitrina.ru
 0.0.0.0 matching.mobilebanner.ru
 0.0.0.0 code.moviead55.ru
+0.0.0.0 sm.rtb.mts.ru
 0.0.0.0 ps.ntvk1.ru
 0.0.0.0 api.ok.ru
 0.0.0.0 connect.ok.ru
@@ -1435,6 +1440,8 @@
 0.0.0.0 moevideo-sync.rutarget.ru
 0.0.0.0 sape-sync.rutarget.ru
 0.0.0.0 videonow-sync.rutarget.ru
+0.0.0.0 yandex-dmp-sync.rutarget.ru
+0.0.0.0 yandex-sync.rutarget.ru
 0.0.0.0 cdn-rtb.sape.ru
 0.0.0.0 pfm-stat.online.sberbank.ru
 0.0.0.0 289310.selcdn.ru
@@ -1445,12 +1452,14 @@
 0.0.0.0 widget.svk-native.ru
 0.0.0.0 tns-counter.ru
 0.0.0.0 ar.tns-counter.ru
+0.0.0.0 cm.tns-counter.ru
 0.0.0.0 www.tns-counter.ru
 0.0.0.0 st.top100.ru
 0.0.0.0 track.tproger.ru
 0.0.0.0 utarget.ru
 0.0.0.0 dmp.vihub.ru
 0.0.0.0 vkontakte.ru
+0.0.0.0 mitdmp.whiteboxdigital.ru
 0.0.0.0 xcec.ru
 0.0.0.0 counter.yadro.ru
 0.0.0.0 matchid.adfox.yandex.ru
