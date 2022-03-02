@@ -376,6 +376,7 @@
 0.0.0.0 65cfea6bee2432143819bcbc144d382e.safeframe.googlesyndication.com
 0.0.0.0 73fc1d6a422235ee894a0553ecf8de87.safeframe.googlesyndication.com
 0.0.0.0 78e7a32260d57b621405c558996f1f3c.safeframe.googlesyndication.com
+0.0.0.0 86b740d12859f0f5aea37f35f6211edb.safeframe.googlesyndication.com
 0.0.0.0 479e10cb62f5ff5d0354bdd5768f8a6c.safeframe.googlesyndication.com
 0.0.0.0 703ebdf2a345ee9e7c54846160a71b83.safeframe.googlesyndication.com
 0.0.0.0 767b2ca3634ec334691a5a65d03f46b4.safeframe.googlesyndication.com
@@ -1009,6 +1010,7 @@
 0.0.0.0 cdn.districtm.io
 0.0.0.0 dmx.districtm.io
 0.0.0.0 media.ethicalads.io
+0.0.0.0 vc.hotjar.io
 0.0.0.0 cdn.lodeo.io
 0.0.0.0 log.logicanalytics.io
 0.0.0.0 s.ntv.io
@@ -1122,6 +1124,7 @@
 0.0.0.0 tbcdnwidgetsprod.azureedge.net
 0.0.0.0 thermaltake.azureedge.net
 0.0.0.0 wompanalytics.azurewebsites.net
+0.0.0.0 geo.battle.net
 0.0.0.0 telemetry-in.battle.net
 0.0.0.0 grid.bidswitch.net
 0.0.0.0 x.bidswitch.net
