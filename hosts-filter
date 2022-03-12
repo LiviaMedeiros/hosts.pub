@@ -31,6 +31,7 @@
 0.0.0.0 c.aaxads.com
 0.0.0.0 abdurantom.com
 0.0.0.0 builder.lift.acquia.com
+0.0.0.0 addthis.com
 0.0.0.0 api-public.addthis.com
 0.0.0.0 m.addthis.com
 0.0.0.0 s7.addthis.com
@@ -83,7 +84,9 @@
 0.0.0.0 aliradar.com
 0.0.0.0 aan.amazon-adsystem.com
 0.0.0.0 aax.amazon-adsystem.com
+0.0.0.0 aax-us-east.amazon-adsystem.com
 0.0.0.0 c.amazon-adsystem.com
+0.0.0.0 fls-na.amazon-adsystem.com
 0.0.0.0 ir-na.amazon-adsystem.com
 0.0.0.0 rcm-na.amazon-adsystem.com
 0.0.0.0 s.amazon-adsystem.com
@@ -366,6 +369,7 @@
 0.0.0.0 userlocation.googleapis.com
 0.0.0.0 www.googleoptimize.com
 0.0.0.0 ade.googlesyndication.com
+0.0.0.0 page2.googlesyndication.com
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 0d47b86d5d6de5ba547ce3cff789e7be.safeframe.googlesyndication.com
 0.0.0.0 5af2d7b4695096427b8cf8faf56e0d7d.safeframe.googlesyndication.com
@@ -482,6 +486,7 @@
 0.0.0.0 i.isnssdk.com
 0.0.0.0 mon.isnssdk.com
 0.0.0.0 cdn.iubenda.com
+0.0.0.0 hits-i.iubenda.com
 0.0.0.0 rose.ixbt.com
 0.0.0.0 cdn.izooto.com
 0.0.0.0 i.mxplayer.j2inter.com
@@ -716,6 +721,7 @@
 0.0.0.0 sync.republer.com
 0.0.0.0 spn-v1.revampcdn.com
 0.0.0.0 assets.revcontent.com
+0.0.0.0 live.rezync.com
 0.0.0.0 p.rfihub.com
 0.0.0.0 mid.rkdms.com
 0.0.0.0 check.analytics.rlcdn.com
@@ -1329,6 +1335,7 @@
 0.0.0.0 clickio.mgr.consensu.org
 0.0.0.0 consentmanager.mgr.consensu.org
 0.0.0.0 cdn.consentmanager.mgr.consensu.org
+0.0.0.0 iubenda.mgr.consensu.org
 0.0.0.0 quantcast.mgr.consensu.org
 0.0.0.0 apis.quantcast.mgr.consensu.org
 0.0.0.0 test.quantcast.mgr.consensu.org
