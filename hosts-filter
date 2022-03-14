@@ -135,6 +135,7 @@
 0.0.0.0 sdk.audienceplay.com
 0.0.0.0 b2cdn.automatad.com
 0.0.0.0 us-east-pbs.automatad.com
+0.0.0.0 js.monitor.azure.com
 0.0.0.0 api.b2c.com
 0.0.0.0 hm.baidu.com
 0.0.0.0 www.bandisoft.com
@@ -576,6 +577,7 @@
 0.0.0.0 go.microsoft.com
 0.0.0.0 iecvlist.microsoft.com
 0.0.0.0 ieonline.microsoft.com
+0.0.0.0 msedge.b.tlu.dl.delivery.mp.microsoft.com
 0.0.0.0 fe3cr.delivery.mp.microsoft.com
 0.0.0.0 displaycatalog.mp.microsoft.com
 0.0.0.0 geo.prod.do.dsp.mp.microsoft.com
@@ -1218,6 +1220,7 @@
 0.0.0.0 prebid.media.net
 0.0.0.0 evoke-windowsservices-tas.msedge.net
 0.0.0.0 fp.msedge.net
+0.0.0.0 visualstudio-devdiv-c2s.msedge.net
 0.0.0.0 st.nex8.net
 0.0.0.0 bam.nr-data.net
 0.0.0.0 cs.ns1p.net
