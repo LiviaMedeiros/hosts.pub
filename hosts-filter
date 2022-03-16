@@ -553,6 +553,7 @@
 0.0.0.0 app-ab09.marketo.com
 0.0.0.0 app-ab22.marketo.com
 0.0.0.0 app-sj13.marketo.com
+0.0.0.0 app-sj15.marketo.com
 0.0.0.0 pixel.mathtag.com
 0.0.0.0 starget.mathworks.com
 0.0.0.0 scripts.mediavine.com
@@ -1158,6 +1159,7 @@
 0.0.0.0 d26b395fwzu5fz.cloudfront.net
 0.0.0.0 dc8xl0ndzn2cb.cloudfront.net
 0.0.0.0 df80k0z3fi8zg.cloudfront.net
+0.0.0.0 dna8twue3dlxq.cloudfront.net
 0.0.0.0 dzt1km7tv28ex.cloudfront.net
 0.0.0.0 us-central1-amp-error-reporting.cloudfunctions.net
 0.0.0.0 csm.jp2.as.criteo.net
@@ -1494,6 +1496,7 @@
 0.0.0.0 web-metrica.yandex.ru
 0.0.0.0 zen.yandex.ru
 0.0.0.0 go.zdos.ru
+0.0.0.0 rb.infox.sg
 0.0.0.0 www.takiparkrb.site
 0.0.0.0 ana.bandi.so
 0.0.0.0 prebid.digitru.st
