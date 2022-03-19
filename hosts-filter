@@ -143,6 +143,7 @@
 0.0.0.0 ads.betweendigital.com
 0.0.0.0 reachms.bfmio.com
 0.0.0.0 sync.bfmio.com
+0.0.0.0 ssp.bidvol.com
 0.0.0.0 api-new.bignox.com
 0.0.0.0 launcher-api.bignox.com
 0.0.0.0 bing.com
@@ -1467,6 +1468,7 @@
 0.0.0.0 yandex-dmp-sync.rutarget.ru
 0.0.0.0 yandex-sync.rutarget.ru
 0.0.0.0 cdn-rtb.sape.ru
+0.0.0.0 ssp-rtb.sape.ru
 0.0.0.0 pfm-stat.online.sberbank.ru
 0.0.0.0 289310.selcdn.ru
 0.0.0.0 smi2.ru
