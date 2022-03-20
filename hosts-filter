@@ -196,6 +196,7 @@
 0.0.0.0 h.cedatoplayer.com
 0.0.0.0 radar.cedexis.com
 0.0.0.0 static.chartbeat.com
+0.0.0.0 chimpstatic.com
 0.0.0.0 web-cache.chocomaru.com
 0.0.0.0 citrix.com
 0.0.0.0 p.cityadstrack.com
@@ -684,6 +685,7 @@
 0.0.0.0 cdn.petametrics.com
 0.0.0.0 ct.pinterest.com
 0.0.0.0 log.pinterest.com
+0.0.0.0 pv.pjtsu.com
 0.0.0.0 via.placeholder.com
 0.0.0.0 cdn.playbuzz.com
 0.0.0.0 config.playwire.com
@@ -855,6 +857,7 @@
 0.0.0.0 2ciy2-9kbup.ads.tremorhub.com
 0.0.0.0 tracking.trnox.com
 0.0.0.0 tracking-3-9f58.trnox.com
+0.0.0.0 sdki.truepush.com
 0.0.0.0 consent.trustarc.com
 0.0.0.0 tsyndicate.com
 0.0.0.0 px.srvcs.tumblr.com
@@ -1181,6 +1184,7 @@
 0.0.0.0 ad.doubleclick.net
 0.0.0.0 2542116.fls.doubleclick.net
 0.0.0.0 5922505.fls.doubleclick.net
+0.0.0.0 8308634.fls.doubleclick.net
 0.0.0.0 cm.g.doubleclick.net
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 googleads4.g.doubleclick.net
