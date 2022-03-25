@@ -14,6 +14,7 @@
 0.0.0.0 api.popin.cc
 0.0.0.0 img2.reactor.cc
 0.0.0.0 analytics.core.retell.cc
+0.0.0.0 widget.retell.cc
 0.0.0.0 grs.dbankcloud.cn
 0.0.0.0 b.6sc.co
 0.0.0.0 j.6sc.co
@@ -1407,6 +1408,7 @@
 0.0.0.0 analytics.dns-shop.ru
 0.0.0.0 counter.drom.ru
 0.0.0.0 yummy.drom.ru
+0.0.0.0 analytics.fontanka.ru
 0.0.0.0 tracker.giftd.ru
 0.0.0.0 adservice.google.ru
 0.0.0.0 piwik-gosbar.gosuslugi.ru
@@ -1428,6 +1430,7 @@
 0.0.0.0 da.ce.b5.a0.top.mail.ru
 0.0.0.0 da.cb.b3.a1.top.mail.ru
 0.0.0.0 content.rbc.medialand.ru
+0.0.0.0 mediatoday.ru
 0.0.0.0 stat-analytics.mediavitrina.ru
 0.0.0.0 matching.mobilebanner.ru
 0.0.0.0 code.moviead55.ru
@@ -1489,6 +1492,7 @@
 0.0.0.0 www.tns-counter.ru
 0.0.0.0 st.top100.ru
 0.0.0.0 track.tproger.ru
+0.0.0.0 tt.ttarget.ru
 0.0.0.0 utarget.ru
 0.0.0.0 dmp.vihub.ru
 0.0.0.0 vkontakte.ru
