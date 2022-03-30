@@ -1,3 +1,4 @@
+0.0.0.0 ssp.afp.ai
 0.0.0.0 dm.hybrid.ai
 0.0.0.0 hbe199.hybrid.ai
 0.0.0.0 m2d.m2.ai
@@ -220,6 +221,9 @@
 0.0.0.0 cd.connatix.com
 0.0.0.0 cdm.connatix.com
 0.0.0.0 ads2.contentabc.com
+0.0.0.0 cdn11.contentabc.com
+0.0.0.0 hw-cdn2.contentabc.com
+0.0.0.0 vz-cdn2.contentabc.com
 0.0.0.0 bh.contextweb.com
 0.0.0.0 cdn.convertbox.com
 0.0.0.0 f.convertkit.com
@@ -856,6 +860,7 @@
 0.0.0.0 z.cdn.trafficbass.com
 0.0.0.0 syndication.traffichaus.com
 0.0.0.0 ads.traffichunt.com
+0.0.0.0 media.trafficjunky.com
 0.0.0.0 static.trafficjunky.com
 0.0.0.0 in.treasuredata.com
 0.0.0.0 ads.tremorhub.com
@@ -1217,6 +1222,7 @@
 0.0.0.0 adm.fwmrm.net
 0.0.0.0 mssl.fwmrm.net
 0.0.0.0 ssl.geoplugin.net
+0.0.0.0 stat-api-yndx.cloud.gismeteo.net
 0.0.0.0 crl.globalsign.net
 0.0.0.0 c.go-mpulse.net
 0.0.0.0 s.go-mpulse.net
