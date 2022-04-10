@@ -330,6 +330,7 @@
 0.0.0.0 ampcid.google.com
 0.0.0.0 clients6.google.com
 0.0.0.0 addons-pa.clients6.google.com
+0.0.0.0 appsgrowthpromo-pa.clients6.google.com
 0.0.0.0 appsitemsuggest-pa.clients6.google.com
 0.0.0.0 blobcomments-pa.clients6.google.com
 0.0.0.0 chat-pa.clients6.google.com
@@ -1459,6 +1460,7 @@
 0.0.0.0 tamtam.ok.ru
 0.0.0.0 c.pravo.ru
 0.0.0.0 pxksnymto.ru
+0.0.0.0 r9ljguu1k4.ru
 0.0.0.0 loyalty.rambler-co.ru
 0.0.0.0 c.rambler.ru
 0.0.0.0 cdn-comments.rambler.ru
