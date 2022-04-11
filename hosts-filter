@@ -87,10 +87,12 @@
 0.0.0.0 aliradar.com
 0.0.0.0 aan.amazon-adsystem.com
 0.0.0.0 aax.amazon-adsystem.com
+0.0.0.0 aax-us.amazon-adsystem.com
 0.0.0.0 aax-us-east.amazon-adsystem.com
 0.0.0.0 c.amazon-adsystem.com
 0.0.0.0 fls-na.amazon-adsystem.com
 0.0.0.0 ir-na.amazon-adsystem.com
+0.0.0.0 mads.amazon-adsystem.com
 0.0.0.0 rcm-na.amazon-adsystem.com
 0.0.0.0 s.amazon-adsystem.com
 0.0.0.0 ws-na.amazon-adsystem.com
@@ -317,6 +319,7 @@
 0.0.0.0 geoip-js.com
 0.0.0.0 in.getclicky.com
 0.0.0.0 tag.getdrip.com
+0.0.0.0 geo.gfycat.com
 0.0.0.0 vampirebat.git-tower.com
 0.0.0.0 collector.githubapp.com
 0.0.0.0 cdn.glitch.com
@@ -502,6 +505,7 @@
 0.0.0.0 cdn.intergient.com
 0.0.0.0 i.isnssdk.com
 0.0.0.0 mon.isnssdk.com
+0.0.0.0 api.iterable.com
 0.0.0.0 cdn.iubenda.com
 0.0.0.0 hits-i.iubenda.com
 0.0.0.0 rose.ixbt.com
@@ -1447,6 +1451,7 @@
 0.0.0.0 content.rbc.medialand.ru
 0.0.0.0 mediatoday.ru
 0.0.0.0 stat-analytics.mediavitrina.ru
+0.0.0.0 api.mindbox.ru
 0.0.0.0 matching.mobilebanner.ru
 0.0.0.0 code.moviead55.ru
 0.0.0.0 sm.rtb.mts.ru
