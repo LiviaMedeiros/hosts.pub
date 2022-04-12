@@ -189,6 +189,7 @@
 0.0.0.0 maliva-mcs.byteoversea.com
 0.0.0.0 mon-va.byteoversea.com
 0.0.0.0 vcs-va.byteoversea.com
+0.0.0.0 cdn.callbackhunter.com
 0.0.0.0 cdn.carbonads.com
 0.0.0.0 a2446.casalemedia.com
 0.0.0.0 amp.casalemedia.com
@@ -257,6 +258,7 @@
 0.0.0.0 tags-cdn.deployads.com
 0.0.0.0 ads.digitalcaramel.com
 0.0.0.0 file-service-default-114c67af0763a8a98e770ff3ee495371.fra1.digitaloceanspaces.com
+0.0.0.0 jsoon.digitiminimi.com
 0.0.0.0 referrer.disqus.com
 0.0.0.0 glitter.services.disqus.com
 0.0.0.0 links.services.disqus.com
@@ -1412,6 +1414,7 @@
 0.0.0.0 bs-dante.ru
 0.0.0.0 adviser.bs-dante.ru
 0.0.0.0 cdn.callibri.ru
+0.0.0.0 mod.calltouch.ru
 0.0.0.0 cc.calltracking.ru
 0.0.0.0 catsnetwork.ru
 0.0.0.0 cleversite.ru
