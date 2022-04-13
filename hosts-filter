@@ -956,6 +956,7 @@
 0.0.0.0 sun9-61.userapi.com
 0.0.0.0 sun9-63.userapi.com
 0.0.0.0 sun9-64.userapi.com
+0.0.0.0 sun9-66.userapi.com
 0.0.0.0 sun9-67.userapi.com
 0.0.0.0 sun9-69.userapi.com
 0.0.0.0 sun9-75.userapi.com
@@ -1311,6 +1312,7 @@
 0.0.0.0 usllpic0sko7magwjo6mvfobnt5zgrrn5ha4zclid6ad58bc9907329eam1.e.aa.online-metrix.net
 0.0.0.0 eu-aa.online-metrix.net
 0.0.0.0 h.online-metrix.net
+0.0.0.0 openstat.net
 0.0.0.0 borderblue-d.openx.net
 0.0.0.0 eu-u.openx.net
 0.0.0.0 idm-d.openx.net
@@ -1434,6 +1436,7 @@
 0.0.0.0 adservice.google.ru
 0.0.0.0 piwik-gosbar.gosuslugi.ru
 0.0.0.0 habrahabr.ru
+0.0.0.0 js.hotlog.ru
 0.0.0.0 likemore-go.imgsmail.ru
 0.0.0.0 mediator.imgsmail.ru
 0.0.0.0 static-sl.insales.ru
