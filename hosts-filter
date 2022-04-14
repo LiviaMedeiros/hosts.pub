@@ -61,6 +61,7 @@
 0.0.0.0 pixel.adsafeprotected.com
 0.0.0.0 static.adsafeprotected.com
 0.0.0.0 adserver.adtechus.com
+0.0.0.0 hb.adtelligent.com
 0.0.0.0 player.adtelligent.com
 0.0.0.0 ads.adthrive.com
 0.0.0.0 a.adtng.com
@@ -266,6 +267,7 @@
 0.0.0.0 web.hb.ad.cpe.dotomi.com
 0.0.0.0 prebid-match.dotomi.com
 0.0.0.0 www.doubleclickbygoogle.com
+0.0.0.0 cdn.doubleverify.com
 0.0.0.0 tps.doubleverify.com
 0.0.0.0 conversation.api.drift.com
 0.0.0.0 customer.api.drift.com
@@ -1023,6 +1025,7 @@
 0.0.0.0 cstatic.weborama.fr
 0.0.0.0 rd.frontend.weborama.fr
 0.0.0.0 redirect.frontend.weborama.fr
+0.0.0.0 wcm-ru.frontend.weborama.fr
 0.0.0.0 wf.frontend.weborama.fr
 0.0.0.0 wcm.solution.weborama.fr
 0.0.0.0 i.clean.gg
@@ -1396,6 +1399,7 @@
 0.0.0.0 c.adsco.re
 0.0.0.0 g2.wait.re
 0.0.0.0 advisor.api.2gis.ru
+0.0.0.0 news.2xclick.ru
 0.0.0.0 ad.3dnews.ru
 0.0.0.0 3wnp9.ru
 0.0.0.0 ads.adfox.ru
