@@ -102,6 +102,7 @@
 0.0.0.0 api.amplitude.com
 0.0.0.0 api2.amplitude.com
 0.0.0.0 cdn.amplitude.com
+0.0.0.0 api.lab.amplitude.com
 0.0.0.0 lreprx-server.anyclip.com
 0.0.0.0 pixel.anyclip.com
 0.0.0.0 play.anyclip.com
@@ -878,6 +879,7 @@
 0.0.0.0 in.treasuredata.com
 0.0.0.0 ads.tremorhub.com
 0.0.0.0 2ciy2-9kbup.ads.tremorhub.com
+0.0.0.0 assets.trendemon.com
 0.0.0.0 tracking.trnox.com
 0.0.0.0 tracking-3-9f58.trnox.com
 0.0.0.0 sdki.truepush.com
