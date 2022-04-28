@@ -1,3 +1,4 @@
+0.0.0.0 cdn.afp.ai
 0.0.0.0 ssp.afp.ai
 0.0.0.0 dm.hybrid.ai
 0.0.0.0 hbe199.hybrid.ai
@@ -356,6 +357,7 @@
 0.0.0.0 realtimesupport.clients6.google.com
 0.0.0.0 scone-pa.clients6.google.com
 0.0.0.0 signaler-pa.clients6.google.com
+0.0.0.0 taskassist-pa.clients6.google.com
 0.0.0.0 tracedepot-pa.clients6.google.com
 0.0.0.0 fcmatch.google.com
 0.0.0.0 smartlock.google.com
@@ -1004,6 +1006,7 @@
 0.0.0.0 beacon.wikia-services.com
 0.0.0.0 rest.wildstar-online.com
 0.0.0.0 maps.windows.com
+0.0.0.0 client.wns.windows.com
 0.0.0.0 journey.wired.com
 0.0.0.0 pixel.wp.com
 0.0.0.0 stats.wp.com
@@ -1535,6 +1538,7 @@
 0.0.0.0 static.videonow.ru
 0.0.0.0 dmp.vihub.ru
 0.0.0.0 vkontakte.ru
+0.0.0.0 com.adv.vz.ru
 0.0.0.0 mitdmp.whiteboxdigital.ru
 0.0.0.0 xcec.ru
 0.0.0.0 counter.yadro.ru
@@ -1571,6 +1575,7 @@
 0.0.0.0 s8t.teads.tv
 0.0.0.0 t.teads.tv
 0.0.0.0 cdn.vidible.tv
+0.0.0.0 stats.viqeo.tv
 0.0.0.0 www.taiwannews.com.tw
 0.0.0.0 adservice.google.com.ua
 0.0.0.0 a1.api.bbc.co.uk
