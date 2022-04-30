@@ -1023,6 +1023,7 @@
 0.0.0.0 ymetrica1.com
 0.0.0.0 fcmatch.youtube.com
 0.0.0.0 s.youtube.com
+0.0.0.0 i1.ytimg.com
 0.0.0.0 ytimgg.com
 0.0.0.0 mxvp-feature-toggle-prod-1.zenmxapps.com
 0.0.0.0 www.zergnet.com
@@ -1391,6 +1392,7 @@
 0.0.0.0 cmp.teads.mgr.consensu.org
 0.0.0.0 vendorlist.consensu.org
 0.0.0.0 uhm26jyr11zv.www.freecodecamp.org
+0.0.0.0 2.android.pool.ntp.org
 0.0.0.0 a.pixiv.org
 0.0.0.0 currency.prebid.org
 0.0.0.0 sdk.privacy-center.org
