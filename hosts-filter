@@ -134,6 +134,7 @@
 0.0.0.0 inapps.appsflyer.com
 0.0.0.0 launches.appsflyer.com
 0.0.0.0 t.appsflyer.com
+0.0.0.0 cdn-settings.appsflyersdk.com
 0.0.0.0 stat.appsgeyser.com
 0.0.0.0 tracking.apptrackerlink.com
 0.0.0.0 telemetry.art19.com
@@ -1445,7 +1446,9 @@
 0.0.0.0 cdn.directadvert.ru
 0.0.0.0 sw88.disney.ru
 0.0.0.0 analytics.dns-shop.ru
+0.0.0.0 drom.ru
 0.0.0.0 counter.drom.ru
+0.0.0.0 www.drom.ru
 0.0.0.0 yummy.drom.ru
 0.0.0.0 analytics.fontanka.ru
 0.0.0.0 tracker.giftd.ru
@@ -1509,6 +1512,7 @@
 0.0.0.0 abc.rareru.ru
 0.0.0.0 recreativ.ru
 0.0.0.0 track.recreativ.ru
+0.0.0.0 reformal.ru
 0.0.0.0 cdn.retailrocket.ru
 0.0.0.0 a.ria.ru
 0.0.0.0 warning.rt.ru
