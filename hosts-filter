@@ -840,6 +840,7 @@
 0.0.0.0 search.spotxchange.com
 0.0.0.0 sync.search.spotxchange.com
 0.0.0.0 vid.springserve.com
+0.0.0.0 widgets.sprinklecontent.com
 0.0.0.0 spylees.com
 0.0.0.0 s.srvmath.com
 0.0.0.0 sync.srv.stackadapt.com
@@ -848,6 +849,7 @@
 0.0.0.0 www.statcounter.com
 0.0.0.0 crash.steampowered.com
 0.0.0.0 ads.stickyadstv.com
+0.0.0.0 assets.strossle.com
 0.0.0.0 www.summerhamster.com
 0.0.0.0 init.supersonicads.com
 0.0.0.0 outcome-ssp.supersonicads.com
@@ -1050,6 +1052,7 @@
 0.0.0.0 ac.ajur.info
 0.0.0.0 bitrix.info
 0.0.0.0 analytics.bitrix.info
+0.0.0.0 static.1dmp.io
 0.0.0.0 sync.1dmp.io
 0.0.0.0 sync.1rx.io
 0.0.0.0 tag.1rx.io
@@ -1064,6 +1067,7 @@
 0.0.0.0 cdn.districtm.io
 0.0.0.0 dmx.districtm.io
 0.0.0.0 media.ethicalads.io
+0.0.0.0 www.giraff.io
 0.0.0.0 vc.hotjar.io
 0.0.0.0 cdn.lodeo.io
 0.0.0.0 log.logicanalytics.io
@@ -1520,6 +1524,7 @@
 0.0.0.0 warning.rt.ru
 0.0.0.0 adfox-hb-bidder.rutarget.ru
 0.0.0.0 aidata-sync.rutarget.ru
+0.0.0.0 cdn.rutarget.ru
 0.0.0.0 instreamvideo-sync.rutarget.ru
 0.0.0.0 moevideo-sync.rutarget.ru
 0.0.0.0 sape-sync.rutarget.ru
