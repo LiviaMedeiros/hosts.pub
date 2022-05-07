@@ -235,6 +235,7 @@
 0.0.0.0 bh.contextweb.com
 0.0.0.0 cdn.convertbox.com
 0.0.0.0 f.convertkit.com
+0.0.0.0 forms.convertkit.com
 0.0.0.0 cookie-cdn.cookiepro.com
 0.0.0.0 ssl.cdne.cpmstar.com
 0.0.0.0 firebase-settings.crashlytics.com
@@ -1473,11 +1474,14 @@
 0.0.0.0 games.mail.ru
 0.0.0.0 mediator.mail.ru
 0.0.0.0 otvet.mail.ru
+0.0.0.0 portal.mail.ru
 0.0.0.0 r.mail.ru
+0.0.0.0 rs.mail.ru
 0.0.0.0 top.mail.ru
 0.0.0.0 top-fwz1.mail.ru
 0.0.0.0 da.ce.b5.a0.top.mail.ru
 0.0.0.0 da.cb.b3.a1.top.mail.ru
+0.0.0.0 tv.mail.ru
 0.0.0.0 content.rbc.medialand.ru
 0.0.0.0 mediatoday.ru
 0.0.0.0 stat-analytics.mediavitrina.ru
