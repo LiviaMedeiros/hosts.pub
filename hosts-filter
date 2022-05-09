@@ -27,6 +27,7 @@
 0.0.0.0 eb2.3lift.com
 0.0.0.0 ib.3lift.com
 0.0.0.0 tlx.3lift.com
+0.0.0.0 6c5xnntfvi.com
 0.0.0.0 epsilon.6sense.com
 0.0.0.0 pixel.33across.com
 0.0.0.0 ssc.33across.com
@@ -35,6 +36,7 @@
 0.0.0.0 c.aaxads.com
 0.0.0.0 abdurantom.com
 0.0.0.0 builder.lift.acquia.com
+0.0.0.0 js.ad-score.com
 0.0.0.0 addthis.com
 0.0.0.0 api-public.addthis.com
 0.0.0.0 m.addthis.com
@@ -47,6 +49,7 @@
 0.0.0.0 app.adjust.com
 0.0.0.0 tagan.adlightning.com
 0.0.0.0 data16.adlooxtracking.com
+0.0.0.0 pixel.adlooxtracking.com
 0.0.0.0 cs.admanmedia.com
 0.0.0.0 acdn.adnxs.com
 0.0.0.0 ib.adnxs.com
@@ -150,6 +153,8 @@
 0.0.0.0 www.bandisoft.com
 0.0.0.0 st.bebi.com
 0.0.0.0 ads.betweendigital.com
+0.0.0.0 lbs-ru1.ads.betweendigital.com
+0.0.0.0 cache.betweendigital.com
 0.0.0.0 reachms.bfmio.com
 0.0.0.0 sync.bfmio.com
 0.0.0.0 ssp.bidvol.com
@@ -459,6 +464,7 @@
 0.0.0.0 ssm3ohyroj56f2pvyr4spe2vnszlqafj-c2r.metric.gstatic.com
 0.0.0.0 sw5xqu2quojlmoc6r26i3zhxnkzlqloo-c2r.metric.gstatic.com
 0.0.0.0 xvzi73zgzxstjsxfg2xfp6usdkydaci4-c2r.metric.gstatic.com
+0.0.0.0 contributions.guardianapis.com
 0.0.0.0 g2.gumgum.com
 0.0.0.0 gumroad.com
 0.0.0.0 lexaiduer.gumroad.com
@@ -486,6 +492,7 @@
 0.0.0.0 a.impactradius-go.com
 0.0.0.0 impossibleexpansion.com
 0.0.0.0 cdn-gl.imrworldwide.com
+0.0.0.0 cloudapi.imrworldwide.com
 0.0.0.0 0ecchxzz6dxwv1zhqa55iwljbqcqw1632471865.nuid.imrworldwide.com
 0.0.0.0 0opudicsekraihvb1bjb6yllfnd6m1612635724.nuid.imrworldwide.com
 0.0.0.0 4crwatnnvikekdce1c89sveqasdae1613850334.nuid.imrworldwide.com
@@ -507,6 +514,7 @@
 0.0.0.0 secure-dcr.imrworldwide.com
 0.0.0.0 secure-sts-prod.imrworldwide.com
 0.0.0.0 secure-us.imrworldwide.com
+0.0.0.0 uaid-linkage.imrworldwide.com
 0.0.0.0 js-sec.indexww.com
 0.0.0.0 hits.informer.com
 0.0.0.0 inpagepush.com
@@ -686,6 +694,8 @@
 0.0.0.0 a.optmnstr.com
 0.0.0.0 cmp.osano.com
 0.0.0.0 otm-r.com
+0.0.0.0 imp-bidder-eu-06.b.otm-r.com
+0.0.0.0 cdn.otm-r.com
 0.0.0.0 sync.dmp.otm-r.com
 0.0.0.0 ad-eu.p.otm-r.com
 0.0.0.0 pub-eu.p.otm-r.com
@@ -867,6 +877,7 @@
 0.0.0.0 pixel.tapad.com
 0.0.0.0 ad-cdn.technoratimedia.com
 0.0.0.0 elb.the-ozone-project.com
+0.0.0.0 ophan.theguardian.com
 0.0.0.0 ads.themoneytizer.com
 0.0.0.0 cdn.thisiswaldo.com
 0.0.0.0 thrtle.com
@@ -1164,6 +1175,7 @@
 0.0.0.0 c1.adform.net
 0.0.0.0 cm.adform.net
 0.0.0.0 track.adform.net
+0.0.0.0 f12-ru.adhigh.net
 0.0.0.0 pubserver-cdn.adhigh.net
 0.0.0.0 px.adhigh.net
 0.0.0.0 vast-f6-ru.adhigh.net
@@ -1274,6 +1286,7 @@
 0.0.0.0 visualstudio-devdiv-c2s.msedge.net
 0.0.0.0 st.nex8.net
 0.0.0.0 bam.nr-data.net
+0.0.0.0 bam-cell.nr-data.net
 0.0.0.0 cs.ns1p.net
 0.0.0.0 m1.nsimg.net
 0.0.0.0 m2.nsimg.net
@@ -1463,6 +1476,7 @@
 0.0.0.0 js.hotlog.ru
 0.0.0.0 likemore-go.imgsmail.ru
 0.0.0.0 mediator.imgsmail.ru
+0.0.0.0 widget.info-static.ru
 0.0.0.0 static-sl.insales.ru
 0.0.0.0 d7.c4.b5.a1.top.list.ru
 0.0.0.0 cs15.livetex.ru
