@@ -633,6 +633,7 @@
 0.0.0.0 decide.mixpanel.com
 0.0.0.0 194-vvc-221.mktoresp.com
 0.0.0.0 232-owy-009.mktoresp.com
+0.0.0.0 ml314.com
 0.0.0.0 log.mmstat.com
 0.0.0.0 ru.mmstat.com
 0.0.0.0 mb.moatads.com
@@ -740,6 +741,7 @@
 0.0.0.0 image6.pubmatic.com
 0.0.0.0 image8.pubmatic.com
 0.0.0.0 ow.pubmatic.com
+0.0.0.0 simage2.pubmatic.com
 0.0.0.0 s.pubmine.com
 0.0.0.0 aafce-4d6d3.api.pushwoosh.com
 0.0.0.0 cp.pushwoosh.com
@@ -862,6 +864,8 @@
 0.0.0.0 ads.stickyadstv.com
 0.0.0.0 assets.strossle.com
 0.0.0.0 www.summerhamster.com
+0.0.0.0 sumo.com
+0.0.0.0 load.sumo.com
 0.0.0.0 init.supersonicads.com
 0.0.0.0 outcome-ssp.supersonicads.com
 0.0.0.0 cc.swiftype.com
@@ -1100,6 +1104,7 @@
 0.0.0.0 assets.pubpowerplatform.io
 0.0.0.0 ms.pubpowerplatform.io
 0.0.0.0 nc.pubpowerplatform.io
+0.0.0.0 fdyn.pubwise.io
 0.0.0.0 at.adtech.redventures.io
 0.0.0.0 relap.io
 0.0.0.0 analytic.rollout.io
