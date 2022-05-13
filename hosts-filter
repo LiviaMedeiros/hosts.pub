@@ -1002,6 +1002,7 @@
 0.0.0.0 literally-media.videoplayerhub.com
 0.0.0.0 network-n-com.videoplayerhub.com
 0.0.0.0 snigelweb-com.videoplayerhub.com
+0.0.0.0 cdn.viewst.com
 0.0.0.0 cdn.viglink.com
 0.0.0.0 player-telemetry.vimeo.com
 0.0.0.0 vk.com
@@ -1117,6 +1118,7 @@
 0.0.0.0 cdn.simpleanalytics.io
 0.0.0.0 auth.split.io
 0.0.0.0 sdk.split.io
+0.0.0.0 ad.vidverto.io
 0.0.0.0 adfurikun.jp
 0.0.0.0 ginf.adfurikun.jp
 0.0.0.0 ln.ameba.jp
@@ -1430,6 +1432,7 @@
 0.0.0.0 gaua.hit.gemius.pl
 0.0.0.0 something.00ed983688.kacwyb.pl
 0.0.0.0 www.00ed983688.kacwyb.pl
+0.0.0.0 cdn.adfinity.pro
 0.0.0.0 adsco.re
 0.0.0.0 c.adsco.re
 0.0.0.0 g2.wait.re
