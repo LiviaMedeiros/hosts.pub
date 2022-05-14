@@ -592,6 +592,7 @@
 0.0.0.0 app-ab09.marketo.com
 0.0.0.0 app-ab22.marketo.com
 0.0.0.0 app-sj13.marketo.com
+0.0.0.0 app-sj14.marketo.com
 0.0.0.0 app-sj15.marketo.com
 0.0.0.0 pixel.mathtag.com
 0.0.0.0 starget.mathworks.com
@@ -673,6 +674,7 @@
 0.0.0.0 activation.gfe.nvidia.com
 0.0.0.0 events.gfe.nvidia.com
 0.0.0.0 telemetry.gfe.nvidia.com
+0.0.0.0 smetrics.nvidia.com
 0.0.0.0 telemetry.nvidia.com
 0.0.0.0 consent.cmp.oath.com
 0.0.0.0 offerimage.com
@@ -1227,6 +1229,7 @@
 0.0.0.0 dna8twue3dlxq.cloudfront.net
 0.0.0.0 dzt1km7tv28ex.cloudfront.net
 0.0.0.0 us-central1-amp-error-reporting.cloudfunctions.net
+0.0.0.0 t.contentsquare.net
 0.0.0.0 csm.jp2.as.criteo.net
 0.0.0.0 csm.fr.eu.criteo.net
 0.0.0.0 csm.nl.eu.criteo.net
@@ -1339,6 +1342,7 @@
 0.0.0.0 adobe.tt.omtrdc.net
 0.0.0.0 aetv.tt.omtrdc.net
 0.0.0.0 microsoftmscompoc.tt.omtrdc.net
+0.0.0.0 nintendoofamerica.tt.omtrdc.net
 0.0.0.0 nvidia.tt.omtrdc.net
 0.0.0.0 pluralsight.tt.omtrdc.net
 0.0.0.0 redhat.tt.omtrdc.net
@@ -1416,6 +1420,7 @@
 0.0.0.0 quantcast.mgr.consensu.org
 0.0.0.0 apis.quantcast.mgr.consensu.org
 0.0.0.0 test.quantcast.mgr.consensu.org
+0.0.0.0 c.sharethis.mgr.consensu.org
 0.0.0.0 cmp.teads.mgr.consensu.org
 0.0.0.0 vendorlist.consensu.org
 0.0.0.0 uhm26jyr11zv.www.freecodecamp.org
