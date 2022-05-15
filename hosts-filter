@@ -450,6 +450,7 @@
 0.0.0.0 4huxm3t4q5up3bj3dgnky6sxcrp32pup-c2r.metric.gstatic.com
 0.0.0.0 568862-android-ds.metric.gstatic.com
 0.0.0.0 937380-android-ds.metric.gstatic.com
+0.0.0.0 aysu3owa4mm6cmhetnelafqgwkydav45-c2r.metric.gstatic.com
 0.0.0.0 b0305003-cf2bnyrypw4vgsra-c2r-ds.metric.gstatic.com
 0.0.0.0 egksstlnzri3stqvw5ehmie4gcydaykq-c2r.metric.gstatic.com
 0.0.0.0 fcndtfa54ytl27skifnjkcg7x5oh4mdl-c2r.metric.gstatic.com
@@ -746,6 +747,7 @@
 0.0.0.0 simage2.pubmatic.com
 0.0.0.0 s.pubmine.com
 0.0.0.0 aafce-4d6d3.api.pushwoosh.com
+0.0.0.0 cdn.pushwoosh.com
 0.0.0.0 cp.pushwoosh.com
 0.0.0.0 post-log.pushwoosh.com
 0.0.0.0 jqmt.qq.com
@@ -974,6 +976,7 @@
 0.0.0.0 sun9-42.userapi.com
 0.0.0.0 sun9-46.userapi.com
 0.0.0.0 sun9-47.userapi.com
+0.0.0.0 sun9-49.userapi.com
 0.0.0.0 sun9-50.userapi.com
 0.0.0.0 sun9-51.userapi.com
 0.0.0.0 sun9-53.userapi.com
@@ -1532,7 +1535,9 @@
 0.0.0.0 loyalty.rambler-co.ru
 0.0.0.0 c.rambler.ru
 0.0.0.0 cdn-comments.rambler.ru
+0.0.0.0 comments.rambler.ru
 0.0.0.0 counter.rambler.ru
+0.0.0.0 developers.rambler.ru
 0.0.0.0 id.rambler.ru
 0.0.0.0 wapi.kassa.rambler.ru
 0.0.0.0 kraken.rambler.ru
