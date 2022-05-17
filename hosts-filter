@@ -467,6 +467,7 @@
 0.0.0.0 xvzi73zgzxstjsxfg2xfp6usdkydaci4-c2r.metric.gstatic.com
 0.0.0.0 contributions.guardianapis.com
 0.0.0.0 g2.gumgum.com
+0.0.0.0 rtb.gumgum.com
 0.0.0.0 gumroad.com
 0.0.0.0 lexaiduer.gumroad.com
 0.0.0.0 beacons.gvt2.com
@@ -489,6 +490,7 @@
 0.0.0.0 js.hs-scripts.com
 0.0.0.0 track.hubspot.com
 0.0.0.0 id5-sync.com
+0.0.0.0 cdn.id5-sync.com
 0.0.0.0 mpsnare.iesnare.com
 0.0.0.0 a.impactradius-go.com
 0.0.0.0 impossibleexpansion.com
@@ -1101,6 +1103,8 @@
 0.0.0.0 tttt.onthe.io
 0.0.0.0 c.oracleinfinity.io
 0.0.0.0 dc.oracleinfinity.io
+0.0.0.0 mweb-hb.presage.io
+0.0.0.0 abcheck.proper.io
 0.0.0.0 bids.proper.io
 0.0.0.0 eb.proper.io
 0.0.0.0 events.proper.io
@@ -1218,6 +1222,8 @@
 0.0.0.0 cdn4.buysellads.net
 0.0.0.0 srv.carbonads.net
 0.0.0.0 carbon-cdn.ccgateway.net
+0.0.0.0 script-api.ccgateway.net
+0.0.0.0 tag-api-2-1.ccgateway.net
 0.0.0.0 ping.chartbeat.net
 0.0.0.0 cloudapp.net
 0.0.0.0 d1z2jf7jlzjs58.cloudfront.net
