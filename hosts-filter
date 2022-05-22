@@ -45,7 +45,9 @@
 0.0.0.0 cache.addthiscdn.com
 0.0.0.0 m.addthisedge.com
 0.0.0.0 static.addtoany.com
+0.0.0.0 rtb.adentifi.com
 0.0.0.0 cm.adgrx.com
+0.0.0.0 dsp.adfarm1.adition.com
 0.0.0.0 app.adjust.com
 0.0.0.0 tagan.adlightning.com
 0.0.0.0 data16.adlooxtracking.com
@@ -180,6 +182,7 @@
 0.0.0.0 vmss.boldchat.com
 0.0.0.0 i.bongacash.com
 0.0.0.0 client-analytics.braintreegateway.com
+0.0.0.0 dmp.brand-display.com
 0.0.0.0 biddr.brealtime.com
 0.0.0.0 brightcove04.o.brightcove.com
 0.0.0.0 img.btdmp.com
@@ -229,6 +232,7 @@
 0.0.0.0 mps.cnbc.com
 0.0.0.0 saa.cnet.com
 0.0.0.0 cdn.codeblackbelt.com
+0.0.0.0 beacon.lynx.cognitivlabs.com
 0.0.0.0 api.company-target.com
 0.0.0.0 segments.company-target.com
 0.0.0.0 cd.connatix.com
@@ -254,6 +258,7 @@
 0.0.0.0 gum.criteo.com
 0.0.0.0 rtax.criteo.com
 0.0.0.0 sslwidget.criteo.com
+0.0.0.0 cm.ctnsnet.com
 0.0.0.0 cutechin.com
 0.0.0.0 www.datadoghq-browser-agent.com
 0.0.0.0 browser-http-intake.logs.datadoghq.com
@@ -498,10 +503,12 @@
 0.0.0.0 cloudapi.imrworldwide.com
 0.0.0.0 0ecchxzz6dxwv1zhqa55iwljbqcqw1632471865.nuid.imrworldwide.com
 0.0.0.0 0opudicsekraihvb1bjb6yllfnd6m1612635724.nuid.imrworldwide.com
+0.0.0.0 0ymt13cgkpp7nows4guzhrkcuxb3p1653237668.nuid.imrworldwide.com
 0.0.0.0 4crwatnnvikekdce1c89sveqasdae1613850334.nuid.imrworldwide.com
 0.0.0.0 4gyez1dacqp34vgv65cdaejf7vkto1628710505.nuid.imrworldwide.com
 0.0.0.0 6wjnprs96mxej92iwdzjoqrk8uyso1628710511.nuid.imrworldwide.com
 0.0.0.0 17g2t75da3fgivpy4rlfdlkddvelu1632472428.nuid.imrworldwide.com
+0.0.0.0 66u3dehgdm10bhimojrnxhnlovqhm1653237719.nuid.imrworldwide.com
 0.0.0.0 bngxqkop6mcjqfnb9h8k5ke9zszqw1628711254.nuid.imrworldwide.com
 0.0.0.0 cernjduprghjpxjapgckrwcnkwhxy1628710479.nuid.imrworldwide.com
 0.0.0.0 i3nsgnl6v6molkikjvb78bvcd7dtz1628710620.nuid.imrworldwide.com
@@ -520,6 +527,7 @@
 0.0.0.0 uaid-linkage.imrworldwide.com
 0.0.0.0 js-sec.indexww.com
 0.0.0.0 hits.informer.com
+0.0.0.0 sync.inmobi.com
 0.0.0.0 inpagepush.com
 0.0.0.0 x.instreamatic.com
 0.0.0.0 intelaxa.com
@@ -655,6 +663,7 @@
 0.0.0.0 firefox.settings.services.mozilla.com
 0.0.0.0 shavar.services.mozilla.com
 0.0.0.0 stun.services.mozilla.com
+0.0.0.0 ad.mrtnsvr.com
 0.0.0.0 www.msftconnecttest.com
 0.0.0.0 dns.msftncsi.com
 0.0.0.0 c.msn.com
@@ -695,6 +704,7 @@
 0.0.0.0 a.opmnstr.com
 0.0.0.0 cdn.optimizely.com
 0.0.0.0 cdn-pci.optimizely.com
+0.0.0.0 a17126690382.cdn.optimizely.com
 0.0.0.0 341578140.log.optimizely.com
 0.0.0.0 logx.optimizely.com
 0.0.0.0 a.optmnstr.com
@@ -806,6 +816,7 @@
 0.0.0.0 signal-metrics-collector-beta.s-onetag.com
 0.0.0.0 signal-segments.s-onetag.com
 0.0.0.0 ak.sail-horizon.com
+0.0.0.0 api.sail-personalize.com
 0.0.0.0 dls.di.atlas.samsung.com
 0.0.0.0 ced.sascdn.com
 0.0.0.0 images.scanalert.com
@@ -1047,6 +1058,7 @@
 0.0.0.0 pr-bh.ybp.yahoo.com
 0.0.0.0 bi.yeshen.com
 0.0.0.0 launcherus.yeshen.com
+0.0.0.0 x.yieldlift.com
 0.0.0.0 ymetrica1.com
 0.0.0.0 fcmatch.youtube.com
 0.0.0.0 s.youtube.com
@@ -1067,6 +1079,7 @@
 0.0.0.0 bid.glass
 0.0.0.0 dap.digitalgov.gov
 0.0.0.0 a.ad.gt
+0.0.0.0 id.halo.ad.gt
 0.0.0.0 seg.ad.gt
 0.0.0.0 api-2-0.spot.im
 0.0.0.0 events-collector.spot.im
