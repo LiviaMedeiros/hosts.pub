@@ -271,6 +271,8 @@
 0.0.0.0 denetsuk.com
 0.0.0.0 c.deployads.com
 0.0.0.0 tags-cdn.deployads.com
+0.0.0.0 cdn1.developermedia.com
+0.0.0.0 cdn2.developermedia.com
 0.0.0.0 ads.digitalcaramel.com
 0.0.0.0 file-service-default-114c67af0763a8a98e770ff3ee495371.fra1.digitaloceanspaces.com
 0.0.0.0 jsoon.digitiminimi.com
@@ -333,6 +335,7 @@
 0.0.0.0 flux-cdn.com
 0.0.0.0 formcrafts.com
 0.0.0.0 spoor-api.ft.com
+0.0.0.0 p2.fwpixel.com
 0.0.0.0 tracking.g2crowd.com
 0.0.0.0 geoip-js.com
 0.0.0.0 in.getclicky.com
@@ -601,6 +604,7 @@
 0.0.0.0 likes.services.livejournal.com
 0.0.0.0 njs.services.livejournal.com
 0.0.0.0 blog.logrocket.com
+0.0.0.0 luxupcdnc.com
 0.0.0.0 s.luxupcdnc.com
 0.0.0.0 macblurayplayer.com
 0.0.0.0 mantodea.mantisadnetwork.com
