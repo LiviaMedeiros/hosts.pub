@@ -612,6 +612,7 @@
 0.0.0.0 events.mapbox.com
 0.0.0.0 jsc.marketgid.com
 0.0.0.0 app-ab09.marketo.com
+0.0.0.0 app-ab13.marketo.com
 0.0.0.0 app-ab22.marketo.com
 0.0.0.0 app-sj13.marketo.com
 0.0.0.0 app-sj14.marketo.com
@@ -712,6 +713,7 @@
 0.0.0.0 onmarshtompor.com
 0.0.0.0 ontetag-sys.com
 0.0.0.0 smetrics.opensource.com
+0.0.0.0 t.adx.opera.com
 0.0.0.0 a.opmnstr.com
 0.0.0.0 cdn.optimizely.com
 0.0.0.0 cdn-pci.optimizely.com
@@ -1433,6 +1435,7 @@
 0.0.0.0 vz-cdn.trafficjunky.net
 0.0.0.0 vz-cdn2.trafficjunky.net
 0.0.0.0 p.typekit.net
+0.0.0.0 s.uuidksinc.net
 0.0.0.0 webcachespace.net
 0.0.0.0 g.whatsapp.net
 0.0.0.0 privatestats.whatsapp.net
