@@ -492,6 +492,7 @@
 0.0.0.0 my.hellobar.com
 0.0.0.0 stack-exchange-dynamic-ads.herokuapp.com
 0.0.0.0 s10.histats.com
+0.0.0.0 ext.host-tracker.com
 0.0.0.0 in.hotjar.com
 0.0.0.0 script.hotjar.com
 0.0.0.0 static.hotjar.com
@@ -945,6 +946,7 @@
 0.0.0.0 ads-api.twitter.com
 0.0.0.0 analytics.twitter.com
 0.0.0.0 syndication.twitter.com
+0.0.0.0 c.uarating.com
 0.0.0.0 59e3fd97d0784951aaf980d5dbb23a79.js.ubembed.com
 0.0.0.0 6967988f564f4347b438eea799712c33.js.ubembed.com
 0.0.0.0 a2d8cbc90f0a49b78a78f4312bd71987.js.ubembed.com
@@ -1082,6 +1084,7 @@
 0.0.0.0 ytimgg.com
 0.0.0.0 mxvp-feature-toggle-prod-1.zenmxapps.com
 0.0.0.0 www.zergnet.com
+0.0.0.0 static.ziffdavis.com
 0.0.0.0 salesiq.zoho.com
 0.0.0.0 script.ioam.de
 0.0.0.0 js.smartredirect.de
@@ -1402,6 +1405,7 @@
 0.0.0.0 propermedia-d.openx.net
 0.0.0.0 rtb.openx.net
 0.0.0.0 snopes-d.openx.net
+0.0.0.0 spiceworks-d.openx.net
 0.0.0.0 u.openx.net
 0.0.0.0 us-u.openx.net
 0.0.0.0 wikia-d.openx.net
@@ -1448,6 +1452,7 @@
 0.0.0.0 startup.mobile.yandex.net
 0.0.0.0 mobile.yandexadexchange.net
 0.0.0.0 ad.yieldlab.net
+0.0.0.0 cdn.static.zdbb.net
 0.0.0.0 aj2396.online
 0.0.0.0 match.adsrvr.org
 0.0.0.0 ads-servebom-com.cdn.ampproject.org
@@ -1667,6 +1672,8 @@
 0.0.0.0 stats.viqeo.tv
 0.0.0.0 www.taiwannews.com.tw
 0.0.0.0 adservice.google.com.ua
+0.0.0.0 c.hit.ua
+0.0.0.0 r.i.ua
 0.0.0.0 a1.api.bbc.co.uk
 0.0.0.0 mybbc-analytics.files.bbci.co.uk
 0.0.0.0 api.nextgen.guardianapps.co.uk
