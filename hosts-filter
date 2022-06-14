@@ -464,6 +464,7 @@
 0.0.0.0 937380-android-ds.metric.gstatic.com
 0.0.0.0 aysu3owa4mm6cmhetnelafqgwkydav45-c2r.metric.gstatic.com
 0.0.0.0 b0305003-cf2bnyrypw4vgsra-c2r-ds.metric.gstatic.com
+0.0.0.0 bfy7cu5zzsgduxi2avw5egu4bistdn2x-c2r.metric.gstatic.com
 0.0.0.0 egksstlnzri3stqvw5ehmie4gcydaykq-c2r.metric.gstatic.com
 0.0.0.0 fcndtfa54ytl27skifnjkcg7x5oh4mdl-c2r.metric.gstatic.com
 0.0.0.0 gn44l42owwk55ueyyi3hotjr4cydaqce-c2r.metric.gstatic.com
@@ -654,6 +655,7 @@
 0.0.0.0 geover.prod.do.dsp.mp.microsoft.com
 0.0.0.0 tsfe.trafficshaping.dsp.mp.microsoft.com
 0.0.0.0 licensing.mp.microsoft.com
+0.0.0.0 storecatalogrevocation.storequality.microsoft.com
 0.0.0.0 target.microsoft.com
 0.0.0.0 watson.telemetry.microsoft.com
 0.0.0.0 www.microvirt.com
@@ -804,6 +806,7 @@
 0.0.0.0 events.redditmedia.com
 0.0.0.0 ma.redhat.com
 0.0.0.0 r.remarketingpixel.com
+0.0.0.0 api.reproio.com
 0.0.0.0 sync.republer.com
 0.0.0.0 spn-v1.revampcdn.com
 0.0.0.0 assets.revcontent.com
