@@ -57,6 +57,7 @@
 0.0.0.0 cs.admanmedia.com
 0.0.0.0 acdn.adnxs.com
 0.0.0.0 ib.adnxs.com
+0.0.0.0 prebid.adnxs.com
 0.0.0.0 secure.adnxs.com
 0.0.0.0 cdn.adpushup.com
 0.0.0.0 e3.adpushup.com
@@ -72,6 +73,7 @@
 0.0.0.0 hb.adtelligent.com
 0.0.0.0 player.adtelligent.com
 0.0.0.0 ads.adthrive.com
+0.0.0.0 logger.adthrive.com
 0.0.0.0 a.adtng.com
 0.0.0.0 ht-cdn2.adtng.com
 0.0.0.0 hw-cdn2.adtng.com
@@ -82,6 +84,7 @@
 0.0.0.0 adserver.adtech.advertising.com
 0.0.0.0 adserver-eu.adtech.advertising.com
 0.0.0.0 adserver-us.adtech.advertising.com
+0.0.0.0 pixel.advertising.com
 0.0.0.0 metrics.aetn.com
 0.0.0.0 static.affiliatly.com
 0.0.0.0 d.agkn.com
@@ -116,6 +119,7 @@
 0.0.0.0 play.anyclip.com
 0.0.0.0 player.anyclip.com
 0.0.0.0 trafficmanager.anyclip.com
+0.0.0.0 a.apkpure.com
 0.0.0.0 app-measurement.com
 0.0.0.0 fast.appcues.com
 0.0.0.0 securemetrics.apple.com
@@ -549,6 +553,7 @@
 0.0.0.0 intelaxa.com
 0.0.0.0 cdn.intergi.com
 0.0.0.0 cdn.intergient.com
+0.0.0.0 sync.ipredictive.com
 0.0.0.0 i.isnssdk.com
 0.0.0.0 mon.isnssdk.com
 0.0.0.0 api.iterable.com
@@ -614,6 +619,7 @@
 0.0.0.0 luxupcdnc.com
 0.0.0.0 s.luxupcdnc.com
 0.0.0.0 macblurayplayer.com
+0.0.0.0 static.mailerlite.com
 0.0.0.0 mantodea.mantisadnetwork.com
 0.0.0.0 events.mapbox.com
 0.0.0.0 jsc.marketgid.com
@@ -704,6 +710,7 @@
 0.0.0.0 mobile-collector.newrelic.com
 0.0.0.0 hb.nexage.com
 0.0.0.0 s.nitropay.com
+0.0.0.0 www.npttech.com
 0.0.0.0 ls.dtrace.nvidia.com
 0.0.0.0 activation.gfe.nvidia.com
 0.0.0.0 events.gfe.nvidia.com
@@ -741,6 +748,7 @@
 0.0.0.0 yhb.p.otm-r.com
 0.0.0.0 ssp.otm-r.com
 0.0.0.0 odb.outbrain.com
+0.0.0.0 sync.outbrain.com
 0.0.0.0 widgets.outbrain.com
 0.0.0.0 images.outbrainimg.com
 0.0.0.0 log.outbrainimg.com
@@ -826,6 +834,7 @@
 0.0.0.0 micro.rubiconproject.com
 0.0.0.0 pixel.rubiconproject.com
 0.0.0.0 pixel-apac.rubiconproject.com
+0.0.0.0 pixel-eu.rubiconproject.com
 0.0.0.0 pixel-us-west.rubiconproject.com
 0.0.0.0 prebid-server.rubiconproject.com
 0.0.0.0 secure-assets.rubiconproject.com
@@ -1095,6 +1104,7 @@
 0.0.0.0 s.youtube.com
 0.0.0.0 i1.ytimg.com
 0.0.0.0 ytimgg.com
+0.0.0.0 b1sync.zemanta.com
 0.0.0.0 mxvp-feature-toggle-prod-1.zenmxapps.com
 0.0.0.0 www.zergnet.com
 0.0.0.0 static.ziffdavis.com
@@ -1468,6 +1478,7 @@
 0.0.0.0 mobile.yandexadexchange.net
 0.0.0.0 ad.yieldlab.net
 0.0.0.0 cdn.static.zdbb.net
+0.0.0.0 a.pub.network
 0.0.0.0 aj2396.online
 0.0.0.0 match.adsrvr.org
 0.0.0.0 ads-servebom-com.cdn.ampproject.org
