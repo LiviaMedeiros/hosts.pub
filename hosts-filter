@@ -70,6 +70,9 @@
 0.0.0.0 pixel.adsafeprotected.com
 0.0.0.0 static.adsafeprotected.com
 0.0.0.0 adserver.adtechus.com
+0.0.0.0 ghb.adtelligent.com
+0.0.0.0 ghb1.adtelligent.com
+0.0.0.0 ghb2.adtelligent.com
 0.0.0.0 hb.adtelligent.com
 0.0.0.0 player.adtelligent.com
 0.0.0.0 ads.adthrive.com
@@ -166,6 +169,7 @@
 0.0.0.0 cache.betweendigital.com
 0.0.0.0 reachms.bfmio.com
 0.0.0.0 sync.bfmio.com
+0.0.0.0 platform.bidgear.com
 0.0.0.0 ssp.bidvol.com
 0.0.0.0 api.bignox.com
 0.0.0.0 api-new.bignox.com
@@ -1170,6 +1174,8 @@
 0.0.0.0 ms.pubpowerplatform.io
 0.0.0.0 nc.pubpowerplatform.io
 0.0.0.0 fdyn.pubwise.io
+0.0.0.0 rapidzebra.io
+0.0.0.0 api.raygun.io
 0.0.0.0 at.adtech.redventures.io
 0.0.0.0 relap.io
 0.0.0.0 analytic.rollout.io
@@ -1322,6 +1328,7 @@
 0.0.0.0 static.doubleclick.net
 0.0.0.0 be.durationmedia.net
 0.0.0.0 tag.durationmedia.net
+0.0.0.0 pbjs.e-planning.net
 0.0.0.0 me-cdn.effectivemeasure.net
 0.0.0.0 api.enthusiastgaming.net
 0.0.0.0 sync-tm.everesttech.net
@@ -1674,6 +1681,7 @@
 0.0.0.0 web-metrica.yandex.ru
 0.0.0.0 zen.yandex.ru
 0.0.0.0 go.zdos.ru
+0.0.0.0 rtb.adxpremium.services
 0.0.0.0 rb.infox.sg
 0.0.0.0 www.takiparkrb.site
 0.0.0.0 ana.bandi.so
