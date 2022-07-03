@@ -1315,6 +1315,7 @@
 0.0.0.0 dna8twue3dlxq.cloudfront.net
 0.0.0.0 dzt1km7tv28ex.cloudfront.net
 0.0.0.0 us-central1-amp-error-reporting.cloudfunctions.net
+0.0.0.0 us-central1-pwa2apk.cloudfunctions.net
 0.0.0.0 t.contentsquare.net
 0.0.0.0 csm.jp2.as.criteo.net
 0.0.0.0 csm.fr.eu.criteo.net
@@ -1371,6 +1372,7 @@
 0.0.0.0 js.hs-analytics.net
 0.0.0.0 js.hsadspixel.net
 0.0.0.0 js.hscollectedforms.net
+0.0.0.0 js.hscta.net
 0.0.0.0 www.jqueryscript.net
 0.0.0.0 crbcdn.jsfiddle.net
 0.0.0.0 licensebuttons.net
@@ -1508,6 +1510,7 @@
 0.0.0.0 ads-servebom-com.cdn.ampproject.org
 0.0.0.0 static-addtoany-com.cdn.ampproject.org
 0.0.0.0 analytics.archive.org
+0.0.0.0 browser-update.org
 0.0.0.0 clickio.mgr.consensu.org
 0.0.0.0 consentmanager.mgr.consensu.org
 0.0.0.0 cdn.consentmanager.mgr.consensu.org
