@@ -104,6 +104,7 @@
 0.0.0.0 aliradar.com
 0.0.0.0 aan.amazon-adsystem.com
 0.0.0.0 aax.amazon-adsystem.com
+0.0.0.0 aax-eu.amazon-adsystem.com
 0.0.0.0 aax-us.amazon-adsystem.com
 0.0.0.0 aax-us-east.amazon-adsystem.com
 0.0.0.0 c.amazon-adsystem.com
@@ -499,6 +500,7 @@
 0.0.0.0 rtb.gumgum.com
 0.0.0.0 gumroad.com
 0.0.0.0 lexaiduer.gumroad.com
+0.0.0.0 edgedl.me.gvt1.com
 0.0.0.0 beacons.gvt2.com
 0.0.0.0 beacons2.gvt2.com
 0.0.0.0 beacons3.gvt2.com
@@ -643,6 +645,7 @@
 0.0.0.0 app-sj15.marketo.com
 0.0.0.0 pixel.mathtag.com
 0.0.0.0 starget.mathworks.com
+0.0.0.0 s.media-imdb.com
 0.0.0.0 scripts.mediavine.com
 0.0.0.0 medium.com
 0.0.0.0 cdn-client.medium.com
@@ -807,6 +810,7 @@
 0.0.0.0 post-log.pushwoosh.com
 0.0.0.0 jqmt.qq.com
 0.0.0.0 zn5grs3028zvpg0rh-redventures.siteintercept.qualtrics.com
+0.0.0.0 cmp.quantcast.com
 0.0.0.0 assets.quantcount.com
 0.0.0.0 rules.quantcount.com
 0.0.0.0 cms.quantserve.com
@@ -1091,6 +1095,7 @@
 0.0.0.0 services.vlitag.com
 0.0.0.0 api.vungle.com
 0.0.0.0 ads.api.vungle.com
+0.0.0.0 cdn.vuukle.com
 0.0.0.0 cdn.walkme.com
 0.0.0.0 cstatic.weborama.com
 0.0.0.0 dx.frontend.weborama.com
@@ -1699,6 +1704,7 @@
 0.0.0.0 aflt.market.yandex.ru
 0.0.0.0 sovetnik.market.yandex.ru
 0.0.0.0 mc.yandex.ru
+0.0.0.0 push.yandex.ru
 0.0.0.0 log.strm.yandex.ru
 0.0.0.0 web-metrica.yandex.ru
 0.0.0.0 zen.yandex.ru
