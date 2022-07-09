@@ -1114,6 +1114,7 @@
 0.0.0.0 maps.windows.com
 0.0.0.0 client.wns.windows.com
 0.0.0.0 journey.wired.com
+0.0.0.0 csp.withgoogle.com
 0.0.0.0 pixel.wp.com
 0.0.0.0 stats.wp.com
 0.0.0.0 static.xvideos.com
@@ -1581,6 +1582,7 @@
 0.0.0.0 static1.cleversite.ru
 0.0.0.0 stat.clickfrog.ru
 0.0.0.0 rtb.com.ru
+0.0.0.0 cshi.ru
 0.0.0.0 cszz.ru
 0.0.0.0 dmg.digitaltarget.ru
 0.0.0.0 tag.digitaltarget.ru
