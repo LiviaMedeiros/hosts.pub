@@ -599,6 +599,7 @@
 0.0.0.0 dc1.ksn.kaspersky-labs.com
 0.0.0.0 dc1-file.ksn.kaspersky-labs.com
 0.0.0.0 ds.kaspersky.com
+0.0.0.0 kdmttk.com
 0.0.0.0 events.kiosked.com
 0.0.0.0 scripts.kiosked.com
 0.0.0.0 scripts.kissmetrics.com
@@ -1177,6 +1178,7 @@
 0.0.0.0 cdn.districtm.io
 0.0.0.0 dmx.districtm.io
 0.0.0.0 media.ethicalads.io
+0.0.0.0 get.geojs.io
 0.0.0.0 www.giraff.io
 0.0.0.0 echidna.honeybadger.io
 0.0.0.0 vc.hotjar.io
@@ -1570,6 +1572,7 @@
 0.0.0.0 sync3.adsniper.ru
 0.0.0.0 ddnk.advertur.ru
 0.0.0.0 allstat-pp.ru
+0.0.0.0 cm.p.altergeo.ru
 0.0.0.0 autocontext.begun.ru
 0.0.0.0 cdn.bitrix24.ru
 0.0.0.0 bs-dante.ru
@@ -1582,6 +1585,7 @@
 0.0.0.0 codes.cleversite.ru
 0.0.0.0 static1.cleversite.ru
 0.0.0.0 stat.clickfrog.ru
+0.0.0.0 adx.com.ru
 0.0.0.0 rtb.com.ru
 0.0.0.0 cshi.ru
 0.0.0.0 cszz.ru
@@ -1739,6 +1743,7 @@
 0.0.0.0 s8t.teads.tv
 0.0.0.0 t.teads.tv
 0.0.0.0 cdn.vidible.tv
+0.0.0.0 cdn.viqeo.tv
 0.0.0.0 stats.viqeo.tv
 0.0.0.0 www.taiwannews.com.tw
 0.0.0.0 adservice.google.com.ua
