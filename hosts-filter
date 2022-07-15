@@ -201,6 +201,7 @@
 0.0.0.0 dmp.brand-display.com
 0.0.0.0 biddr.brealtime.com
 0.0.0.0 brightcove04.o.brightcove.com
+0.0.0.0 logs.browser-intake-datadoghq.com
 0.0.0.0 img.btdmp.com
 0.0.0.0 btloader.com
 0.0.0.0 api.btloader.com
@@ -522,6 +523,7 @@
 0.0.0.0 vars.hotjar.com
 0.0.0.0 js.hs-banner.com
 0.0.0.0 js.hs-scripts.com
+0.0.0.0 js-na1.hs-scripts.com
 0.0.0.0 track.hubspot.com
 0.0.0.0 id5-sync.com
 0.0.0.0 cdn.id5-sync.com
