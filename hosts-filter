@@ -1,6 +1,8 @@
 0.0.0.0 cdn.afp.ai
 0.0.0.0 ssp.afp.ai
+0.0.0.0 content.hybrid.ai
 0.0.0.0 dm.hybrid.ai
+0.0.0.0 dsa-ee.hybrid.ai
 0.0.0.0 hbe199.hybrid.ai
 0.0.0.0 m2d.m2.ai
 0.0.0.0 cdn.rebel.ai
@@ -296,6 +298,7 @@
 0.0.0.0 ads.digitalcaramel.com
 0.0.0.0 file-service-default-114c67af0763a8a98e770ff3ee495371.fra1.digitaloceanspaces.com
 0.0.0.0 jsoon.digitiminimi.com
+0.0.0.0 disapprovalpulpdiscourteous.com
 0.0.0.0 referrer.disqus.com
 0.0.0.0 glitter.services.disqus.com
 0.0.0.0 links.services.disqus.com
@@ -722,6 +725,8 @@
 0.0.0.0 mtrcss.com
 0.0.0.0 evt.mxplay.com
 0.0.0.0 cdn.mxpnl.com
+0.0.0.0 tracker-api.my.com
+0.0.0.0 ip4.tracker-api.my.com
 0.0.0.0 api.narrativ.com
 0.0.0.0 events.release.narrativ.com
 0.0.0.0 static.narrativ.com
