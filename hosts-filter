@@ -231,6 +231,7 @@
 0.0.0.0 htlb.casalemedia.com
 0.0.0.0 ssum-sec.casalemedia.com
 0.0.0.0 at.cbsi.com
+0.0.0.0 production-cmp.isgprivacy.cbsi.com
 0.0.0.0 i.cdnkimg.com
 0.0.0.0 h.cedatoplayer.com
 0.0.0.0 radar.cedexis.com
@@ -980,6 +981,7 @@
 0.0.0.0 dashboard.tinypass.com
 0.0.0.0 experience.tinypass.com
 0.0.0.0 tags.tiqcdn.com
+0.0.0.0 srv.tonemedia.com
 0.0.0.0 cdn.tpdads.com
 0.0.0.0 trackjs.com
 0.0.0.0 z.cdn.trafficbass.com
