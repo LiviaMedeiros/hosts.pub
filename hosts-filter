@@ -164,6 +164,9 @@
 0.0.0.0 ad.atdmt.com
 0.0.0.0 track.attributionapp.com
 0.0.0.0 sdk.audienceplay.com
+0.0.0.0 analytics.audioeye.com
+0.0.0.0 ws.audioeye.com
+0.0.0.0 wsv3cdn.audioeye.com
 0.0.0.0 b2cdn.automatad.com
 0.0.0.0 us-east-pbs.automatad.com
 0.0.0.0 js.monitor.azure.com
@@ -330,6 +333,7 @@
 0.0.0.0 enormousearth.com
 0.0.0.0 nexus.ensighten.com
 0.0.0.0 etahub.com
+0.0.0.0 cdn.evergage.com
 0.0.0.0 c.evidon.com
 0.0.0.0 loadeu.exelator.com
 0.0.0.0 loadus.exelator.com
@@ -738,6 +742,7 @@
 0.0.0.0 mobile-collector.newrelic.com
 0.0.0.0 hb.nexage.com
 0.0.0.0 s.nitropay.com
+0.0.0.0 seal.websecurity.norton.com
 0.0.0.0 www.npttech.com
 0.0.0.0 ls.dtrace.nvidia.com
 0.0.0.0 activation.gfe.nvidia.com
@@ -1121,6 +1126,8 @@
 0.0.0.0 report-1.appmetrica.webvisor.com
 0.0.0.0 startup.mobile.webvisor.com
 0.0.0.0 u.startup.mobile.webvisor.com
+0.0.0.0 metrics.westernunion.com
+0.0.0.0 smetrics.westernunion.com
 0.0.0.0 whourgie.com
 0.0.0.0 beacon.wikia-services.com
 0.0.0.0 rest.wildstar-online.com
@@ -1149,6 +1156,7 @@
 0.0.0.0 b1sync.zemanta.com
 0.0.0.0 mxvp-feature-toggle-prod-1.zenmxapps.com
 0.0.0.0 www.zergnet.com
+0.0.0.0 content.zeronaught.com
 0.0.0.0 static.ziffdavis.com
 0.0.0.0 salesiq.zoho.com
 0.0.0.0 script.ioam.de
@@ -1491,6 +1499,7 @@
 0.0.0.0 cdn.retailrocket.net
 0.0.0.0 tracking.retailrocket.net
 0.0.0.0 my.rtmark.net
+0.0.0.0 sc-static.net
 0.0.0.0 otakumode.silveregg.net
 0.0.0.0 static.smi2.net
 0.0.0.0 static1.smi2.net
