@@ -308,6 +308,7 @@
 0.0.0.0 links.services.disqus.com
 0.0.0.0 tempest.services.disqus.com
 0.0.0.0 web.hb.ad.cpe.dotomi.com
+0.0.0.0 media.msg.dotomi.com
 0.0.0.0 prebid-match.dotomi.com
 0.0.0.0 www.doubleclickbygoogle.com
 0.0.0.0 cdn.doubleverify.com
@@ -519,6 +520,7 @@
 0.0.0.0 beacons5.gvt2.com
 0.0.0.0 beacons.gcp.gvt2.com
 0.0.0.0 beacons5.gvt3.com
+0.0.0.0 tags.h12-media.com
 0.0.0.0 heapanalytics.com
 0.0.0.0 cdn.heapanalytics.com
 0.0.0.0 my.hellobar.com
@@ -1483,6 +1485,7 @@
 0.0.0.0 openstat.net
 0.0.0.0 borderblue-d.openx.net
 0.0.0.0 eu-u.openx.net
+0.0.0.0 farlex-d.openx.net
 0.0.0.0 idm-d.openx.net
 0.0.0.0 kiosked-d.openx.net
 0.0.0.0 propermedia-d.openx.net
