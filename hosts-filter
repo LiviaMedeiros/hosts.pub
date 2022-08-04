@@ -208,6 +208,7 @@
 0.0.0.0 biddr.brealtime.com
 0.0.0.0 brightcove04.o.brightcove.com
 0.0.0.0 logs.browser-intake-datadoghq.com
+0.0.0.0 rum.browser-intake-datadoghq.com
 0.0.0.0 img.btdmp.com
 0.0.0.0 btloader.com
 0.0.0.0 api.btloader.com
@@ -288,6 +289,7 @@
 0.0.0.0 cutechin.com
 0.0.0.0 www.datadoghq-browser-agent.com
 0.0.0.0 browser-http-intake.logs.datadoghq.com
+0.0.0.0 rum-http-intake.logs.datadoghq.com
 0.0.0.0 datawrkz.com
 0.0.0.0 grs.dbankcloud.com
 0.0.0.0 s.deepl.com
@@ -1500,6 +1502,8 @@
 0.0.0.0 wikia-d.openx.net
 0.0.0.0 yieldlove-d.openx.net
 0.0.0.0 rum-static.pingdom.net
+0.0.0.0 api.s.pipedream.net
+0.0.0.0 cdn.s.pipedream.net
 0.0.0.0 c1.popads.net
 0.0.0.0 c2.popads.net
 0.0.0.0 cdn.retailrocket.net
