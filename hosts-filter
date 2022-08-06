@@ -252,6 +252,7 @@
 0.0.0.0 s.clickiocdn.com
 0.0.0.0 ade.clmbtech.com
 0.0.0.0 ase.clmbtech.com
+0.0.0.0 csp-reporting.cloudflare.com
 0.0.0.0 cloudflareinsights.com
 0.0.0.0 static.cloudflareinsights.com
 0.0.0.0 fm.cnbc.com
@@ -788,6 +789,9 @@
 0.0.0.0 pub-eu.p.otm-r.com
 0.0.0.0 yhb.p.otm-r.com
 0.0.0.0 ssp.otm-r.com
+0.0.0.0 amplifypixel.outbrain.com
+0.0.0.0 images.outbrain.com
+0.0.0.0 log.outbrain.com
 0.0.0.0 odb.outbrain.com
 0.0.0.0 sync.outbrain.com
 0.0.0.0 widgets.outbrain.com
@@ -1346,6 +1350,7 @@
 0.0.0.0 d1z2jf7jlzjs58.cloudfront.net
 0.0.0.0 d2c8v52ll5s99u.cloudfront.net
 0.0.0.0 d2oh4tlt9mrke9.cloudfront.net
+0.0.0.0 d2ty8gaf6rmowa.cloudfront.net
 0.0.0.0 d2v02itv0y9u9t.cloudfront.net
 0.0.0.0 d2yyf02s9xqns0.cloudfront.net
 0.0.0.0 d24n15hnbwhuhn.cloudfront.net
@@ -1415,6 +1420,7 @@
 0.0.0.0 js.hscta.net
 0.0.0.0 www.jqueryscript.net
 0.0.0.0 crbcdn.jsfiddle.net
+0.0.0.0 cdn.krxd.net
 0.0.0.0 licensebuttons.net
 0.0.0.0 blogroll.livedoor.net
 0.0.0.0 lptag.liveperson.net
@@ -1542,6 +1548,7 @@
 0.0.0.0 g.whatsapp.net
 0.0.0.0 privatestats.whatsapp.net
 0.0.0.0 static.whatsapp.net
+0.0.0.0 recommendation-newsletter.wpdigital.net
 0.0.0.0 report.appmetrica.yandex.net
 0.0.0.0 rosenberg.appmetrica.yandex.net
 0.0.0.0 api.browser.yandex.net
