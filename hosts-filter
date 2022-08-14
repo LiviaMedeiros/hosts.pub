@@ -1409,6 +1409,7 @@
 0.0.0.0 0914.global.ssl.fastly.net
 0.0.0.0 clarium.global.ssl.fastly.net
 0.0.0.0 confiant-integrations.global.ssl.fastly.net
+0.0.0.0 stripensrq.global.ssl.fastly.net
 0.0.0.0 feedify.net
 0.0.0.0 ozon2-st.secure.footprint.net
 0.0.0.0 cdn.fuseplatform.net
