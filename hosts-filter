@@ -319,6 +319,7 @@
 0.0.0.0 www.doubleclickbygoogle.com
 0.0.0.0 cdn.doubleverify.com
 0.0.0.0 tps.doubleverify.com
+0.0.0.0 tps10232.doubleverify.com
 0.0.0.0 conversation.api.drift.com
 0.0.0.0 customer.api.drift.com
 0.0.0.0 event.api.drift.com
@@ -1220,6 +1221,7 @@
 0.0.0.0 www.giraff.io
 0.0.0.0 echidna.honeybadger.io
 0.0.0.0 vc.hotjar.io
+0.0.0.0 ad.impactify.io
 0.0.0.0 cdn.lodeo.io
 0.0.0.0 log.logicanalytics.io
 0.0.0.0 s.ntv.io
@@ -1428,6 +1430,7 @@
 0.0.0.0 js.hscta.net
 0.0.0.0 www.jqueryscript.net
 0.0.0.0 crbcdn.jsfiddle.net
+0.0.0.0 beacon.krxd.net
 0.0.0.0 cdn.krxd.net
 0.0.0.0 licensebuttons.net
 0.0.0.0 blogroll.livedoor.net
