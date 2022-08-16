@@ -211,6 +211,7 @@
 0.0.0.0 brightcove04.o.brightcove.com
 0.0.0.0 logs.browser-intake-datadoghq.com
 0.0.0.0 rum.browser-intake-datadoghq.com
+0.0.0.0 cdn.browsiprod.com
 0.0.0.0 img.btdmp.com
 0.0.0.0 btloader.com
 0.0.0.0 api.btloader.com
@@ -381,6 +382,8 @@
 0.0.0.0 telemetry.servers.getgo.com
 0.0.0.0 ga.getresponse.com
 0.0.0.0 geo.gfycat.com
+0.0.0.0 yt3.ggpht.com
+0.0.0.0 ghbtns.com
 0.0.0.0 vampirebat.git-tower.com
 0.0.0.0 collector.githubapp.com
 0.0.0.0 cdn.glitch.com
@@ -435,6 +438,7 @@
 0.0.0.0 gmscompliance-pa.googleapis.com
 0.0.0.0 growth-pa.googleapis.com
 0.0.0.0 instantmessaging-pa.googleapis.com
+0.0.0.0 jnn-pa.googleapis.com
 0.0.0.0 lamssettings-pa.googleapis.com
 0.0.0.0 myphonenumbers-pa.googleapis.com
 0.0.0.0 optimizationguide-pa.googleapis.com
@@ -991,6 +995,7 @@
 0.0.0.0 tui.taobao.com
 0.0.0.0 adashx4ae.ut.taobao.com
 0.0.0.0 pixel.tapad.com
+0.0.0.0 tag.tapad.com
 0.0.0.0 script.tapfiliate.com
 0.0.0.0 ad-cdn.technoratimedia.com
 0.0.0.0 trk.techtarget.com
@@ -1021,6 +1026,7 @@
 0.0.0.0 tracking-3-9f58.trnox.com
 0.0.0.0 sdki.truepush.com
 0.0.0.0 consent.trustarc.com
+0.0.0.0 preferences.trustarc.com
 0.0.0.0 tsyndicate.com
 0.0.0.0 px.srvcs.tumblr.com
 0.0.0.0 d.turn.com
@@ -1138,6 +1144,7 @@
 0.0.0.0 ads.api.vungle.com
 0.0.0.0 cdn.vuukle.com
 0.0.0.0 cdn.walkme.com
+0.0.0.0 ssl.o.webmd.com
 0.0.0.0 cstatic.weborama.com
 0.0.0.0 dx.frontend.weborama.com
 0.0.0.0 web.webpushs.com
@@ -1362,11 +1369,13 @@
 0.0.0.0 d2ty8gaf6rmowa.cloudfront.net
 0.0.0.0 d2v02itv0y9u9t.cloudfront.net
 0.0.0.0 d2yyf02s9xqns0.cloudfront.net
+0.0.0.0 d15kdpgjg3unno.cloudfront.net
 0.0.0.0 d24n15hnbwhuhn.cloudfront.net
 0.0.0.0 d26b395fwzu5fz.cloudfront.net
 0.0.0.0 dc8xl0ndzn2cb.cloudfront.net
 0.0.0.0 df80k0z3fi8zg.cloudfront.net
 0.0.0.0 dna8twue3dlxq.cloudfront.net
+0.0.0.0 dyv1bugovvq1g.cloudfront.net
 0.0.0.0 dzt1km7tv28ex.cloudfront.net
 0.0.0.0 us-central1-amp-error-reporting.cloudfunctions.net
 0.0.0.0 us-central1-pwa2apk.cloudfunctions.net
@@ -1499,6 +1508,7 @@
 0.0.0.0 refinitiv.tt.omtrdc.net
 0.0.0.0 samsungcis.tt.omtrdc.net
 0.0.0.0 twitterinc.tt.omtrdc.net
+0.0.0.0 webmdcom.tt.omtrdc.net
 0.0.0.0 aa.online-metrix.net
 0.0.0.0 usllpic0ehftly7ucsqusa7x254prmdm4xoxkikac640d8ec5ab21494am1.e.aa.online-metrix.net
 0.0.0.0 usllpic0lq4k4kxuheufkdy2z2pw7mwe6guptz343b4e3af40f155fd7am1.e.aa.online-metrix.net
@@ -1779,6 +1789,7 @@
 0.0.0.0 ana.bandi.so
 0.0.0.0 prebid.digitru.st
 0.0.0.0 ru.viadata.store
+0.0.0.0 ibclick.stream
 0.0.0.0 lightstep.medium.systems
 0.0.0.0 live.primis.tech
 0.0.0.0 www.smi.today
