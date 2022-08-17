@@ -75,6 +75,7 @@
 0.0.0.0 dt.adsafeprotected.com
 0.0.0.0 pixel.adsafeprotected.com
 0.0.0.0 static.adsafeprotected.com
+0.0.0.0 p.adsymptotic.com
 0.0.0.0 adserver.adtechus.com
 0.0.0.0 ghb.adtelligent.com
 0.0.0.0 ghb1.adtelligent.com
@@ -700,6 +701,7 @@
 0.0.0.0 v10.events.data.microsoft.com
 0.0.0.0 settings-win.data.microsoft.com
 0.0.0.0 vortex.data.microsoft.com
+0.0.0.0 web.vortex.data.microsoft.com
 0.0.0.0 go.microsoft.com
 0.0.0.0 iecvlist.microsoft.com
 0.0.0.0 ieonline.microsoft.com
@@ -946,6 +948,7 @@
 0.0.0.0 siteimproveanalytics.com
 0.0.0.0 node-p1w-eegeiw.sitescout.com
 0.0.0.0 pixel-sync.sitescout.com
+0.0.0.0 cdn.skcrtxr.com
 0.0.0.0 p.skimresources.com
 0.0.0.0 r.skimresources.com
 0.0.0.0 s.skimresources.com
@@ -1052,6 +1055,7 @@
 0.0.0.0 w.uptolike.com
 0.0.0.0 w.usabilla.com
 0.0.0.0 cdn.usefathom.com
+0.0.0.0 js.usemessages.com
 0.0.0.0 userapi.com
 0.0.0.0 sun2.megafon-irkutsk.userapi.com
 0.0.0.0 pp.userapi.com
