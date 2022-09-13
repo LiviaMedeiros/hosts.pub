@@ -244,6 +244,7 @@
 0.0.0.0 ssum-sec.casalemedia.com
 0.0.0.0 at.cbsi.com
 0.0.0.0 production-cmp.isgprivacy.cbsi.com
+0.0.0.0 cdn-spurit.com
 0.0.0.0 i.cdnkimg.com
 0.0.0.0 h.cedatoplayer.com
 0.0.0.0 radar.cedexis.com
@@ -379,6 +380,9 @@
 0.0.0.0 api.flocktory.com
 0.0.0.0 flux-cdn.com
 0.0.0.0 formcrafts.com
+0.0.0.0 bc8ecf8af7334417aee0dcd35d760ed6-c9af2a63c0c1.cdn.forter.com
+0.0.0.0 cdn3.forter.com
+0.0.0.0 cdn9.forter.com
 0.0.0.0 spoor-api.ft.com
 0.0.0.0 p2.fwpixel.com
 0.0.0.0 tracking.g2crowd.com
@@ -947,6 +951,7 @@
 0.0.0.0 ws.sharethis.com
 0.0.0.0 btlr.sharethrough.com
 0.0.0.0 match.sharethrough.com
+0.0.0.0 v.shopify.com
 0.0.0.0 monorail-edge.shopifysvc.com
 0.0.0.0 shopnetic.com
 0.0.0.0 shrinefox.com
