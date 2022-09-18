@@ -3,7 +3,9 @@
 0.0.0.0 content.hybrid.ai
 0.0.0.0 dm.hybrid.ai
 0.0.0.0 dsa-ee.hybrid.ai
+0.0.0.0 dssa.hybrid.ai
 0.0.0.0 hbe199.hybrid.ai
+0.0.0.0 st.hybrid.ai
 0.0.0.0 m2d.m2.ai
 0.0.0.0 cdn.rebel.ai
 0.0.0.0 secure.rebel.ai
@@ -221,6 +223,9 @@
 0.0.0.0 api.btloader.com
 0.0.0.0 bttrack.com
 0.0.0.0 sessions.bugsnag.com
+0.0.0.0 log.bumlam.com
+0.0.0.0 pix.bumlam.com
+0.0.0.0 static.bumlam.com
 0.0.0.0 sync.bumlam.com
 0.0.0.0 cdn.buymeacoffee.com
 0.0.0.0 cdnjs.buymeacoffee.com
@@ -561,6 +566,7 @@
 0.0.0.0 id5-sync.com
 0.0.0.0 cdn.id5-sync.com
 0.0.0.0 mpsnare.iesnare.com
+0.0.0.0 fl.imgsniper.com
 0.0.0.0 pp.impact.com
 0.0.0.0 a.impactradius-go.com
 0.0.0.0 impossibleexpansion.com
@@ -1215,7 +1221,9 @@
 0.0.0.0 bid.glass
 0.0.0.0 dap.digitalgov.gov
 0.0.0.0 a.ad.gt
+0.0.0.0 id.hadron.ad.gt
 0.0.0.0 id.halo.ad.gt
+0.0.0.0 p.ad.gt
 0.0.0.0 seg.ad.gt
 0.0.0.0 api-2-0.spot.im
 0.0.0.0 events-collector.spot.im
@@ -1639,6 +1647,7 @@
 0.0.0.0 news.2xclick.ru
 0.0.0.0 ad.3dnews.ru
 0.0.0.0 3wnp9.ru
+0.0.0.0 analytics.74.ru
 0.0.0.0 ads.adfox.ru
 0.0.0.0 banners.adfox.ru
 0.0.0.0 adindex.ru
@@ -1681,6 +1690,7 @@
 0.0.0.0 yummy.drom.ru
 0.0.0.0 analytics.fontanka.ru
 0.0.0.0 tracker.giftd.ru
+0.0.0.0 fcgi4.gnezdo.ru
 0.0.0.0 adservice.google.ru
 0.0.0.0 piwik-gosbar.gosuslugi.ru
 0.0.0.0 habrahabr.ru
