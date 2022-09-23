@@ -1211,6 +1211,7 @@
 0.0.0.0 script.ioam.de
 0.0.0.0 cdn.netpoint-media.de
 0.0.0.0 js.smartredirect.de
+0.0.0.0 browser-http-intake.logs.datadoghq.eu
 0.0.0.0 cstatic.weborama.fr
 0.0.0.0 rd.frontend.weborama.fr
 0.0.0.0 redirect.frontend.weborama.fr
