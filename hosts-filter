@@ -1562,11 +1562,13 @@
 0.0.0.0 cdn.s.pipedream.net
 0.0.0.0 c1.popads.net
 0.0.0.0 c2.popads.net
+0.0.0.0 b.px-cdn.net
 0.0.0.0 cdn.retailrocket.net
 0.0.0.0 tracking.retailrocket.net
 0.0.0.0 my.rtmark.net
 0.0.0.0 sc-static.net
 0.0.0.0 otakumode.silveregg.net
+0.0.0.0 analytics.skyscanner.net
 0.0.0.0 static.smi2.net
 0.0.0.0 static1.smi2.net
 0.0.0.0 static2.smi2.net
