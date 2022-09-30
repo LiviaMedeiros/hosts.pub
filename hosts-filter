@@ -326,6 +326,7 @@
 0.0.0.0 glitter.services.disqus.com
 0.0.0.0 links.services.disqus.com
 0.0.0.0 tempest.services.disqus.com
+0.0.0.0 widget-view.dmm.com
 0.0.0.0 web.hb.ad.cpe.dotomi.com
 0.0.0.0 media.msg.dotomi.com
 0.0.0.0 prebid-match.dotomi.com
@@ -393,6 +394,7 @@
 0.0.0.0 p2.fwpixel.com
 0.0.0.0 tracking.g2crowd.com
 0.0.0.0 geoip-js.com
+0.0.0.0 app.getbeamer.com
 0.0.0.0 in.getclicky.com
 0.0.0.0 tag.getdrip.com
 0.0.0.0 telemetry.servers.getgo.com
@@ -1212,6 +1214,7 @@
 0.0.0.0 script.ioam.de
 0.0.0.0 cdn.netpoint-media.de
 0.0.0.0 js.smartredirect.de
+0.0.0.0 new-adtest.pages.dev
 0.0.0.0 browser-http-intake.logs.datadoghq.eu
 0.0.0.0 cstatic.weborama.fr
 0.0.0.0 rd.frontend.weborama.fr
