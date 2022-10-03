@@ -15,6 +15,7 @@
 0.0.0.0 dash.sparkloop.app
 0.0.0.0 grs.dbankcloud.asia
 0.0.0.0 as.ad4m.at
+0.0.0.0 checkfilter.biz
 0.0.0.0 moevideo.biz
 0.0.0.0 solty.biz
 0.0.0.0 rpc-php.trafficfactory.biz
@@ -44,6 +45,7 @@
 0.0.0.0 euw-ice.360yield.com
 0.0.0.0 match.360yield.com
 0.0.0.0 affiliates.a2hosting.com
+0.0.0.0 us-east-1.prod.pr.analytics.console.aws.a2z.com
 0.0.0.0 c.aaxads.com
 0.0.0.0 abbeyintervalfetched.com
 0.0.0.0 abdurantom.com
@@ -288,6 +290,7 @@
 0.0.0.0 cdn.convertbox.com
 0.0.0.0 f.convertkit.com
 0.0.0.0 forms.convertkit.com
+0.0.0.0 consentcdn.cookiebot.com
 0.0.0.0 cookie-cdn.cookiepro.com
 0.0.0.0 ssl.cdne.cpmstar.com
 0.0.0.0 firebase-settings.crashlytics.com
