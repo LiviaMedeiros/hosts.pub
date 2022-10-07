@@ -824,6 +824,7 @@
 0.0.0.0 341578140.log.optimizely.com
 0.0.0.0 logx.optimizely.com
 0.0.0.0 a.optmnstr.com
+0.0.0.0 objectstorage.eu-stockholm-1.oraclecloud.com
 0.0.0.0 cmp.osano.com
 0.0.0.0 otm-r.com
 0.0.0.0 imp-bidder-eu-06.b.otm-r.com
@@ -1184,6 +1185,7 @@
 0.0.0.0 ads.api.vungle.com
 0.0.0.0 cdn.vuukle.com
 0.0.0.0 cdn.walkme.com
+0.0.0.0 adz.wattpad.com
 0.0.0.0 ssl.o.webmd.com
 0.0.0.0 cstatic.weborama.com
 0.0.0.0 dx.frontend.weborama.com
@@ -1503,6 +1505,7 @@
 0.0.0.0 evoke-windowsservices-tas.msedge.net
 0.0.0.0 fp.msedge.net
 0.0.0.0 visualstudio-devdiv-c2s.msedge.net
+0.0.0.0 js1.nend.net
 0.0.0.0 st.nex8.net
 0.0.0.0 bam.nr-data.net
 0.0.0.0 bam-cell.nr-data.net
