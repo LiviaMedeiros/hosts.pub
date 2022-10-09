@@ -1251,6 +1251,7 @@
 0.0.0.0 p.ad.gt
 0.0.0.0 seg.ad.gt
 0.0.0.0 api-2-0.spot.im
+0.0.0.0 direct-events-collector.spot.im
 0.0.0.0 events-collector.spot.im
 0.0.0.0 recirculation.spot.im
 0.0.0.0 seo.spot.im
