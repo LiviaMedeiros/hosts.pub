@@ -768,6 +768,7 @@
 0.0.0.0 classify-client.services.mozilla.com
 0.0.0.0 contile.services.mozilla.com
 0.0.0.0 location.services.mozilla.com
+0.0.0.0 normandy-cdn.services.mozilla.com
 0.0.0.0 push.services.mozilla.com
 0.0.0.0 updates.push.services.mozilla.com
 0.0.0.0 firefox.settings.services.mozilla.com
