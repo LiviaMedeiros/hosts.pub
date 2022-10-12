@@ -413,6 +413,7 @@
 0.0.0.0 yt3.ggpht.com
 0.0.0.0 ghbtns.com
 0.0.0.0 vampirebat.git-tower.com
+0.0.0.0 collector.github.com
 0.0.0.0 collector.githubapp.com
 0.0.0.0 cdn.glitch.com
 0.0.0.0 sw88.go.com
@@ -1290,6 +1291,7 @@
 0.0.0.0 tttt.onthe.io
 0.0.0.0 c.oracleinfinity.io
 0.0.0.0 dc.oracleinfinity.io
+0.0.0.0 experience-ap.piano.io
 0.0.0.0 sdk.postscript.io
 0.0.0.0 mweb-hb.presage.io
 0.0.0.0 abcheck.proper.io
@@ -1311,6 +1313,7 @@
 0.0.0.0 ingest.make.rvapps.io
 0.0.0.0 api.segment.io
 0.0.0.0 cdn.segment.io
+0.0.0.0 o64374.ingest.sentry.io
 0.0.0.0 o278969.ingest.sentry.io
 0.0.0.0 o287829.ingest.sentry.io
 0.0.0.0 simpleanalytics.io
@@ -1816,6 +1819,7 @@
 0.0.0.0 smi2.ru
 0.0.0.0 amp.smi2.ru
 0.0.0.0 pix.sniperlog.ru
+0.0.0.0 lenta.sparrow.ru
 0.0.0.0 ssso.ru
 0.0.0.0 stat-feedot.ru
 0.0.0.0 statad.ru
