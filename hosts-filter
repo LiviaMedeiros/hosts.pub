@@ -1169,6 +1169,7 @@
 0.0.0.0 abtest.api.viber.com
 0.0.0.0 www.cdn.viber.com
 0.0.0.0 vidalak.com
+0.0.0.0 cafemedia-com.videoplayerhub.com
 0.0.0.0 literally-media.videoplayerhub.com
 0.0.0.0 network-n-com.videoplayerhub.com
 0.0.0.0 snigelweb-com.videoplayerhub.com
@@ -1192,6 +1193,7 @@
 0.0.0.0 adz.wattpad.com
 0.0.0.0 ssl.o.webmd.com
 0.0.0.0 cstatic.weborama.com
+0.0.0.0 ctx.weborama.com
 0.0.0.0 dx.frontend.weborama.com
 0.0.0.0 web.webpushs.com
 0.0.0.0 report.appmetrica.webvisor.com
@@ -1797,6 +1799,7 @@
 0.0.0.0 weekend.rambler.ru
 0.0.0.0 zoomdecorate.rambler.ru
 0.0.0.0 abc.rareru.ru
+0.0.0.0 r.rbc.ru
 0.0.0.0 recreativ.ru
 0.0.0.0 track.recreativ.ru
 0.0.0.0 reformal.ru
