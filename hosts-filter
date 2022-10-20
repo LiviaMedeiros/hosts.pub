@@ -581,6 +581,7 @@
 0.0.0.0 js.hs-banner.com
 0.0.0.0 js.hs-scripts.com
 0.0.0.0 js-na1.hs-scripts.com
+0.0.0.0 htlbid.com
 0.0.0.0 track.hubspot.com
 0.0.0.0 id5-sync.com
 0.0.0.0 cdn.id5-sync.com
@@ -644,6 +645,7 @@
 0.0.0.0 code.jivosite.com
 0.0.0.0 telemetry.jivosite.com
 0.0.0.0 joom.com
+0.0.0.0 c.jsrdn.com
 0.0.0.0 pre.ads.justpremium.com
 0.0.0.0 entitlements.jwplayer.com
 0.0.0.0 ping-meta-prd.jwpltx.com
@@ -1381,6 +1383,9 @@
 0.0.0.0 codepush.appcenter.ms
 0.0.0.0 in.appcenter.ms
 0.0.0.0 www.clarity.ms
+0.0.0.0 assets.rbl.ms
+0.0.0.0 pages-stats.rbl.ms
+0.0.0.0 user-stats.rbl.ms
 0.0.0.0 gcdn.2mdn.net
 0.0.0.0 s0.2mdn.net
 0.0.0.0 oracle.112.2o7.net
