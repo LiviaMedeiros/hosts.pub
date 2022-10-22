@@ -296,6 +296,7 @@
 0.0.0.0 forms.convertkit.com
 0.0.0.0 consentcdn.cookiebot.com
 0.0.0.0 cookie-cdn.cookiepro.com
+0.0.0.0 static.cloud.coveo.com
 0.0.0.0 ssl.cdne.cpmstar.com
 0.0.0.0 firebase-settings.crashlytics.com
 0.0.0.0 settings.crashlytics.com
@@ -1232,6 +1233,7 @@
 0.0.0.0 x.yieldlift.com
 0.0.0.0 cdn-a.yieldlove.com
 0.0.0.0 ymetrica1.com
+0.0.0.0 www.yotube.com
 0.0.0.0 fcmatch.youtube.com
 0.0.0.0 s.youtube.com
 0.0.0.0 i1.ytimg.com
@@ -1775,6 +1777,7 @@
 0.0.0.0 api.mindbox.ru
 0.0.0.0 matching.mobilebanner.ru
 0.0.0.0 code.moviead55.ru
+0.0.0.0 dsp.rtb.mts.ru
 0.0.0.0 sm.rtb.mts.ru
 0.0.0.0 ps.ntvk1.ru
 0.0.0.0 ok.ru
