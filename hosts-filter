@@ -345,6 +345,7 @@
 0.0.0.0 cdn.doubleverify.com
 0.0.0.0 tps.doubleverify.com
 0.0.0.0 tps10232.doubleverify.com
+0.0.0.0 www.dressupwho.com
 0.0.0.0 conversation.api.drift.com
 0.0.0.0 customer.api.drift.com
 0.0.0.0 event.api.drift.com
@@ -1215,6 +1216,7 @@
 0.0.0.0 u.startup.mobile.webvisor.com
 0.0.0.0 metrics.westernunion.com
 0.0.0.0 smetrics.westernunion.com
+0.0.0.0 universal.wgplayer.com
 0.0.0.0 whourgie.com
 0.0.0.0 beacon.wikia-services.com
 0.0.0.0 rest.wildstar-online.com
