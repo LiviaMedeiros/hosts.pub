@@ -34,6 +34,7 @@
 0.0.0.0 cdn.keywee.co
 0.0.0.0 a.mailmunch.co
 0.0.0.0 ssm.codes
+0.0.0.0 event.2performant.com
 0.0.0.0 eb2.3lift.com
 0.0.0.0 ib.3lift.com
 0.0.0.0 tlx.3lift.com
@@ -267,6 +268,7 @@
 0.0.0.0 p.cityadstrack.com
 0.0.0.0 x.clearbitjs.com
 0.0.0.0 clevernt.com
+0.0.0.0 www.clickadu.com
 0.0.0.0 clickiocdn.com
 0.0.0.0 s.clickiocdn.com
 0.0.0.0 ade.clmbtech.com
@@ -642,6 +644,7 @@
 0.0.0.0 cdn.iubenda.com
 0.0.0.0 hits-i.iubenda.com
 0.0.0.0 rose.ixbt.com
+0.0.0.0 izlenzi.com
 0.0.0.0 cdn.izooto.com
 0.0.0.0 i.mxplayer.j2inter.com
 0.0.0.0 sjremetrics.java.com
@@ -649,6 +652,7 @@
 0.0.0.0 code.jivosite.com
 0.0.0.0 telemetry.jivosite.com
 0.0.0.0 joom.com
+0.0.0.0 jsecoin.com
 0.0.0.0 c.jsrdn.com
 0.0.0.0 pre.ads.justpremium.com
 0.0.0.0 entitlements.jwplayer.com
@@ -685,6 +689,7 @@
 0.0.0.0 jsc.lentainform.com
 0.0.0.0 s-img.lentainform.com
 0.0.0.0 servicer.lentainform.com
+0.0.0.0 ad.letmeads.com
 0.0.0.0 sc.lfeeder.com
 0.0.0.0 RU.info.lgsmartad.com
 0.0.0.0 ru.info.lgsmartad.com
@@ -877,6 +882,7 @@
 0.0.0.0 pv.pjtsu.com
 0.0.0.0 via.placeholder.com
 0.0.0.0 cdn.playbuzz.com
+0.0.0.0 playdsb.com
 0.0.0.0 config.playwire.com
 0.0.0.0 static-ru.plista.com
 0.0.0.0 portoteamo.com
@@ -885,6 +891,7 @@
 0.0.0.0 log.prezi.com
 0.0.0.0 shopify.privy.com
 0.0.0.0 propeller-tracking.com
+0.0.0.0 protestcopy.com
 0.0.0.0 ptoushoa.com
 0.0.0.0 ads.pubmatic.com
 0.0.0.0 gads.pubmatic.com
@@ -913,6 +920,7 @@
 0.0.0.0 d7d3cf2e81d293050033-3dfc0615b0fd7b49143049256703bfce.ssl.cf1.rackcdn.com
 0.0.0.0 s-bid.rmp.rakuten.com
 0.0.0.0 www.rbth.com
+0.0.0.0 app.readpeak.com
 0.0.0.0 a.realsrv.com
 0.0.0.0 main.realsrv.com
 0.0.0.0 xml.realtime-bid.com
@@ -1066,6 +1074,7 @@
 0.0.0.0 cdn.tinypass.com
 0.0.0.0 dashboard.tinypass.com
 0.0.0.0 experience.tinypass.com
+0.0.0.0 www.tipico.com
 0.0.0.0 tags.tiqcdn.com
 0.0.0.0 srv.tonemedia.com
 0.0.0.0 cdn.tpdads.com
@@ -1171,6 +1180,7 @@
 0.0.0.0 sun9-69.userapi.com
 0.0.0.0 sun9-75.userapi.com
 0.0.0.0 utraff.com
+0.0.0.0 promo.vador.com
 0.0.0.0 vak345.com
 0.0.0.0 aml.valuecommerce.com
 0.0.0.0 dalb.valuecommerce.com
@@ -1252,11 +1262,13 @@
 0.0.0.0 content.zeronaught.com
 0.0.0.0 static.ziffdavis.com
 0.0.0.0 salesiq.zoho.com
+0.0.0.0 marketing.net.brillen.de
 0.0.0.0 script.ioam.de
 0.0.0.0 cdn.netpoint-media.de
 0.0.0.0 js.smartredirect.de
 0.0.0.0 new-adtest.pages.dev
 0.0.0.0 browser-http-intake.logs.datadoghq.eu
+0.0.0.0 pay4results24.eu
 0.0.0.0 cstatic.weborama.fr
 0.0.0.0 rd.frontend.weborama.fr
 0.0.0.0 redirect.frontend.weborama.fr
@@ -1266,6 +1278,8 @@
 0.0.0.0 i.clean.gg
 0.0.0.0 bid.glass
 0.0.0.0 dap.digitalgov.gov
+0.0.0.0 axiabanners.exodus.gr
+0.0.0.0 interactive.forthnet.gr
 0.0.0.0 a.ad.gt
 0.0.0.0 id.hadron.ad.gt
 0.0.0.0 id.halo.ad.gt
@@ -1341,6 +1355,8 @@
 0.0.0.0 auth.split.io
 0.0.0.0 sdk.split.io
 0.0.0.0 ad.vidverto.io
+0.0.0.0 adserver.html.it
+0.0.0.0 affiliazioniads.snai.it
 0.0.0.0 ad-move.jp
 0.0.0.0 adfurikun.jp
 0.0.0.0 ginf.adfurikun.jp
@@ -1513,6 +1529,7 @@
 0.0.0.0 cdn.fuseplatform.net
 0.0.0.0 adm.fwmrm.net
 0.0.0.0 mssl.fwmrm.net
+0.0.0.0 g1.v.fwmrm.net
 0.0.0.0 ssl.geoplugin.net
 0.0.0.0 stat-api-yndx.cloud.gismeteo.net
 0.0.0.0 crl.globalsign.net
@@ -1524,6 +1541,7 @@
 0.0.0.0 js.hsadspixel.net
 0.0.0.0 js.hscollectedforms.net
 0.0.0.0 js.hscta.net
+0.0.0.0 www.installads.net
 0.0.0.0 www.jqueryscript.net
 0.0.0.0 crbcdn.jsfiddle.net
 0.0.0.0 beacon.krxd.net
@@ -1659,6 +1677,7 @@
 0.0.0.0 res41.traffer.net
 0.0.0.0 res71.traffer.net
 0.0.0.0 res75.traffer.net
+0.0.0.0 ad2.trafficgate.net
 0.0.0.0 ads.trafficjunky.net
 0.0.0.0 ctrack.trafficjunky.net
 0.0.0.0 ht-cdn.trafficjunky.net
@@ -1685,6 +1704,7 @@
 0.0.0.0 segment-data.zqtk.net
 0.0.0.0 a.pub.network
 0.0.0.0 p.ura.news
+0.0.0.0 adserver.webads.nl
 0.0.0.0 aj2396.online
 0.0.0.0 match.adsrvr.org
 0.0.0.0 ads-servebom-com.cdn.ampproject.org
@@ -1720,10 +1740,13 @@
 0.0.0.0 gaua.hit.gemius.pl
 0.0.0.0 something.00ed983688.kacwyb.pl
 0.0.0.0 www.00ed983688.kacwyb.pl
+0.0.0.0 advmanager.techfun.pl
 0.0.0.0 cdn.adfinity.pro
 0.0.0.0 adsco.re
 0.0.0.0 c.adsco.re
 0.0.0.0 g2.wait.re
+0.0.0.0 afftrk.altex.ro
+0.0.0.0 l.profitshare.ro
 0.0.0.0 advisor.api.2gis.ru
 0.0.0.0 news.2xclick.ru
 0.0.0.0 ad.3dnews.ru
@@ -1775,6 +1798,8 @@
 0.0.0.0 adservice.google.ru
 0.0.0.0 piwik-gosbar.gosuslugi.ru
 0.0.0.0 habrahabr.ru
+0.0.0.0 hitcounter.ru
+0.0.0.0 click.hotlog.ru
 0.0.0.0 js.hotlog.ru
 0.0.0.0 likemore-go.imgsmail.ru
 0.0.0.0 mediator.imgsmail.ru
@@ -1878,6 +1903,7 @@
 0.0.0.0 track.tproger.ru
 0.0.0.0 tt.ttarget.ru
 0.0.0.0 utarget.ru
+0.0.0.0 utimg.ru
 0.0.0.0 admin.verbox.ru
 0.0.0.0 static.videonow.ru
 0.0.0.0 dmp.vihub.ru
