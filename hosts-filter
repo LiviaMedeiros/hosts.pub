@@ -1436,6 +1436,7 @@
 0.0.0.0 cm.adform.net
 0.0.0.0 track.adform.net
 0.0.0.0 f2-ru.adhigh.net
+0.0.0.0 f10-ru.adhigh.net
 0.0.0.0 f12-ru.adhigh.net
 0.0.0.0 pubserver-cdn.adhigh.net
 0.0.0.0 px.adhigh.net
@@ -1799,6 +1800,7 @@
 0.0.0.0 counter.drom.ru
 0.0.0.0 www.drom.ru
 0.0.0.0 yummy.drom.ru
+0.0.0.0 log.dzen.ru
 0.0.0.0 analytics.fontanka.ru
 0.0.0.0 tracker.giftd.ru
 0.0.0.0 fcgi4.gnezdo.ru
