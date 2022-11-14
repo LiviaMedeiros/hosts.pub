@@ -445,6 +445,7 @@
 0.0.0.0 espresso-pa.clients6.google.com
 0.0.0.0 firealerts-pa.clients6.google.com
 0.0.0.0 firebase.clients6.google.com
+0.0.0.0 instantmessaging-pa.clients6.google.com
 0.0.0.0 mobilesdk-pa.clients6.google.com
 0.0.0.0 people-pa.clients6.google.com
 0.0.0.0 peoplestack-pa.clients6.google.com
