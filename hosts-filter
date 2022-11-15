@@ -439,12 +439,15 @@
 0.0.0.0 appsitemsuggest-pa.clients6.google.com
 0.0.0.0 blobcomments-pa.clients6.google.com
 0.0.0.0 chat-pa.clients6.google.com
+0.0.0.0 clientauthconfig.clients6.google.com
+0.0.0.0 cloudconsole-pa.clients6.google.com
 0.0.0.0 cloudresourcemanager.clients6.google.com
 0.0.0.0 cloudusersettings-pa.clients6.google.com
 0.0.0.0 developerprofiles-pa.clients6.google.com
 0.0.0.0 espresso-pa.clients6.google.com
 0.0.0.0 firealerts-pa.clients6.google.com
 0.0.0.0 firebase.clients6.google.com
+0.0.0.0 iam.clients6.google.com
 0.0.0.0 instantmessaging-pa.clients6.google.com
 0.0.0.0 mobilesdk-pa.clients6.google.com
 0.0.0.0 people-pa.clients6.google.com
