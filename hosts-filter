@@ -65,6 +65,7 @@
 0.0.0.0 static.addtoany.com
 0.0.0.0 rtb.adentifi.com
 0.0.0.0 cm.adgrx.com
+0.0.0.0 api.adinplay.com
 0.0.0.0 dsp.adfarm1.adition.com
 0.0.0.0 app.adjust.com
 0.0.0.0 tagan.adlightning.com
@@ -122,6 +123,7 @@
 0.0.0.0 aloofvest.com
 0.0.0.0 aan.amazon-adsystem.com
 0.0.0.0 aax.amazon-adsystem.com
+0.0.0.0 aax-dtb-cf.amazon-adsystem.com
 0.0.0.0 aax-eu.amazon-adsystem.com
 0.0.0.0 aax-us.amazon-adsystem.com
 0.0.0.0 aax-us-east.amazon-adsystem.com
@@ -144,6 +146,7 @@
 0.0.0.0 play.anyclip.com
 0.0.0.0 player.anyclip.com
 0.0.0.0 trafficmanager.anyclip.com
+0.0.0.0 anymind360.com
 0.0.0.0 a.apkpure.com
 0.0.0.0 app-measurement.com
 0.0.0.0 fast.appcues.com
@@ -219,6 +222,7 @@
 0.0.0.0 bodelen.com
 0.0.0.0 vmss.boldchat.com
 0.0.0.0 i.bongacash.com
+0.0.0.0 tag.bounceexchange.com
 0.0.0.0 client-analytics.braintreegateway.com
 0.0.0.0 dmp.brand-display.com
 0.0.0.0 biddr.brealtime.com
@@ -252,6 +256,7 @@
 0.0.0.0 amp.casalemedia.com
 0.0.0.0 as.casalemedia.com
 0.0.0.0 as-sec.casalemedia.com
+0.0.0.0 dsum.casalemedia.com
 0.0.0.0 dsum-sec.casalemedia.com
 0.0.0.0 htlb.casalemedia.com
 0.0.0.0 ssum-sec.casalemedia.com
@@ -731,6 +736,7 @@
 0.0.0.0 app-sj13.marketo.com
 0.0.0.0 app-sj14.marketo.com
 0.0.0.0 app-sj15.marketo.com
+0.0.0.0 g.mashable.com
 0.0.0.0 pixel.mathtag.com
 0.0.0.0 starget.mathworks.com
 0.0.0.0 s.media-imdb.com
@@ -1334,6 +1340,7 @@
 0.0.0.0 tttt.onthe.io
 0.0.0.0 c.oracleinfinity.io
 0.0.0.0 dc.oracleinfinity.io
+0.0.0.0 cdn.p-n.io
 0.0.0.0 experience-ap.piano.io
 0.0.0.0 sdk.postscript.io
 0.0.0.0 mweb-hb.presage.io
