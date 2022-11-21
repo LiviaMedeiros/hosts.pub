@@ -942,6 +942,7 @@
 0.0.0.0 xml.realtime-bid.com
 0.0.0.0 alb.reddit.com
 0.0.0.0 events.reddit.com
+0.0.0.0 w3-reporting.reddit.com
 0.0.0.0 click.redditmail.com
 0.0.0.0 events.redditmedia.com
 0.0.0.0 ma.redhat.com
@@ -1641,6 +1642,7 @@
 0.0.0.0 redhat.tt.omtrdc.net
 0.0.0.0 refinitiv.tt.omtrdc.net
 0.0.0.0 samsungcis.tt.omtrdc.net
+0.0.0.0 shutterflycom.tt.omtrdc.net
 0.0.0.0 twitterinc.tt.omtrdc.net
 0.0.0.0 webmdcom.tt.omtrdc.net
 0.0.0.0 aa.online-metrix.net
