@@ -106,6 +106,7 @@
 0.0.0.0 adserver-eu.adtech.advertising.com
 0.0.0.0 adserver-us.adtech.advertising.com
 0.0.0.0 pixel.advertising.com
+0.0.0.0 hb.adwmg.com
 0.0.0.0 metrics.aetn.com
 0.0.0.0 static.affiliatly.com
 0.0.0.0 cdn4-hbs.affinitymatrix.com
@@ -327,6 +328,7 @@
 0.0.0.0 rum-http-intake.logs.datadoghq.com
 0.0.0.0 datawrkz.com
 0.0.0.0 grs.dbankcloud.com
+0.0.0.0 a.deadlinefunnel.com
 0.0.0.0 s.deepl.com
 0.0.0.0 sm.dell.com
 0.0.0.0 api.demandbase.com
@@ -556,6 +558,7 @@
 0.0.0.0 egksstlnzri3stqvw5ehmie4gcydaykq-c2r.metric.gstatic.com
 0.0.0.0 f2hz22g57lt4zytjwoaytba5x5p3om4i-c2r.metric.gstatic.com
 0.0.0.0 fcndtfa54ytl27skifnjkcg7x5oh4mdl-c2r.metric.gstatic.com
+0.0.0.0 fj4mqbzp62bzsg6iifc6ctojhnp3om4i-c2r.metric.gstatic.com
 0.0.0.0 gn44l42owwk55ueyyi3hotjr4cydaqce-c2r.metric.gstatic.com
 0.0.0.0 hzof56b5tv4h6fviv53kikzyuips7klt-c2r.metric.gstatic.com
 0.0.0.0 ln45fxldb7bmkyiqrdbegatnrboh4hbt-c2r.metric.gstatic.com
@@ -1278,6 +1281,7 @@
 0.0.0.0 s.youtube.com
 0.0.0.0 i1.ytimg.com
 0.0.0.0 ytimgg.com
+0.0.0.0 b1h-euc1.zemanta.com
 0.0.0.0 b1sync.zemanta.com
 0.0.0.0 mxvp-feature-toggle-prod-1.zenmxapps.com
 0.0.0.0 www.zergnet.com
@@ -1361,6 +1365,7 @@
 0.0.0.0 ms.pubpowerplatform.io
 0.0.0.0 nc.pubpowerplatform.io
 0.0.0.0 fdyn.pubwise.io
+0.0.0.0 api.purpleads.io
 0.0.0.0 rapidzebra.io
 0.0.0.0 api.raygun.io
 0.0.0.0 at.adtech.redventures.io
