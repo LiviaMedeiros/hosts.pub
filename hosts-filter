@@ -53,6 +53,7 @@
 0.0.0.0 abdurantom.com
 0.0.0.0 builder.lift.acquia.com
 0.0.0.0 code.acstat.com
+0.0.0.0 data.ad-score.com
 0.0.0.0 js.ad-score.com
 0.0.0.0 js.ad-stir.com
 0.0.0.0 addthis.com
@@ -1314,6 +1315,7 @@
 0.0.0.0 api-2-0.spot.im
 0.0.0.0 direct-events-collector.spot.im
 0.0.0.0 events-collector.spot.im
+0.0.0.0 pix.spot.im
 0.0.0.0 recirculation.spot.im
 0.0.0.0 seo.spot.im
 0.0.0.0 app.adjust.net.in
