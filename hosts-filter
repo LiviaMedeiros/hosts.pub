@@ -1589,6 +1589,7 @@
 0.0.0.0 hbx.media.net
 0.0.0.0 prebid.media.net
 0.0.0.0 j.microad.net
+0.0.0.0 prod.balrog.prod.cloudops.mozgcp.net
 0.0.0.0 az690879.vo.msecnd.net
 0.0.0.0 evoke-windowsservices-tas.msedge.net
 0.0.0.0 fp.msedge.net
@@ -1682,6 +1683,7 @@
 0.0.0.0 tracking.retailrocket.net
 0.0.0.0 my.rtmark.net
 0.0.0.0 sc-static.net
+0.0.0.0 hulujp.silveregg.net
 0.0.0.0 otakumode.silveregg.net
 0.0.0.0 analytics.skyscanner.net
 0.0.0.0 static.smi2.net
