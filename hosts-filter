@@ -587,7 +587,9 @@
 0.0.0.0 beacons5.gvt2.com
 0.0.0.0 beacons.gcp.gvt2.com
 0.0.0.0 beacons5.gvt3.com
+0.0.0.0 h5r2dzdwqk.com
 0.0.0.0 tags.h12-media.com
+0.0.0.0 hdbcome.com
 0.0.0.0 heapanalytics.com
 0.0.0.0 cdn.heapanalytics.com
 0.0.0.0 my.hellobar.com
@@ -1511,6 +1513,7 @@
 0.0.0.0 dna8twue3dlxq.cloudfront.net
 0.0.0.0 dyv1bugovvq1g.cloudfront.net
 0.0.0.0 dzt1km7tv28ex.cloudfront.net
+0.0.0.0 asia-northeast1-holochats.cloudfunctions.net
 0.0.0.0 us-central1-amp-error-reporting.cloudfunctions.net
 0.0.0.0 us-central1-pwa2apk.cloudfunctions.net
 0.0.0.0 t.contentsquare.net
@@ -1760,6 +1763,7 @@
 0.0.0.0 cmp.teads.mgr.consensu.org
 0.0.0.0 vendorlist.consensu.org
 0.0.0.0 cdn.cookielaw.org
+0.0.0.0 anon-stats.eff.org
 0.0.0.0 matomo.ethereum.org
 0.0.0.0 uhm26jyr11zv.www.freecodecamp.org
 0.0.0.0 cdnads.geeksforgeeks.org
@@ -1812,6 +1816,7 @@
 0.0.0.0 mod.calltouch.ru
 0.0.0.0 cc.calltracking.ru
 0.0.0.0 catsnetwork.ru
+0.0.0.0 clck.ru
 0.0.0.0 cleversite.ru
 0.0.0.0 codes.cleversite.ru
 0.0.0.0 static1.cleversite.ru
