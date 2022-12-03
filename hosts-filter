@@ -459,6 +459,7 @@
 0.0.0.0 iam.clients6.google.com
 0.0.0.0 instantmessaging-pa.clients6.google.com
 0.0.0.0 mobilesdk-pa.clients6.google.com
+0.0.0.0 monitoring.clients6.google.com
 0.0.0.0 people-pa.clients6.google.com
 0.0.0.0 peoplestack-pa.clients6.google.com
 0.0.0.0 peoplestackwebexperiments-pa.clients6.google.com
@@ -467,6 +468,7 @@
 0.0.0.0 signaler-pa.clients6.google.com
 0.0.0.0 taskassist-pa.clients6.google.com
 0.0.0.0 tracedepot-pa.clients6.google.com
+0.0.0.0 waa-pa.clients6.google.com
 0.0.0.0 fcmatch.google.com
 0.0.0.0 mail-ads.google.com
 0.0.0.0 smartlock.google.com
@@ -1011,6 +1013,7 @@
 0.0.0.0 ads.servebom.com
 0.0.0.0 ads2.servebom.com
 0.0.0.0 m.servedby-buysellads.com
+0.0.0.0 ox-d.pbhmedia.servedbyopenx.com
 0.0.0.0 ads.servenobid.com
 0.0.0.0 public.servenobid.com
 0.0.0.0 e.serverbid.com
@@ -1278,6 +1281,7 @@
 0.0.0.0 launcherus.yeshen.com
 0.0.0.0 x.yieldlift.com
 0.0.0.0 cdn-a.yieldlove.com
+0.0.0.0 ads.yieldmo.com
 0.0.0.0 ymetrica1.com
 0.0.0.0 www.yotube.com
 0.0.0.0 fcmatch.youtube.com
@@ -1446,6 +1450,7 @@
 0.0.0.0 pp.vk.me
 0.0.0.0 static.aio.media
 0.0.0.0 stat.media
+0.0.0.0 bid.underdog.media
 0.0.0.0 codepush.appcenter.ms
 0.0.0.0 in.appcenter.ms
 0.0.0.0 www.clarity.ms
