@@ -957,6 +957,8 @@
 0.0.0.0 r.remarketingpixel.com
 0.0.0.0 api.reproio.com
 0.0.0.0 sync.republer.com
+0.0.0.0 requestmetrics.com
+0.0.0.0 www.requestmetrics.com
 0.0.0.0 spn-v1.revampcdn.com
 0.0.0.0 assets.revcontent.com
 0.0.0.0 q.reyden-x.com
@@ -1750,6 +1752,7 @@
 0.0.0.0 segment-data.zqtk.net
 0.0.0.0 a.pub.network
 0.0.0.0 p.ura.news
+0.0.0.0 adservice.google.nl
 0.0.0.0 adserver.webads.nl
 0.0.0.0 aj2396.online
 0.0.0.0 match.adsrvr.org
