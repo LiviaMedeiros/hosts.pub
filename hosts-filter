@@ -1604,6 +1604,7 @@
 0.0.0.0 prebid.media.net
 0.0.0.0 j.microad.net
 0.0.0.0 prod.balrog.prod.cloudops.mozgcp.net
+0.0.0.0 prod.content-signature-chains.prod.webservices.mozgcp.net
 0.0.0.0 az690879.vo.msecnd.net
 0.0.0.0 evoke-windowsservices-tas.msedge.net
 0.0.0.0 fp.msedge.net
