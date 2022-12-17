@@ -502,6 +502,7 @@
 0.0.0.0 phonedeviceverification-pa.googleapis.com
 0.0.0.0 reminders-pa.googleapis.com
 0.0.0.0 safebrowsing.googleapis.com
+0.0.0.0 semanticlocation-pa.googleapis.com
 0.0.0.0 speechs3proto2-pa.googleapis.com
 0.0.0.0 telephonyspamprotect-pa.googleapis.com
 0.0.0.0 userlocation.googleapis.com
@@ -1096,6 +1097,7 @@
 0.0.0.0 tag.tapad.com
 0.0.0.0 script.tapfiliate.com
 0.0.0.0 ad-cdn.technoratimedia.com
+0.0.0.0 consent.techtarget.com
 0.0.0.0 trk.techtarget.com
 0.0.0.0 elb.the-ozone-project.com
 0.0.0.0 ophan.theguardian.com
