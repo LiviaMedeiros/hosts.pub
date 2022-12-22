@@ -181,6 +181,7 @@
 0.0.0.0 stat.appsgeyser.com
 0.0.0.0 adtrust.appspot.com
 0.0.0.0 tracking.apptrackerlink.com
+0.0.0.0 fpa-api.arstechnica.com
 0.0.0.0 telemetry.art19.com
 0.0.0.0 www.artfut.com
 0.0.0.0 asteriresearch.com
@@ -598,6 +599,7 @@
 0.0.0.0 cdn.heapanalytics.com
 0.0.0.0 my.hellobar.com
 0.0.0.0 stack-exchange-dynamic-ads.herokuapp.com
+0.0.0.0 ru.hhkld.com
 0.0.0.0 s10.histats.com
 0.0.0.0 ext.host-tracker.com
 0.0.0.0 in.hotjar.com
@@ -1968,6 +1970,7 @@
 0.0.0.0 utimg.ru
 0.0.0.0 vastroll.ru
 0.0.0.0 admin.verbox.ru
+0.0.0.0 data.videonow.ru
 0.0.0.0 static.videonow.ru
 0.0.0.0 dmp.vihub.ru
 0.0.0.0 vkontakte.ru
