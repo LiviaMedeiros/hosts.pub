@@ -1252,6 +1252,7 @@
 0.0.0.0 st4-15.vk.com
 0.0.0.0 www.vk.com
 0.0.0.0 services.vlitag.com
+0.0.0.0 concertads-configs.vox-cdn.com
 0.0.0.0 api.vungle.com
 0.0.0.0 ads.api.vungle.com
 0.0.0.0 cdn.vuukle.com
@@ -1782,6 +1783,7 @@
 0.0.0.0 cmp.teads.mgr.consensu.org
 0.0.0.0 vendorlist.consensu.org
 0.0.0.0 cdn.cookielaw.org
+0.0.0.0 static.danbo.org
 0.0.0.0 anon-stats.eff.org
 0.0.0.0 matomo.ethereum.org
 0.0.0.0 uhm26jyr11zv.www.freecodecamp.org
