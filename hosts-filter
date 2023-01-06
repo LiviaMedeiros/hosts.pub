@@ -11,6 +11,7 @@
 0.0.0.0 secure.rebel.ai
 0.0.0.0 api.tomi.ai
 0.0.0.0 a.vdo.ai
+0.0.0.0 tag.wknd.ai
 0.0.0.0 00917082-71e9-498e-8343-00c3df06b798.edge.permutive.app
 0.0.0.0 dash.sparkloop.app
 0.0.0.0 grs.dbankcloud.asia
@@ -1334,6 +1335,7 @@
 0.0.0.0 api-2-0.spot.im
 0.0.0.0 direct-events-collector.spot.im
 0.0.0.0 events-collector.spot.im
+0.0.0.0 metrics-logger.spot.im
 0.0.0.0 pix.spot.im
 0.0.0.0 recirculation.spot.im
 0.0.0.0 seo.spot.im
@@ -1564,6 +1566,7 @@
 0.0.0.0 stats.g.doubleclick.net
 0.0.0.0 survey.g.doubleclick.net
 0.0.0.0 static.doubleclick.net
+0.0.0.0 www.doubleclick.net
 0.0.0.0 be.durationmedia.net
 0.0.0.0 tag.durationmedia.net
 0.0.0.0 pbjs.e-planning.net
@@ -1696,6 +1699,7 @@
 0.0.0.0 us-u.openx.net
 0.0.0.0 wikia-d.openx.net
 0.0.0.0 yieldlove-d.openx.net
+0.0.0.0 ziffdavis-d.openx.net
 0.0.0.0 rum-static.pingdom.net
 0.0.0.0 api.s.pipedream.net
 0.0.0.0 cdn.s.pipedream.net
@@ -1763,6 +1767,9 @@
 0.0.0.0 cdn.static.zdbb.net
 0.0.0.0 segment-data.zqtk.net
 0.0.0.0 a.pub.network
+0.0.0.0 b.pub.network
+0.0.0.0 c.pub.network
+0.0.0.0 d.pub.network
 0.0.0.0 p.ura.news
 0.0.0.0 adservice.google.nl
 0.0.0.0 adserver.webads.nl
