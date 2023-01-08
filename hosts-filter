@@ -2,6 +2,7 @@
 0.0.0.0 ssp.afp.ai
 0.0.0.0 content.hybrid.ai
 0.0.0.0 dm.hybrid.ai
+0.0.0.0 dm-eu.hybrid.ai
 0.0.0.0 dsa-ee.hybrid.ai
 0.0.0.0 dssa.hybrid.ai
 0.0.0.0 hbe199.hybrid.ai
@@ -735,6 +736,7 @@
 0.0.0.0 likes.services.livejournal.com
 0.0.0.0 njs.services.livejournal.com
 0.0.0.0 blog.logrocket.com
+0.0.0.0 app.cdn.lookbookhq.com
 0.0.0.0 cdn.lr-in.com
 0.0.0.0 luxupcdnc.com
 0.0.0.0 s.luxupcdnc.com
@@ -1950,6 +1952,7 @@
 0.0.0.0 aidata-sync.rutarget.ru
 0.0.0.0 cdn.rutarget.ru
 0.0.0.0 instreamvideo-sync.rutarget.ru
+0.0.0.0 kadam-sync.rutarget.ru
 0.0.0.0 moevideo-sync.rutarget.ru
 0.0.0.0 sape-sync.rutarget.ru
 0.0.0.0 solta-sync.rutarget.ru
