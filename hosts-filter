@@ -280,6 +280,7 @@
 0.0.0.0 web-cache.chocomaru.com
 0.0.0.0 citrix.com
 0.0.0.0 p.cityadstrack.com
+0.0.0.0 reveal.clearbit.com
 0.0.0.0 x.clearbitjs.com
 0.0.0.0 clevernt.com
 0.0.0.0 www.clickadu.com
@@ -377,6 +378,7 @@
 0.0.0.0 backstory.ebay.com
 0.0.0.0 monitor.ebay.com
 0.0.0.0 srx.main.ebayrtm.com
+0.0.0.0 s413370795.t.eloqua.com
 0.0.0.0 s815114181.t.eloqua.com
 0.0.0.0 s1259914507.t.eloqua.com
 0.0.0.0 cs.emxdgt.com
@@ -742,6 +744,7 @@
 0.0.0.0 luxupcdnc.com
 0.0.0.0 s.luxupcdnc.com
 0.0.0.0 macblurayplayer.com
+0.0.0.0 cdn.madkudu.com
 0.0.0.0 static.mailerlite.com
 0.0.0.0 mantodea.mantisadnetwork.com
 0.0.0.0 events.mapbox.com
@@ -1282,8 +1285,11 @@
 0.0.0.0 client.wns.windows.com
 0.0.0.0 journey.wired.com
 0.0.0.0 sstats.wired.com
+0.0.0.0 distillery.wistia.com
+0.0.0.0 pipedream.wistia.com
 0.0.0.0 csp.withgoogle.com
 0.0.0.0 frog.wix.com
+0.0.0.0 static.woopra.com
 0.0.0.0 pixel.wp.com
 0.0.0.0 stats.wp.com
 0.0.0.0 creative.xlivrdr.com
@@ -1367,6 +1373,7 @@
 0.0.0.0 echidna.honeybadger.io
 0.0.0.0 vc.hotjar.io
 0.0.0.0 ad.impactify.io
+0.0.0.0 fg8vvsvnieiv3ej16jby.litix.io
 0.0.0.0 cdn.lodeo.io
 0.0.0.0 log.logicanalytics.io
 0.0.0.0 s.ntv.io
