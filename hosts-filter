@@ -6,6 +6,7 @@
 0.0.0.0 dsa-ee.hybrid.ai
 0.0.0.0 dssa.hybrid.ai
 0.0.0.0 hbe199.hybrid.ai
+0.0.0.0 ssp.hybrid.ai
 0.0.0.0 st.hybrid.ai
 0.0.0.0 m2d.m2.ai
 0.0.0.0 cdn.rebel.ai
@@ -1966,6 +1967,7 @@
 0.0.0.0 warning.rt.ru
 0.0.0.0 adfox-hb-bidder.rutarget.ru
 0.0.0.0 aidata-sync.rutarget.ru
+0.0.0.0 bidvol-sync.rutarget.ru
 0.0.0.0 cdn.rutarget.ru
 0.0.0.0 instreamvideo-sync.rutarget.ru
 0.0.0.0 kadam-sync.rutarget.ru
