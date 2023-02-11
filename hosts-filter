@@ -139,6 +139,7 @@
 0.0.0.0 fls-na.amazon-adsystem.com
 0.0.0.0 ir-na.amazon-adsystem.com
 0.0.0.0 mads.amazon-adsystem.com
+0.0.0.0 rcm-eu.amazon-adsystem.com
 0.0.0.0 rcm-na.amazon-adsystem.com
 0.0.0.0 s.amazon-adsystem.com
 0.0.0.0 ws-fe.amazon-adsystem.com
@@ -739,6 +740,7 @@
 0.0.0.0 gslbeacon.lijit.com
 0.0.0.0 dc.ads.linkedin.com
 0.0.0.0 px.ads.linkedin.com
+0.0.0.0 ad.linksynergy.com
 0.0.0.0 login.live.com
 0.0.0.0 onedrive.live.com
 0.0.0.0 likes.services.livejournal.com
