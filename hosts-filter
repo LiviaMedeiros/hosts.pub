@@ -692,6 +692,7 @@
 0.0.0.0 joom.com
 0.0.0.0 jsecoin.com
 0.0.0.0 c.jsrdn.com
+0.0.0.0 adserver.juicyads.com
 0.0.0.0 pre.ads.justpremium.com
 0.0.0.0 entitlements.jwplayer.com
 0.0.0.0 ping-meta-prd.jwpltx.com
@@ -1505,6 +1506,7 @@
 0.0.0.0 c1.adform.net
 0.0.0.0 cm.adform.net
 0.0.0.0 track.adform.net
+0.0.0.0 cdn.adhigh.net
 0.0.0.0 f2-ru.adhigh.net
 0.0.0.0 f10-ru.adhigh.net
 0.0.0.0 f12-ru.adhigh.net
@@ -1578,6 +1580,7 @@
 0.0.0.0 2542116.fls.doubleclick.net
 0.0.0.0 5922505.fls.doubleclick.net
 0.0.0.0 8308634.fls.doubleclick.net
+0.0.0.0 8649452.fls.doubleclick.net
 0.0.0.0 bid.g.doubleclick.net
 0.0.0.0 cm.g.doubleclick.net
 0.0.0.0 googleads.g.doubleclick.net
@@ -1817,6 +1820,7 @@
 0.0.0.0 trustarc.mgr.consensu.org
 0.0.0.0 vendorlist.consensu.org
 0.0.0.0 cdn.cookielaw.org
+0.0.0.0 danbo.org
 0.0.0.0 hakurei.danbo.org
 0.0.0.0 static.danbo.org
 0.0.0.0 anon-stats.eff.org
