@@ -748,6 +748,7 @@
 0.0.0.0 onedrive.live.com
 0.0.0.0 likes.services.livejournal.com
 0.0.0.0 njs.services.livejournal.com
+0.0.0.0 xc3.services.livejournal.com
 0.0.0.0 blog.logrocket.com
 0.0.0.0 app.cdn.lookbookhq.com
 0.0.0.0 cdn.lr-in.com
@@ -1837,6 +1838,7 @@
 0.0.0.0 intake-analytics.wikimedia.org
 0.0.0.0 intake-logging.wikimedia.org
 0.0.0.0 instant.page
+0.0.0.0 gamd.hit.gemius.pl
 0.0.0.0 garu.hit.gemius.pl
 0.0.0.0 gaua.hit.gemius.pl
 0.0.0.0 something.00ed983688.kacwyb.pl
@@ -1861,6 +1863,7 @@
 0.0.0.0 mc.admetrica.ru
 0.0.0.0 ad.adriver.ru
 0.0.0.0 content.adriver.ru
+0.0.0.0 ev.adriver.ru
 0.0.0.0 pb.adriver.ru
 0.0.0.0 ssp.adriver.ru
 0.0.0.0 cdn.adrun.ru
@@ -1920,6 +1923,7 @@
 0.0.0.0 mediator.mail.ru
 0.0.0.0 otvet.mail.ru
 0.0.0.0 portal.mail.ru
+0.0.0.0 static.pulse.mail.ru
 0.0.0.0 r.mail.ru
 0.0.0.0 rs.mail.ru
 0.0.0.0 top.mail.ru
