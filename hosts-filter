@@ -1562,6 +1562,7 @@
 0.0.0.0 asia-northeast1-holochats.cloudfunctions.net
 0.0.0.0 us-central1-amp-error-reporting.cloudfunctions.net
 0.0.0.0 us-central1-pwa2apk.cloudfunctions.net
+0.0.0.0 us-central1-spwn-balus.cloudfunctions.net
 0.0.0.0 t.contentsquare.net
 0.0.0.0 csm.jp2.as.criteo.net
 0.0.0.0 csm.fr.eu.criteo.net
