@@ -188,6 +188,7 @@
 0.0.0.0 stat.appsgeyser.com
 0.0.0.0 adtrust.appspot.com
 0.0.0.0 tracking.apptrackerlink.com
+0.0.0.0 ads.aralego.com
 0.0.0.0 fpa-api.arstechnica.com
 0.0.0.0 telemetry.art19.com
 0.0.0.0 www.artfut.com
@@ -1990,6 +1991,7 @@
 0.0.0.0 instreamvideo-sync.rutarget.ru
 0.0.0.0 kadam-sync.rutarget.ru
 0.0.0.0 moevideo-sync.rutarget.ru
+0.0.0.0 ohmybid-sync.rutarget.ru
 0.0.0.0 sape-sync.rutarget.ru
 0.0.0.0 solta-sync.rutarget.ru
 0.0.0.0 videonow-sync.rutarget.ru
@@ -2067,6 +2069,7 @@
 0.0.0.0 r.teads.tv
 0.0.0.0 s8t.teads.tv
 0.0.0.0 t.teads.tv
+0.0.0.0 thesame.tv
 0.0.0.0 cdn.vidible.tv
 0.0.0.0 cdn.viqeo.tv
 0.0.0.0 stats.viqeo.tv
