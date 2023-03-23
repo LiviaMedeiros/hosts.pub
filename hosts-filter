@@ -903,6 +903,7 @@
 0.0.0.0 pub-eu.p.otm-r.com
 0.0.0.0 yhb.p.otm-r.com
 0.0.0.0 ssp.otm-r.com
+0.0.0.0 sync.otm-r.com
 0.0.0.0 amplifypixel.outbrain.com
 0.0.0.0 images.outbrain.com
 0.0.0.0 log.outbrain.com
@@ -1928,6 +1929,7 @@
 0.0.0.0 portal.mail.ru
 0.0.0.0 static.pulse.mail.ru
 0.0.0.0 r.mail.ru
+0.0.0.0 relap.mail.ru
 0.0.0.0 rs.mail.ru
 0.0.0.0 top.mail.ru
 0.0.0.0 top-fwz1.mail.ru
@@ -1988,13 +1990,16 @@
 0.0.0.0 aidata-sync.rutarget.ru
 0.0.0.0 bidvol-sync.rutarget.ru
 0.0.0.0 cdn.rutarget.ru
+0.0.0.0 clientside-video-bidder.rutarget.ru
 0.0.0.0 instreamvideo-sync.rutarget.ru
 0.0.0.0 kadam-sync.rutarget.ru
 0.0.0.0 moevideo-sync.rutarget.ru
 0.0.0.0 ohmybid-sync.rutarget.ru
+0.0.0.0 qvol-s-sync.rutarget.ru
 0.0.0.0 sape-sync.rutarget.ru
 0.0.0.0 solta-sync.rutarget.ru
 0.0.0.0 videonow-sync.rutarget.ru
+0.0.0.0 videotarget-sync.rutarget.ru
 0.0.0.0 yandex-dmp-sync.rutarget.ru
 0.0.0.0 yandex-sync.rutarget.ru
 0.0.0.0 cdn-rtb.sape.ru
