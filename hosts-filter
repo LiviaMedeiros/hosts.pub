@@ -1518,6 +1518,7 @@
 0.0.0.0 vast-f6-ru.adhigh.net
 0.0.0.0 inv-nets.admixer.net
 0.0.0.0 pixon.ads-pixiv.net
+0.0.0.0 videohead.adspeed.net
 0.0.0.0 engine.adzerk.net
 0.0.0.0 ds-aksb-a.akamaihd.net
 0.0.0.0 statics-marketingsites-eus-ms-com.akamaized.net
@@ -1991,6 +1992,7 @@
 0.0.0.0 bidvol-sync.rutarget.ru
 0.0.0.0 cdn.rutarget.ru
 0.0.0.0 clientside-video-bidder.rutarget.ru
+0.0.0.0 creative.rutarget.ru
 0.0.0.0 instreamvideo-sync.rutarget.ru
 0.0.0.0 kadam-sync.rutarget.ru
 0.0.0.0 moevideo-sync.rutarget.ru
@@ -1998,6 +2000,7 @@
 0.0.0.0 qvol-s-sync.rutarget.ru
 0.0.0.0 sape-sync.rutarget.ru
 0.0.0.0 solta-sync.rutarget.ru
+0.0.0.0 umg-sync.rutarget.ru
 0.0.0.0 videonow-sync.rutarget.ru
 0.0.0.0 videotarget-sync.rutarget.ru
 0.0.0.0 yandex-dmp-sync.rutarget.ru
