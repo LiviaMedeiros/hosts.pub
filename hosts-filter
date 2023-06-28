@@ -18,6 +18,7 @@
 0.0.0.0 dash.sparkloop.app
 0.0.0.0 grs.dbankcloud.asia
 0.0.0.0 as.ad4m.at
+0.0.0.0 sp.ohmy.bid
 0.0.0.0 checkfilter.biz
 0.0.0.0 moevideo.biz
 0.0.0.0 solty.biz
@@ -792,6 +793,7 @@
 0.0.0.0 s-img.mgid.com
 0.0.0.0 servicer.mgid.com
 0.0.0.0 browser.pipe.aria.microsoft.com
+0.0.0.0 msedge.api.cdp.microsoft.com
 0.0.0.0 browser.events.data.microsoft.com
 0.0.0.0 mobile.events.data.microsoft.com
 0.0.0.0 self.events.data.microsoft.com
@@ -1077,6 +1079,7 @@
 0.0.0.0 s.skimresources.com
 0.0.0.0 t.skimresources.com
 0.0.0.0 x.skimresources.com
+0.0.0.0 config.edge.skype.com
 0.0.0.0 slackb.com
 0.0.0.0 prg.smartadserver.com
 0.0.0.0 ssbsync.smartadserver.com
@@ -1088,6 +1091,7 @@
 0.0.0.0 apex.go.sonobi.com
 0.0.0.0 mtrx.go.sonobi.com
 0.0.0.0 sync.go.sonobi.com
+0.0.0.0 app.indevice.sonymobile.com
 0.0.0.0 eventlogger.soundcloud.com
 0.0.0.0 cdn.speedcurve.com
 0.0.0.0 lux.speedcurve.com
@@ -1947,6 +1951,7 @@
 0.0.0.0 matching.mobilebanner.ru
 0.0.0.0 uptime.monitorus.ru
 0.0.0.0 code.moviead55.ru
+0.0.0.0 logger.moviead55.ru
 0.0.0.0 dsp.rtb.mts.ru
 0.0.0.0 sm.rtb.mts.ru
 0.0.0.0 ps.ntvk1.ru
@@ -2013,6 +2018,7 @@
 0.0.0.0 pfm-stat.online.sberbank.ru
 0.0.0.0 248006.selcdn.ru
 0.0.0.0 289310.selcdn.ru
+0.0.0.0 st-01.showjet.ru
 0.0.0.0 smi2.ru
 0.0.0.0 amp.smi2.ru
 0.0.0.0 pix.sniperlog.ru
