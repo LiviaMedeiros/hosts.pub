@@ -249,6 +249,7 @@
 0.0.0.0 api.btloader.com
 0.0.0.0 bttrack.com
 0.0.0.0 sessions.bugsnag.com
+0.0.0.0 hb.bumlam.com
 0.0.0.0 log.bumlam.com
 0.0.0.0 pix.bumlam.com
 0.0.0.0 static.bumlam.com
@@ -497,6 +498,7 @@
 0.0.0.0 content-autofill.googleapis.com
 0.0.0.0 crashlyticsreports-pa.googleapis.com
 0.0.0.0 dialercallinfolookup-pa.googleapis.com
+0.0.0.0 fcm.googleapis.com
 0.0.0.0 firebase.googleapis.com
 0.0.0.0 firebaseinstallations.googleapis.com
 0.0.0.0 firebaselogging.googleapis.com
@@ -569,6 +571,7 @@
 0.0.0.0 graizoah.com
 0.0.0.0 s.grvmedia.com
 0.0.0.0 csi.gstatic.com
+0.0.0.0 encrypted-tbn1.gstatic.com
 0.0.0.0 2wylwavchgbfop6k4wpxdf35cqstdo4v-c2r.metric.gstatic.com
 0.0.0.0 4huxm3t4q5up3bj3dgnky6sxcrp32pup-c2r.metric.gstatic.com
 0.0.0.0 23dyrpsgtfzkjzv7gotpewwqbestdmim-c2r.metric.gstatic.com
@@ -1224,6 +1227,7 @@
 0.0.0.0 sun9-13.userapi.com
 0.0.0.0 sun9-16.userapi.com
 0.0.0.0 sun9-17.userapi.com
+0.0.0.0 sun9-18.userapi.com
 0.0.0.0 sun9-22.userapi.com
 0.0.0.0 sun9-30.userapi.com
 0.0.0.0 sun9-31.userapi.com
@@ -1232,12 +1236,14 @@
 0.0.0.0 sun9-38.userapi.com
 0.0.0.0 sun9-39.userapi.com
 0.0.0.0 sun9-42.userapi.com
+0.0.0.0 sun9-44.userapi.com
 0.0.0.0 sun9-46.userapi.com
 0.0.0.0 sun9-47.userapi.com
 0.0.0.0 sun9-49.userapi.com
 0.0.0.0 sun9-50.userapi.com
 0.0.0.0 sun9-51.userapi.com
 0.0.0.0 sun9-53.userapi.com
+0.0.0.0 sun9-54.userapi.com
 0.0.0.0 sun9-55.userapi.com
 0.0.0.0 sun9-56.userapi.com
 0.0.0.0 sun9-57.userapi.com
@@ -1249,7 +1255,12 @@
 0.0.0.0 sun9-66.userapi.com
 0.0.0.0 sun9-67.userapi.com
 0.0.0.0 sun9-69.userapi.com
+0.0.0.0 sun9-73.userapi.com
 0.0.0.0 sun9-75.userapi.com
+0.0.0.0 sun9-77.userapi.com
+0.0.0.0 sun9-78.userapi.com
+0.0.0.0 sun9-80.userapi.com
+0.0.0.0 sun9-east.userapi.com
 0.0.0.0 utraff.com
 0.0.0.0 promo.vador.com
 0.0.0.0 vak345.com
@@ -1520,6 +1531,7 @@
 0.0.0.0 f2-ru.adhigh.net
 0.0.0.0 f10-ru.adhigh.net
 0.0.0.0 f12-ru.adhigh.net
+0.0.0.0 pretarg.adhigh.net
 0.0.0.0 pubserver-cdn.adhigh.net
 0.0.0.0 px.adhigh.net
 0.0.0.0 vast-f6-ru.adhigh.net
@@ -1911,6 +1923,7 @@
 0.0.0.0 yummy.drom.ru
 0.0.0.0 log.dzen.ru
 0.0.0.0 analytics.fontanka.ru
+0.0.0.0 www.fontanka.ru
 0.0.0.0 tracker.giftd.ru
 0.0.0.0 fcgi4.gnezdo.ru
 0.0.0.0 adservice.google.ru
@@ -1963,6 +1976,7 @@
 0.0.0.0 liveut2-m100.ok.ru
 0.0.0.0 m.ok.ru
 0.0.0.0 tamtam.ok.ru
+0.0.0.0 st.overclockers.ru
 0.0.0.0 xapi.ozon.ru
 0.0.0.0 c.pravo.ru
 0.0.0.0 pxksnymto.ru
