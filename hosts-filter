@@ -1281,6 +1281,7 @@
 0.0.0.0 sun9-80.userapi.com
 0.0.0.0 sun9-east.userapi.com
 0.0.0.0 utraff.com
+0.0.0.0 a.utraff.com
 0.0.0.0 promo.vador.com
 0.0.0.0 vak345.com
 0.0.0.0 aml.valuecommerce.com
@@ -1357,6 +1358,7 @@
 0.0.0.0 cdn-a.yieldlove.com
 0.0.0.0 ads.yieldmo.com
 0.0.0.0 ymetrica1.com
+0.0.0.0 ynlfpyeifc.com
 0.0.0.0 www.yotube.com
 0.0.0.0 fcmatch.youtube.com
 0.0.0.0 s.youtube.com
@@ -1424,6 +1426,7 @@
 0.0.0.0 media.ethicalads.io
 0.0.0.0 get.geojs.io
 0.0.0.0 www.giraff.io
+0.0.0.0 st.hbrd.io
 0.0.0.0 echidna.honeybadger.io
 0.0.0.0 vc.hotjar.io
 0.0.0.0 ad.impactify.io
@@ -1990,6 +1993,7 @@
 0.0.0.0 www.fontanka.ru
 0.0.0.0 tracker.giftd.ru
 0.0.0.0 fcgi4.gnezdo.ru
+0.0.0.0 news.gnezdo.ru
 0.0.0.0 adservice.google.ru
 0.0.0.0 piwik-gosbar.gosuslugi.ru
 0.0.0.0 habrahabr.ru
@@ -2120,7 +2124,10 @@
 0.0.0.0 vastroll.ru
 0.0.0.0 admin.verbox.ru
 0.0.0.0 data.videonow.ru
+0.0.0.0 error.videonow.ru
+0.0.0.0 stat.videonow.ru
 0.0.0.0 static.videonow.ru
+0.0.0.0 stats2.videonow.ru
 0.0.0.0 dmp.vihub.ru
 0.0.0.0 vkontakte.ru
 0.0.0.0 com.adv.vz.ru
