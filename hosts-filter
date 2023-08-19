@@ -519,6 +519,7 @@
 0.0.0.0 geller-pa.googleapis.com
 0.0.0.0 gmscompliance-pa.googleapis.com
 0.0.0.0 growth-pa.googleapis.com
+0.0.0.0 imasdk.googleapis.com
 0.0.0.0 instantmessaging-pa.googleapis.com
 0.0.0.0 jnn-pa.googleapis.com
 0.0.0.0 lamssettings-pa.googleapis.com
@@ -1542,6 +1543,8 @@
 0.0.0.0 retracker.local
 0.0.0.0 cdn.iframe.ly
 0.0.0.0 ads.adlook.me
+0.0.0.0 cackle.me
+0.0.0.0 j.cackle.me
 0.0.0.0 csync.loopme.me
 0.0.0.0 pp.vk.me
 0.0.0.0 static.aio.media
@@ -2205,5 +2208,6 @@
 0.0.0.0 x.disq.us
 0.0.0.0 o.ss2.us
 0.0.0.0 s.ss2.us
+0.0.0.0 ad.moe.video
 0.0.0.0 app.adjust.world
 0.0.0.0 r.2ad.wtf
