@@ -1892,6 +1892,7 @@
 0.0.0.0 browser-updater.yandex.net
 0.0.0.0 api.browser.yandex.net
 0.0.0.0 startup.mobile.yandex.net
+0.0.0.0 abt.s3.yandex.net
 0.0.0.0 mobile.yandexadexchange.net
 0.0.0.0 ad.yieldlab.net
 0.0.0.0 cdn.static.zdbb.net
@@ -2136,6 +2137,8 @@
 0.0.0.0 utarget.ru
 0.0.0.0 utimg.ru
 0.0.0.0 vastroll.ru
+0.0.0.0 waterfall.vedomosti.ru
+0.0.0.0 woodpecker.vedomosti.ru
 0.0.0.0 admin.verbox.ru
 0.0.0.0 data.videonow.ru
 0.0.0.0 error.videonow.ru
