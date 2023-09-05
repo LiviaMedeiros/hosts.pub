@@ -1358,6 +1358,7 @@
 0.0.0.0 pixel.wp.com
 0.0.0.0 stats.wp.com
 0.0.0.0 creative.xlivrdr.com
+0.0.0.0 dc.xoalt.com
 0.0.0.0 static.xvideos.com
 0.0.0.0 ads.yahoo.com
 0.0.0.0 ups.analytics.yahoo.com
@@ -1390,6 +1391,7 @@
 0.0.0.0 js.smartredirect.de
 0.0.0.0 new-adtest.pages.dev
 0.0.0.0 secure.gaug.es
+0.0.0.0 track.gaug.es
 0.0.0.0 browser-http-intake.logs.datadoghq.eu
 0.0.0.0 pay4results24.eu
 0.0.0.0 ecdn.analysis.fi
@@ -2031,6 +2033,7 @@
 0.0.0.0 d7.c4.b5.a1.top.list.ru
 0.0.0.0 cs15.livetex.ru
 0.0.0.0 ad.mail.ru
+0.0.0.0 adv.mail.ru
 0.0.0.0 aj-https.mail.ru
 0.0.0.0 cloud.mail.ru
 0.0.0.0 connect.mail.ru
