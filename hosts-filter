@@ -636,6 +636,7 @@
 0.0.0.0 cdn.heapanalytics.com
 0.0.0.0 my.hellobar.com
 0.0.0.0 stack-exchange-dynamic-ads.herokuapp.com
+0.0.0.0 wootric-eligibility.herokuapp.com
 0.0.0.0 ru.hhkld.com
 0.0.0.0 s10.histats.com
 0.0.0.0 ext.host-tracker.com
@@ -775,6 +776,7 @@
 0.0.0.0 njs.services.livejournal.com
 0.0.0.0 xc3.services.livejournal.com
 0.0.0.0 blog.logrocket.com
+0.0.0.0 staging-i.logrocket.com
 0.0.0.0 app.cdn.lookbookhq.com
 0.0.0.0 cdn.lr-in-prod.com
 0.0.0.0 cdn.lr-in.com
@@ -846,6 +848,7 @@
 0.0.0.0 112-tzm-766.mktoresp.com
 0.0.0.0 194-vvc-221.mktoresp.com
 0.0.0.0 232-owy-009.mktoresp.com
+0.0.0.0 740-lkm-263.mktoresp.com
 0.0.0.0 ml314.com
 0.0.0.0 vi.ml314.com
 0.0.0.0 log.mmstat.com
@@ -1318,6 +1321,7 @@
 0.0.0.0 cdn.viglink.com
 0.0.0.0 player-telemetry.vimeo.com
 0.0.0.0 fresnel-events.vimeocdn.com
+0.0.0.0 dev.visualwebsiteoptimizer.com
 0.0.0.0 vk.com
 0.0.0.0 api.vk.com
 0.0.0.0 cs10694.vk.com
@@ -1357,6 +1361,7 @@
 0.0.0.0 csp.withgoogle.com
 0.0.0.0 frog.wix.com
 0.0.0.0 static.woopra.com
+0.0.0.0 eligibility.wootric.com
 0.0.0.0 pixel.wp.com
 0.0.0.0 stats.wp.com
 0.0.0.0 creative.xlivrdr.com
