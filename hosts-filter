@@ -541,6 +541,7 @@
 0.0.0.0 userlocation.googleapis.com
 0.0.0.0 www.googleoptimize.com
 0.0.0.0 ade.googlesyndication.com
+0.0.0.0 afs.googlesyndication.com
 0.0.0.0 page2.googlesyndication.com
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 0d47b86d5d6de5ba547ce3cff789e7be.safeframe.googlesyndication.com
@@ -929,6 +930,7 @@
 0.0.0.0 s.orbsrv.com
 0.0.0.0 cmp.osano.com
 0.0.0.0 otm-r.com
+0.0.0.0 imp-bidder-eu-05.b.otm-r.com
 0.0.0.0 imp-bidder-eu-06.b.otm-r.com
 0.0.0.0 imp-bidder-eu-11.b.otm-r.com
 0.0.0.0 rtb-eu.b.otm-r.com
@@ -1080,6 +1082,7 @@
 0.0.0.0 static.scroll.com
 0.0.0.0 static.securedtouch.com
 0.0.0.0 sedoparking.com
+0.0.0.0 img.sedoparking.com
 0.0.0.0 cdn.segment.com
 0.0.0.0 live.sekindo.com
 0.0.0.0 widget.sellwild.com
