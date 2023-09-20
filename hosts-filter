@@ -416,6 +416,7 @@
 0.0.0.0 basher.ezodn.com
 0.0.0.0 go.ezodn.com
 0.0.0.0 videosvc.ezoic.com
+0.0.0.0 www.ezojs.com
 0.0.0.0 facebook.com
 0.0.0.0 s-static.ak.facebook.com
 0.0.0.0 api.facebook.com
@@ -757,6 +758,7 @@
 0.0.0.0 servicer.lentainform.com
 0.0.0.0 ad.letmeads.com
 0.0.0.0 sc.lfeeder.com
+0.0.0.0 ads.lfstmedia.com
 0.0.0.0 ngfts.lge.com
 0.0.0.0 RU.info.lgsmartad.com
 0.0.0.0 ru.info.lgsmartad.com
@@ -943,6 +945,8 @@
 0.0.0.0 yhb.p.otm-r.com
 0.0.0.0 ssp.otm-r.com
 0.0.0.0 sync.otm-r.com
+0.0.0.0 otnolatrnup.com
+0.0.0.0 cdn.otnolatrnup.com
 0.0.0.0 amplifypixel.outbrain.com
 0.0.0.0 images.outbrain.com
 0.0.0.0 log.outbrain.com
