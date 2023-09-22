@@ -969,6 +969,7 @@
 0.0.0.0 cas.avalon.perfdrive.com
 0.0.0.0 amp.permutive.com
 0.0.0.0 esi.amp.permutive.com
+0.0.0.0 idg.amp.permutive.com
 0.0.0.0 vox.amp.permutive.com
 0.0.0.0 cdn.permutive.com
 0.0.0.0 cdn.petametrics.com
@@ -1093,6 +1094,7 @@
 0.0.0.0 live.sekindo.com
 0.0.0.0 widget.sellwild.com
 0.0.0.0 sonar.semantiqo.com
+0.0.0.0 cdn.sendpulse.com
 0.0.0.0 browser.sentry-cdn.com
 0.0.0.0 ads.servebom.com
 0.0.0.0 ads2.servebom.com
@@ -1883,6 +1885,7 @@
 0.0.0.0 target.smi2.net
 0.0.0.0 mms.sp-prod.net
 0.0.0.0 zdstatic.speedtest.net
+0.0.0.0 pixel.staticworld.net
 0.0.0.0 skslm.swiftkey.net
 0.0.0.0 lga.thench.net
 0.0.0.0 lgb.thench.net
