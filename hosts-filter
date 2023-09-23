@@ -227,6 +227,7 @@
 0.0.0.0 bing.com
 0.0.0.0 bat.bing.com
 0.0.0.0 c.bing.com
+0.0.0.0 th.bing.com
 0.0.0.0 www.bing.com
 0.0.0.0 cdn.bizible.com
 0.0.0.0 imp2.bizographics.com
@@ -1123,6 +1124,8 @@
 0.0.0.0 siteimproveanalytics.com
 0.0.0.0 node-p1w-eegeiw.sitescout.com
 0.0.0.0 pixel-sync.sitescout.com
+0.0.0.0 skcrtxr.com
+0.0.0.0 bidder.skcrtxr.com
 0.0.0.0 cdn.skcrtxr.com
 0.0.0.0 p.skimresources.com
 0.0.0.0 r.skimresources.com
