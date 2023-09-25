@@ -899,6 +899,7 @@
 0.0.0.0 mobile-collector.newrelic.com
 0.0.0.0 pixel.newscred.com
 0.0.0.0 hb.nexage.com
+0.0.0.0 jp.livelog.nexon.com
 0.0.0.0 s.nitropay.com
 0.0.0.0 seal.websecurity.norton.com
 0.0.0.0 www.npttech.com
@@ -1477,6 +1478,7 @@
 0.0.0.0 cdn.lodeo.io
 0.0.0.0 log.logicanalytics.io
 0.0.0.0 pp.lp4.io
+0.0.0.0 toy.log.nexon.io
 0.0.0.0 s.ntv.io
 0.0.0.0 cdn.onthe.io
 0.0.0.0 tt.onthe.io
@@ -1529,6 +1531,7 @@
 0.0.0.0 sy.ameblo.jp
 0.0.0.0 app-adforce.jp
 0.0.0.0 analytics.app-adforce.jp
+0.0.0.0 api.ateam-ad.jp
 0.0.0.0 fls-fe.amazon.co.jp
 0.0.0.0 js.boost-next.co.jp
 0.0.0.0 widget-view.dmm.co.jp
