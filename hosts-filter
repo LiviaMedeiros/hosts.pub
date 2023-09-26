@@ -1676,6 +1676,7 @@
 0.0.0.0 id.crwdcntrl.net
 0.0.0.0 sync.crwdcntrl.net
 0.0.0.0 tags.crwdcntrl.net
+0.0.0.0 cdn.d2-apps.net
 0.0.0.0 bc.ad.daum.net
 0.0.0.0 condenast.demdex.net
 0.0.0.0 dpm.demdex.net
@@ -1880,6 +1881,7 @@
 0.0.0.0 tracking.retailrocket.net
 0.0.0.0 my.rtmark.net
 0.0.0.0 sc-static.net
+0.0.0.0 cdn.shareaholic.net
 0.0.0.0 hulujp.silveregg.net
 0.0.0.0 otakumode.silveregg.net
 0.0.0.0 analytics.skyscanner.net
@@ -2120,10 +2122,13 @@
 0.0.0.0 id.rambler.ru
 0.0.0.0 wapi.kassa.rambler.ru
 0.0.0.0 kraken.rambler.ru
+0.0.0.0 news.rambler.ru
 0.0.0.0 prime.rambler.ru
 0.0.0.0 rcmjs.rambler.ru
 0.0.0.0 ssp.rambler.ru
 0.0.0.0 profile.ssp.rambler.ru
+0.0.0.0 static.rambler.ru
+0.0.0.0 news.store.rambler.ru
 0.0.0.0 top100.rambler.ru
 0.0.0.0 top100-images.rambler.ru
 0.0.0.0 rcmjs.um.rambler.ru
