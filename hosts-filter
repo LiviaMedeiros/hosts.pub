@@ -591,6 +591,7 @@
 0.0.0.0 www.googletagservices.com
 0.0.0.0 graizoah.com
 0.0.0.0 s.grvmedia.com
+0.0.0.0 cdn-jp.gsecondscreen.com
 0.0.0.0 csi.gstatic.com
 0.0.0.0 encrypted-tbn1.gstatic.com
 0.0.0.0 2wylwavchgbfop6k4wpxdf35cqstdo4v-c2r.metric.gstatic.com
@@ -1186,6 +1187,7 @@
 0.0.0.0 pixel.tapad.com
 0.0.0.0 tag.tapad.com
 0.0.0.0 script.tapfiliate.com
+0.0.0.0 tat3ayogh6.com
 0.0.0.0 ad-cdn.technoratimedia.com
 0.0.0.0 consent.techtarget.com
 0.0.0.0 trk.techtarget.com
@@ -1354,6 +1356,7 @@
 0.0.0.0 cdn.vuukle.com
 0.0.0.0 cdn.walkme.com
 0.0.0.0 adz.wattpad.com
+0.0.0.0 ssl.widgets.webengage.com
 0.0.0.0 ssl.o.webmd.com
 0.0.0.0 cstatic.weborama.com
 0.0.0.0 ctx.weborama.com
@@ -1586,6 +1589,7 @@
 0.0.0.0 csync.loopme.me
 0.0.0.0 pp.vk.me
 0.0.0.0 static.aio.media
+0.0.0.0 setka.media
 0.0.0.0 stat.media
 0.0.0.0 bid.underdog.media
 0.0.0.0 codepush.appcenter.ms
@@ -2165,6 +2169,8 @@
 0.0.0.0 yandex-sync.rutarget.ru
 0.0.0.0 cdn-rtb.sape.ru
 0.0.0.0 ssp-rtb.sape.ru
+0.0.0.0 ssp-rtb-asrv341.sape.ru
+0.0.0.0 ssp-rtb-asrv344.sape.ru
 0.0.0.0 pfm-stat.online.sberbank.ru
 0.0.0.0 248006.selcdn.ru
 0.0.0.0 289310.selcdn.ru
@@ -2172,6 +2178,7 @@
 0.0.0.0 st-01.showjet.ru
 0.0.0.0 smi2.ru
 0.0.0.0 amp.smi2.ru
+0.0.0.0 target.smi2.ru
 0.0.0.0 pix.sniperlog.ru
 0.0.0.0 lenta.sparrow.ru
 0.0.0.0 widget.sparrow.ru
