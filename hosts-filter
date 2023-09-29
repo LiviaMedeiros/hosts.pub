@@ -438,6 +438,8 @@
 0.0.0.0 counter1.fc2.com
 0.0.0.0 fcwuye.com
 0.0.0.0 findicons.com
+0.0.0.0 rt.flix360.com
+0.0.0.0 media.flixcar.com
 0.0.0.0 media.flixfacts.com
 0.0.0.0 api.flocktory.com
 0.0.0.0 flux-cdn.com
@@ -456,6 +458,7 @@
 0.0.0.0 telemetry.servers.getgo.com
 0.0.0.0 pbs.getpublica.com
 0.0.0.0 ga.getresponse.com
+0.0.0.0 l.getsitecontrol.com
 0.0.0.0 geo.gfycat.com
 0.0.0.0 yt3.ggpht.com
 0.0.0.0 ghbtns.com
@@ -775,6 +778,7 @@
 0.0.0.0 ap.lijit.com
 0.0.0.0 ce.lijit.com
 0.0.0.0 gslbeacon.lijit.com
+0.0.0.0 w.likebtn.com
 0.0.0.0 dc.ads.linkedin.com
 0.0.0.0 px.ads.linkedin.com
 0.0.0.0 ad.linksynergy.com
@@ -2007,6 +2011,7 @@
 0.0.0.0 ad.3dnews.ru
 0.0.0.0 3wnp9.ru
 0.0.0.0 analytics.74.ru
+0.0.0.0 api.action-media.ru
 0.0.0.0 ads.adfox.ru
 0.0.0.0 banners.adfox.ru
 0.0.0.0 adindex.ru
