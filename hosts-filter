@@ -941,6 +941,7 @@
 0.0.0.0 objectstorage.eu-stockholm-1.oraclecloud.com
 0.0.0.0 a.orbsrv.com
 0.0.0.0 s.orbsrv.com
+0.0.0.0 tattle.api.osano.com
 0.0.0.0 cmp.osano.com
 0.0.0.0 otm-r.com
 0.0.0.0 imp-bidder-eu-05.b.otm-r.com
