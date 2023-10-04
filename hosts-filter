@@ -307,6 +307,7 @@
 0.0.0.0 ase.clmbtech.com
 0.0.0.0 csp-reporting.cloudflare.com
 0.0.0.0 a.nel.cloudflare.com
+0.0.0.0 tr.www.cloudflare.com
 0.0.0.0 cloudflareinsights.com
 0.0.0.0 static.cloudflareinsights.com
 0.0.0.0 fm.cnbc.com
@@ -440,6 +441,7 @@
 0.0.0.0 counter1.fc2.com
 0.0.0.0 fcwuye.com
 0.0.0.0 findicons.com
+0.0.0.0 detectportal.firefox.com
 0.0.0.0 track.flexlinkspro.com
 0.0.0.0 rt.flix360.com
 0.0.0.0 media.flixcar.com
@@ -1854,6 +1856,7 @@
 0.0.0.0 aetv.tt.omtrdc.net
 0.0.0.0 amazonwebservicesinc.tt.omtrdc.net
 0.0.0.0 canada.tt.omtrdc.net
+0.0.0.0 cloudflareinc.tt.omtrdc.net
 0.0.0.0 microsoftmscompoc.tt.omtrdc.net
 0.0.0.0 nintendoofamerica.tt.omtrdc.net
 0.0.0.0 nvidia.tt.omtrdc.net
