@@ -1627,6 +1627,7 @@
 0.0.0.0 f2-ru.adhigh.net
 0.0.0.0 f10-ru.adhigh.net
 0.0.0.0 f12-ru.adhigh.net
+0.0.0.0 f13-ru.adhigh.net
 0.0.0.0 pretarg.adhigh.net
 0.0.0.0 pubserver-cdn.adhigh.net
 0.0.0.0 px.adhigh.net
@@ -2182,8 +2183,12 @@
 0.0.0.0 yandex-sync.rutarget.ru
 0.0.0.0 cdn-rtb.sape.ru
 0.0.0.0 ssp-rtb.sape.ru
+0.0.0.0 ssp-rtb-asrv270.sape.ru
+0.0.0.0 ssp-rtb-asrv334.sape.ru
 0.0.0.0 ssp-rtb-asrv341.sape.ru
+0.0.0.0 ssp-rtb-asrv343.sape.ru
 0.0.0.0 ssp-rtb-asrv344.sape.ru
+0.0.0.0 ssp-rtb-asrv377.sape.ru
 0.0.0.0 pfm-stat.online.sberbank.ru
 0.0.0.0 248006.selcdn.ru
 0.0.0.0 289310.selcdn.ru
