@@ -1237,6 +1237,7 @@
 0.0.0.0 sdki.truepush.com
 0.0.0.0 consent.trustarc.com
 0.0.0.0 preferences.trustarc.com
+0.0.0.0 invitejs.trustpilot.com
 0.0.0.0 tsyndicate.com
 0.0.0.0 px.srvcs.tumblr.com
 0.0.0.0 d.turn.com
@@ -1249,6 +1250,7 @@
 0.0.0.0 a2d8cbc90f0a49b78a78f4312bd71987.js.ubembed.com
 0.0.0.0 homegeton.ucoz.com
 0.0.0.0 click.udimg.com
+0.0.0.0 c.umsns.com
 0.0.0.0 cdn.unblockia.com
 0.0.0.0 hb.undertone.com
 0.0.0.0 collect.analytics.unity3d.com
@@ -1406,6 +1408,7 @@
 0.0.0.0 static.xvideos.com
 0.0.0.0 ads.yahoo.com
 0.0.0.0 ups.analytics.yahoo.com
+0.0.0.0 nz.finance.yahoo.com
 0.0.0.0 c2shb.pubgw.yahoo.com
 0.0.0.0 analytics.query.yahoo.com
 0.0.0.0 c2shb.ssp.yahoo.com
@@ -1691,6 +1694,7 @@
 0.0.0.0 us-central1-amp-error-reporting.cloudfunctions.net
 0.0.0.0 us-central1-pwa2apk.cloudfunctions.net
 0.0.0.0 us-central1-spwn-balus.cloudfunctions.net
+0.0.0.0 cdn.confiant-integrations.net
 0.0.0.0 t.contentsquare.net
 0.0.0.0 csm.jp2.as.criteo.net
 0.0.0.0 csm.fr.eu.criteo.net
