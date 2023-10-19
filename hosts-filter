@@ -28,6 +28,7 @@
 0.0.0.0 solty.biz
 0.0.0.0 rpc-php.trafficfactory.biz
 0.0.0.0 adsninja.ca
+0.0.0.0 cdn.adsninja.ca
 0.0.0.0 cdn.districtm.ca
 0.0.0.0 adservice.google.ca
 0.0.0.0 api.popin.cc
@@ -143,6 +144,7 @@
 0.0.0.0 aax-eu.amazon-adsystem.com
 0.0.0.0 aax-us.amazon-adsystem.com
 0.0.0.0 aax-us-east.amazon-adsystem.com
+0.0.0.0 c.aps.amazon-adsystem.com
 0.0.0.0 c.amazon-adsystem.com
 0.0.0.0 fls-na.amazon-adsystem.com
 0.0.0.0 ir-na.amazon-adsystem.com
@@ -291,6 +293,7 @@
 0.0.0.0 cchdbond.com
 0.0.0.0 cdn-spurit.com
 0.0.0.0 i.cdnkimg.com
+0.0.0.0 cdnral.com
 0.0.0.0 h.cedatoplayer.com
 0.0.0.0 radar.cedexis.com
 0.0.0.0 static.chartbeat.com
@@ -336,6 +339,7 @@
 0.0.0.0 consentcdn.cookiebot.com
 0.0.0.0 cookie-cdn.cookiepro.com
 0.0.0.0 static.cloud.coveo.com
+0.0.0.0 cozyhillside.com
 0.0.0.0 ssl.cdne.cpmstar.com
 0.0.0.0 firebase-settings.crashlytics.com
 0.0.0.0 settings.crashlytics.com
@@ -1185,6 +1189,7 @@
 0.0.0.0 crash.steampowered.com
 0.0.0.0 ads.stickyadstv.com
 0.0.0.0 assets.strossle.com
+0.0.0.0 succeedscene.com
 0.0.0.0 www.summerhamster.com
 0.0.0.0 sumo.com
 0.0.0.0 load.sumo.com
