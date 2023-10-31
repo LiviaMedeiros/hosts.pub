@@ -1144,6 +1144,7 @@
 0.0.0.0 ws.sharethis.com
 0.0.0.0 btlr.sharethrough.com
 0.0.0.0 match.sharethrough.com
+0.0.0.0 native.sharethrough.com
 0.0.0.0 v.shopify.com
 0.0.0.0 monorail-edge.shopifysvc.com
 0.0.0.0 shopnetic.com
@@ -1359,6 +1360,7 @@
 0.0.0.0 aloha.viber.com
 0.0.0.0 abtest.api.viber.com
 0.0.0.0 www.cdn.viber.com
+0.0.0.0 sourcepoint.vice.com
 0.0.0.0 vidalak.com
 0.0.0.0 cafemedia-com.videoplayerhub.com
 0.0.0.0 literally-media.videoplayerhub.com
@@ -2005,6 +2007,7 @@
 0.0.0.0 test.quantcast.mgr.consensu.org
 0.0.0.0 c.sharethis.mgr.consensu.org
 0.0.0.0 api.skimlinks.mgr.consensu.org
+0.0.0.0 sourcepoint.mgr.consensu.org
 0.0.0.0 cmp.teads.mgr.consensu.org
 0.0.0.0 trustarc.mgr.consensu.org
 0.0.0.0 vendorlist.consensu.org
