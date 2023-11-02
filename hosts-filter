@@ -454,6 +454,7 @@
 0.0.0.0 media.flixcar.com
 0.0.0.0 media.flixfacts.com
 0.0.0.0 api.flocktory.com
+0.0.0.0 data.flurry.com
 0.0.0.0 flux-cdn.com
 0.0.0.0 formcrafts.com
 0.0.0.0 bc8ecf8af7334417aee0dcd35d760ed6-c9af2a63c0c1.cdn.forter.com
@@ -932,6 +933,7 @@
 0.0.0.0 smetrics.nvidia.com
 0.0.0.0 telemetry.nvidia.com
 0.0.0.0 consent.cmp.oath.com
+0.0.0.0 service.cmp.oath.com
 0.0.0.0 offerimage.com
 0.0.0.0 static.olark.com
 0.0.0.0 a.omappapi.com
