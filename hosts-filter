@@ -21,6 +21,7 @@
 0.0.0.0 grs.dbankcloud.asia
 0.0.0.0 as.ad4m.at
 0.0.0.0 gc.zgo.at
+0.0.0.0 match.ohmy.bid
 0.0.0.0 sp.ohmy.bid
 0.0.0.0 checkfilter.biz
 0.0.0.0 moevideo.biz
@@ -1203,6 +1204,7 @@
 0.0.0.0 www.summerhamster.com
 0.0.0.0 sumo.com
 0.0.0.0 load.sumo.com
+0.0.0.0 load.sumome.com
 0.0.0.0 init.supersonicads.com
 0.0.0.0 outcome-ssp.supersonicads.com
 0.0.0.0 cc.swiftype.com
@@ -2216,10 +2218,12 @@
 0.0.0.0 cdn-rtb.sape.ru
 0.0.0.0 ssp-rtb.sape.ru
 0.0.0.0 ssp-rtb-asrv270.sape.ru
+0.0.0.0 ssp-rtb-asrv333.sape.ru
 0.0.0.0 ssp-rtb-asrv334.sape.ru
 0.0.0.0 ssp-rtb-asrv341.sape.ru
 0.0.0.0 ssp-rtb-asrv343.sape.ru
 0.0.0.0 ssp-rtb-asrv344.sape.ru
+0.0.0.0 ssp-rtb-asrv348.sape.ru
 0.0.0.0 ssp-rtb-asrv377.sape.ru
 0.0.0.0 pfm-stat.online.sberbank.ru
 0.0.0.0 248006.selcdn.ru
