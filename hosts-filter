@@ -1388,6 +1388,7 @@
 0.0.0.0 www.vk.com
 0.0.0.0 services.vlitag.com
 0.0.0.0 concertads-configs.vox-cdn.com
+0.0.0.0 ws.vs3.com
 0.0.0.0 api.vungle.com
 0.0.0.0 ads.api.vungle.com
 0.0.0.0 cdn.vuukle.com
@@ -1714,6 +1715,7 @@
 0.0.0.0 us-central1-amp-error-reporting.cloudfunctions.net
 0.0.0.0 us-central1-pwa2apk.cloudfunctions.net
 0.0.0.0 us-central1-spwn-balus.cloudfunctions.net
+0.0.0.0 us-central1-vsm-bigdata.cloudfunctions.net
 0.0.0.0 cdn.confiant-integrations.net
 0.0.0.0 t.contentsquare.net
 0.0.0.0 csm.jp2.as.criteo.net
@@ -2291,6 +2293,7 @@
 0.0.0.0 www.takiparkrb.site
 0.0.0.0 ana.bandi.so
 0.0.0.0 prebid.digitru.st
+0.0.0.0 news-ru.gismeteo.st
 0.0.0.0 ru.viadata.store
 0.0.0.0 ibclick.stream
 0.0.0.0 lightstep.medium.systems
