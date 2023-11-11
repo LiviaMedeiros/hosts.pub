@@ -751,6 +751,7 @@
 0.0.0.0 entitlements.jwplayer.com
 0.0.0.0 ping-meta-prd.jwpltx.com
 0.0.0.0 prd.jwpltx.com
+0.0.0.0 assets-jpcust.jwpsrv.com
 0.0.0.0 udc-neb.kampyle.com
 0.0.0.0 storage.cloud.kargo.com
 0.0.0.0 krk.kargo.com
@@ -1381,6 +1382,7 @@
 0.0.0.0 vk.com
 0.0.0.0 api.vk.com
 0.0.0.0 cs10694.vk.com
+0.0.0.0 id.vk.com
 0.0.0.0 login.vk.com
 0.0.0.0 m.vk.com
 0.0.0.0 st4-11.vk.com
@@ -2155,6 +2157,7 @@
 0.0.0.0 mpsuadv.ru
 0.0.0.0 dsp.rtb.mts.ru
 0.0.0.0 sm.rtb.mts.ru
+0.0.0.0 p1.ntvk1.ru
 0.0.0.0 ps.ntvk1.ru
 0.0.0.0 ok.ru
 0.0.0.0 api.ok.ru
