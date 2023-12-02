@@ -19,6 +19,7 @@
 0.0.0.0 discord.app
 0.0.0.0 00917082-71e9-498e-8343-00c3df06b798.edge.permutive.app
 0.0.0.0 dash.sparkloop.app
+0.0.0.0 triplewhale-pixel.web.app
 0.0.0.0 grs.dbankcloud.asia
 0.0.0.0 as.ad4m.at
 0.0.0.0 gc.zgo.at
@@ -45,6 +46,7 @@
 0.0.0.0 poweredby.jads.co
 0.0.0.0 cdn.keywee.co
 0.0.0.0 a.mailmunch.co
+0.0.0.0 cdn.pushalert.co
 0.0.0.0 r.wdfl.co
 0.0.0.0 ssm.codes
 0.0.0.0 event.2performant.com
@@ -64,6 +66,7 @@
 0.0.0.0 abbeyintervalfetched.com
 0.0.0.0 abdurantom.com
 0.0.0.0 builder.lift.acquia.com
+0.0.0.0 acsbapp.com
 0.0.0.0 code.acstat.com
 0.0.0.0 origin.acuityplatform.com
 0.0.0.0 data.ad-score.com
@@ -452,6 +455,7 @@
 0.0.0.0 fcwuye.com
 0.0.0.0 findicons.com
 0.0.0.0 detectportal.firefox.com
+0.0.0.0 servedby.flashtalking.com
 0.0.0.0 track.flexlinkspro.com
 0.0.0.0 rt.flix360.com
 0.0.0.0 media.flixcar.com
@@ -840,6 +844,7 @@
 0.0.0.0 pixel.mathtag.com
 0.0.0.0 starget.mathworks.com
 0.0.0.0 s.media-imdb.com
+0.0.0.0 pixel.mediaiqdigital.com
 0.0.0.0 scripts.mediavine.com
 0.0.0.0 medium.com
 0.0.0.0 cdn-client.medium.com
@@ -1210,6 +1215,8 @@
 0.0.0.0 cdn.stat-rock.com
 0.0.0.0 www.statcounter.com
 0.0.0.0 crash.steampowered.com
+0.0.0.0 dx.steelhousemedia.com
+0.0.0.0 px.steelhousemedia.com
 0.0.0.0 ads.stickyadstv.com
 0.0.0.0 assets.strossle.com
 0.0.0.0 succeedscene.com
@@ -1717,6 +1724,7 @@
 0.0.0.0 d2v02itv0y9u9t.cloudfront.net
 0.0.0.0 d2yyf02s9xqns0.cloudfront.net
 0.0.0.0 d2zah9y47r7bi2.cloudfront.net
+0.0.0.0 d10lpsik1i8c69.cloudfront.net
 0.0.0.0 d15kdpgjg3unno.cloudfront.net
 0.0.0.0 d24n15hnbwhuhn.cloudfront.net
 0.0.0.0 d26b395fwzu5fz.cloudfront.net
@@ -2327,6 +2335,7 @@
 0.0.0.0 www.smi.today
 0.0.0.0 rocketme.top
 0.0.0.0 s.console.adtarget.com.tr
+0.0.0.0 cdn.attn.tv
 0.0.0.0 context.iris.tv
 0.0.0.0 v.kost.tv
 0.0.0.0 cdn.laim.tv
