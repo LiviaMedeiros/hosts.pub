@@ -61,6 +61,7 @@
 0.0.0.0 euw-ice.360yield.com
 0.0.0.0 match.360yield.com
 0.0.0.0 affiliates.a2hosting.com
+0.0.0.0 prod.tahoe-analytics.publishers.advertising.a2z.com
 0.0.0.0 us-east-1.prod.pr.analytics.console.aws.a2z.com
 0.0.0.0 c.aaxads.com
 0.0.0.0 abbeyintervalfetched.com
@@ -152,6 +153,7 @@
 0.0.0.0 aax-us.amazon-adsystem.com
 0.0.0.0 aax-us-east.amazon-adsystem.com
 0.0.0.0 c.aps.amazon-adsystem.com
+0.0.0.0 config.aps.amazon-adsystem.com
 0.0.0.0 c.amazon-adsystem.com
 0.0.0.0 fls-na.amazon-adsystem.com
 0.0.0.0 ir-na.amazon-adsystem.com
@@ -975,10 +977,13 @@
 0.0.0.0 tattle.api.osano.com
 0.0.0.0 cmp.osano.com
 0.0.0.0 otm-r.com
+0.0.0.0 imp-bidder-eu-04.b.otm-r.com
 0.0.0.0 imp-bidder-eu-05.b.otm-r.com
 0.0.0.0 imp-bidder-eu-06.b.otm-r.com
+0.0.0.0 imp-bidder-eu-08.b.otm-r.com
 0.0.0.0 imp-bidder-eu-10.b.otm-r.com
 0.0.0.0 imp-bidder-eu-11.b.otm-r.com
+0.0.0.0 imp-bidder-eu-15.b.otm-r.com
 0.0.0.0 rtb-eu.b.otm-r.com
 0.0.0.0 cdn.otm-r.com
 0.0.0.0 sync.dmp.otm-r.com
@@ -2113,6 +2118,7 @@
 0.0.0.0 codes.cleversite.ru
 0.0.0.0 static1.cleversite.ru
 0.0.0.0 stat.clickfrog.ru
+0.0.0.0 cnb.cnews.ru
 0.0.0.0 adx.com.ru
 0.0.0.0 rtb.com.ru
 0.0.0.0 cshi.ru
