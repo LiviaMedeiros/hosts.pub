@@ -523,6 +523,7 @@
 0.0.0.0 peoplestack-pa.clients6.google.com
 0.0.0.0 peoplestackwebexperiments-pa.clients6.google.com
 0.0.0.0 realtimesupport.clients6.google.com
+0.0.0.0 save-pa.clients6.google.com
 0.0.0.0 scone-pa.clients6.google.com
 0.0.0.0 shoppinglist-pa.clients6.google.com
 0.0.0.0 signaler-pa.clients6.google.com
@@ -820,6 +821,7 @@
 0.0.0.0 xc3.services.livejournal.com
 0.0.0.0 blog.logrocket.com
 0.0.0.0 staging-i.logrocket.com
+0.0.0.0 longingtrees.com
 0.0.0.0 app.cdn.lookbookhq.com
 0.0.0.0 cdn.lr-in-prod.com
 0.0.0.0 cdn.lr-in.com
@@ -1043,6 +1045,7 @@
 0.0.0.0 ptoushoa.com
 0.0.0.0 cdn.pubfuture-ad.com
 0.0.0.0 platform.pubfuture.com
+0.0.0.0 pubimgs.com
 0.0.0.0 ads.pubmatic.com
 0.0.0.0 gads.pubmatic.com
 0.0.0.0 hbopenbid.pubmatic.com
@@ -2340,6 +2343,7 @@
 0.0.0.0 p.cpx.to
 0.0.0.0 smi.today
 0.0.0.0 www.smi.today
+0.0.0.0 metrics.pico.tools
 0.0.0.0 rocketme.top
 0.0.0.0 s.console.adtarget.com.tr
 0.0.0.0 cdn.attn.tv
