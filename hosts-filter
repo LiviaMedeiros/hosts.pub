@@ -1,3 +1,4 @@
+0.0.0.0 z.cdn.ftd.agency
 0.0.0.0 ad-ru-01.p.adserv.ai
 0.0.0.0 ad-ru-03.p.adserv.ai
 0.0.0.0 cdn.afp.ai
@@ -6,6 +7,7 @@
 0.0.0.0 dm.hybrid.ai
 0.0.0.0 dm-eu.hybrid.ai
 0.0.0.0 dsa-ee.hybrid.ai
+0.0.0.0 dsa-eu.hybrid.ai
 0.0.0.0 dssa.hybrid.ai
 0.0.0.0 hbe199.hybrid.ai
 0.0.0.0 ssp.hybrid.ai
@@ -2032,6 +2034,7 @@
 0.0.0.0 p.ura.news
 0.0.0.0 adservice.google.nl
 0.0.0.0 adserver.webads.nl
+0.0.0.0 directadvert.codenet.one
 0.0.0.0 aj2396.online
 0.0.0.0 match.adsrvr.org
 0.0.0.0 rdvs.alljoyn.org
@@ -2106,6 +2109,7 @@
 0.0.0.0 sync3.adsniper.ru
 0.0.0.0 svr.adstreamer.ru
 0.0.0.0 ddnk.advertur.ru
+0.0.0.0 cs.agency2.ru
 0.0.0.0 allstat-pp.ru
 0.0.0.0 cm.p.altergeo.ru
 0.0.0.0 autocontext.begun.ru
@@ -2202,6 +2206,7 @@
 0.0.0.0 tamtam.ok.ru
 0.0.0.0 st.overclockers.ru
 0.0.0.0 xapi.ozon.ru
+0.0.0.0 www.pravda.ru
 0.0.0.0 c.pravo.ru
 0.0.0.0 prodmp.ru
 0.0.0.0 pxksnymto.ru
@@ -2222,6 +2227,7 @@
 0.0.0.0 profile.ssp.rambler.ru
 0.0.0.0 static.rambler.ru
 0.0.0.0 news.store.rambler.ru
+0.0.0.0 sync.rambler.ru
 0.0.0.0 top100.rambler.ru
 0.0.0.0 top100-images.rambler.ru
 0.0.0.0 rcmjs.um.rambler.ru
@@ -2258,6 +2264,7 @@
 0.0.0.0 cdn-rtb.sape.ru
 0.0.0.0 ssp-rtb.sape.ru
 0.0.0.0 ssp-rtb-asrv270.sape.ru
+0.0.0.0 ssp-rtb-asrv325.sape.ru
 0.0.0.0 ssp-rtb-asrv333.sape.ru
 0.0.0.0 ssp-rtb-asrv334.sape.ru
 0.0.0.0 ssp-rtb-asrv341.sape.ru
@@ -2266,7 +2273,9 @@
 0.0.0.0 ssp-rtb-asrv348.sape.ru
 0.0.0.0 ssp-rtb-asrv351.sape.ru
 0.0.0.0 ssp-rtb-asrv353.sape.ru
+0.0.0.0 ssp-rtb-asrv360.sape.ru
 0.0.0.0 ssp-rtb-asrv361.sape.ru
+0.0.0.0 ssp-rtb-asrv364.sape.ru
 0.0.0.0 ssp-rtb-asrv377.sape.ru
 0.0.0.0 ssp-rtb-asrv379.sape.ru
 0.0.0.0 ssp-rtb-asrv381.sape.ru
