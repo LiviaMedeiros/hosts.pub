@@ -1793,6 +1793,7 @@
 0.0.0.0 go.ezoic.net
 0.0.0.0 connect.facebook.net
 0.0.0.0 www.facebook.net
+0.0.0.0 fam-8.net
 0.0.0.0 secure.cdn.fastclick.net
 0.0.0.0 0914.global.ssl.fastly.net
 0.0.0.0 clarium.global.ssl.fastly.net
