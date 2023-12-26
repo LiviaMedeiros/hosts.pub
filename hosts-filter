@@ -1262,7 +1262,10 @@
 0.0.0.0 cdn.thisiswaldo.com
 0.0.0.0 thrtle.com
 0.0.0.0 analytics.tiktok.com
+0.0.0.0 mcs-sg.tiktok.com
+0.0.0.0 mssdk-sg.tiktok.com
 0.0.0.0 log.tiktokv.com
+0.0.0.0 mon.tiktokv.com
 0.0.0.0 stat.tildacdn.com
 0.0.0.0 cdn.tinypass.com
 0.0.0.0 dashboard.tinypass.com
