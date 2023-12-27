@@ -1265,6 +1265,7 @@
 0.0.0.0 mcs-sg.tiktok.com
 0.0.0.0 mssdk-sg.tiktok.com
 0.0.0.0 log.tiktokv.com
+0.0.0.0 mcs-va.tiktokv.com
 0.0.0.0 mon.tiktokv.com
 0.0.0.0 stat.tildacdn.com
 0.0.0.0 cdn.tinypass.com
@@ -1504,6 +1505,7 @@
 0.0.0.0 wcm-ru.frontend.weborama.fr
 0.0.0.0 wf.frontend.weborama.fr
 0.0.0.0 wcm.solution.weborama.fr
+0.0.0.0 bestgore.fun
 0.0.0.0 i.clean.gg
 0.0.0.0 bid.glass
 0.0.0.0 dap.digitalgov.gov
@@ -1666,6 +1668,7 @@
 0.0.0.0 cackle.me
 0.0.0.0 j.cackle.me
 0.0.0.0 csync.loopme.me
+0.0.0.0 snssdk1233.onelink.me
 0.0.0.0 pp.vk.me
 0.0.0.0 static.aio.media
 0.0.0.0 setka.media
