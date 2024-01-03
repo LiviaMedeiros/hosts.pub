@@ -41,6 +41,7 @@
 0.0.0.0 analytics.core.retell.cc
 0.0.0.0 widget.retell.cc
 0.0.0.0 mochajs.matomo.cloud
+0.0.0.0 cdn.optmn.cloud
 0.0.0.0 grs.dbankcloud.cn
 0.0.0.0 b.6sc.co
 0.0.0.0 j.6sc.co
@@ -216,6 +217,7 @@
 0.0.0.0 fpa-api.arstechnica.com
 0.0.0.0 telemetry.art19.com
 0.0.0.0 www.artfut.com
+0.0.0.0 ads.assemblyexchange.com
 0.0.0.0 asteriresearch.com
 0.0.0.0 ad.atdmt.com
 0.0.0.0 track.attributionapp.com
@@ -695,6 +697,7 @@
 0.0.0.0 cdn.id5-sync.com
 0.0.0.0 mpsnare.iesnare.com
 0.0.0.0 fl.imgsniper.com
+0.0.0.0 t.imgur.com
 0.0.0.0 pp.impact.com
 0.0.0.0 a.impactradius-go.com
 0.0.0.0 impossibleexpansion.com
@@ -790,6 +793,7 @@
 0.0.0.0 cdn.ko-fi.com
 0.0.0.0 storage.ko-fi.com
 0.0.0.0 www.ko-fi.com
+0.0.0.0 static.kueezrtb.com
 0.0.0.0 analytics.languagetoolplus.com
 0.0.0.0 events.launchdarkly.com
 0.0.0.0 api.lentainform.com
@@ -820,6 +824,7 @@
 0.0.0.0 ad.linksynergy.com
 0.0.0.0 login.live.com
 0.0.0.0 onedrive.live.com
+0.0.0.0 cid-05a24649e8b790a8.users.storage.live.com
 0.0.0.0 likes.services.livejournal.com
 0.0.0.0 njs.services.livejournal.com
 0.0.0.0 xc3.services.livejournal.com
@@ -862,6 +867,7 @@
 0.0.0.0 panjeh.medium.com
 0.0.0.0 megadeliveryn.com
 0.0.0.0 elsa.memoinsights.com
+0.0.0.0 merequartz.com
 0.0.0.0 stats.merriam-webster.com
 0.0.0.0 a.mgid.com
 0.0.0.0 jsc.mgid.com
@@ -886,6 +892,7 @@
 0.0.0.0 geo.prod.do.dsp.mp.microsoft.com
 0.0.0.0 geover.prod.do.dsp.mp.microsoft.com
 0.0.0.0 tsfe.trafficshaping.dsp.mp.microsoft.com
+0.0.0.0 storeedgefd.dsx.mp.microsoft.com
 0.0.0.0 licensing.mp.microsoft.com
 0.0.0.0 storecatalogrevocation.storequality.microsoft.com
 0.0.0.0 target.microsoft.com
@@ -1136,6 +1143,7 @@
 0.0.0.0 d.la1-c2-ph2.salesforceliveagent.com
 0.0.0.0 dls.di.atlas.samsung.com
 0.0.0.0 ced.sascdn.com
+0.0.0.0 ced-ns.sascdn.com
 0.0.0.0 images.scanalert.com
 0.0.0.0 cdn.scarabresearch.com
 0.0.0.0 b.scorecardresearch.com
@@ -1232,6 +1240,7 @@
 0.0.0.0 dx.steelhousemedia.com
 0.0.0.0 px.steelhousemedia.com
 0.0.0.0 ads.stickyadstv.com
+0.0.0.0 stretchsquirrel.com
 0.0.0.0 assets.strossle.com
 0.0.0.0 succeedscene.com
 0.0.0.0 www.summerhamster.com
@@ -1746,6 +1755,7 @@
 0.0.0.0 d2v02itv0y9u9t.cloudfront.net
 0.0.0.0 d2yyf02s9xqns0.cloudfront.net
 0.0.0.0 d2zah9y47r7bi2.cloudfront.net
+0.0.0.0 d3c8j8snkzfr1n.cloudfront.net
 0.0.0.0 d10lpsik1i8c69.cloudfront.net
 0.0.0.0 d15kdpgjg3unno.cloudfront.net
 0.0.0.0 d24n15hnbwhuhn.cloudfront.net
@@ -1932,6 +1942,7 @@
 0.0.0.0 canada.sc.omtrdc.net
 0.0.0.0 amazonwebservices.d2.sc.omtrdc.net
 0.0.0.0 nvda.d2.sc.omtrdc.net
+0.0.0.0 msftenterprise.sc.omtrdc.net
 0.0.0.0 abcnews.tt.omtrdc.net
 0.0.0.0 adobe.tt.omtrdc.net
 0.0.0.0 aetv.tt.omtrdc.net
