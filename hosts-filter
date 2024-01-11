@@ -1837,6 +1837,7 @@
 0.0.0.0 c.go-mpulse.net
 0.0.0.0 s.go-mpulse.net
 0.0.0.0 cdn.gotraffic.net
+0.0.0.0 cdn.gravitec.net
 0.0.0.0 bbc.gscontxt.net
 0.0.0.0 phar.gu-web.net
 0.0.0.0 js.hs-analytics.net
@@ -2333,6 +2334,7 @@
 0.0.0.0 st.top100.ru
 0.0.0.0 track.tproger.ru
 0.0.0.0 tt.ttarget.ru
+0.0.0.0 hc.uralweb.ru
 0.0.0.0 utarget.ru
 0.0.0.0 utimg.ru
 0.0.0.0 vastroll.ru
