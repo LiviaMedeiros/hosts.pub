@@ -281,6 +281,7 @@
 0.0.0.0 pix.bumlam.com
 0.0.0.0 static.bumlam.com
 0.0.0.0 sync.bumlam.com
+0.0.0.0 uid.bumlam.com
 0.0.0.0 cdn.buymeacoffee.com
 0.0.0.0 cdnjs.buymeacoffee.com
 0.0.0.0 www.buymeacoffee.com
@@ -355,6 +356,7 @@
 0.0.0.0 static.cloud.coveo.com
 0.0.0.0 cozyhillside.com
 0.0.0.0 ssl.cdne.cpmstar.com
+0.0.0.0 server.cpmstar.com
 0.0.0.0 firebase-settings.crashlytics.com
 0.0.0.0 settings.crashlytics.com
 0.0.0.0 script.crazyegg.com
@@ -1288,6 +1290,7 @@
 0.0.0.0 tags.tiqcdn.com
 0.0.0.0 srv.tonemedia.com
 0.0.0.0 cdn.tpdads.com
+0.0.0.0 trackerads.com
 0.0.0.0 trackjs.com
 0.0.0.0 z.cdn.trafficbass.com
 0.0.0.0 syndication.traffichaus.com
@@ -1418,6 +1421,7 @@
 0.0.0.0 www.cdn.viber.com
 0.0.0.0 sourcepoint.vice.com
 0.0.0.0 vidalak.com
+0.0.0.0 static.vidazoo.com
 0.0.0.0 cafemedia-com.videoplayerhub.com
 0.0.0.0 literally-media.videoplayerhub.com
 0.0.0.0 network-n-com.videoplayerhub.com
@@ -1750,6 +1754,8 @@
 0.0.0.0 carbon-cdn.ccgateway.net
 0.0.0.0 script-api.ccgateway.net
 0.0.0.0 tag-api-2-1.ccgateway.net
+0.0.0.0 cchbdata.net
+0.0.0.0 s.ccsyncuuid.net
 0.0.0.0 ping.chartbeat.net
 0.0.0.0 cloudapp.net
 0.0.0.0 d1z2jf7jlzjs58.cloudfront.net
@@ -2085,6 +2091,7 @@
 0.0.0.0 trustarc.mgr.consensu.org
 0.0.0.0 vendorlist.consensu.org
 0.0.0.0 cdn.cookielaw.org
+0.0.0.0 cmp-cdn.cookielaw.org
 0.0.0.0 danbo.org
 0.0.0.0 hakurei.danbo.org
 0.0.0.0 static.danbo.org
