@@ -832,6 +832,7 @@
 0.0.0.0 login.live.com
 0.0.0.0 onedrive.live.com
 0.0.0.0 cid-05a24649e8b790a8.users.storage.live.com
+0.0.0.0 vast.livejasmin.com
 0.0.0.0 likes.services.livejournal.com
 0.0.0.0 njs.services.livejournal.com
 0.0.0.0 xc3.services.livejournal.com
@@ -954,6 +955,7 @@
 0.0.0.0 lijit2waycm.netmng.com
 0.0.0.0 cmp.network-n.com
 0.0.0.0 match.new-programmatic.com
+0.0.0.0 www.newgrounds.com
 0.0.0.0 js-agent.newrelic.com
 0.0.0.0 mobile-collector.newrelic.com
 0.0.0.0 pixel.newscred.com
