@@ -1395,6 +1395,7 @@
 0.0.0.0 sun9-38.userapi.com
 0.0.0.0 sun9-39.userapi.com
 0.0.0.0 sun9-42.userapi.com
+0.0.0.0 sun9-43.userapi.com
 0.0.0.0 sun9-44.userapi.com
 0.0.0.0 sun9-46.userapi.com
 0.0.0.0 sun9-47.userapi.com
@@ -2172,6 +2173,7 @@
 0.0.0.0 mod.calltouch.ru
 0.0.0.0 cc.calltracking.ru
 0.0.0.0 catsnetwork.ru
+0.0.0.0 rumstat.cdnvideo.ru
 0.0.0.0 clck.ru
 0.0.0.0 cleversite.ru
 0.0.0.0 codes.cleversite.ru
@@ -2197,6 +2199,7 @@
 0.0.0.0 st.film.ru
 0.0.0.0 analytics.fontanka.ru
 0.0.0.0 www.fontanka.ru
+0.0.0.0 statistics.fppressa.ru
 0.0.0.0 tracker.giftd.ru
 0.0.0.0 fcgi4.gnezdo.ru
 0.0.0.0 news.gnezdo.ru
