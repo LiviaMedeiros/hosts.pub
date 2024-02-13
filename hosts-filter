@@ -211,6 +211,7 @@
 0.0.0.0 launches.appsflyer.com
 0.0.0.0 t.appsflyer.com
 0.0.0.0 cdn-settings.appsflyersdk.com
+0.0.0.0 conversions.appsflyersdk.com
 0.0.0.0 inapps.appsflyersdk.com
 0.0.0.0 launches.appsflyersdk.com
 0.0.0.0 stat.appsgeyser.com
@@ -476,6 +477,7 @@
 0.0.0.0 media.flixcar.com
 0.0.0.0 media.flixfacts.com
 0.0.0.0 api.flocktory.com
+0.0.0.0 sp.flocktory.com
 0.0.0.0 data.flurry.com
 0.0.0.0 flux-cdn.com
 0.0.0.0 formcrafts.com
@@ -2024,6 +2026,8 @@
 0.0.0.0 c2.popads.net
 0.0.0.0 b.px-cdn.net
 0.0.0.0 cdn.retailrocket.net
+0.0.0.0 gallery.retailrocket.net
+0.0.0.0 rrstatic.retailrocket.net
 0.0.0.0 tracking.retailrocket.net
 0.0.0.0 my.rtmark.net
 0.0.0.0 sc-static.net
