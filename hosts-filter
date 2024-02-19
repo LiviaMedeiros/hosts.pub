@@ -425,6 +425,7 @@
 0.0.0.0 cdn-eu.dynamicyield.com
 0.0.0.0 rcom-eu.dynamicyield.com
 0.0.0.0 st-eu.dynamicyield.com
+0.0.0.0 dynspt.com
 0.0.0.0 src.ebay-us.com
 0.0.0.0 backstory.ebay.com
 0.0.0.0 monitor.ebay.com
@@ -1472,6 +1473,7 @@
 0.0.0.0 services.vlitag.com
 0.0.0.0 hb.vntsm.com
 0.0.0.0 concertads-configs.vox-cdn.com
+0.0.0.0 vpipi.com
 0.0.0.0 ws.vs3.com
 0.0.0.0 api.vungle.com
 0.0.0.0 ads.api.vungle.com
