@@ -469,6 +469,7 @@
 0.0.0.0 www.fastly-insights.com
 0.0.0.0 vip.chps-api.fc2.com
 0.0.0.0 counter1.fc2.com
+0.0.0.0 media.fc2.com
 0.0.0.0 fcwuye.com
 0.0.0.0 findicons.com
 0.0.0.0 detectportal.firefox.com
@@ -1406,6 +1407,7 @@
 0.0.0.0 sun9-31.userapi.com
 0.0.0.0 sun9-33.userapi.com
 0.0.0.0 sun9-34.userapi.com
+0.0.0.0 sun9-36.userapi.com
 0.0.0.0 sun9-38.userapi.com
 0.0.0.0 sun9-39.userapi.com
 0.0.0.0 sun9-42.userapi.com
