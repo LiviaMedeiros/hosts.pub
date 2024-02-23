@@ -265,6 +265,7 @@
 0.0.0.0 cdn-bgp.bluestacks.com
 0.0.0.0 cloud.bluestacks.com
 0.0.0.0 eb.bluestacks.com
+0.0.0.0 im.bluevoox.com
 0.0.0.0 ox.bncounter.com
 0.0.0.0 bodelen.com
 0.0.0.0 vmss.boldchat.com
@@ -876,6 +877,7 @@
 0.0.0.0 g.mashable.com
 0.0.0.0 pixel.mathtag.com
 0.0.0.0 starget.mathworks.com
+0.0.0.0 js.mbidadm.com
 0.0.0.0 s.media-imdb.com
 0.0.0.0 pixel.mediaiqdigital.com
 0.0.0.0 scripts.mediavine.com
@@ -1021,8 +1023,10 @@
 0.0.0.0 imp-bidder-eu-06.b.otm-r.com
 0.0.0.0 imp-bidder-eu-07.b.otm-r.com
 0.0.0.0 imp-bidder-eu-08.b.otm-r.com
+0.0.0.0 imp-bidder-eu-09.b.otm-r.com
 0.0.0.0 imp-bidder-eu-10.b.otm-r.com
 0.0.0.0 imp-bidder-eu-11.b.otm-r.com
+0.0.0.0 imp-bidder-eu-14.b.otm-r.com
 0.0.0.0 imp-bidder-eu-15.b.otm-r.com
 0.0.0.0 rtb-eu.b.otm-r.com
 0.0.0.0 cdn.otm-r.com
@@ -1741,6 +1745,7 @@
 0.0.0.0 ssp.24smi.net
 0.0.0.0 prebid.a-mo.net
 0.0.0.0 acint.net
+0.0.0.0 mc.acint.net
 0.0.0.0 www.acint.net
 0.0.0.0 ad-delivery.net
 0.0.0.0 adx.adform.net
@@ -2033,6 +2038,7 @@
 0.0.0.0 cdn.s.pipedream.net
 0.0.0.0 c1.popads.net
 0.0.0.0 c2.popads.net
+0.0.0.0 pushprofit.net
 0.0.0.0 b.px-cdn.net
 0.0.0.0 cdn.retailrocket.net
 0.0.0.0 gallery.retailrocket.net
@@ -2272,8 +2278,11 @@
 0.0.0.0 code.moviead55.ru
 0.0.0.0 logger.moviead55.ru
 0.0.0.0 mpsuadv.ru
+0.0.0.0 api.a.mts.ru
+0.0.0.0 static.a.mts.ru
 0.0.0.0 dsp.rtb.mts.ru
 0.0.0.0 sm.rtb.mts.ru
+0.0.0.0 tech.rtb.mts.ru
 0.0.0.0 p1.ntvk1.ru
 0.0.0.0 ps.ntvk1.ru
 0.0.0.0 ok.ru
@@ -2342,6 +2351,9 @@
 0.0.0.0 videotarget-sync.rutarget.ru
 0.0.0.0 yandex-dmp-sync.rutarget.ru
 0.0.0.0 yandex-sync.rutarget.ru
+0.0.0.0 log.rutube.ru
+0.0.0.0 952212.log.rutube.ru
+0.0.0.0 yast.rutube.ru
 0.0.0.0 cdn-rtb.sape.ru
 0.0.0.0 ssp-rtb.sape.ru
 0.0.0.0 ssp-rtb-asrv270.sape.ru
@@ -2353,6 +2365,7 @@
 0.0.0.0 ssp-rtb-asrv343.sape.ru
 0.0.0.0 ssp-rtb-asrv344.sape.ru
 0.0.0.0 ssp-rtb-asrv348.sape.ru
+0.0.0.0 ssp-rtb-asrv349.sape.ru
 0.0.0.0 ssp-rtb-asrv351.sape.ru
 0.0.0.0 ssp-rtb-asrv353.sape.ru
 0.0.0.0 ssp-rtb-asrv360.sape.ru
@@ -2433,6 +2446,7 @@
 0.0.0.0 sync.adspend.space
 0.0.0.0 prebid.digitru.st
 0.0.0.0 news-ru.gismeteo.st
+0.0.0.0 rtb-msk.viadata.store
 0.0.0.0 ru.viadata.store
 0.0.0.0 ibclick.stream
 0.0.0.0 lightstep.medium.systems
