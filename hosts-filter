@@ -406,6 +406,7 @@
 0.0.0.0 links.services.disqus.com
 0.0.0.0 tempest.services.disqus.com
 0.0.0.0 widget-view.dmm.com
+0.0.0.0 dmrtx.com
 0.0.0.0 web.hb.ad.cpe.dotomi.com
 0.0.0.0 media.msg.dotomi.com
 0.0.0.0 prebid-match.dotomi.com
@@ -447,6 +448,7 @@
 0.0.0.0 loadeu.exelator.com
 0.0.0.0 loadus.exelator.com
 0.0.0.0 main.exoclick.com
+0.0.0.0 ctl-api.exponea.com
 0.0.0.0 ozon-api.exponea.com
 0.0.0.0 tags.expo9.exponential.com
 0.0.0.0 basher.ezodn.com
@@ -752,6 +754,7 @@
 0.0.0.0 secure-us.imrworldwide.com
 0.0.0.0 uaid-linkage.imrworldwide.com
 0.0.0.0 js-sec.indexww.com
+0.0.0.0 static.indoleads.com
 0.0.0.0 hits.informer.com
 0.0.0.0 sync.inmobi.com
 0.0.0.0 inpagepush.com
@@ -845,6 +848,7 @@
 0.0.0.0 login.live.com
 0.0.0.0 onedrive.live.com
 0.0.0.0 cid-05a24649e8b790a8.users.storage.live.com
+0.0.0.0 ccs.livejasmin.com
 0.0.0.0 vast.livejasmin.com
 0.0.0.0 likes.services.livejournal.com
 0.0.0.0 njs.services.livejournal.com
@@ -2229,6 +2233,7 @@
 0.0.0.0 analytics.fontanka.ru
 0.0.0.0 www.fontanka.ru
 0.0.0.0 statistics.fppressa.ru
+0.0.0.0 gdeslon.ru
 0.0.0.0 tracker.giftd.ru
 0.0.0.0 fcgi4.gnezdo.ru
 0.0.0.0 news.gnezdo.ru
@@ -2387,6 +2392,7 @@
 0.0.0.0 amp.smi2.ru
 0.0.0.0 target.smi2.ru
 0.0.0.0 pix.sniperlog.ru
+0.0.0.0 tags.soloway.ru
 0.0.0.0 lenta.sparrow.ru
 0.0.0.0 widget.sparrow.ru
 0.0.0.0 ssso.ru
