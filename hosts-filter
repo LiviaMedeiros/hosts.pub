@@ -511,6 +511,7 @@
 0.0.0.0 vampirebat.git-tower.com
 0.0.0.0 collector.github.com
 0.0.0.0 collector.githubapp.com
+0.0.0.0 analytics.githubassets.com
 0.0.0.0 collector.prd-278964.gl-product-analytics.com
 0.0.0.0 cdn.glitch.com
 0.0.0.0 sw88.go.com
@@ -543,6 +544,7 @@
 0.0.0.0 mobilesdk-pa.clients6.google.com
 0.0.0.0 moltron-pa.clients6.google.com
 0.0.0.0 monitoring.clients6.google.com
+0.0.0.0 ogads-pa.clients6.google.com
 0.0.0.0 people-pa.clients6.google.com
 0.0.0.0 peoplestack-pa.clients6.google.com
 0.0.0.0 peoplestackwebexperiments-pa.clients6.google.com
@@ -551,6 +553,7 @@
 0.0.0.0 scone-pa.clients6.google.com
 0.0.0.0 shoppinglist-pa.clients6.google.com
 0.0.0.0 signaler-pa.clients6.google.com
+0.0.0.0 subscriptionsfirstparty-pa.clients6.google.com
 0.0.0.0 taskassist-pa.clients6.google.com
 0.0.0.0 tracedepot-pa.clients6.google.com
 0.0.0.0 waa-pa.clients6.google.com
@@ -1263,6 +1266,7 @@
 0.0.0.0 eventlogger.soundcloud.com
 0.0.0.0 cdn.speedcurve.com
 0.0.0.0 lux.speedcurve.com
+0.0.0.0 adtag.sphdigital.com
 0.0.0.0 pixel.spotify.com
 0.0.0.0 pixel-static.spotify.com
 0.0.0.0 event.spotxchange.com
