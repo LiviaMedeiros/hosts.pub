@@ -42,6 +42,8 @@
 0.0.0.0 img2.reactor.cc
 0.0.0.0 analytics.core.retell.cc
 0.0.0.0 widget.retell.cc
+0.0.0.0 tamtam.chat
+0.0.0.0 api.tamtam.chat
 0.0.0.0 mochajs.matomo.cloud
 0.0.0.0 cdn.optmn.cloud
 0.0.0.0 grs.dbankcloud.cn
@@ -969,6 +971,7 @@
 0.0.0.0 cdn.mxpnl.com
 0.0.0.0 tracker-api.my.com
 0.0.0.0 ip4.tracker-api.my.com
+0.0.0.0 ts.tracker-api.my.com
 0.0.0.0 api.narrativ.com
 0.0.0.0 events.release.narrativ.com
 0.0.0.0 static.narrativ.com
@@ -1459,8 +1462,11 @@
 0.0.0.0 venetrigni.com
 0.0.0.0 vitals.vercel-insights.com
 0.0.0.0 seal.verisign.com
+0.0.0.0 abff.viber.com
 0.0.0.0 aloha.viber.com
+0.0.0.0 aloha46.viber.com
 0.0.0.0 abtest.api.viber.com
+0.0.0.0 content.cdn.viber.com
 0.0.0.0 www.cdn.viber.com
 0.0.0.0 sourcepoint.vice.com
 0.0.0.0 vidalak.com
@@ -2302,6 +2308,10 @@
 0.0.0.0 liveut2-kv.ok.ru
 0.0.0.0 liveut2-m100.ok.ru
 0.0.0.0 m.ok.ru
+0.0.0.0 232121.ms.ok.ru
+0.0.0.0 252121.ms.ok.ru
+0.0.0.0 632121.ms.ok.ru
+0.0.0.0 652121.ms.ok.ru
 0.0.0.0 tamtam.ok.ru
 0.0.0.0 sync.opendsp.ru
 0.0.0.0 st.overclockers.ru
