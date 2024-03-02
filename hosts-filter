@@ -68,6 +68,7 @@
 0.0.0.0 ssc-cms.33across.com
 0.0.0.0 euw-ice.360yield.com
 0.0.0.0 match.360yield.com
+0.0.0.0 www.888poker.com
 0.0.0.0 affiliates.a2hosting.com
 0.0.0.0 prod.tahoe-analytics.publishers.advertising.a2z.com
 0.0.0.0 us-east-1.prod.pr.analytics.console.aws.a2z.com
@@ -761,6 +762,7 @@
 0.0.0.0 js-sec.indexww.com
 0.0.0.0 static.indoleads.com
 0.0.0.0 hits.informer.com
+0.0.0.0 cmp.inmobi.com
 0.0.0.0 sync.inmobi.com
 0.0.0.0 inpagepush.com
 0.0.0.0 x.instreamatic.com
@@ -790,6 +792,7 @@
 0.0.0.0 jsecoin.com
 0.0.0.0 c.jsrdn.com
 0.0.0.0 adserver.juicyads.com
+0.0.0.0 media.justey.com
 0.0.0.0 pre.ads.justpremium.com
 0.0.0.0 entitlements.jwplayer.com
 0.0.0.0 ping-meta-prd.jwpltx.com
@@ -1868,6 +1871,7 @@
 0.0.0.0 survey.g.doubleclick.net
 0.0.0.0 static.doubleclick.net
 0.0.0.0 www.doubleclick.net
+0.0.0.0 www3.doubleclick.net
 0.0.0.0 be.durationmedia.net
 0.0.0.0 tag.durationmedia.net
 0.0.0.0 pbjs.e-planning.net
