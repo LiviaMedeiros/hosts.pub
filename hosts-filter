@@ -805,6 +805,7 @@
 0.0.0.0 downloads.kaspersky-labs.com
 0.0.0.0 m-12521.fp.kaspersky-labs.com
 0.0.0.0 ru.fp.kaspersky-labs.com
+0.0.0.0 ksn-a-stat-geo.kaspersky-labs.com
 0.0.0.0 ksn-ca-geo.kaspersky-labs.com
 0.0.0.0 ksn-cinfo-geo.kaspersky-labs.com
 0.0.0.0 ksn-crypto-catm-geo.kaspersky-labs.com
@@ -812,6 +813,7 @@
 0.0.0.0 ksn-file-geo.kaspersky-labs.com
 0.0.0.0 dc1.ksn.kaspersky-labs.com
 0.0.0.0 dc1-file.ksn.kaspersky-labs.com
+0.0.0.0 dc1-st.ksn.kaspersky-labs.com
 0.0.0.0 ds.kaspersky.com
 0.0.0.0 dnl-00.geo.kaspersky.com
 0.0.0.0 dnl-01.geo.kaspersky.com
@@ -2132,6 +2134,9 @@
 0.0.0.0 p.typekit.net
 0.0.0.0 s.uuidksinc.net
 0.0.0.0 webcachespace.net
+0.0.0.0 media-hel3-1.cdn.whatsapp.net
+0.0.0.0 e10.whatsapp.net
+0.0.0.0 e12.whatsapp.net
 0.0.0.0 g.whatsapp.net
 0.0.0.0 g-fallback.whatsapp.net
 0.0.0.0 privatestats.whatsapp.net
