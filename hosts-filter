@@ -206,6 +206,8 @@
 0.0.0.0 reign.appmeasurements.com
 0.0.0.0 stup5.appmeasurements.com
 0.0.0.0 stup7.appmeasurements.com
+0.0.0.0 cdn.appnext.com
+0.0.0.0 ir.appnext.com
 0.0.0.0 attr.appsflyer.com
 0.0.0.0 conversions.appsflyer.com
 0.0.0.0 events.appsflyer.com
@@ -2288,6 +2290,7 @@
 0.0.0.0 js.hotlog.ru
 0.0.0.0 alt-xray.imgsmail.ru
 0.0.0.0 likemore-go.imgsmail.ru
+0.0.0.0 limg.imgsmail.ru
 0.0.0.0 mediator.imgsmail.ru
 0.0.0.0 widget.info-static.ru
 0.0.0.0 static-sl.insales.ru
@@ -2307,6 +2310,7 @@
 0.0.0.0 cdn.connect.mail.ru
 0.0.0.0 games.mail.ru
 0.0.0.0 hi-tech.mail.ru
+0.0.0.0 maps.mail.ru
 0.0.0.0 731111.mediascope.mail.ru
 0.0.0.0 741111.mediascope.mail.ru
 0.0.0.0 751111.mediascope.mail.ru
@@ -2344,6 +2348,7 @@
 0.0.0.0 ok.ru
 0.0.0.0 api.ok.ru
 0.0.0.0 connect.ok.ru
+0.0.0.0 dsm.ok.ru
 0.0.0.0 liveut2-dl.ok.ru
 0.0.0.0 liveut2-kv.ok.ru
 0.0.0.0 liveut2-m100.ok.ru
