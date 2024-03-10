@@ -1418,6 +1418,7 @@
 0.0.0.0 sun1-15.userapi.com
 0.0.0.0 sun1-19.userapi.com
 0.0.0.0 sun1-25.userapi.com
+0.0.0.0 sun1-27.userapi.com
 0.0.0.0 sun1-28.userapi.com
 0.0.0.0 sun1-29.userapi.com
 0.0.0.0 sun1-55.userapi.com
@@ -1443,10 +1444,12 @@
 0.0.0.0 sun9-10.userapi.com
 0.0.0.0 sun9-12.userapi.com
 0.0.0.0 sun9-13.userapi.com
+0.0.0.0 sun9-14.userapi.com
 0.0.0.0 sun9-16.userapi.com
 0.0.0.0 sun9-17.userapi.com
 0.0.0.0 sun9-18.userapi.com
 0.0.0.0 sun9-22.userapi.com
+0.0.0.0 sun9-27.userapi.com
 0.0.0.0 sun9-30.userapi.com
 0.0.0.0 sun9-31.userapi.com
 0.0.0.0 sun9-33.userapi.com
@@ -1495,6 +1498,7 @@
 0.0.0.0 aloha.viber.com
 0.0.0.0 aloha46.viber.com
 0.0.0.0 abtest.api.viber.com
+0.0.0.0 explore.api.viber.com
 0.0.0.0 content.cdn.viber.com
 0.0.0.0 www.cdn.viber.com
 0.0.0.0 sourcepoint.vice.com
@@ -1768,6 +1772,7 @@
 0.0.0.0 ads.adlook.me
 0.0.0.0 cackle.me
 0.0.0.0 j.cackle.me
+0.0.0.0 media2.cackle.me
 0.0.0.0 csync.loopme.me
 0.0.0.0 snssdk1233.onelink.me
 0.0.0.0 pp.vk.me
@@ -2357,6 +2362,8 @@
 0.0.0.0 252121.ms.ok.ru
 0.0.0.0 632121.ms.ok.ru
 0.0.0.0 652121.ms.ok.ru
+0.0.0.0 732121.ms.ok.ru
+0.0.0.0 752121.ms.ok.ru
 0.0.0.0 tamtam.ok.ru
 0.0.0.0 sync.opendsp.ru
 0.0.0.0 st.overclockers.ru
