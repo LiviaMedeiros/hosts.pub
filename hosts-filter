@@ -528,6 +528,7 @@
 0.0.0.0 ads.google.com
 0.0.0.0 adservice.google.com
 0.0.0.0 ampcid.google.com
+0.0.0.0 analytics.google.com
 0.0.0.0 android.apis.google.com
 0.0.0.0 clients6.google.com
 0.0.0.0 addons-pa.clients6.google.com
@@ -2315,6 +2316,7 @@
 0.0.0.0 cdn.connect.mail.ru
 0.0.0.0 games.mail.ru
 0.0.0.0 hi-tech.mail.ru
+0.0.0.0 lady.mail.ru
 0.0.0.0 maps.mail.ru
 0.0.0.0 731111.mediascope.mail.ru
 0.0.0.0 741111.mediascope.mail.ru
