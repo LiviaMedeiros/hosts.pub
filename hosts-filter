@@ -8,7 +8,9 @@
 0.0.0.0 dm-eu.hybrid.ai
 0.0.0.0 dsa-ee.hybrid.ai
 0.0.0.0 dsa-eu.hybrid.ai
+0.0.0.0 dss.hybrid.ai
 0.0.0.0 dssa.hybrid.ai
+0.0.0.0 emd.hybrid.ai
 0.0.0.0 hbe199.hybrid.ai
 0.0.0.0 ssp.hybrid.ai
 0.0.0.0 st.hybrid.ai
@@ -250,6 +252,7 @@
 0.0.0.0 sync.bfmio.com
 0.0.0.0 platform.bidgear.com
 0.0.0.0 ssp.bidvol.com
+0.0.0.0 analytics-cf.bigcrunch.com
 0.0.0.0 api.bignox.com
 0.0.0.0 api-new.bignox.com
 0.0.0.0 launcher-api.bignox.com
