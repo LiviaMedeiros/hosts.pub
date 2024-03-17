@@ -461,6 +461,7 @@
 0.0.0.0 ozon-api.exponea.com
 0.0.0.0 tags.expo9.exponential.com
 0.0.0.0 basher.ezodn.com
+0.0.0.0 g.ezodn.com
 0.0.0.0 go.ezodn.com
 0.0.0.0 videosvc.ezoic.com
 0.0.0.0 www.ezojs.com
@@ -1155,6 +1156,7 @@
 0.0.0.0 a.gdt.qq.com
 0.0.0.0 jqmt.qq.com
 0.0.0.0 zn5grs3028zvpg0rh-redventures.siteintercept.qualtrics.com
+0.0.0.0 znbcxd2jjwrr4bfvq-redhatvoc.siteintercept.qualtrics.com
 0.0.0.0 znexx818wz4mzxpe8-hpsupport.siteintercept.qualtrics.com
 0.0.0.0 cmp.quantcast.com
 0.0.0.0 assets.quantcount.com
@@ -1267,6 +1269,7 @@
 0.0.0.0 match.sharethrough.com
 0.0.0.0 native.sharethrough.com
 0.0.0.0 beacon.shazam.com
+0.0.0.0 shiverscissors.com
 0.0.0.0 v.shopify.com
 0.0.0.0 monorail-edge.shopifysvc.com
 0.0.0.0 shopnetic.com
@@ -1510,6 +1513,7 @@
 0.0.0.0 sourcepoint.vice.com
 0.0.0.0 vidalak.com
 0.0.0.0 static.vidazoo.com
+0.0.0.0 9to5mac-com.videoplayerhub.com
 0.0.0.0 cafemedia-com.videoplayerhub.com
 0.0.0.0 literally-media.videoplayerhub.com
 0.0.0.0 network-n-com.videoplayerhub.com
@@ -1567,6 +1571,7 @@
 0.0.0.0 eligibility.wootric.com
 0.0.0.0 pixel.wp.com
 0.0.0.0 stats.wp.com
+0.0.0.0 wzrkt.com
 0.0.0.0 creative.xlivrdr.com
 0.0.0.0 dc.xoalt.com
 0.0.0.0 static.xvideos.com
@@ -1602,6 +1607,8 @@
 0.0.0.0 cdn.netpoint-media.de
 0.0.0.0 js.smartredirect.de
 0.0.0.0 new-adtest.pages.dev
+0.0.0.0 ads-static.conde.digital
+0.0.0.0 globalservices.conde.digital
 0.0.0.0 secure.gaug.es
 0.0.0.0 track.gaug.es
 0.0.0.0 browser-http-intake.logs.datadoghq.eu
@@ -1629,9 +1636,11 @@
 0.0.0.0 viewyentreat.guru
 0.0.0.0 api-2-0.spot.im
 0.0.0.0 direct-events-collector.spot.im
+0.0.0.0 event-stream.spot.im
 0.0.0.0 events-collector.spot.im
 0.0.0.0 metrics-logger.spot.im
 0.0.0.0 pix.spot.im
+0.0.0.0 publisher-assets.spot.im
 0.0.0.0 recirculation.spot.im
 0.0.0.0 seo.spot.im
 0.0.0.0 app.adjust.net.in
