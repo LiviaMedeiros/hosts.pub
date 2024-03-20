@@ -1024,6 +1024,7 @@
 0.0.0.0 hb.nexage.com
 0.0.0.0 jp.livelog.nexon.com
 0.0.0.0 s.nitropay.com
+0.0.0.0 nitroscripts.com
 0.0.0.0 seal.websecurity.norton.com
 0.0.0.0 www.npttech.com
 0.0.0.0 www.nutaku.com
@@ -1509,6 +1510,7 @@
 0.0.0.0 abtest.api.viber.com
 0.0.0.0 explore.api.viber.com
 0.0.0.0 content.cdn.viber.com
+0.0.0.0 mixpanel.cdn.viber.com
 0.0.0.0 www.cdn.viber.com
 0.0.0.0 sourcepoint.vice.com
 0.0.0.0 vidalak.com
@@ -2515,6 +2517,7 @@
 0.0.0.0 startup-mobile.ap.yandex-net.ru
 0.0.0.0 matchid.adfox.yandex.ru
 0.0.0.0 adfstat.yandex.ru
+0.0.0.0 adsdk.yandex.ru
 0.0.0.0 amc.yandex.ru
 0.0.0.0 an.yandex.ru
 0.0.0.0 clck.yandex.ru
