@@ -209,6 +209,7 @@
 0.0.0.0 stup5.appmeasurements.com
 0.0.0.0 stup7.appmeasurements.com
 0.0.0.0 cdn.appnext.com
+0.0.0.0 global.appnext.com
 0.0.0.0 ir.appnext.com
 0.0.0.0 attr.appsflyer.com
 0.0.0.0 conversions.appsflyer.com
@@ -2380,6 +2381,7 @@
 0.0.0.0 232121.ms.ok.ru
 0.0.0.0 252121.ms.ok.ru
 0.0.0.0 632121.ms.ok.ru
+0.0.0.0 642121.ms.ok.ru
 0.0.0.0 652121.ms.ok.ru
 0.0.0.0 732121.ms.ok.ru
 0.0.0.0 752121.ms.ok.ru
