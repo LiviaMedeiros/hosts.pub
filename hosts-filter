@@ -199,9 +199,12 @@
 0.0.0.0 postback.applinzi.com
 0.0.0.0 d.applovin.com
 0.0.0.0 ms.applovin.com
+0.0.0.0 ms4.applovin.com
+0.0.0.0 prod-mediate-events.applovin.com
 0.0.0.0 rt.applovin.com
 0.0.0.0 d.applvn.com
 0.0.0.0 ms.applvn.com
+0.0.0.0 ms4.applvn.com
 0.0.0.0 rt.applvn.com
 0.0.0.0 attitude.appmeasurements.com
 0.0.0.0 health.appmeasurements.com
@@ -772,9 +775,13 @@
 0.0.0.0 static.indoleads.com
 0.0.0.0 hits.informer.com
 0.0.0.0 cmp.inmobi.com
+0.0.0.0 config.inmobi.com
+0.0.0.0 telemetry.sdk.inmobi.com
+0.0.0.0 unif-id.ssp.inmobi.com
 0.0.0.0 sync.inmobi.com
 0.0.0.0 inpagepush.com
 0.0.0.0 x.instreamatic.com
+0.0.0.0 www91.intel.com
 0.0.0.0 intelaxa.com
 0.0.0.0 www.intensedebate.com
 0.0.0.0 js.intentiq.com
@@ -784,6 +791,7 @@
 0.0.0.0 sync.ipredictive.com
 0.0.0.0 i.isnssdk.com
 0.0.0.0 mon.isnssdk.com
+0.0.0.0 tnc16-alisg.isnssdk.com
 0.0.0.0 api.iterable.com
 0.0.0.0 cdn.iubenda.com
 0.0.0.0 hits-i.iubenda.com
@@ -1003,6 +1011,7 @@
 0.0.0.0 srtb.msn.com
 0.0.0.0 ocsp.msocsp.com
 0.0.0.0 mtrcss.com
+0.0.0.0 muteknife.com
 0.0.0.0 evt.mxplay.com
 0.0.0.0 cdn.mxpnl.com
 0.0.0.0 tracker-api.my.com
@@ -1259,6 +1268,7 @@
 0.0.0.0 cmp.setupcmp.com
 0.0.0.0 tracking.sexcash.com
 0.0.0.0 www.sffsdvc.com
+0.0.0.0 pangolin16.sgsnssdk.com
 0.0.0.0 analytics.shareaholic.com
 0.0.0.0 go.shareaholic.com
 0.0.0.0 partner.shareaholic.com
@@ -1286,6 +1296,7 @@
 0.0.0.0 bidder.skcrtxr.com
 0.0.0.0 cdn.skcrtxr.com
 0.0.0.0 hb-bidder.skcrtxr.com
+0.0.0.0 rap.skcrtxr.com
 0.0.0.0 p.skimresources.com
 0.0.0.0 r.skimresources.com
 0.0.0.0 s.skimresources.com
@@ -1415,6 +1426,7 @@
 0.0.0.0 operate-sdk-telemetry.unity3d.com
 0.0.0.0 auction.unityads.unity3d.com
 0.0.0.0 config.unityads.unity3d.com
+0.0.0.0 configv2.unityads.unity3d.com
 0.0.0.0 usermatch.targeting.unrulymedia.com
 0.0.0.0 sync.upravel.com
 0.0.0.0 w.uptolike.com
@@ -1694,6 +1706,8 @@
 0.0.0.0 c.oracleinfinity.io
 0.0.0.0 dc.oracleinfinity.io
 0.0.0.0 cdn.p-n.io
+0.0.0.0 api16-access-gcp.pangle.io
+0.0.0.0 ssdk-sg.pangle.io
 0.0.0.0 cdn.piano.io
 0.0.0.0 experience-ap.piano.io
 0.0.0.0 sdk.postscript.io
@@ -2350,6 +2364,7 @@
 0.0.0.0 top-fwz1.mail.ru
 0.0.0.0 da.ce.b5.a0.top.mail.ru
 0.0.0.0 da.cb.b3.a1.top.mail.ru
+0.0.0.0 trk.mail.ru
 0.0.0.0 tv.mail.ru
 0.0.0.0 quiz.marquiz.ru
 0.0.0.0 content.rbc.medialand.ru
