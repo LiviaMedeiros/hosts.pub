@@ -1454,6 +1454,7 @@
 0.0.0.0 sun1-90.userapi.com
 0.0.0.0 sun1-91.userapi.com
 0.0.0.0 sun1-93.userapi.com
+0.0.0.0 sun1-95.userapi.com
 0.0.0.0 sun1-98.userapi.com
 0.0.0.0 sun6-20.userapi.com
 0.0.0.0 sun6-21.userapi.com
@@ -1577,6 +1578,7 @@
 0.0.0.0 rest.wildstar-online.com
 0.0.0.0 maps.windows.com
 0.0.0.0 client.wns.windows.com
+0.0.0.0 image.winudf.com
 0.0.0.0 journey.wired.com
 0.0.0.0 sstats.wired.com
 0.0.0.0 distillery.wistia.com
@@ -2143,6 +2145,7 @@
 0.0.0.0 static7.smi2.net
 0.0.0.0 static8.smi2.net
 0.0.0.0 target.smi2.net
+0.0.0.0 sochi-news.net
 0.0.0.0 mms.sp-prod.net
 0.0.0.0 zdstatic.speedtest.net
 0.0.0.0 pixel.staticworld.net
