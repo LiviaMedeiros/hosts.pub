@@ -727,6 +727,7 @@
 0.0.0.0 vars.hotjar.com
 0.0.0.0 log-upload-os.hoyoverse.com
 0.0.0.0 js.hs-banner.com
+0.0.0.0 js-eu1.hs-banner.com
 0.0.0.0 js.hs-scripts.com
 0.0.0.0 js-na1.hs-scripts.com
 0.0.0.0 htlbid.com
@@ -1975,6 +1976,7 @@
 0.0.0.0 js.hs-analytics.net
 0.0.0.0 js.hsadspixel.net
 0.0.0.0 js.hscollectedforms.net
+0.0.0.0 js-eu1.hscollectedforms.net
 0.0.0.0 js.hscta.net
 0.0.0.0 www.installads.net
 0.0.0.0 www.jqueryscript.net
