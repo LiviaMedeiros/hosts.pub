@@ -149,6 +149,8 @@
 0.0.0.0 fid.agkn.com
 0.0.0.0 js.agkn.com
 0.0.0.0 analytics.ahrefs.com
+0.0.0.0 cdn.al-adtech.com
+0.0.0.0 ssp.al-adtech.com
 0.0.0.0 certify.alexametrics.com
 0.0.0.0 certify-amp.alexametrics.com
 0.0.0.0 certify-js.alexametrics.com
@@ -1813,6 +1815,7 @@
 0.0.0.0 snssdk1233.onelink.me
 0.0.0.0 pp.vk.me
 0.0.0.0 static.aio.media
+0.0.0.0 cpm.appocean.media
 0.0.0.0 setka.media
 0.0.0.0 stat.media
 0.0.0.0 bid.underdog.media
