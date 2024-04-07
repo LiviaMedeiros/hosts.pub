@@ -72,6 +72,7 @@
 0.0.0.0 match.360yield.com
 0.0.0.0 www.888poker.com
 0.0.0.0 affiliates.a2hosting.com
+0.0.0.0 prod.cm.publishers.advertising.a2z.com
 0.0.0.0 prod.tahoe-analytics.publishers.advertising.a2z.com
 0.0.0.0 us-east-1.prod.pr.analytics.console.aws.a2z.com
 0.0.0.0 c.aaxads.com
@@ -391,6 +392,7 @@
 0.0.0.0 gum.criteo.com
 0.0.0.0 rtax.criteo.com
 0.0.0.0 sslwidget.criteo.com
+0.0.0.0 ssp-sync.criteo.com
 0.0.0.0 cm.ctnsnet.com
 0.0.0.0 cutechin.com
 0.0.0.0 www.datadoghq-browser-agent.com
@@ -445,6 +447,7 @@
 0.0.0.0 dynspt.com
 0.0.0.0 src.ebay-us.com
 0.0.0.0 backstory.ebay.com
+0.0.0.0 epnt.ebay.com
 0.0.0.0 monitor.ebay.com
 0.0.0.0 srx.main.ebayrtm.com
 0.0.0.0 secureir.ebaystatic.com
@@ -988,6 +991,7 @@
 0.0.0.0 740-lkm-263.mktoresp.com
 0.0.0.0 ml314.com
 0.0.0.0 vi.ml314.com
+0.0.0.0 gm.mmstat.com
 0.0.0.0 log.mmstat.com
 0.0.0.0 ru.mmstat.com
 0.0.0.0 mb.moatads.com
@@ -1235,6 +1239,7 @@
 0.0.0.0 signal-beacon.s-onetag.com
 0.0.0.0 signal-metrics-collector-beta.s-onetag.com
 0.0.0.0 signal-segments.s-onetag.com
+0.0.0.0 edge.safedk.com
 0.0.0.0 ak.sail-horizon.com
 0.0.0.0 api.sail-personalize.com
 0.0.0.0 d.la1-c2-ph2.salesforceliveagent.com
@@ -1427,10 +1432,16 @@
 0.0.0.0 perf-events.cloud.unity3d.com
 0.0.0.0 config.uca.cloud.unity3d.com
 0.0.0.0 ecommerce.iap.unity3d.com
+0.0.0.0 events.mz.unity3d.com
 0.0.0.0 operate-sdk-telemetry.unity3d.com
 0.0.0.0 auction.unityads.unity3d.com
+0.0.0.0 auction-load.unityads.unity3d.com
 0.0.0.0 config.unityads.unity3d.com
 0.0.0.0 configv2.unityads.unity3d.com
+0.0.0.0 httpkafka.unityads.unity3d.com
+0.0.0.0 publisher-event.unityads.unity3d.com
+0.0.0.0 scar.unityads.unity3d.com
+0.0.0.0 thind.unityads.unity3d.com
 0.0.0.0 usermatch.targeting.unrulymedia.com
 0.0.0.0 sync.upravel.com
 0.0.0.0 w.uptolike.com
@@ -1528,6 +1539,7 @@
 0.0.0.0 abtest.api.viber.com
 0.0.0.0 explore.api.viber.com
 0.0.0.0 content.cdn.viber.com
+0.0.0.0 media.cdn.viber.com
 0.0.0.0 mixpanel.cdn.viber.com
 0.0.0.0 www.cdn.viber.com
 0.0.0.0 sourcepoint.vice.com
@@ -1558,6 +1570,8 @@
 0.0.0.0 concertads-configs.vox-cdn.com
 0.0.0.0 vpipi.com
 0.0.0.0 ws.vs3.com
+0.0.0.0 config.ads.vungle.com
+0.0.0.0 events.ads.vungle.com
 0.0.0.0 api.vungle.com
 0.0.0.0 ads.api.vungle.com
 0.0.0.0 cdn.vuukle.com
@@ -1600,6 +1614,7 @@
 0.0.0.0 ups.analytics.yahoo.com
 0.0.0.0 nz.finance.yahoo.com
 0.0.0.0 uk.news.yahoo.com
+0.0.0.0 pipes.yahoo.com
 0.0.0.0 c2shb.pubgw.yahoo.com
 0.0.0.0 analytics.query.yahoo.com
 0.0.0.0 c2shb.ssp.yahoo.com
@@ -1680,6 +1695,7 @@
 0.0.0.0 match.prod.bidr.io
 0.0.0.0 api2.branch.io
 0.0.0.0 cdn.branch.io
+0.0.0.0 api.bytebrew.io
 0.0.0.0 app.codefund.io
 0.0.0.0 cdn.concert.io
 0.0.0.0 rum.cronitor.io
@@ -1819,6 +1835,8 @@
 0.0.0.0 setka.media
 0.0.0.0 stat.media
 0.0.0.0 bid.underdog.media
+0.0.0.0 cdn2.inner-active.mobi
+0.0.0.0 sdk-events.inner-active.mobi
 0.0.0.0 codepush.appcenter.ms
 0.0.0.0 in.appcenter.ms
 0.0.0.0 www.clarity.ms
@@ -2128,6 +2146,8 @@
 0.0.0.0 cdn.s.pipedream.net
 0.0.0.0 c1.popads.net
 0.0.0.0 c2.popads.net
+0.0.0.0 potsaglu.net
+0.0.0.0 api.pubnative.net
 0.0.0.0 pushprofit.net
 0.0.0.0 b.px-cdn.net
 0.0.0.0 cdn.retailrocket.net
@@ -2429,6 +2449,7 @@
 0.0.0.0 kraken.rambler.ru
 0.0.0.0 news.rambler.ru
 0.0.0.0 prime.rambler.ru
+0.0.0.0 quiz.rambler.ru
 0.0.0.0 rcmjs.rambler.ru
 0.0.0.0 ssp.rambler.ru
 0.0.0.0 profile.ssp.rambler.ru
