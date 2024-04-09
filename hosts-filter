@@ -1542,6 +1542,7 @@
 0.0.0.0 media.cdn.viber.com
 0.0.0.0 mixpanel.cdn.viber.com
 0.0.0.0 www.cdn.viber.com
+0.0.0.0 data-event-proxy.viber.com
 0.0.0.0 sourcepoint.vice.com
 0.0.0.0 vidalak.com
 0.0.0.0 static.vidazoo.com
@@ -2428,6 +2429,7 @@
 0.0.0.0 642121.ms.ok.ru
 0.0.0.0 652121.ms.ok.ru
 0.0.0.0 732121.ms.ok.ru
+0.0.0.0 742121.ms.ok.ru
 0.0.0.0 752121.ms.ok.ru
 0.0.0.0 tamtam.ok.ru
 0.0.0.0 sync.opendsp.ru
