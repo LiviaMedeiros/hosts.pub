@@ -1759,6 +1759,7 @@
 0.0.0.0 experience-ap.piano.io
 0.0.0.0 sdk.postscript.io
 0.0.0.0 mweb-hb.presage.io
+0.0.0.0 pad-v3.presage.io
 0.0.0.0 abcheck.proper.io
 0.0.0.0 bids.proper.io
 0.0.0.0 eb.proper.io
@@ -2401,6 +2402,7 @@
 0.0.0.0 alt-aj-https.mail.ru
 0.0.0.0 alt-mpandroid-filin.mail.ru
 0.0.0.0 alt-push-me.mail.ru
+0.0.0.0 clientapi.mail.ru
 0.0.0.0 cloud.mail.ru
 0.0.0.0 connect.mail.ru
 0.0.0.0 cdn.connect.mail.ru
