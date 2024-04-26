@@ -1161,6 +1161,7 @@
 0.0.0.0 api.pozvonim.com
 0.0.0.0 log.prezi.com
 0.0.0.0 shopify.privy.com
+0.0.0.0 segment-cdn.producthunt.com
 0.0.0.0 public.profitwell.com
 0.0.0.0 proftrafficcounter.com
 0.0.0.0 rtb.programattik.com
@@ -2030,6 +2031,7 @@
 0.0.0.0 js-eu1.hscollectedforms.net
 0.0.0.0 js.hscta.net
 0.0.0.0 www.installads.net
+0.0.0.0 irkutsk-news.net
 0.0.0.0 www.jqueryscript.net
 0.0.0.0 crbcdn.jsfiddle.net
 0.0.0.0 beacon.krxd.net
