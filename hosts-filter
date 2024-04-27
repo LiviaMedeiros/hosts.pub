@@ -460,6 +460,7 @@
 0.0.0.0 monitor.ebay.com
 0.0.0.0 srx.main.ebayrtm.com
 0.0.0.0 secureir.ebaystatic.com
+0.0.0.0 applets.ebxcdn.com
 0.0.0.0 s413370795.t.eloqua.com
 0.0.0.0 s815114181.t.eloqua.com
 0.0.0.0 s1259914507.t.eloqua.com
@@ -1203,6 +1204,7 @@
 0.0.0.0 pixel.quantserve.com
 0.0.0.0 secure.quantserve.com
 0.0.0.0 cdn.quantummetric.com
+0.0.0.0 quillkick.com
 0.0.0.0 q.quora.com
 0.0.0.0 d7d3cf2e81d293050033-3dfc0615b0fd7b49143049256703bfce.ssl.cf1.rackcdn.com
 0.0.0.0 s-bid.rmp.rakuten.com
