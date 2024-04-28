@@ -23,6 +23,7 @@
 0.0.0.0 tag.wknd.ai
 0.0.0.0 tru.am
 0.0.0.0 discord.app
+0.0.0.0 cdn.permutive.app
 0.0.0.0 0f73e92f-4074-4fe3-85d3-ed3fc969859e.edge.permutive.app
 0.0.0.0 00917082-71e9-498e-8343-00c3df06b798.edge.permutive.app
 0.0.0.0 dash.sparkloop.app
@@ -30,6 +31,7 @@
 0.0.0.0 grs.dbankcloud.asia
 0.0.0.0 as.ad4m.at
 0.0.0.0 gc.zgo.at
+0.0.0.0 rumcdn.geoedge.be
 0.0.0.0 match.ohmy.bid
 0.0.0.0 sp.ohmy.bid
 0.0.0.0 checkfilter.biz
@@ -1046,6 +1048,8 @@
 0.0.0.0 lijit2waycm.netmng.com
 0.0.0.0 cmp.network-n.com
 0.0.0.0 match.new-programmatic.com
+0.0.0.0 pf.newegg.com
+0.0.0.0 imk.neweggimages.com
 0.0.0.0 cella34.newgrounds.com
 0.0.0.0 www.newgrounds.com
 0.0.0.0 js-agent.newrelic.com
@@ -1286,6 +1290,7 @@
 0.0.0.0 widget.sellwild.com
 0.0.0.0 sonar.semantiqo.com
 0.0.0.0 cdn.sendpulse.com
+0.0.0.0 cdn.sentinelp.com
 0.0.0.0 browser.sentry-cdn.com
 0.0.0.0 ads.servebom.com
 0.0.0.0 ads2.servebom.com
@@ -1373,6 +1378,7 @@
 0.0.0.0 ads.stickyadstv.com
 0.0.0.0 stretchsquirrel.com
 0.0.0.0 assets.strossle.com
+0.0.0.0 cdn.subscribers.com
 0.0.0.0 succeedscene.com
 0.0.0.0 www.summerhamster.com
 0.0.0.0 sumo.com
@@ -2466,6 +2472,8 @@
 0.0.0.0 732121.ms.ok.ru
 0.0.0.0 742121.ms.ok.ru
 0.0.0.0 752121.ms.ok.ru
+0.0.0.0 842121.ms.ok.ru
+0.0.0.0 852121.ms.ok.ru
 0.0.0.0 tamtam.ok.ru
 0.0.0.0 sync.opendsp.ru
 0.0.0.0 st.overclockers.ru
