@@ -1793,6 +1793,7 @@
 0.0.0.0 o64374.ingest.sentry.io
 0.0.0.0 o278969.ingest.sentry.io
 0.0.0.0 o287829.ingest.sentry.io
+0.0.0.0 o418887.ingest.sentry.io
 0.0.0.0 o1069899.ingest.sentry.io
 0.0.0.0 seoab.io
 0.0.0.0 simpleanalytics.io
@@ -1998,6 +1999,7 @@
 0.0.0.0 stats.g.doubleclick.net
 0.0.0.0 survey.g.doubleclick.net
 0.0.0.0 static.doubleclick.net
+0.0.0.0 td.doubleclick.net
 0.0.0.0 www.doubleclick.net
 0.0.0.0 www3.doubleclick.net
 0.0.0.0 be.durationmedia.net
