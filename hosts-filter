@@ -2,6 +2,7 @@
 0.0.0.0 ad-ru-01.p.adserv.ai
 0.0.0.0 ad-ru-03.p.adserv.ai
 0.0.0.0 cdn.afp.ai
+0.0.0.0 creatives.afp.ai
 0.0.0.0 ssp.afp.ai
 0.0.0.0 content.hybrid.ai
 0.0.0.0 dm.hybrid.ai
@@ -1460,10 +1461,12 @@
 0.0.0.0 collect.analytics.unity3d.com
 0.0.0.0 cdp.cloud.unity3d.com
 0.0.0.0 perf-events.cloud.unity3d.com
+0.0.0.0 api.uca.cloud.unity3d.com
 0.0.0.0 config.uca.cloud.unity3d.com
 0.0.0.0 ecommerce.iap.unity3d.com
 0.0.0.0 events.mz.unity3d.com
 0.0.0.0 operate-sdk-telemetry.unity3d.com
+0.0.0.0 stats.unity3d.com
 0.0.0.0 auction.unityads.unity3d.com
 0.0.0.0 auction-load.unityads.unity3d.com
 0.0.0.0 config.unityads.unity3d.com
@@ -1764,6 +1767,7 @@
 0.0.0.0 dc.oracleinfinity.io
 0.0.0.0 cdn.p-n.io
 0.0.0.0 api16-access-gcp.pangle.io
+0.0.0.0 api16-access-sg.pangle.io
 0.0.0.0 ssdk-sg.pangle.io
 0.0.0.0 cdn.piano.io
 0.0.0.0 experience-ap.piano.io
