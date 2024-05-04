@@ -346,6 +346,7 @@
 0.0.0.0 cdnral.com
 0.0.0.0 h.cedatoplayer.com
 0.0.0.0 radar.cedexis.com
+0.0.0.0 e.channelexco.com
 0.0.0.0 static.chartbeat.com
 0.0.0.0 w.chatlio.com
 0.0.0.0 chimpstatic.com
@@ -453,6 +454,7 @@
 0.0.0.0 targeting.api.drift.com
 0.0.0.0 js.driftt.com
 0.0.0.0 improving.duckduckgo.com
+0.0.0.0 www.dwin1.com
 0.0.0.0 cdn-eu.dynamicyield.com
 0.0.0.0 rcom-eu.dynamicyield.com
 0.0.0.0 st-eu.dynamicyield.com
@@ -833,6 +835,7 @@
 0.0.0.0 pre.ads.justpremium.com
 0.0.0.0 entitlements.jwplayer.com
 0.0.0.0 ping-meta-prd.jwpltx.com
+0.0.0.0 placement-prd.jwpltx.com
 0.0.0.0 prd.jwpltx.com
 0.0.0.0 assets-jpcust.jwpsrv.com
 0.0.0.0 udc-neb.kampyle.com
@@ -1729,6 +1732,7 @@
 0.0.0.0 script.4dex.io
 0.0.0.0 cdn.adapex.io
 0.0.0.0 x01.aidata.io
+0.0.0.0 insights.algolia.io
 0.0.0.0 px.arcspire.io
 0.0.0.0 widget.beop.io
 0.0.0.0 match.prod.bidr.io
