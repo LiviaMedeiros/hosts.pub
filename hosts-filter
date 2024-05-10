@@ -391,6 +391,7 @@
 0.0.0.0 f.convertkit.com
 0.0.0.0 forms.convertkit.com
 0.0.0.0 consentcdn.cookiebot.com
+0.0.0.0 policy.app.cookieinformation.com
 0.0.0.0 cookie-cdn.cookiepro.com
 0.0.0.0 static.cloud.coveo.com
 0.0.0.0 cozyhillside.com
@@ -1815,6 +1816,7 @@
 0.0.0.0 auth.split.io
 0.0.0.0 sdk.split.io
 0.0.0.0 ad.vidverto.io
+0.0.0.0 static.whatshelp.io
 0.0.0.0 hb.yellowblue.io
 0.0.0.0 adserver.html.it
 0.0.0.0 affiliazioniads.snai.it
@@ -2437,6 +2439,7 @@
 0.0.0.0 cdn.connect.mail.ru
 0.0.0.0 games.mail.ru
 0.0.0.0 hi-tech.mail.ru
+0.0.0.0 internet.mail.ru
 0.0.0.0 lady.mail.ru
 0.0.0.0 maps.mail.ru
 0.0.0.0 731111.mediascope.mail.ru
