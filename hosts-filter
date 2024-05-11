@@ -2448,6 +2448,7 @@
 0.0.0.0 mediator.mail.ru
 0.0.0.0 otvet.mail.ru
 0.0.0.0 portal.mail.ru
+0.0.0.0 privacy-cs.mail.ru
 0.0.0.0 static.pulse.mail.ru
 0.0.0.0 r.mail.ru
 0.0.0.0 relap.mail.ru
@@ -2586,6 +2587,9 @@
 0.0.0.0 ssp-rtb-asrv381.sape.ru
 0.0.0.0 ssp-rtb-asrv386.sape.ru
 0.0.0.0 pfm-stat.online.sberbank.ru
+0.0.0.0 svi.online.sberbank.ru
+0.0.0.0 visor.sberbank.ru
+0.0.0.0 dmp.sbermarketing.ru
 0.0.0.0 248006.selcdn.ru
 0.0.0.0 289310.selcdn.ru
 0.0.0.0 image.sendsay.ru
@@ -2626,6 +2630,7 @@
 0.0.0.0 stats2.videonow.ru
 0.0.0.0 dmp.vihub.ru
 0.0.0.0 vkontakte.ru
+0.0.0.0 1l-hit.vkplay.ru
 0.0.0.0 com.adv.vz.ru
 0.0.0.0 mitdmp.whiteboxdigital.ru
 0.0.0.0 tms.dmp.wi-fi.ru
