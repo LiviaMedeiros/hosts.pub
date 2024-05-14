@@ -50,6 +50,7 @@
 0.0.0.0 widget.retell.cc
 0.0.0.0 tamtam.chat
 0.0.0.0 api.tamtam.chat
+0.0.0.0 cdn.matomo.cloud
 0.0.0.0 mochajs.matomo.cloud
 0.0.0.0 cdn.optmn.cloud
 0.0.0.0 grs.dbankcloud.cn
@@ -165,6 +166,7 @@
 0.0.0.0 pbs.alfasense.com
 0.0.0.0 dmtracking2.alibaba.com
 0.0.0.0 s.click.aliexpress.com
+0.0.0.0 alipromo.com
 0.0.0.0 aliradar.com
 0.0.0.0 allvideometrika.com
 0.0.0.0 aloofvest.com
@@ -1533,6 +1535,7 @@
 0.0.0.0 sun9-17.userapi.com
 0.0.0.0 sun9-18.userapi.com
 0.0.0.0 sun9-22.userapi.com
+0.0.0.0 sun9-26.userapi.com
 0.0.0.0 sun9-27.userapi.com
 0.0.0.0 sun9-30.userapi.com
 0.0.0.0 sun9-31.userapi.com
@@ -1666,6 +1669,7 @@
 0.0.0.0 analytics.query.yahoo.com
 0.0.0.0 c2shb.ssp.yahoo.com
 0.0.0.0 pr-bh.ybp.yahoo.com
+0.0.0.0 mc.yandex.com
 0.0.0.0 bi.yeshen.com
 0.0.0.0 launcherus.yeshen.com
 0.0.0.0 x.yieldlift.com
@@ -2473,6 +2477,7 @@
 0.0.0.0 code.moviead55.ru
 0.0.0.0 logger.moviead55.ru
 0.0.0.0 mpsuadv.ru
+0.0.0.0 statika.mpsuadv.ru
 0.0.0.0 api.a.mts.ru
 0.0.0.0 static.a.mts.ru
 0.0.0.0 dsp.rtb.mts.ru
