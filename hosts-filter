@@ -1500,11 +1500,13 @@
 0.0.0.0 sun1-14.userapi.com
 0.0.0.0 sun1-15.userapi.com
 0.0.0.0 sun1-19.userapi.com
+0.0.0.0 sun1-23.userapi.com
 0.0.0.0 sun1-25.userapi.com
 0.0.0.0 sun1-27.userapi.com
 0.0.0.0 sun1-28.userapi.com
 0.0.0.0 sun1-29.userapi.com
 0.0.0.0 sun1-30.userapi.com
+0.0.0.0 sun1-47.userapi.com
 0.0.0.0 sun1-55.userapi.com
 0.0.0.0 sun1-56.userapi.com
 0.0.0.0 sun1-85.userapi.com
@@ -2466,6 +2468,7 @@
 0.0.0.0 trk.mail.ru
 0.0.0.0 tv.mail.ru
 0.0.0.0 quiz.marquiz.ru
+0.0.0.0 script.marquiz.ru
 0.0.0.0 content.rbc.medialand.ru
 0.0.0.0 news.mediametrics.ru
 0.0.0.0 mediatoday.ru
