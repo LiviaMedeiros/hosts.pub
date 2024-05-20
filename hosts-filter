@@ -608,6 +608,7 @@
 0.0.0.0 partner.googleadservices.com
 0.0.0.0 www.googleadservices.com
 0.0.0.0 businesscalls.googleapis.com
+0.0.0.0 calendarsync-pa.googleapis.com
 0.0.0.0 chromefeedcontentsuggestions-pa.googleapis.com
 0.0.0.0 chromesyncpasswords-pa.googleapis.com
 0.0.0.0 contactsui-pa.googleapis.com
@@ -1561,6 +1562,7 @@
 0.0.0.0 sun9-55.userapi.com
 0.0.0.0 sun9-56.userapi.com
 0.0.0.0 sun9-57.userapi.com
+0.0.0.0 sun9-58.userapi.com
 0.0.0.0 sun9-59.userapi.com
 0.0.0.0 sun9-60.userapi.com
 0.0.0.0 sun9-61.userapi.com
@@ -2476,6 +2478,7 @@
 0.0.0.0 quiz.marquiz.ru
 0.0.0.0 script.marquiz.ru
 0.0.0.0 content.rbc.medialand.ru
+0.0.0.0 mediametrics.ru
 0.0.0.0 news.mediametrics.ru
 0.0.0.0 mediatoday.ru
 0.0.0.0 stat-analytics.mediavitrina.ru
