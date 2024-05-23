@@ -249,6 +249,7 @@
 0.0.0.0 telemetry.art19.com
 0.0.0.0 www.artfut.com
 0.0.0.0 ads.assemblyexchange.com
+0.0.0.0 js.assemblyexchange.com
 0.0.0.0 asteriresearch.com
 0.0.0.0 ad.atdmt.com
 0.0.0.0 track.attributionapp.com
@@ -1027,6 +1028,7 @@
 0.0.0.0 ads.mopub.com
 0.0.0.0 i.moshimo.com
 0.0.0.0 cdn.mouseflow.com
+0.0.0.0 movesickly.com
 0.0.0.0 classify-client.services.mozilla.com
 0.0.0.0 contile.services.mozilla.com
 0.0.0.0 location.services.mozilla.com
@@ -1586,6 +1588,7 @@
 0.0.0.0 dalb.valuecommerce.com
 0.0.0.0 dalc.valuecommerce.com
 0.0.0.0 venetrigni.com
+0.0.0.0 vengeful-egg.com
 0.0.0.0 vitals.vercel-insights.com
 0.0.0.0 seal.verisign.com
 0.0.0.0 abff.viber.com
@@ -1633,6 +1636,7 @@
 0.0.0.0 ads.api.vungle.com
 0.0.0.0 cdn.vuukle.com
 0.0.0.0 cdn.walkme.com
+0.0.0.0 warlockstallioniso.com
 0.0.0.0 adz.wattpad.com
 0.0.0.0 ssl.widgets.webengage.com
 0.0.0.0 ssl.o.webmd.com
@@ -1809,6 +1813,7 @@
 0.0.0.0 nc.pubpowerplatform.io
 0.0.0.0 fdyn.pubwise.io
 0.0.0.0 api.purpleads.io
+0.0.0.0 cdn.purpleads.io
 0.0.0.0 rapidzebra.io
 0.0.0.0 api.raygun.io
 0.0.0.0 at.adtech.redventures.io
@@ -1942,6 +1947,7 @@
 0.0.0.0 ds-aksb-a.akamaihd.net
 0.0.0.0 statics-marketingsites-eus-ms-com.akamaized.net
 0.0.0.0 cdn.alfasense.net
+0.0.0.0 www.anrdoezrs.net
 0.0.0.0 r.apkpure.net
 0.0.0.0 report.apkpure.net
 0.0.0.0 csharpcorner.azureedge.net
@@ -2688,6 +2694,7 @@
 0.0.0.0 rtb-msk.viadata.store
 0.0.0.0 ru.viadata.store
 0.0.0.0 ibclick.stream
+0.0.0.0 live.demand.supply
 0.0.0.0 lightstep.medium.systems
 0.0.0.0 live.primis.tech
 0.0.0.0 p.cpx.to
