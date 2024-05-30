@@ -355,6 +355,7 @@
 0.0.0.0 radar.cedexis.com
 0.0.0.0 e.channelexco.com
 0.0.0.0 static.chartbeat.com
+0.0.0.0 live.chartboost.com
 0.0.0.0 w.chatlio.com
 0.0.0.0 chimpstatic.com
 0.0.0.0 web-cache.chocomaru.com
@@ -2580,6 +2581,7 @@
 0.0.0.0 qvol-s-sync.rutarget.ru
 0.0.0.0 sape-sync.rutarget.ru
 0.0.0.0 solta-sync.rutarget.ru
+0.0.0.0 tag.rutarget.ru
 0.0.0.0 umg-sync.rutarget.ru
 0.0.0.0 videonow-sync.rutarget.ru
 0.0.0.0 videotarget-sync.rutarget.ru
