@@ -1601,7 +1601,9 @@
 0.0.0.0 media.cdn.viber.com
 0.0.0.0 mixpanel.cdn.viber.com
 0.0.0.0 www.cdn.viber.com
+0.0.0.0 core.viber.com
 0.0.0.0 data-event-proxy.viber.com
+0.0.0.0 fast.viber.com
 0.0.0.0 sourcepoint.vice.com
 0.0.0.0 vidalak.com
 0.0.0.0 static.vidazoo.com
