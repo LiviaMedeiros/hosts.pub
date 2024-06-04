@@ -2503,6 +2503,7 @@
 0.0.0.0 mpsuadv.ru
 0.0.0.0 statika.mpsuadv.ru
 0.0.0.0 api.a.mts.ru
+0.0.0.0 cm.a.mts.ru
 0.0.0.0 static.a.mts.ru
 0.0.0.0 dsp.rtb.mts.ru
 0.0.0.0 sm.rtb.mts.ru
@@ -2597,6 +2598,7 @@
 0.0.0.0 ssp-rtb.sape.ru
 0.0.0.0 ssp-rtb-asrv270.sape.ru
 0.0.0.0 ssp-rtb-asrv320.sape.ru
+0.0.0.0 ssp-rtb-asrv322.sape.ru
 0.0.0.0 ssp-rtb-asrv325.sape.ru
 0.0.0.0 ssp-rtb-asrv328.sape.ru
 0.0.0.0 ssp-rtb-asrv333.sape.ru
@@ -2616,6 +2618,7 @@
 0.0.0.0 ssp-rtb-asrv362.sape.ru
 0.0.0.0 ssp-rtb-asrv363.sape.ru
 0.0.0.0 ssp-rtb-asrv364.sape.ru
+0.0.0.0 ssp-rtb-asrv368.sape.ru
 0.0.0.0 ssp-rtb-asrv377.sape.ru
 0.0.0.0 ssp-rtb-asrv379.sape.ru
 0.0.0.0 ssp-rtb-asrv380.sape.ru
