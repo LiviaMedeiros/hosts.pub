@@ -1090,6 +1090,7 @@
 0.0.0.0 consent.cmp.oath.com
 0.0.0.0 service.cmp.oath.com
 0.0.0.0 offerimage.com
+0.0.0.0 log.olark.com
 0.0.0.0 static.olark.com
 0.0.0.0 a.omappapi.com
 0.0.0.0 hb-api.omnitagjs.com
@@ -2001,6 +2002,7 @@
 0.0.0.0 asia-northeast1-affiliate-pr.cloudfunctions.net
 0.0.0.0 asia-northeast1-holochats.cloudfunctions.net
 0.0.0.0 us-central1-amp-error-reporting.cloudfunctions.net
+0.0.0.0 us-central1-onlywish-9d17b.cloudfunctions.net
 0.0.0.0 us-central1-pwa2apk.cloudfunctions.net
 0.0.0.0 us-central1-spwn-balus.cloudfunctions.net
 0.0.0.0 us-central1-vsm-bigdata.cloudfunctions.net
