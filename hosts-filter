@@ -580,6 +580,7 @@
 0.0.0.0 cloudresourcemanager.clients6.google.com
 0.0.0.0 cloudusersettings-pa.clients6.google.com
 0.0.0.0 developerprofiles-pa.clients6.google.com
+0.0.0.0 drivefrontend-pa.clients6.google.com
 0.0.0.0 espresso-pa.clients6.google.com
 0.0.0.0 feedback-pa.clients6.google.com
 0.0.0.0 firealerts-pa.clients6.google.com
@@ -599,6 +600,7 @@
 0.0.0.0 shoppinglist-pa.clients6.google.com
 0.0.0.0 signaler-pa.clients6.google.com
 0.0.0.0 subscriptionsfirstparty-pa.clients6.google.com
+0.0.0.0 takeout-pa-qw.clients6.google.com
 0.0.0.0 taskassist-pa.clients6.google.com
 0.0.0.0 tracedepot-pa.clients6.google.com
 0.0.0.0 waa-pa.clients6.google.com
@@ -1526,6 +1528,7 @@
 0.0.0.0 sun1-91.userapi.com
 0.0.0.0 sun1-93.userapi.com
 0.0.0.0 sun1-95.userapi.com
+0.0.0.0 sun1-96.userapi.com
 0.0.0.0 sun1-98.userapi.com
 0.0.0.0 sun6-20.userapi.com
 0.0.0.0 sun6-21.userapi.com
