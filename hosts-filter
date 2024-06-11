@@ -538,6 +538,7 @@
 0.0.0.0 spoor-api.ft.com
 0.0.0.0 p2.fwpixel.com
 0.0.0.0 tracking.g2crowd.com
+0.0.0.0 api.gameanalytics.com
 0.0.0.0 geoip-js.com
 0.0.0.0 app.getbeamer.com
 0.0.0.0 in.getclicky.com
@@ -1607,6 +1608,7 @@
 0.0.0.0 content.cdn.viber.com
 0.0.0.0 media.cdn.viber.com
 0.0.0.0 mixpanel.cdn.viber.com
+0.0.0.0 vp.cdn.viber.com
 0.0.0.0 www.cdn.viber.com
 0.0.0.0 core.viber.com
 0.0.0.0 data-event-proxy.viber.com
