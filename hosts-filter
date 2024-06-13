@@ -1044,6 +1044,7 @@
 0.0.0.0 updates.push.services.mozilla.com
 0.0.0.0 firefox.settings.services.mozilla.com
 0.0.0.0 shavar.services.mozilla.com
+0.0.0.0 stubdownloader.services.mozilla.com
 0.0.0.0 stun.services.mozilla.com
 0.0.0.0 identity.mparticle.com
 0.0.0.0 ad.mrtnsvr.com
@@ -2357,6 +2358,7 @@
 0.0.0.0 cdnads.geeksforgeeks.org
 0.0.0.0 2azzarita.hopto.org
 0.0.0.0 tagdelivery.mayoclinic.org
+0.0.0.0 download-stats.mozilla.org
 0.0.0.0 incoming.telemetry.mozilla.org
 0.0.0.0 2.android.pool.ntp.org
 0.0.0.0 a.pixiv.org
