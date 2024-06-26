@@ -277,6 +277,7 @@
 0.0.0.0 platform.bidgear.com
 0.0.0.0 ssp.bidvol.com
 0.0.0.0 analytics-cf.bigcrunch.com
+0.0.0.0 dev-analytics-cf.bigcrunch.com
 0.0.0.0 api.bignox.com
 0.0.0.0 api-new.bignox.com
 0.0.0.0 launcher-api.bignox.com
@@ -458,9 +459,11 @@
 0.0.0.0 tps.doubleverify.com
 0.0.0.0 tps10232.doubleverify.com
 0.0.0.0 www.dressupwho.com
+0.0.0.0 1095759-9.chat.api.drift.com
 0.0.0.0 conversation.api.drift.com
 0.0.0.0 customer.api.drift.com
 0.0.0.0 event.api.drift.com
+0.0.0.0 log.api.drift.com
 0.0.0.0 messaging.api.drift.com
 0.0.0.0 presence.api.drift.com
 0.0.0.0 targeting.api.drift.com
@@ -1433,6 +1436,7 @@
 0.0.0.0 tag.tapad.com
 0.0.0.0 script.tapfiliate.com
 0.0.0.0 tat3ayogh6.com
+0.0.0.0 fp.techinasia.com
 0.0.0.0 ad-cdn.technoratimedia.com
 0.0.0.0 consent.techtarget.com
 0.0.0.0 trk.techtarget.com
@@ -1697,6 +1701,7 @@
 0.0.0.0 sp.analytics.yahoo.com
 0.0.0.0 ups.analytics.yahoo.com
 0.0.0.0 nz.finance.yahoo.com
+0.0.0.0 sg.news.yahoo.com
 0.0.0.0 uk.news.yahoo.com
 0.0.0.0 pipes.yahoo.com
 0.0.0.0 c2shb.pubgw.yahoo.com
