@@ -431,6 +431,7 @@
 0.0.0.0 sm.dell.com
 0.0.0.0 api.demandbase.com
 0.0.0.0 autocomplete.demandbase.com
+0.0.0.0 tag.demandbase.com
 0.0.0.0 denetsuk.com
 0.0.0.0 c.deployads.com
 0.0.0.0 tags-cdn.deployads.com
@@ -1378,6 +1379,7 @@
 0.0.0.0 ssbsync.smartadserver.com
 0.0.0.0 ssbsync-global.smartadserver.com
 0.0.0.0 tagmanager.smartadserver.com
+0.0.0.0 www9.smartadserver.com
 0.0.0.0 intg.snapchat.com
 0.0.0.0 sneakwind.com
 0.0.0.0 cdn.snigelweb.com
