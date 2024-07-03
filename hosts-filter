@@ -1795,6 +1795,7 @@
 0.0.0.0 app.codefund.io
 0.0.0.0 cdn.concert.io
 0.0.0.0 rum.cronitor.io
+0.0.0.0 pubsrv.devhints.io
 0.0.0.0 cdn.districtm.io
 0.0.0.0 dmx.districtm.io
 0.0.0.0 media.ethicalads.io
