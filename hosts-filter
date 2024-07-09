@@ -770,6 +770,7 @@
 0.0.0.0 static.hotjar.com
 0.0.0.0 vars.hotjar.com
 0.0.0.0 log-upload-os.hoyoverse.com
+0.0.0.0 sg-public-data-api.hoyoverse.com
 0.0.0.0 js.hs-banner.com
 0.0.0.0 js-eu1.hs-banner.com
 0.0.0.0 js.hs-scripts.com
