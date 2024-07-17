@@ -2319,6 +2319,7 @@
 0.0.0.0 s.uuidksinc.net
 0.0.0.0 webcachespace.net
 0.0.0.0 media-arn2-1.cdn.whatsapp.net
+0.0.0.0 media-fra3-1.cdn.whatsapp.net
 0.0.0.0 media-hel3-1.cdn.whatsapp.net
 0.0.0.0 e8.whatsapp.net
 0.0.0.0 e10.whatsapp.net
@@ -2434,6 +2435,7 @@
 0.0.0.0 cdn.callibri.ru
 0.0.0.0 mod.calltouch.ru
 0.0.0.0 cc.calltracking.ru
+0.0.0.0 events.cardsmobile.ru
 0.0.0.0 catsnetwork.ru
 0.0.0.0 rumstat.cdnvideo.ru
 0.0.0.0 clck.ru
@@ -2760,6 +2762,7 @@
 0.0.0.0 thesame.tv
 0.0.0.0 cdn.vidible.tv
 0.0.0.0 cdn.viqeo.tv
+0.0.0.0 metrics.viqeo.tv
 0.0.0.0 stats.viqeo.tv
 0.0.0.0 www.taiwannews.com.tw
 0.0.0.0 adservice.google.com.ua
