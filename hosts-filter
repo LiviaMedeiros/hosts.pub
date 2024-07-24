@@ -4,6 +4,7 @@
 0.0.0.0 cdn.afp.ai
 0.0.0.0 creatives.afp.ai
 0.0.0.0 ssp.afp.ai
+0.0.0.0 events.character.ai
 0.0.0.0 content.hybrid.ai
 0.0.0.0 dm.hybrid.ai
 0.0.0.0 dm-eu.hybrid.ai
@@ -756,6 +757,7 @@
 0.0.0.0 beacons5.gvt3.com
 0.0.0.0 h5r2dzdwqk.com
 0.0.0.0 tags.h12-media.com
+0.0.0.0 stats.habr.com
 0.0.0.0 hdbcome.com
 0.0.0.0 heapanalytics.com
 0.0.0.0 cdn.heapanalytics.com
