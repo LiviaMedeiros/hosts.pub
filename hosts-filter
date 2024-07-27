@@ -1377,6 +1377,7 @@
 0.0.0.0 cdn.skcrtxr.com
 0.0.0.0 hb-bidder.skcrtxr.com
 0.0.0.0 rap.skcrtxr.com
+0.0.0.0 rpc.skcrtxr.com
 0.0.0.0 p.skimresources.com
 0.0.0.0 r.skimresources.com
 0.0.0.0 s.skimresources.com
@@ -2680,6 +2681,7 @@
 0.0.0.0 st-01.showjet.ru
 0.0.0.0 smi2.ru
 0.0.0.0 amp.smi2.ru
+0.0.0.0 exad.smi2.ru
 0.0.0.0 target.smi2.ru
 0.0.0.0 pix.sniperlog.ru
 0.0.0.0 tags.soloway.ru
