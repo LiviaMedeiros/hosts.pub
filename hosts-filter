@@ -1976,10 +1976,13 @@
 0.0.0.0 cdn.adhigh.net
 0.0.0.0 f1-ru.adhigh.net
 0.0.0.0 f2-ru.adhigh.net
+0.0.0.0 f8-ru.adhigh.net
 0.0.0.0 f10-ru.adhigh.net
 0.0.0.0 f12-ru.adhigh.net
 0.0.0.0 f13-ru.adhigh.net
 0.0.0.0 f14-ru.adhigh.net
+0.0.0.0 f18-ru.adhigh.net
+0.0.0.0 f19-ru.adhigh.net
 0.0.0.0 f21-ru.adhigh.net
 0.0.0.0 pretarg.adhigh.net
 0.0.0.0 pubserver-cdn.adhigh.net
@@ -2658,7 +2661,9 @@
 0.0.0.0 ssp-rtb-asrv349.sape.ru
 0.0.0.0 ssp-rtb-asrv350.sape.ru
 0.0.0.0 ssp-rtb-asrv351.sape.ru
+0.0.0.0 ssp-rtb-asrv352.sape.ru
 0.0.0.0 ssp-rtb-asrv353.sape.ru
+0.0.0.0 ssp-rtb-asrv358.sape.ru
 0.0.0.0 ssp-rtb-asrv360.sape.ru
 0.0.0.0 ssp-rtb-asrv361.sape.ru
 0.0.0.0 ssp-rtb-asrv362.sape.ru
