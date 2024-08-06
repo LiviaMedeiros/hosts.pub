@@ -334,6 +334,7 @@
 0.0.0.0 www.buymeacoffee.com
 0.0.0.0 s3.buysellads.com
 0.0.0.0 srv.buysellads.com
+0.0.0.0 stats.buysellads.com
 0.0.0.0 exchange.buzzoola.com
 0.0.0.0 tube.buzzoola.com
 0.0.0.0 p9-bcy.byteimg.com
@@ -1262,6 +1263,7 @@
 0.0.0.0 main.realsrv.com
 0.0.0.0 xml.realtime-bid.com
 0.0.0.0 alb.reddit.com
+0.0.0.0 error-tracking.reddit.com
 0.0.0.0 events.reddit.com
 0.0.0.0 w3-reporting.reddit.com
 0.0.0.0 w3-reporting-nel.reddit.com
@@ -1363,6 +1365,7 @@
 0.0.0.0 match.sharethrough.com
 0.0.0.0 native.sharethrough.com
 0.0.0.0 beacon.shazam.com
+0.0.0.0 sheisnotateacher.com
 0.0.0.0 shiverscissors.com
 0.0.0.0 v.shopify.com
 0.0.0.0 monorail-edge.shopifysvc.com
@@ -1765,6 +1768,7 @@
 0.0.0.0 bestgore.fun
 0.0.0.0 i.clean.gg
 0.0.0.0 bid.glass
+0.0.0.0 syndicatedsearch.goog
 0.0.0.0 dap.digitalgov.gov
 0.0.0.0 axiabanners.exodus.gr
 0.0.0.0 interactive.forthnet.gr
@@ -2282,6 +2286,7 @@
 0.0.0.0 api.pubnative.net
 0.0.0.0 pushprofit.net
 0.0.0.0 b.px-cdn.net
+0.0.0.0 www.qksrv.net
 0.0.0.0 cdn.retailrocket.net
 0.0.0.0 gallery.retailrocket.net
 0.0.0.0 rrstatic.retailrocket.net
@@ -2396,6 +2401,7 @@
 0.0.0.0 uhm26jyr11zv.www.freecodecamp.org
 0.0.0.0 cdnads.geeksforgeeks.org
 0.0.0.0 2azzarita.hopto.org
+0.0.0.0 matomo.manjaro.org
 0.0.0.0 tagdelivery.mayoclinic.org
 0.0.0.0 download-stats.mozilla.org
 0.0.0.0 incoming.telemetry.mozilla.org
