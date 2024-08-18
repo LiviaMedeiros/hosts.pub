@@ -466,6 +466,7 @@
 0.0.0.0 tps10232.doubleverify.com
 0.0.0.0 www.dressupwho.com
 0.0.0.0 1095759-9.chat.api.drift.com
+0.0.0.0 5051476-26.chat.api.drift.com
 0.0.0.0 conversation.api.drift.com
 0.0.0.0 customer.api.drift.com
 0.0.0.0 event.api.drift.com
@@ -543,6 +544,7 @@
 0.0.0.0 data.flurry.com
 0.0.0.0 flux-cdn.com
 0.0.0.0 d286094d55cd57464323520bd0003771.clo.footprintdns.com
+0.0.0.0 tring.clo.footprintdns.com
 0.0.0.0 formcrafts.com
 0.0.0.0 bc8ecf8af7334417aee0dcd35d760ed6-c9af2a63c0c1.cdn.forter.com
 0.0.0.0 cdn3.forter.com
@@ -2159,8 +2161,12 @@
 0.0.0.0 c-ring.msedge.net
 0.0.0.0 evoke-windowsservices-tas.msedge.net
 0.0.0.0 fp.msedge.net
+0.0.0.0 l-ring.msedge.net
 0.0.0.0 mcr-ring.msedge.net
+0.0.0.0 o-ring.msedge.net
 0.0.0.0 spo-ring.msedge.net
+0.0.0.0 t-ring-s.msedge.net
+0.0.0.0 teams-ring.msedge.net
 0.0.0.0 visualstudio-devdiv-c2s.msedge.net
 0.0.0.0 wac-ring.msedge.net
 0.0.0.0 js1.nend.net
@@ -2632,6 +2638,7 @@
 0.0.0.0 recommender.um.rambler.ru
 0.0.0.0 vp.rambler.ru
 0.0.0.0 weekend.rambler.ru
+0.0.0.0 woman.rambler.ru
 0.0.0.0 zoomdecorate.rambler.ru
 0.0.0.0 abc.rareru.ru
 0.0.0.0 r.rbc.ru
