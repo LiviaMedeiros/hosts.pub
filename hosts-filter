@@ -738,6 +738,7 @@
 0.0.0.0 pty4nh57fskfibh7y4z5btor6noh4e2s-c2r.metric.gstatic.com
 0.0.0.0 rrtui5f6tpiu7ugumdxrdoqieczlqi3o-c2r.metric.gstatic.com
 0.0.0.0 s-v6exp1-ds.metric.gstatic.com
+0.0.0.0 s-v6exp1-v4.metric.gstatic.com
 0.0.0.0 ssm3ohyroj56f2pvyr4spe2vnszlqafj-c2r.metric.gstatic.com
 0.0.0.0 sw5xqu2quojlmoc6r26i3zhxnkzlqloo-c2r.metric.gstatic.com
 0.0.0.0 tmpn3tolbw4br67xb4ftu3nndups7klt-c2r.metric.gstatic.com
@@ -2522,7 +2523,9 @@
 0.0.0.0 mediator.imgsmail.ru
 0.0.0.0 otvet.imgsmail.ru
 0.0.0.0 widget.info-static.ru
+0.0.0.0 kladr.insales.ru
 0.0.0.0 messengers.insales.ru
+0.0.0.0 static-ru.insales.ru
 0.0.0.0 static-sl.insales.ru
 0.0.0.0 analytics.ircity.ru
 0.0.0.0 stats.klops.ru
@@ -2702,7 +2705,9 @@
 0.0.0.0 ssp-rtb-asrv379.sape.ru
 0.0.0.0 ssp-rtb-asrv380.sape.ru
 0.0.0.0 ssp-rtb-asrv381.sape.ru
+0.0.0.0 ssp-rtb-asrv382.sape.ru
 0.0.0.0 ssp-rtb-asrv386.sape.ru
+0.0.0.0 ssp-rtb-asrv399.sape.ru
 0.0.0.0 ssp-rtb-asrv402.sape.ru
 0.0.0.0 pfm-stat.online.sberbank.ru
 0.0.0.0 svi.online.sberbank.ru
