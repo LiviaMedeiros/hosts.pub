@@ -2365,6 +2365,7 @@
 0.0.0.0 e8.whatsapp.net
 0.0.0.0 e10.whatsapp.net
 0.0.0.0 e12.whatsapp.net
+0.0.0.0 media.fplx1-1.fna.whatsapp.net
 0.0.0.0 g.whatsapp.net
 0.0.0.0 g-fallback.whatsapp.net
 0.0.0.0 privatestats.whatsapp.net
@@ -2777,6 +2778,7 @@
 0.0.0.0 push.yandex.ru
 0.0.0.0 strm.yandex.ru
 0.0.0.0 log.strm.yandex.ru
+0.0.0.0 app.uaas.yandex.ru
 0.0.0.0 web-metrica.yandex.ru
 0.0.0.0 zen.yandex.ru
 0.0.0.0 go.zdos.ru
