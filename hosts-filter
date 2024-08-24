@@ -1390,6 +1390,7 @@
 0.0.0.0 bidder.skcrtxr.com
 0.0.0.0 cdn.skcrtxr.com
 0.0.0.0 hb-bidder.skcrtxr.com
+0.0.0.0 openrtb.skcrtxr.com
 0.0.0.0 rap.skcrtxr.com
 0.0.0.0 rpc.skcrtxr.com
 0.0.0.0 p.skimresources.com
@@ -2431,6 +2432,7 @@
 0.0.0.0 a.pixiv.org
 0.0.0.0 currency.prebid.org
 0.0.0.0 sdk.privacy-center.org
+0.0.0.0 rutrk.org
 0.0.0.0 sofia.trustx.org
 0.0.0.0 mc.webvisor.org
 0.0.0.0 intake-analytics.wikimedia.org
@@ -2475,6 +2477,8 @@
 0.0.0.0 allstat-pp.ru
 0.0.0.0 cm.p.altergeo.ru
 0.0.0.0 autocontext.begun.ru
+0.0.0.0 betsonsport.ru
+0.0.0.0 www.betsonsport.ru
 0.0.0.0 cdn.bitrix24.ru
 0.0.0.0 bs-dante.ru
 0.0.0.0 adviser.bs-dante.ru
@@ -2659,6 +2663,7 @@
 0.0.0.0 a.ria.ru
 0.0.0.0 warning.rt.ru
 0.0.0.0 adfox-hb-bidder.rutarget.ru
+0.0.0.0 adspector-sync.rutarget.ru
 0.0.0.0 aidata-sync.rutarget.ru
 0.0.0.0 bidvol-sync.rutarget.ru
 0.0.0.0 cdn.rutarget.ru
