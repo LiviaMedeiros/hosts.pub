@@ -426,6 +426,8 @@
 0.0.0.0 ssp-sync.criteo.com
 0.0.0.0 cm.ctnsnet.com
 0.0.0.0 cutechin.com
+0.0.0.0 api.cxense.com
+0.0.0.0 scdn.cxense.com
 0.0.0.0 www.datadoghq-browser-agent.com
 0.0.0.0 browser-http-intake.logs.datadoghq.com
 0.0.0.0 rum-http-intake.logs.datadoghq.com
@@ -2299,6 +2301,7 @@
 0.0.0.0 wikia-d.openx.net
 0.0.0.0 yieldlove-d.openx.net
 0.0.0.0 ziffdavis-d.openx.net
+0.0.0.0 groovy-manul.pikapod.net
 0.0.0.0 rum-static.pingdom.net
 0.0.0.0 api.s.pipedream.net
 0.0.0.0 cdn.s.pipedream.net
@@ -2333,6 +2336,7 @@
 0.0.0.0 mms.sp-prod.net
 0.0.0.0 zdstatic.speedtest.net
 0.0.0.0 pixel.staticworld.net
+0.0.0.0 statsigapi.net
 0.0.0.0 skslm.swiftkey.net
 0.0.0.0 lga.thench.net
 0.0.0.0 lgb.thench.net
@@ -2802,6 +2806,7 @@
 0.0.0.0 ru.viadata.store
 0.0.0.0 ibclick.stream
 0.0.0.0 live.demand.supply
+0.0.0.0 kaminari.systems
 0.0.0.0 lightstep.medium.systems
 0.0.0.0 live.primis.tech
 0.0.0.0 p.cpx.to
