@@ -1811,6 +1811,7 @@
 0.0.0.0 mp.4dex.io
 0.0.0.0 script.4dex.io
 0.0.0.0 cdn.adapex.io
+0.0.0.0 track.adspire.io
 0.0.0.0 x01.aidata.io
 0.0.0.0 insights.algolia.io
 0.0.0.0 px.arcspire.io
@@ -2382,6 +2383,7 @@
 0.0.0.0 rosenberg.appmetrica.yandex.net
 0.0.0.0 browser-updater.yandex.net
 0.0.0.0 api.browser.yandex.net
+0.0.0.0 sync.browser.yandex.net
 0.0.0.0 startup.mobile.yandex.net
 0.0.0.0 abt.s3.yandex.net
 0.0.0.0 mobile.yandexadexchange.net
@@ -2480,6 +2482,7 @@
 0.0.0.0 cs.agency2.ru
 0.0.0.0 allstat-pp.ru
 0.0.0.0 cm.p.altergeo.ru
+0.0.0.0 cs.avito.ru
 0.0.0.0 autocontext.begun.ru
 0.0.0.0 betsonsport.ru
 0.0.0.0 www.betsonsport.ru
@@ -2666,6 +2669,7 @@
 0.0.0.0 cdn.retailrocket.ru
 0.0.0.0 a.ria.ru
 0.0.0.0 warning.rt.ru
+0.0.0.0 stats.rustore.ru
 0.0.0.0 adfox-hb-bidder.rutarget.ru
 0.0.0.0 adspector-sync.rutarget.ru
 0.0.0.0 aidata-sync.rutarget.ru
