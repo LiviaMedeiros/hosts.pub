@@ -120,6 +120,7 @@
 0.0.0.0 prebid.adnxs.com
 0.0.0.0 secure.adnxs.com
 0.0.0.0 entitlement.auth.adobe.com
+0.0.0.0 www.adobe.com
 0.0.0.0 cdn.adpushup.com
 0.0.0.0 e3.adpushup.com
 0.0.0.0 delivery.adrecover.com
@@ -199,6 +200,7 @@
 0.0.0.0 api2.amplitude.com
 0.0.0.0 cdn.amplitude.com
 0.0.0.0 api.lab.amplitude.com
+0.0.0.0 acr.amplreq.com
 0.0.0.0 lreprx-server.anyclip.com
 0.0.0.0 pixel.anyclip.com
 0.0.0.0 play.anyclip.com
