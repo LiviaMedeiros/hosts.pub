@@ -853,6 +853,7 @@
 0.0.0.0 app.intergient.com
 0.0.0.0 cdn.intergient.com
 0.0.0.0 sync.ipredictive.com
+0.0.0.0 api.ipstack.com
 0.0.0.0 i.isnssdk.com
 0.0.0.0 mon.isnssdk.com
 0.0.0.0 tnc16-alisg.isnssdk.com
@@ -1185,6 +1186,7 @@
 0.0.0.0 log.outbrainimg.com
 0.0.0.0 eas.outlook.com
 0.0.0.0 cdn.panelbear.com
+0.0.0.0 pi.pardot.com
 0.0.0.0 cdn.parsely.com
 0.0.0.0 images.parsely.com
 0.0.0.0 srv.pixel.parsely.com
