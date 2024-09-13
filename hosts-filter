@@ -247,6 +247,7 @@
 0.0.0.0 t.appsflyer.com
 0.0.0.0 cdn-settings.appsflyersdk.com
 0.0.0.0 conversions.appsflyersdk.com
+0.0.0.0 dlsdk.appsflyersdk.com
 0.0.0.0 inapps.appsflyersdk.com
 0.0.0.0 launches.appsflyersdk.com
 0.0.0.0 stat.appsgeyser.com
@@ -1634,6 +1635,7 @@
 0.0.0.0 sun9-66.userapi.com
 0.0.0.0 sun9-67.userapi.com
 0.0.0.0 sun9-69.userapi.com
+0.0.0.0 sun9-71.userapi.com
 0.0.0.0 sun9-73.userapi.com
 0.0.0.0 sun9-75.userapi.com
 0.0.0.0 sun9-77.userapi.com
