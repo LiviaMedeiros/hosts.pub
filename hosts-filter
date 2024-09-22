@@ -1276,6 +1276,8 @@
 0.0.0.0 s-bid.rmp.rakuten.com
 0.0.0.0 affiliate-api.raptive.com
 0.0.0.0 www.rbth.com
+0.0.0.0 go.rcvlink.com
+0.0.0.0 go.rcvlinks.com
 0.0.0.0 app.readpeak.com
 0.0.0.0 a.realsrv.com
 0.0.0.0 main.realsrv.com
@@ -2459,6 +2461,7 @@
 0.0.0.0 gamd.hit.gemius.pl
 0.0.0.0 garu.hit.gemius.pl
 0.0.0.0 gaua.hit.gemius.pl
+0.0.0.0 ls.hit.gemius.pl
 0.0.0.0 something.00ed983688.kacwyb.pl
 0.0.0.0 www.00ed983688.kacwyb.pl
 0.0.0.0 advmanager.techfun.pl
@@ -2852,6 +2855,7 @@
 0.0.0.0 adservice.google.com.ua
 0.0.0.0 c.hit.ua
 0.0.0.0 r.i.ua
+0.0.0.0 stats.rbc.ua
 0.0.0.0 a1.api.bbc.co.uk
 0.0.0.0 mybbc-analytics.files.bbci.co.uk
 0.0.0.0 api.nextgen.guardianapps.co.uk
