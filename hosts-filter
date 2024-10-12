@@ -1902,6 +1902,7 @@
 0.0.0.0 api.segment.io
 0.0.0.0 cdn.segment.io
 0.0.0.0 o4507769896960000.ingest.de.sentry.io
+0.0.0.0 o2129.ingest.sentry.io
 0.0.0.0 o64374.ingest.sentry.io
 0.0.0.0 o278969.ingest.sentry.io
 0.0.0.0 o287829.ingest.sentry.io
