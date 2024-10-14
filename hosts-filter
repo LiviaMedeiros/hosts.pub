@@ -1786,6 +1786,7 @@
 0.0.0.0 secure.gaug.es
 0.0.0.0 track.gaug.es
 0.0.0.0 browser-http-intake.logs.datadoghq.eu
+0.0.0.0 8tmgr10unn.kameleoon.eu
 0.0.0.0 33d9nnan13.kameleoon.eu
 0.0.0.0 pay4results24.eu
 0.0.0.0 ecdn.analysis.fi
@@ -2407,6 +2408,7 @@
 0.0.0.0 browser-updater.yandex.net
 0.0.0.0 api.browser.yandex.net
 0.0.0.0 sync.browser.yandex.net
+0.0.0.0 csp.yandex.net
 0.0.0.0 startup.mobile.yandex.net
 0.0.0.0 abt.s3.yandex.net
 0.0.0.0 mobile.yandexadexchange.net
@@ -2615,6 +2617,7 @@
 0.0.0.0 stat-analytics.mediavitrina.ru
 0.0.0.0 counter.megagroup.ru
 0.0.0.0 api.mindbox.ru
+0.0.0.0 web-static.mindbox.ru
 0.0.0.0 matching.mobilebanner.ru
 0.0.0.0 uptime.monitorus.ru
 0.0.0.0 code.moviead55.ru
