@@ -1668,6 +1668,7 @@
 0.0.0.0 abtest.api.viber.com
 0.0.0.0 explore.api.viber.com
 0.0.0.0 content.cdn.viber.com
+0.0.0.0 data-events.cdn.viber.com
 0.0.0.0 media.cdn.viber.com
 0.0.0.0 mixpanel.cdn.viber.com
 0.0.0.0 vp.cdn.viber.com
