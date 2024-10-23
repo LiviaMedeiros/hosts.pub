@@ -665,6 +665,7 @@
 0.0.0.0 lamssettings-pa.googleapis.com
 0.0.0.0 locationhistory-pa.googleapis.com
 0.0.0.0 myphonenumbers-pa.googleapis.com
+0.0.0.0 ogads-pa.googleapis.com
 0.0.0.0 optimizationguide-pa.googleapis.com
 0.0.0.0 passwordsleakcheck-pa.googleapis.com
 0.0.0.0 people-pa.googleapis.com
@@ -770,6 +771,7 @@
 0.0.0.0 beacons4.gvt2.com
 0.0.0.0 beacons5.gvt2.com
 0.0.0.0 beacons.gcp.gvt2.com
+0.0.0.0 e2c4.gcp.gvt2.com
 0.0.0.0 beacons5.gvt3.com
 0.0.0.0 h5r2dzdwqk.com
 0.0.0.0 tags.h12-media.com
@@ -905,6 +907,7 @@
 0.0.0.0 dc1-file.ksn.kaspersky-labs.com
 0.0.0.0 dc1-st.ksn.kaspersky-labs.com
 0.0.0.0 ds.kaspersky.com
+0.0.0.0 forum.kaspersky.com
 0.0.0.0 dnl-00.geo.kaspersky.com
 0.0.0.0 dnl-01.geo.kaspersky.com
 0.0.0.0 dnl-02.geo.kaspersky.com
@@ -1099,6 +1102,7 @@
 0.0.0.0 tracker-api.my.com
 0.0.0.0 ip4.tracker-api.my.com
 0.0.0.0 ts.tracker-api.my.com
+0.0.0.0 www.mywot.com
 0.0.0.0 api.narrativ.com
 0.0.0.0 events.release.narrativ.com
 0.0.0.0 static.narrativ.com
@@ -1697,6 +1701,7 @@
 0.0.0.0 id.vk.com
 0.0.0.0 login.vk.com
 0.0.0.0 m.vk.com
+0.0.0.0 oauth.vk.com
 0.0.0.0 st4-11.vk.com
 0.0.0.0 st4-15.vk.com
 0.0.0.0 www.vk.com
@@ -1743,6 +1748,7 @@
 0.0.0.0 pixel.wp.com
 0.0.0.0 stats.wp.com
 0.0.0.0 wzrkt.com
+0.0.0.0 cloudmetrics.xenforo.com
 0.0.0.0 creative.xlivrdr.com
 0.0.0.0 dc.xoalt.com
 0.0.0.0 static.xvideos.com
@@ -1782,6 +1788,7 @@
 0.0.0.0 cdn.netpoint-media.de
 0.0.0.0 js.smartredirect.de
 0.0.0.0 nkwcqcnbdwxpqtbkk.ay.delivery
+0.0.0.0 zqptkdk3tveqvaxzz.ay.delivery
 0.0.0.0 new-adtest.pages.dev
 0.0.0.0 ads-static.conde.digital
 0.0.0.0 globalservices.conde.digital
