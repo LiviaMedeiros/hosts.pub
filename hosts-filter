@@ -1912,6 +1912,7 @@
 0.0.0.0 api.segment.io
 0.0.0.0 cdn.segment.io
 0.0.0.0 o4507769896960000.ingest.de.sentry.io
+0.0.0.0 o4508139096178688.ingest.de.sentry.io
 0.0.0.0 o2129.ingest.sentry.io
 0.0.0.0 o64374.ingest.sentry.io
 0.0.0.0 o278969.ingest.sentry.io
@@ -2488,6 +2489,7 @@
 0.0.0.0 advmanager.techfun.pl
 0.0.0.0 cdn.adfinity.pro
 0.0.0.0 collector.retailcrm.pro
+0.0.0.0 cdn.dokondigit.quest
 0.0.0.0 adsco.re
 0.0.0.0 c.adsco.re
 0.0.0.0 g2.wait.re
