@@ -2577,6 +2577,9 @@
 0.0.0.0 click.hotlog.ru
 0.0.0.0 js.hotlog.ru
 0.0.0.0 alt-xray.imgsmail.ru
+0.0.0.0 corsapi.imgsmail.ru
+0.0.0.0 img.imgsmail.ru
+0.0.0.0 imgs2.imgsmail.ru
 0.0.0.0 likemore-go.imgsmail.ru
 0.0.0.0 limg.imgsmail.ru
 0.0.0.0 mediator.imgsmail.ru
@@ -2616,6 +2619,7 @@
 0.0.0.0 portal.mail.ru
 0.0.0.0 privacy-cs.mail.ru
 0.0.0.0 static.pulse.mail.ru
+0.0.0.0 push-me.mail.ru
 0.0.0.0 r.mail.ru
 0.0.0.0 relap.mail.ru
 0.0.0.0 rs.mail.ru
