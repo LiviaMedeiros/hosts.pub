@@ -1088,6 +1088,7 @@
 0.0.0.0 stubdownloader.services.mozilla.com
 0.0.0.0 stun.services.mozilla.com
 0.0.0.0 identity.mparticle.com
+0.0.0.0 tracker.mrpfd.com
 0.0.0.0 ad.mrtnsvr.com
 0.0.0.0 www.msftconnecttest.com
 0.0.0.0 dns.msftncsi.com
