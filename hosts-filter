@@ -77,6 +77,7 @@
 0.0.0.0 pixel.33across.com
 0.0.0.0 ssc.33across.com
 0.0.0.0 ssc-cms.33across.com
+0.0.0.0 ad.360yield.com
 0.0.0.0 euw-ice.360yield.com
 0.0.0.0 match.360yield.com
 0.0.0.0 www.888poker.com
@@ -408,12 +409,15 @@
 0.0.0.0 hw-cdn2.contentabc.com
 0.0.0.0 vz-cdn2.contentabc.com
 0.0.0.0 bh.contextweb.com
+0.0.0.0 bid.contextweb.com
 0.0.0.0 cdn.convertbox.com
 0.0.0.0 f.convertkit.com
 0.0.0.0 forms.convertkit.com
 0.0.0.0 consentcdn.cookiebot.com
 0.0.0.0 policy.app.cookieinformation.com
 0.0.0.0 cookie-cdn.cookiepro.com
+0.0.0.0 exchange.cootlogix.com
+0.0.0.0 sync.cootlogix.com
 0.0.0.0 static.cloud.coveo.com
 0.0.0.0 cozyhillside.com
 0.0.0.0 ssl.cdne.cpmstar.com
@@ -427,6 +431,7 @@
 0.0.0.0 bidder.criteo.com
 0.0.0.0 cas.criteo.com
 0.0.0.0 dis.criteo.com
+0.0.0.0 grid-bidder.criteo.com
 0.0.0.0 gum.criteo.com
 0.0.0.0 rtax.criteo.com
 0.0.0.0 sslwidget.criteo.com
@@ -844,6 +849,7 @@
 0.0.0.0 uaid-linkage.imrworldwide.com
 0.0.0.0 js-sec.indexww.com
 0.0.0.0 static.indoleads.com
+0.0.0.0 t.influ2.com
 0.0.0.0 hits.informer.com
 0.0.0.0 cmp.inmobi.com
 0.0.0.0 config.inmobi.com
