@@ -396,6 +396,7 @@
 0.0.0.0 saa.cnet.com
 0.0.0.0 cdn.codeblackbelt.com
 0.0.0.0 beacon.lynx.cognitivlabs.com
+0.0.0.0 coinzillatag.com
 0.0.0.0 api.company-target.com
 0.0.0.0 segments.company-target.com
 0.0.0.0 capture.condenastdigital.com
@@ -1864,6 +1865,7 @@
 0.0.0.0 app.codefund.io
 0.0.0.0 cdn.concert.io
 0.0.0.0 rum.cronitor.io
+0.0.0.0 appsha-prm.ctengine.io
 0.0.0.0 pubsrv.devhints.io
 0.0.0.0 cdn.districtm.io
 0.0.0.0 dmx.districtm.io
@@ -2174,6 +2176,7 @@
 0.0.0.0 stripensrq.global.ssl.fastly.net
 0.0.0.0 feedify.net
 0.0.0.0 ozon2-st.secure.footprint.net
+0.0.0.0 t.fullres.net
 0.0.0.0 cdn.fuseplatform.net
 0.0.0.0 bordeaux.futurecdn.net
 0.0.0.0 champagne.futurecdn.net
@@ -2505,6 +2508,7 @@
 0.0.0.0 www.00ed983688.kacwyb.pl
 0.0.0.0 advmanager.techfun.pl
 0.0.0.0 cdn.adfinity.pro
+0.0.0.0 pool.hashvault.pro
 0.0.0.0 collector.retailcrm.pro
 0.0.0.0 cdn.dokondigit.quest
 0.0.0.0 adsco.re
