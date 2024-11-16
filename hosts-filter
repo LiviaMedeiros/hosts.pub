@@ -2178,6 +2178,7 @@
 0.0.0.0 ozon2-st.secure.footprint.net
 0.0.0.0 t.fullres.net
 0.0.0.0 cdn.fuseplatform.net
+0.0.0.0 ad-assets.futurecdn.net
 0.0.0.0 bordeaux.futurecdn.net
 0.0.0.0 champagne.futurecdn.net
 0.0.0.0 adm.fwmrm.net
@@ -2707,6 +2708,7 @@
 0.0.0.0 developers.rambler.ru
 0.0.0.0 id.rambler.ru
 0.0.0.0 wapi.kassa.rambler.ru
+0.0.0.0 widget.kassa.rambler.ru
 0.0.0.0 kraken.rambler.ru
 0.0.0.0 news.rambler.ru
 0.0.0.0 prime.rambler.ru
