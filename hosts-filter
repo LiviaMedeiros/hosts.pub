@@ -204,6 +204,7 @@
 0.0.0.0 cdn.amplitude.com
 0.0.0.0 api.lab.amplitude.com
 0.0.0.0 acr.amplreq.com
+0.0.0.0 es.amplreq.com
 0.0.0.0 lreprx-server.anyclip.com
 0.0.0.0 pixel.anyclip.com
 0.0.0.0 play.anyclip.com
@@ -1693,6 +1694,7 @@
 0.0.0.0 data-events.cdn.viber.com
 0.0.0.0 media.cdn.viber.com
 0.0.0.0 mixpanel.cdn.viber.com
+0.0.0.0 pg.cdn.viber.com
 0.0.0.0 vp.cdn.viber.com
 0.0.0.0 www.cdn.viber.com
 0.0.0.0 core.viber.com
@@ -1816,6 +1818,7 @@
 0.0.0.0 8tmgr10unn.kameleoon.eu
 0.0.0.0 33d9nnan13.kameleoon.eu
 0.0.0.0 pay4results24.eu
+0.0.0.0 ecomm.events
 0.0.0.0 ecdn.analysis.fi
 0.0.0.0 cstatic.weborama.fr
 0.0.0.0 cr.frontend.weborama.fr
@@ -2432,6 +2435,7 @@
 0.0.0.0 media-hel3-1.cdn.whatsapp.net
 0.0.0.0 e1.whatsapp.net
 0.0.0.0 e2.whatsapp.net
+0.0.0.0 e3.whatsapp.net
 0.0.0.0 e4.whatsapp.net
 0.0.0.0 e5.whatsapp.net
 0.0.0.0 e6.whatsapp.net
