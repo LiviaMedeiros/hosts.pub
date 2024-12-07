@@ -230,6 +230,7 @@
 0.0.0.0 res1.applovin.com
 0.0.0.0 rt.applovin.com
 0.0.0.0 stage-mediate-events.applovin.com
+0.0.0.0 sts.applovin.com
 0.0.0.0 d.applvn.com
 0.0.0.0 ms.applvn.com
 0.0.0.0 ms4.applvn.com
@@ -1083,6 +1084,7 @@
 0.0.0.0 px.moatads.com
 0.0.0.0 z.moatads.com
 0.0.0.0 sdkapi.dsp-api.moloco.com
+0.0.0.0 sdkopmetrics-eu.dsp-api.moloco.com
 0.0.0.0 odr.mookie1.com
 0.0.0.0 ads.mopub.com
 0.0.0.0 i.moshimo.com
@@ -1567,7 +1569,9 @@
 0.0.0.0 perf-events.cloud.unity3d.com
 0.0.0.0 api.uca.cloud.unity3d.com
 0.0.0.0 config.uca.cloud.unity3d.com
+0.0.0.0 ae.iads.unity3d.com
 0.0.0.0 ecommerce.iap.unity3d.com
+0.0.0.0 o-sdk.mediation.unity3d.com
 0.0.0.0 events.mz.unity3d.com
 0.0.0.0 operate-sdk-telemetry.unity3d.com
 0.0.0.0 stats.unity3d.com
@@ -2182,6 +2186,7 @@
 0.0.0.0 confiant-integrations.global.ssl.fastly.net
 0.0.0.0 stripensrq.global.ssl.fastly.net
 0.0.0.0 feedify.net
+0.0.0.0 fndrsp.net
 0.0.0.0 ozon2-st.secure.footprint.net
 0.0.0.0 t.fullres.net
 0.0.0.0 cdn.fuseplatform.net
@@ -2414,6 +2419,7 @@
 0.0.0.0 lgm.thench.net
 0.0.0.0 lgn.thench.net
 0.0.0.0 lgp.thench.net
+0.0.0.0 incoming-telemetry.thunderbird.net
 0.0.0.0 trackcmp.net
 0.0.0.0 res41.traffer.net
 0.0.0.0 res71.traffer.net
