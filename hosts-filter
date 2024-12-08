@@ -1726,6 +1726,8 @@
 0.0.0.0 login.vk.com
 0.0.0.0 m.vk.com
 0.0.0.0 oauth.vk.com
+0.0.0.0 queuev4.vk.com
+0.0.0.0 quic-api.vk.com
 0.0.0.0 st4-11.vk.com
 0.0.0.0 st4-15.vk.com
 0.0.0.0 www.vk.com
