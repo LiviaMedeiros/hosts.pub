@@ -1703,6 +1703,7 @@
 0.0.0.0 www.cdn.viber.com
 0.0.0.0 core.viber.com
 0.0.0.0 data-event-proxy.viber.com
+0.0.0.0 dl-media.viber.com
 0.0.0.0 fast.viber.com
 0.0.0.0 sourcepoint.vice.com
 0.0.0.0 vidalak.com
