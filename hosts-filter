@@ -250,6 +250,7 @@
 0.0.0.0 inapps.appsflyer.com
 0.0.0.0 launches.appsflyer.com
 0.0.0.0 t.appsflyer.com
+0.0.0.0 websdk.appsflyer.com
 0.0.0.0 cdn-settings.appsflyersdk.com
 0.0.0.0 conversions.appsflyersdk.com
 0.0.0.0 dlsdk.appsflyersdk.com
@@ -1951,6 +1952,7 @@
 0.0.0.0 o428077.ingest.sentry.io
 0.0.0.0 o681886.ingest.sentry.io
 0.0.0.0 o1069899.ingest.sentry.io
+0.0.0.0 o4504695552606208.ingest.sentry.io
 0.0.0.0 seoab.io
 0.0.0.0 simpleanalytics.io
 0.0.0.0 cdn.simpleanalytics.io
@@ -2526,6 +2528,7 @@
 0.0.0.0 a.pixiv.org
 0.0.0.0 currency.prebid.org
 0.0.0.0 sdk.privacy-center.org
+0.0.0.0 prodregistryv2.org
 0.0.0.0 rutrk.org
 0.0.0.0 sofia.trustx.org
 0.0.0.0 mc.webvisor.org
@@ -2691,6 +2694,7 @@
 0.0.0.0 api.mindbox.ru
 0.0.0.0 personalization-web-stable.mindbox.ru
 0.0.0.0 web-static.mindbox.ru
+0.0.0.0 www.mirf.ru
 0.0.0.0 matching.mobilebanner.ru
 0.0.0.0 uptime.monitorus.ru
 0.0.0.0 code.moviead55.ru
