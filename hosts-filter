@@ -1073,6 +1073,7 @@
 0.0.0.0 m.mixadvert.com
 0.0.0.0 api.mixpanel.com
 0.0.0.0 api-eu.mixpanel.com
+0.0.0.0 api-js.mixpanel.com
 0.0.0.0 decide.mixpanel.com
 0.0.0.0 112-tzm-766.mktoresp.com
 0.0.0.0 194-vvc-221.mktoresp.com
@@ -1960,6 +1961,7 @@
 0.0.0.0 o681886.ingest.sentry.io
 0.0.0.0 o1069899.ingest.sentry.io
 0.0.0.0 o4504695552606208.ingest.sentry.io
+0.0.0.0 o4507178952687616.ingest.us.sentry.io
 0.0.0.0 seoab.io
 0.0.0.0 simpleanalytics.io
 0.0.0.0 cdn.simpleanalytics.io
