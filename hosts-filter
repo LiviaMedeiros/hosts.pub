@@ -251,6 +251,7 @@
 0.0.0.0 inapps.appsflyer.com
 0.0.0.0 launches.appsflyer.com
 0.0.0.0 t.appsflyer.com
+0.0.0.0 wa.appsflyer.com
 0.0.0.0 websdk.appsflyer.com
 0.0.0.0 cdn-settings.appsflyersdk.com
 0.0.0.0 conversions.appsflyersdk.com
@@ -2660,6 +2661,7 @@
 0.0.0.0 stats.klops.ru
 0.0.0.0 d7.c4.b5.a1.top.list.ru
 0.0.0.0 cs15.livetex.ru
+0.0.0.0 mail.ru
 0.0.0.0 ad.mail.ru
 0.0.0.0 adv.mail.ru
 0.0.0.0 aj-https.mail.ru
