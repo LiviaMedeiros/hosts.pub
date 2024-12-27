@@ -400,6 +400,7 @@
 0.0.0.0 fm.cnbc.com
 0.0.0.0 mps.cnbc.com
 0.0.0.0 saa.cnet.com
+0.0.0.0 lightning.cnn.com
 0.0.0.0 cdn.codeblackbelt.com
 0.0.0.0 beacon.lynx.cognitivlabs.com
 0.0.0.0 coinzillatag.com
@@ -1884,6 +1885,7 @@
 0.0.0.0 api2.branch.io
 0.0.0.0 cdn.branch.io
 0.0.0.0 api.bytebrew.io
+0.0.0.0 registry.api.cnn.io
 0.0.0.0 app.codefund.io
 0.0.0.0 cdn.concert.io
 0.0.0.0 rum.cronitor.io
