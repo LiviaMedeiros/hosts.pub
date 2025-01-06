@@ -817,6 +817,8 @@
 0.0.0.0 js.hubspot.com
 0.0.0.0 track.hubspot.com
 0.0.0.0 hxoewq.com
+0.0.0.0 halc.iadvize.com
+0.0.0.0 labs.iadvize.com
 0.0.0.0 id5-sync.com
 0.0.0.0 cdn.id5-sync.com
 0.0.0.0 mpsnare.iesnare.com
@@ -1544,6 +1546,7 @@
 0.0.0.0 media.trafficjunky.com
 0.0.0.0 static.trafficjunky.com
 0.0.0.0 ads.travelaudience.com
+0.0.0.0 cdn.treasuredata.com
 0.0.0.0 in.treasuredata.com
 0.0.0.0 ads.tremorhub.com
 0.0.0.0 2ciy2-9kbup.ads.tremorhub.com
@@ -2484,6 +2487,7 @@
 0.0.0.0 g-fallback.whatsapp.net
 0.0.0.0 graph.whatsapp.net
 0.0.0.0 privatestats.whatsapp.net
+0.0.0.0 scontent.whatsapp.net
 0.0.0.0 static.whatsapp.net
 0.0.0.0 recommendation-newsletter.wpdigital.net
 0.0.0.0 report.appmetrica.yandex.net
