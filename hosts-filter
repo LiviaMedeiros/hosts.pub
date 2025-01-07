@@ -412,6 +412,7 @@
 0.0.0.0 capi.connatix.com
 0.0.0.0 cd.connatix.com
 0.0.0.0 cdm.connatix.com
+0.0.0.0 config.content-settings.com
 0.0.0.0 ads2.contentabc.com
 0.0.0.0 cdn11.contentabc.com
 0.0.0.0 hw-cdn2.contentabc.com
@@ -580,6 +581,7 @@
 0.0.0.0 p2.fwpixel.com
 0.0.0.0 tracking.g2crowd.com
 0.0.0.0 api.gameanalytics.com
+0.0.0.0 reporting-api.gannettinnovation.com
 0.0.0.0 geoip-js.com
 0.0.0.0 app.getbeamer.com
 0.0.0.0 in.getclicky.com
@@ -2466,6 +2468,7 @@
 0.0.0.0 media-arn2-1.cdn.whatsapp.net
 0.0.0.0 media-fra3-1.cdn.whatsapp.net
 0.0.0.0 media-hel3-1.cdn.whatsapp.net
+0.0.0.0 dit.whatsapp.net
 0.0.0.0 e1.whatsapp.net
 0.0.0.0 e2.whatsapp.net
 0.0.0.0 e3.whatsapp.net
