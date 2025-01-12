@@ -217,6 +217,7 @@
 0.0.0.0 app-measurement.com
 0.0.0.0 venetia.iad.appboy.com
 0.0.0.0 fast.appcues.com
+0.0.0.0 cdn.appdynamics.com
 0.0.0.0 securemetrics.apple.com
 0.0.0.0 aplhabet.applinzi.com
 0.0.0.0 attitude.applinzi.com
@@ -1340,6 +1341,7 @@
 0.0.0.0 p.rfihub.com
 0.0.0.0 shb.richaudience.com
 0.0.0.0 sync.richaudience.com
+0.0.0.0 beacon.riskified.com
 0.0.0.0 mid.rkdms.com
 0.0.0.0 check.analytics.rlcdn.com
 0.0.0.0 api.rlcdn.com
@@ -2067,6 +2069,7 @@
 0.0.0.0 user-stats.rbl.ms
 0.0.0.0 gcdn.2mdn.net
 0.0.0.0 s0.2mdn.net
+0.0.0.0 microntechnologydfprod.112.2o7.net
 0.0.0.0 oracle.112.2o7.net
 0.0.0.0 data.24smi.net
 0.0.0.0 jsn.24smi.net
@@ -2642,6 +2645,7 @@
 0.0.0.0 dsp-rambler.ru
 0.0.0.0 major.dvanadva.ru
 0.0.0.0 log.dzen.ru
+0.0.0.0 telemetry.dzen.ru
 0.0.0.0 st.film.ru
 0.0.0.0 analytics.fontanka.ru
 0.0.0.0 www.fontanka.ru
@@ -2769,6 +2773,7 @@
 0.0.0.0 pxksnymto.ru
 0.0.0.0 r9ljguu1k4.ru
 0.0.0.0 loyalty.rambler-co.ru
+0.0.0.0 auto.rambler.ru
 0.0.0.0 c.rambler.ru
 0.0.0.0 cdn-comments.rambler.ru
 0.0.0.0 comments.rambler.ru
