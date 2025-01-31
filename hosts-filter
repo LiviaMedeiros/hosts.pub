@@ -136,6 +136,7 @@
 0.0.0.0 pixel.adsafeprotected.com
 0.0.0.0 static.adsafeprotected.com
 0.0.0.0 www.adsensecustomsearchads.com
+0.0.0.0 noti-eu.adsmoloco.com
 0.0.0.0 noti-us.adsmoloco.com
 0.0.0.0 p.adsymptotic.com
 0.0.0.0 adserver.adtechus.com
@@ -823,6 +824,7 @@
 0.0.0.0 js.hubspot.com
 0.0.0.0 track.hubspot.com
 0.0.0.0 hxoewq.com
+0.0.0.0 sf16-static.i18n-pglstatp.com
 0.0.0.0 halc.iadvize.com
 0.0.0.0 labs.iadvize.com
 0.0.0.0 id5-sync.com
@@ -1341,6 +1343,7 @@
 0.0.0.0 www.requestmetrics.com
 0.0.0.0 spn-v1.revampcdn.com
 0.0.0.0 assets.revcontent.com
+0.0.0.0 api.revenuads.com
 0.0.0.0 q.reyden-x.com
 0.0.0.0 live.rezync.com
 0.0.0.0 p.rfihub.com
@@ -2185,6 +2188,7 @@
 0.0.0.0 dpm.demdex.net
 0.0.0.0 mscom.demdex.net
 0.0.0.0 tracking.diginetica.net
+0.0.0.0 tracking-app.diginetica.net
 0.0.0.0 uk-script.dotmetrics.net
 0.0.0.0 doubleclick.net
 0.0.0.0 ad.doubleclick.net
@@ -2262,6 +2266,7 @@
 0.0.0.0 amprtc.media.net
 0.0.0.0 contextual.media.net
 0.0.0.0 hbx.media.net
+0.0.0.0 navvy.media.net
 0.0.0.0 prebid.media.net
 0.0.0.0 j.microad.net
 0.0.0.0 prod.balrog.prod.cloudops.mozgcp.net
