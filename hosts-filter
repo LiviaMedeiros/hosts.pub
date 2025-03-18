@@ -274,6 +274,7 @@
 0.0.0.0 asteriresearch.com
 0.0.0.0 ad.atdmt.com
 0.0.0.0 track.attributionapp.com
+0.0.0.0 counters.auctiva.com
 0.0.0.0 sdk.audienceplay.com
 0.0.0.0 analytics.audioeye.com
 0.0.0.0 ws.audioeye.com
@@ -907,7 +908,9 @@
 0.0.0.0 cdn-cis.jivosite.com
 0.0.0.0 code.jivosite.com
 0.0.0.0 code-ya.jivosite.com
+0.0.0.0 node-sber1-az1-22.jivosite.com
 0.0.0.0 node-sber1-az1-23.jivosite.com
+0.0.0.0 node-sber1-az1-24.jivosite.com
 0.0.0.0 telemetry.jivosite.com
 0.0.0.0 joom.com
 0.0.0.0 datum.jsdelivr.com
@@ -2158,6 +2161,7 @@
 0.0.0.0 d2oh4tlt9mrke9.cloudfront.net
 0.0.0.0 d2ty8gaf6rmowa.cloudfront.net
 0.0.0.0 d2v02itv0y9u9t.cloudfront.net
+0.0.0.0 d2yyd1h5u9mauk.cloudfront.net
 0.0.0.0 d2yyf02s9xqns0.cloudfront.net
 0.0.0.0 d2zah9y47r7bi2.cloudfront.net
 0.0.0.0 d3c8j8snkzfr1n.cloudfront.net
@@ -2901,6 +2905,7 @@
 0.0.0.0 visor.sberbank.ru
 0.0.0.0 dmp.sbermarketing.ru
 0.0.0.0 248006.selcdn.ru
+0.0.0.0 261520.selcdn.ru
 0.0.0.0 289310.selcdn.ru
 0.0.0.0 image.sendsay.ru
 0.0.0.0 nic.link.sendsay.ru
