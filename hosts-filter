@@ -123,6 +123,7 @@
 0.0.0.0 ib.adnxs.com
 0.0.0.0 prebid.adnxs.com
 0.0.0.0 secure.adnxs.com
+0.0.0.0 acrobatservices.adobe.com
 0.0.0.0 entitlement.auth.adobe.com
 0.0.0.0 www.adobe.com
 0.0.0.0 cdn.adpushup.com
@@ -496,6 +497,7 @@
 0.0.0.0 tps10232.doubleverify.com
 0.0.0.0 www.dressupwho.com
 0.0.0.0 1095759-9.chat.api.drift.com
+0.0.0.0 1529779-29.chat.api.drift.com
 0.0.0.0 5051476-26.chat.api.drift.com
 0.0.0.0 conversation.api.drift.com
 0.0.0.0 customer.api.drift.com
@@ -1035,6 +1037,7 @@
 0.0.0.0 app-ab09.marketo.com
 0.0.0.0 app-ab13.marketo.com
 0.0.0.0 app-ab22.marketo.com
+0.0.0.0 app-ab28.marketo.com
 0.0.0.0 app-sj06.marketo.com
 0.0.0.0 app-sj13.marketo.com
 0.0.0.0 app-sj14.marketo.com
