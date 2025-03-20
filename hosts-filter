@@ -165,6 +165,7 @@
 0.0.0.0 metrics.aetn.com
 0.0.0.0 static.affiliatly.com
 0.0.0.0 cdn4-hbs.affinitymatrix.com
+0.0.0.0 aa.agkn.com
 0.0.0.0 d.agkn.com
 0.0.0.0 fid.agkn.com
 0.0.0.0 js.agkn.com
@@ -1366,6 +1367,7 @@
 0.0.0.0 api.rlcdn.com
 0.0.0.0 ats.rlcdn.com
 0.0.0.0 id.rlcdn.com
+0.0.0.0 idsync.rlcdn.com
 0.0.0.0 cllctr.roistat.com
 0.0.0.0 cloud.roistat.com
 0.0.0.0 cdn-plus.roxot-panel.com
@@ -1984,6 +1986,7 @@
 0.0.0.0 o4507769896960000.ingest.de.sentry.io
 0.0.0.0 o4508139096178688.ingest.de.sentry.io
 0.0.0.0 o2129.ingest.sentry.io
+0.0.0.0 o21767.ingest.sentry.io
 0.0.0.0 o64374.ingest.sentry.io
 0.0.0.0 o83571.ingest.sentry.io
 0.0.0.0 o278969.ingest.sentry.io
