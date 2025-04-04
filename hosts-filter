@@ -1781,6 +1781,7 @@
 0.0.0.0 ws.vs3.com
 0.0.0.0 config.ads.vungle.com
 0.0.0.0 events.ads.vungle.com
+0.0.0.0 logs.ads.vungle.com
 0.0.0.0 api.vungle.com
 0.0.0.0 ads.api.vungle.com
 0.0.0.0 cdn.vuukle.com
