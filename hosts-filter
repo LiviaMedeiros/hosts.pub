@@ -2050,6 +2050,7 @@
 0.0.0.0 hbb.afl.rakuten.co.jp
 0.0.0.0 event.notifier.rakuten.co.jp
 0.0.0.0 anz.rd.rakuten.co.jp
+0.0.0.0 clb.yahoo.co.jp
 0.0.0.0 dsb.yahoo.co.jp
 0.0.0.0 yjtag.yahoo.co.jp
 0.0.0.0 a.flux.jp
@@ -2059,6 +2060,8 @@
 0.0.0.0 img.ak.impact-ad.jp
 0.0.0.0 count3.makeshop.jp
 0.0.0.0 bs.nakanohito.jp
+0.0.0.0 cm-beacon.nakanohito.jp
+0.0.0.0 cm-widget.nakanohito.jp
 0.0.0.0 uh.nakanohito.jp
 0.0.0.0 res.ads.nicovideo.jp
 0.0.0.0 api.nicoad.nicovideo.jp
