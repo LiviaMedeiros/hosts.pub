@@ -1087,6 +1087,7 @@
 0.0.0.0 settings-win.data.microsoft.com
 0.0.0.0 vortex.data.microsoft.com
 0.0.0.0 web.vortex.data.microsoft.com
+0.0.0.0 cs.dds.microsoft.com
 0.0.0.0 go.microsoft.com
 0.0.0.0 iecvlist.microsoft.com
 0.0.0.0 ieonline.microsoft.com
