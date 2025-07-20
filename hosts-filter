@@ -301,6 +301,7 @@
 0.0.0.0 cache.betweendigital.com
 0.0.0.0 reachms.bfmio.com
 0.0.0.0 sync.bfmio.com
+0.0.0.0 nr.bidderstack.com
 0.0.0.0 platform.bidgear.com
 0.0.0.0 ssp.bidvol.com
 0.0.0.0 analytics-cf.bigcrunch.com
@@ -1341,6 +1342,7 @@
 0.0.0.0 q.quora.com
 0.0.0.0 d7d3cf2e81d293050033-3dfc0615b0fd7b49143049256703bfce.ssl.cf1.rackcdn.com
 0.0.0.0 s-bid.rmp.rakuten.com
+0.0.0.0 s-cs.rmp.rakuten.com
 0.0.0.0 affiliate-api.raptive.com
 0.0.0.0 www.rbth.com
 0.0.0.0 go.rcvlink.com
