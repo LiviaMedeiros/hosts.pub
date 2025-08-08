@@ -3021,6 +3021,7 @@
 0.0.0.0 push.yandex.ru
 0.0.0.0 strm.yandex.ru
 0.0.0.0 log.strm.yandex.ru
+0.0.0.0 runtime.strm.yandex.ru
 0.0.0.0 uaas.yandex.ru
 0.0.0.0 app.uaas.yandex.ru
 0.0.0.0 web-metrica.yandex.ru
