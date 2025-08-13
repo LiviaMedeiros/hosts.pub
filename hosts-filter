@@ -2008,6 +2008,7 @@
 0.0.0.0 ingest.make.rvapps.io
 0.0.0.0 api.segment.io
 0.0.0.0 cdn.segment.io
+0.0.0.0 sentry.io
 0.0.0.0 o4507769896960000.ingest.de.sentry.io
 0.0.0.0 o4508139096178688.ingest.de.sentry.io
 0.0.0.0 o2129.ingest.sentry.io
