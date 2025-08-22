@@ -264,10 +264,13 @@
 0.0.0.0 wa.appsflyer.com
 0.0.0.0 websdk.appsflyer.com
 0.0.0.0 cdn-settings.appsflyersdk.com
+0.0.0.0 qbrere.cdn-settings.appsflyersdk.com
 0.0.0.0 conversions.appsflyersdk.com
+0.0.0.0 qbrere.conversions.appsflyersdk.com
 0.0.0.0 dlsdk.appsflyersdk.com
 0.0.0.0 inapps.appsflyersdk.com
 0.0.0.0 launches.appsflyersdk.com
+0.0.0.0 qbrere.launches.appsflyersdk.com
 0.0.0.0 stat.appsgeyser.com
 0.0.0.0 adtrust.appspot.com
 0.0.0.0 tracking.apptrackerlink.com
