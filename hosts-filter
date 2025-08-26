@@ -1640,6 +1640,7 @@
 0.0.0.0 auction-load.unityads.unity3d.com
 0.0.0.0 config.unityads.unity3d.com
 0.0.0.0 configv2.unityads.unity3d.com
+0.0.0.0 gateway.unityads.unity3d.com
 0.0.0.0 httpkafka.unityads.unity3d.com
 0.0.0.0 publisher-event.unityads.unity3d.com
 0.0.0.0 scar.unityads.unity3d.com
@@ -1984,6 +1985,7 @@
 0.0.0.0 cdn.p-n.io
 0.0.0.0 api16-access-gcp.pangle.io
 0.0.0.0 api16-access-sg.pangle.io
+0.0.0.0 api16-access-wf-sg.pangle.io
 0.0.0.0 ssdk-sg.pangle.io
 0.0.0.0 cdn.piano.io
 0.0.0.0 experience-ap.piano.io
