@@ -2531,6 +2531,8 @@
 0.0.0.0 hw-cdn.trafficjunky.net
 0.0.0.0 hw-cdn2.trafficjunky.net
 0.0.0.0 media.trafficjunky.net
+0.0.0.0 pix-cdn77.trafficjunky.net
+0.0.0.0 pix-ht.trafficjunky.net
 0.0.0.0 vz-cdn.trafficjunky.net
 0.0.0.0 vz-cdn2.trafficjunky.net
 0.0.0.0 p.typekit.net
