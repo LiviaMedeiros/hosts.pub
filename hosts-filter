@@ -264,12 +264,15 @@
 0.0.0.0 wa.appsflyer.com
 0.0.0.0 websdk.appsflyer.com
 0.0.0.0 cdn-settings.appsflyersdk.com
+0.0.0.0 fuuf4y.cdn-settings.appsflyersdk.com
 0.0.0.0 qbrere.cdn-settings.appsflyersdk.com
 0.0.0.0 conversions.appsflyersdk.com
 0.0.0.0 qbrere.conversions.appsflyersdk.com
 0.0.0.0 dlsdk.appsflyersdk.com
 0.0.0.0 inapps.appsflyersdk.com
+0.0.0.0 fuuf4y.inapps.appsflyersdk.com
 0.0.0.0 launches.appsflyersdk.com
+0.0.0.0 fuuf4y.launches.appsflyersdk.com
 0.0.0.0 qbrere.launches.appsflyersdk.com
 0.0.0.0 stat.appsgeyser.com
 0.0.0.0 adtrust.appspot.com
@@ -1884,6 +1887,7 @@
 0.0.0.0 script.ioam.de
 0.0.0.0 cdn.netpoint-media.de
 0.0.0.0 js.smartredirect.de
+0.0.0.0 grbqpytkdc5hpmrgd.ay.delivery
 0.0.0.0 nkwcqcnbdwxpqtbkk.ay.delivery
 0.0.0.0 zqptkdk3tveqvaxzz.ay.delivery
 0.0.0.0 new-adtest.pages.dev
