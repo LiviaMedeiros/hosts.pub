@@ -842,6 +842,7 @@
 0.0.0.0 js.hs-scripts.com
 0.0.0.0 js-na1.hs-scripts.com
 0.0.0.0 htlbid.com
+0.0.0.0 html-load.com
 0.0.0.0 js.hubspot.com
 0.0.0.0 track.hubspot.com
 0.0.0.0 hxoewq.com
@@ -2511,6 +2512,7 @@
 0.0.0.0 statsigapi.net
 0.0.0.0 events.statsigapi.net
 0.0.0.0 skslm.swiftkey.net
+0.0.0.0 shed.dual-low.s-part-0017.t-0009.t-msedge.net
 0.0.0.0 lga.thench.net
 0.0.0.0 lgb.thench.net
 0.0.0.0 lgc.thench.net
@@ -2539,6 +2541,8 @@
 0.0.0.0 pix-ht.trafficjunky.net
 0.0.0.0 vz-cdn.trafficjunky.net
 0.0.0.0 vz-cdn2.trafficjunky.net
+0.0.0.0 azureedge-t-prod.trafficmanager.net
+0.0.0.0 azurefd-t-fb-prod.trafficmanager.net
 0.0.0.0 p.typekit.net
 0.0.0.0 use-application-dns.net
 0.0.0.0 s.uuidksinc.net
