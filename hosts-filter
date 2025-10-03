@@ -1161,6 +1161,7 @@
 0.0.0.0 otf.msn.com
 0.0.0.0 srtb.msn.com
 0.0.0.0 ocsp.msocsp.com
+0.0.0.0 configure-tcp-android.mtgglobals.com
 0.0.0.0 mtrcss.com
 0.0.0.0 muteknife.com
 0.0.0.0 evt.mxplay.com
@@ -1353,6 +1354,10 @@
 0.0.0.0 s-bid.rmp.rakuten.com
 0.0.0.0 s-cs.rmp.rakuten.com
 0.0.0.0 affiliate-api.raptive.com
+0.0.0.0 check-tcp.rayjump.com
+0.0.0.0 configure-tcp.rayjump.com
+0.0.0.0 lazy-tcp.rayjump.com
+0.0.0.0 policy-tcp.rayjump.com
 0.0.0.0 www.rbth.com
 0.0.0.0 go.rcvlink.com
 0.0.0.0 go.rcvlinks.com
@@ -1636,6 +1641,7 @@
 0.0.0.0 ae.iads.unity3d.com
 0.0.0.0 cdn.iads.unity3d.com
 0.0.0.0 ecommerce.iap.unity3d.com
+0.0.0.0 i-adq.mediation.unity3d.com
 0.0.0.0 i-sdk.mediation.unity3d.com
 0.0.0.0 o-sdk.mediation.unity3d.com
 0.0.0.0 events.mz.unity3d.com
@@ -2113,6 +2119,7 @@
 0.0.0.0 a.candyai.love
 0.0.0.0 cdn.iframe.ly
 0.0.0.0 ads.adlook.me
+0.0.0.0 z.cdn.adtarget.me
 0.0.0.0 fbpxsvdi.r.ap-southeast-1.awstrack.me
 0.0.0.0 cackle.me
 0.0.0.0 j.cackle.me
@@ -2328,6 +2335,7 @@
 0.0.0.0 navvy.media.net
 0.0.0.0 prebid.media.net
 0.0.0.0 j.microad.net
+0.0.0.0 pok.mintegral.net
 0.0.0.0 prod.balrog.prod.cloudops.mozgcp.net
 0.0.0.0 prod.content-signature-chains.prod.webservices.mozgcp.net
 0.0.0.0 bcd.prod.mdn.prod.webservices.mozgcp.net
