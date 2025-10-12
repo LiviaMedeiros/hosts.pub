@@ -224,6 +224,7 @@
 0.0.0.0 static.apester.com
 0.0.0.0 a.apkpure.com
 0.0.0.0 app-measurement.com
+0.0.0.0 region1.app-measurement.com
 0.0.0.0 venetia.iad.appboy.com
 0.0.0.0 fast.appcues.com
 0.0.0.0 cdn.appdynamics.com
@@ -630,12 +631,14 @@
 0.0.0.0 tredir.go.com
 0.0.0.0 sync.gonet-ads.com
 0.0.0.0 google-analytics.com
+0.0.0.0 region1.google-analytics.com
 0.0.0.0 ssl.google-analytics.com
 0.0.0.0 www.google-analytics.com
 0.0.0.0 ads.google.com
 0.0.0.0 adservice.google.com
 0.0.0.0 ampcid.google.com
 0.0.0.0 analytics.google.com
+0.0.0.0 region1.analytics.google.com
 0.0.0.0 android.apis.google.com
 0.0.0.0 clients6.google.com
 0.0.0.0 addons-pa.clients6.google.com
