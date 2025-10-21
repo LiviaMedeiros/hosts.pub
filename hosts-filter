@@ -82,6 +82,7 @@
 0.0.0.0 pixel.33across.com
 0.0.0.0 ssc.33across.com
 0.0.0.0 ssc-cms.33across.com
+0.0.0.0 logs.81plug.com
 0.0.0.0 ad.360yield.com
 0.0.0.0 euw-ice.360yield.com
 0.0.0.0 match.360yield.com
@@ -2512,6 +2513,7 @@
 0.0.0.0 campfire.silveregg.net
 0.0.0.0 hulujp.silveregg.net
 0.0.0.0 otakumode.silveregg.net
+0.0.0.0 sdk-api-v1.singular.net
 0.0.0.0 analytics.skyscanner.net
 0.0.0.0 static.smi2.net
 0.0.0.0 static1.smi2.net
