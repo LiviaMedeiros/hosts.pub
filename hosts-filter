@@ -59,6 +59,7 @@
 0.0.0.0 mochajs.matomo.cloud
 0.0.0.0 cdn.optmn.cloud
 0.0.0.0 grs.dbankcloud.cn
+0.0.0.0 cdp.cloud.unity.cn
 0.0.0.0 b.6sc.co
 0.0.0.0 j.6sc.co
 0.0.0.0 green.erne.co
@@ -1339,6 +1340,7 @@
 0.0.0.0 android.bugly.qq.com
 0.0.0.0 a.gdt.qq.com
 0.0.0.0 jqmt.qq.com
+0.0.0.0 h.trace.qq.com
 0.0.0.0 dntcl.qualaroo.com
 0.0.0.0 zn1ynnliufrct75cb-paypalxm.siteintercept.qualtrics.com
 0.0.0.0 zn5grs3028zvpg0rh-redventures.siteintercept.qualtrics.com
@@ -2714,6 +2716,7 @@
 0.0.0.0 cm.p.altergeo.ru
 0.0.0.0 easy.au.ru
 0.0.0.0 cs.avito.ru
+0.0.0.0 stats.avito.ru
 0.0.0.0 autocontext.begun.ru
 0.0.0.0 betsonsport.ru
 0.0.0.0 www.betsonsport.ru
