@@ -2658,6 +2658,7 @@
 0.0.0.0 2azzarita.hopto.org
 0.0.0.0 matomo.manjaro.org
 0.0.0.0 tagdelivery.mayoclinic.org
+0.0.0.0 ads.mozilla.org
 0.0.0.0 download-stats.mozilla.org
 0.0.0.0 incoming.telemetry.mozilla.org
 0.0.0.0 2.android.pool.ntp.org
