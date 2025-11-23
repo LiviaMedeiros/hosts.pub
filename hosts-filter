@@ -1140,6 +1140,8 @@
 0.0.0.0 mb.moatads.com
 0.0.0.0 px.moatads.com
 0.0.0.0 z.moatads.com
+0.0.0.0 sp.mobidriven.com
+0.0.0.0 sp-nl-02.mobidriven.com
 0.0.0.0 sdkapi.dsp-api.moloco.com
 0.0.0.0 sdkopmetrics-eu.dsp-api.moloco.com
 0.0.0.0 odr.mookie1.com
@@ -3003,6 +3005,7 @@
 0.0.0.0 248006.selcdn.ru
 0.0.0.0 261520.selcdn.ru
 0.0.0.0 289310.selcdn.ru
+0.0.0.0 sendsay.ru
 0.0.0.0 image.sendsay.ru
 0.0.0.0 nic.link.sendsay.ru
 0.0.0.0 seopult.ru
@@ -3093,6 +3096,7 @@
 0.0.0.0 live.demand.supply
 0.0.0.0 kaminari.systems
 0.0.0.0 lightstep.medium.systems
+0.0.0.0 a.adiam.tech
 0.0.0.0 sommelier.futurehybrid.tech
 0.0.0.0 tonnelier.futurehybrid.tech
 0.0.0.0 live.primis.tech
