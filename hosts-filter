@@ -844,6 +844,7 @@
 0.0.0.0 vars.hotjar.com
 0.0.0.0 log-upload-os.hoyoverse.com
 0.0.0.0 sg-public-data-api.hoyoverse.com
+0.0.0.0 smetrics.hpe.com
 0.0.0.0 js.hs-banner.com
 0.0.0.0 js-eu1.hs-banner.com
 0.0.0.0 js.hs-scripts.com
@@ -1506,6 +1507,7 @@
 0.0.0.0 skcrtxr.com
 0.0.0.0 bidder.skcrtxr.com
 0.0.0.0 cdn.skcrtxr.com
+0.0.0.0 cdn-v.skcrtxr.com
 0.0.0.0 hb-bidder.skcrtxr.com
 0.0.0.0 openrtb.skcrtxr.com
 0.0.0.0 rap.skcrtxr.com
@@ -1768,6 +1770,7 @@
 0.0.0.0 sun9-west.userapi.com
 0.0.0.0 utraff.com
 0.0.0.0 a.utraff.com
+0.0.0.0 r.utraff.com
 0.0.0.0 promo.vador.com
 0.0.0.0 vak345.com
 0.0.0.0 aml.valuecommerce.com
@@ -1985,6 +1988,7 @@
 0.0.0.0 get.geojs.io
 0.0.0.0 www.giraff.io
 0.0.0.0 js.gleam.io
+0.0.0.0 cpm.globalsun.io
 0.0.0.0 player.globalsun.io
 0.0.0.0 st.hbrd.io
 0.0.0.0 echidna.honeybadger.io
@@ -2249,6 +2253,7 @@
 0.0.0.0 dzt1km7tv28ex.cloudfront.net
 0.0.0.0 asia-northeast1-affiliate-pr.cloudfunctions.net
 0.0.0.0 asia-northeast1-holochats.cloudfunctions.net
+0.0.0.0 europe-west1-rapid-product-search.cloudfunctions.net
 0.0.0.0 us-central1-amp-error-reporting.cloudfunctions.net
 0.0.0.0 us-central1-onlywish-9d17b.cloudfunctions.net
 0.0.0.0 us-central1-pwa2apk.cloudfunctions.net
@@ -3092,6 +3097,7 @@
 0.0.0.0 sync.adspend.space
 0.0.0.0 prebid.digitru.st
 0.0.0.0 news-ru.gismeteo.st
+0.0.0.0 hb.viadata.store
 0.0.0.0 rtb-msk.viadata.store
 0.0.0.0 ru.viadata.store
 0.0.0.0 ibclick.stream
