@@ -1996,6 +1996,7 @@
 0.0.0.0 jsc.idealmedia.io
 0.0.0.0 ad.impactify.io
 0.0.0.0 kimberlite.io
+0.0.0.0 static.kimberlite.io
 0.0.0.0 fg8vvsvnieiv3ej16jby.litix.io
 0.0.0.0 cdn.lodeo.io
 0.0.0.0 log.logicanalytics.io
@@ -2672,6 +2673,9 @@
 0.0.0.0 download-stats.mozilla.org
 0.0.0.0 incoming.telemetry.mozilla.org
 0.0.0.0 2.android.pool.ntp.org
+0.0.0.0 1.datadog.pool.ntp.org
+0.0.0.0 2.datadog.pool.ntp.org
+0.0.0.0 3.datadog.pool.ntp.org
 0.0.0.0 a.pixiv.org
 0.0.0.0 currency.prebid.org
 0.0.0.0 sdk.privacy-center.org
