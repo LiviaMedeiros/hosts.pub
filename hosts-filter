@@ -1049,6 +1049,7 @@
 0.0.0.0 app.cdn.lookbookhq.com
 0.0.0.0 cdn.lr-in-prod.com
 0.0.0.0 cdn.lr-in.com
+0.0.0.0 luxcdn.com
 0.0.0.0 s.luxcdn.com
 0.0.0.0 s.luxupadva.com
 0.0.0.0 luxupcdnc.com
@@ -2524,6 +2525,7 @@
 0.0.0.0 gallery.retailrocket.net
 0.0.0.0 rrstatic.retailrocket.net
 0.0.0.0 tracking.retailrocket.net
+0.0.0.0 servedby.revive-adserver.net
 0.0.0.0 my.rtmark.net
 0.0.0.0 sc-static.net
 0.0.0.0 cdn.shareaholic.net
