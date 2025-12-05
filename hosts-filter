@@ -1509,6 +1509,7 @@
 0.0.0.0 skcrtxr.com
 0.0.0.0 bidder.skcrtxr.com
 0.0.0.0 cdn.skcrtxr.com
+0.0.0.0 cdn-c.skcrtxr.com
 0.0.0.0 cdn-v.skcrtxr.com
 0.0.0.0 hb-bidder.skcrtxr.com
 0.0.0.0 openrtb.skcrtxr.com
@@ -1908,6 +1909,7 @@
 0.0.0.0 content.zeronaught.com
 0.0.0.0 static.ziffdavis.com
 0.0.0.0 salesiq.zoho.com
+0.0.0.0 dsp-service.admatic.de
 0.0.0.0 marketing.net.brillen.de
 0.0.0.0 script.ioam.de
 0.0.0.0 cdn.netpoint-media.de
@@ -2953,6 +2955,7 @@
 0.0.0.0 a.ria.ru
 0.0.0.0 warning.rt.ru
 0.0.0.0 stats.rustore.ru
+0.0.0.0 rutarget.ru
 0.0.0.0 adfox-hb-bidder.rutarget.ru
 0.0.0.0 adspector-sync.rutarget.ru
 0.0.0.0 aidata-sync.rutarget.ru
