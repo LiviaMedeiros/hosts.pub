@@ -351,6 +351,7 @@
 0.0.0.0 client-analytics.braintreegateway.com
 0.0.0.0 dmp.brand-display.com
 0.0.0.0 biddr.brealtime.com
+0.0.0.0 cdn.brevo.com
 0.0.0.0 brightcove04.o.brightcove.com
 0.0.0.0 browser-intake-datadoghq.com
 0.0.0.0 logs.browser-intake-datadoghq.com
