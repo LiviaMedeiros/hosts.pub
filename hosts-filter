@@ -318,6 +318,7 @@
 0.0.0.0 ssp.bidvol.com
 0.0.0.0 analytics-cf.bigcrunch.com
 0.0.0.0 dev-analytics-cf.bigcrunch.com
+0.0.0.0 lh.bigcrunch.com
 0.0.0.0 api.bignox.com
 0.0.0.0 api-new.bignox.com
 0.0.0.0 launcher-api.bignox.com
@@ -2616,6 +2617,7 @@
 0.0.0.0 g-fallback.whatsapp.net
 0.0.0.0 graph.whatsapp.net
 0.0.0.0 mmg.whatsapp.net
+0.0.0.0 mmg-fallback.whatsapp.net
 0.0.0.0 privatestats.whatsapp.net
 0.0.0.0 scontent.whatsapp.net
 0.0.0.0 wbd9a7de01-ge3dgnzwhaydcnc.snr.whatsapp.net
