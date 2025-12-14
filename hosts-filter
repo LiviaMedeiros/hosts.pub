@@ -1508,6 +1508,7 @@
 0.0.0.0 s3.sitepoint.com
 0.0.0.0 node-p1w-eegeiw.sitescout.com
 0.0.0.0 pixel-sync.sitescout.com
+0.0.0.0 insights.sitesearch360.com
 0.0.0.0 skcrtxr.com
 0.0.0.0 bidder.skcrtxr.com
 0.0.0.0 cdn.skcrtxr.com
@@ -1920,6 +1921,7 @@
 0.0.0.0 nkwcqcnbdwxpqtbkk.ay.delivery
 0.0.0.0 q2xs3suk5rnckt7oe.ay.delivery
 0.0.0.0 zqptkdk3tveqvaxzz.ay.delivery
+0.0.0.0 monu.delivery
 0.0.0.0 new-adtest.pages.dev
 0.0.0.0 ads-static.conde.digital
 0.0.0.0 globalservices.conde.digital
@@ -2833,6 +2835,7 @@
 0.0.0.0 connect.mail.ru
 0.0.0.0 cdn.connect.mail.ru
 0.0.0.0 e.mail.ru
+0.0.0.0 finance.mail.ru
 0.0.0.0 games.mail.ru
 0.0.0.0 hi-tech.mail.ru
 0.0.0.0 internet.mail.ru
