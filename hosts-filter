@@ -2597,6 +2597,7 @@
 0.0.0.0 media-arn2-1.cdn.whatsapp.net
 0.0.0.0 media-fra3-1.cdn.whatsapp.net
 0.0.0.0 media-hel3-1.cdn.whatsapp.net
+0.0.0.0 media-nrt1-1.cdn.whatsapp.net
 0.0.0.0 sonar-fra.cdn.whatsapp.net
 0.0.0.0 dit.whatsapp.net
 0.0.0.0 e1.whatsapp.net
@@ -2649,6 +2650,7 @@
 0.0.0.0 reqstat.api.mega.co.nz
 0.0.0.0 directadvert.codenet.one
 0.0.0.0 aj2396.online
+0.0.0.0 direct.adsrvr.org
 0.0.0.0 js.adsrvr.org
 0.0.0.0 match.adsrvr.org
 0.0.0.0 rdvs.alljoyn.org
