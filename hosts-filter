@@ -88,6 +88,7 @@
 0.0.0.0 euw-ice.360yield.com
 0.0.0.0 match.360yield.com
 0.0.0.0 www.888poker.com
+0.0.0.0 ad.a-ads.com
 0.0.0.0 affiliates.a2hosting.com
 0.0.0.0 prod.cm.publishers.advertising.a2z.com
 0.0.0.0 prod.tahoe-analytics.publishers.advertising.a2z.com
@@ -608,6 +609,7 @@
 0.0.0.0 friendshipmale.com
 0.0.0.0 spoor-api.ft.com
 0.0.0.0 edge.fullstory.com
+0.0.0.0 rs.fullstory.com
 0.0.0.0 eventsproxy.gargantuan.futureplc.com
 0.0.0.0 p2.fwpixel.com
 0.0.0.0 tracking.g2crowd.com
@@ -1876,6 +1878,7 @@
 0.0.0.0 eligibility.wootric.com
 0.0.0.0 pixel.wp.com
 0.0.0.0 stats.wp.com
+0.0.0.0 js.wpadmngr.com
 0.0.0.0 wzrkt.com
 0.0.0.0 cloudmetrics.xenforo.com
 0.0.0.0 creative.xlivrdr.com
