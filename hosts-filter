@@ -215,6 +215,7 @@
 0.0.0.0 api2.amplitude.com
 0.0.0.0 cdn.amplitude.com
 0.0.0.0 api.lab.amplitude.com
+0.0.0.0 sr-client-cfg.amplitude.com
 0.0.0.0 acr.amplreq.com
 0.0.0.0 es.amplreq.com
 0.0.0.0 api.antibanads.com
@@ -1505,6 +1506,7 @@
 0.0.0.0 shrinefox.com
 0.0.0.0 a.shukriya90.com
 0.0.0.0 cdn.siftscience.com
+0.0.0.0 ck.silvermob.com
 0.0.0.0 scripts.simpleanalyticscdn.com
 0.0.0.0 site-config.com
 0.0.0.0 siteimproveanalytics.com
@@ -2233,6 +2235,7 @@
 0.0.0.0 wompanalytics.azurewebsites.net
 0.0.0.0 geo.battle.net
 0.0.0.0 telemetry-in.battle.net
+0.0.0.0 ssp.bidster.net
 0.0.0.0 grid.bidswitch.net
 0.0.0.0 x.bidswitch.net
 0.0.0.0 c.bigmir.net
@@ -3066,6 +3069,7 @@
 0.0.0.0 ssso.ru
 0.0.0.0 stat-feedot.ru
 0.0.0.0 statad.ru
+0.0.0.0 s.suprion.ru
 0.0.0.0 widget.svk-native.ru
 0.0.0.0 lcab.talk-me.ru
 0.0.0.0 tns-counter.ru
@@ -3142,6 +3146,7 @@
 0.0.0.0 sommelier.futurehybrid.tech
 0.0.0.0 tonnelier.futurehybrid.tech
 0.0.0.0 live.primis.tech
+0.0.0.0 a.videohead.tech
 0.0.0.0 p.cpx.to
 0.0.0.0 smi.today
 0.0.0.0 www.smi.today
