@@ -99,6 +99,7 @@
 0.0.0.0 www.above.com
 0.0.0.0 builder.lift.acquia.com
 0.0.0.0 acsbapp.com
+0.0.0.0 acscdn.com
 0.0.0.0 code.acstat.com
 0.0.0.0 origin.acuityplatform.com
 0.0.0.0 data.ad-score.com
@@ -532,8 +533,11 @@
 0.0.0.0 js.driftt.com
 0.0.0.0 improving.duckduckgo.com
 0.0.0.0 www.dwin1.com
+0.0.0.0 cdn.dynamicyield.com
 0.0.0.0 cdn-eu.dynamicyield.com
+0.0.0.0 rcom.dynamicyield.com
 0.0.0.0 rcom-eu.dynamicyield.com
+0.0.0.0 st.dynamicyield.com
 0.0.0.0 st-eu.dynamicyield.com
 0.0.0.0 dynspt.com
 0.0.0.0 src.ebay-us.com
@@ -1883,6 +1887,7 @@
 0.0.0.0 stats.wp.com
 0.0.0.0 js.wpadmngr.com
 0.0.0.0 wzrkt.com
+0.0.0.0 x7i0.com
 0.0.0.0 cloudmetrics.xenforo.com
 0.0.0.0 creative.xlivrdr.com
 0.0.0.0 dc.xoalt.com
