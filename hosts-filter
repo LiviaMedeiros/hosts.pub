@@ -410,6 +410,7 @@
 0.0.0.0 static.chartbeat.com
 0.0.0.0 live.chartboost.com
 0.0.0.0 w.chatlio.com
+0.0.0.0 ru.analytic-client.chickgoddess.com
 0.0.0.0 chimpstatic.com
 0.0.0.0 web-cache.chocomaru.com
 0.0.0.0 citrix.com
@@ -1956,6 +1957,7 @@
 0.0.0.0 bestgore.fun
 0.0.0.0 i.clean.gg
 0.0.0.0 bid.glass
+0.0.0.0 c.pki.goog
 0.0.0.0 syndicatedsearch.goog
 0.0.0.0 dap.digitalgov.gov
 0.0.0.0 axiabanners.exodus.gr
@@ -3138,6 +3140,7 @@
 0.0.0.0 api.kickoffo.site
 0.0.0.0 www.takiparkrb.site
 0.0.0.0 ana.bandi.so
+0.0.0.0 ver.bandi.so
 0.0.0.0 sync.adspend.space
 0.0.0.0 prebid.digitru.st
 0.0.0.0 news-ru.gismeteo.st
