@@ -220,6 +220,7 @@
 0.0.0.0 acr.amplreq.com
 0.0.0.0 es.amplreq.com
 0.0.0.0 api.antibanads.com
+0.0.0.0 down.anticheatexpert.com
 0.0.0.0 lreprx-server.anyclip.com
 0.0.0.0 pixel.anyclip.com
 0.0.0.0 play.anyclip.com
@@ -2764,11 +2765,13 @@
 0.0.0.0 svr.adstreamer.ru
 0.0.0.0 ddnk.advertur.ru
 0.0.0.0 cs.agency2.ru
+0.0.0.0 aemetrics.aliexpress.ru
 0.0.0.0 allstat-pp.ru
 0.0.0.0 cm.p.altergeo.ru
 0.0.0.0 sdk-api.apptracer.ru
 0.0.0.0 easy.au.ru
 0.0.0.0 cs.avito.ru
+0.0.0.0 f014bf626a7a90fd3976b4ecda64a893.rt.avito.ru
 0.0.0.0 stats.avito.ru
 0.0.0.0 autocontext.begun.ru
 0.0.0.0 betsonsport.ru
