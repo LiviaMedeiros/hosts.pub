@@ -434,6 +434,7 @@
 0.0.0.0 mps.cnbc.com
 0.0.0.0 saa.cnet.com
 0.0.0.0 lightning.cnn.com
+0.0.0.0 s9.cnzz.com
 0.0.0.0 cdn.codeblackbelt.com
 0.0.0.0 beacon.lynx.cognitivlabs.com
 0.0.0.0 coinzillatag.com
@@ -1507,6 +1508,7 @@
 0.0.0.0 sheisnotateacher.com
 0.0.0.0 shiverscissors.com
 0.0.0.0 v.shopify.com
+0.0.0.0 error-analytics-sessions-production.shopifysvc.com
 0.0.0.0 monorail-edge.shopifysvc.com
 0.0.0.0 shopnetic.com
 0.0.0.0 shrinefox.com
