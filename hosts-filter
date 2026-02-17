@@ -1129,6 +1129,7 @@
 0.0.0.0 displaycatalog.mp.microsoft.com
 0.0.0.0 geo.prod.do.dsp.mp.microsoft.com
 0.0.0.0 geover.prod.do.dsp.mp.microsoft.com
+0.0.0.0 kv501.prod.do.dsp.mp.microsoft.com
 0.0.0.0 tsfe.trafficshaping.dsp.mp.microsoft.com
 0.0.0.0 storeedgefd.dsx.mp.microsoft.com
 0.0.0.0 licensing.mp.microsoft.com
@@ -1326,6 +1327,7 @@
 0.0.0.0 exchange.postrelease.com
 0.0.0.0 jadserve.postrelease.com
 0.0.0.0 api.pozvonim.com
+0.0.0.0 aditude.prebid-server.com
 0.0.0.0 log.prezi.com
 0.0.0.0 shopify.privy.com
 0.0.0.0 segment-cdn.producthunt.com
@@ -1961,6 +1963,7 @@
 0.0.0.0 bestgore.fun
 0.0.0.0 i.clean.gg
 0.0.0.0 bid.glass
+0.0.0.0 mediation.goog
 0.0.0.0 c.pki.goog
 0.0.0.0 syndicatedsearch.goog
 0.0.0.0 dap.digitalgov.gov
