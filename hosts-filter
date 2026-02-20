@@ -2083,6 +2083,7 @@
 0.0.0.0 o64374.ingest.sentry.io
 0.0.0.0 o76327.ingest.sentry.io
 0.0.0.0 o83571.ingest.sentry.io
+0.0.0.0 o248881.ingest.sentry.io
 0.0.0.0 o278969.ingest.sentry.io
 0.0.0.0 o287829.ingest.sentry.io
 0.0.0.0 o388912.ingest.sentry.io
@@ -2850,6 +2851,7 @@
 0.0.0.0 mediator.imgsmail.ru
 0.0.0.0 otvet.imgsmail.ru
 0.0.0.0 widget.info-static.ru
+0.0.0.0 checkout.insales.ru
 0.0.0.0 kladr.insales.ru
 0.0.0.0 messengers.insales.ru
 0.0.0.0 static-ru.insales.ru
