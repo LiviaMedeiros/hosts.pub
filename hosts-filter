@@ -604,6 +604,7 @@
 0.0.0.0 media.flixcar.com
 0.0.0.0 media.flixfacts.com
 0.0.0.0 api.flocktory.com
+0.0.0.0 beeline.api.flocktory.com
 0.0.0.0 sp.flocktory.com
 0.0.0.0 data.flurry.com
 0.0.0.0 flux-cdn.com
@@ -3116,6 +3117,8 @@
 0.0.0.0 stats2.videonow.ru
 0.0.0.0 dmp.vihub.ru
 0.0.0.0 vk.ru
+0.0.0.0 ip4.tracker-api.vk-analytics.ru
+0.0.0.0 ts.tracker-api.vk-analytics.ru
 0.0.0.0 api.vk.ru
 0.0.0.0 vkontakte.ru
 0.0.0.0 1l-hit.vkplay.ru
