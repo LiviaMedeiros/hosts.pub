@@ -694,6 +694,7 @@
 0.0.0.0 taskassist-pa.clients6.google.com
 0.0.0.0 tracedepot-pa.clients6.google.com
 0.0.0.0 waa-pa.clients6.google.com
+0.0.0.0 workspacevideo-pa.clients6.google.com
 0.0.0.0 fcmatch.google.com
 0.0.0.0 fundingchoicesmessages.google.com
 0.0.0.0 id.google.com
