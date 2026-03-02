@@ -1330,6 +1330,7 @@
 0.0.0.0 jadserve.postrelease.com
 0.0.0.0 api.pozvonim.com
 0.0.0.0 aditude.prebid-server.com
+0.0.0.0 cache.prebid-server.com
 0.0.0.0 log.prezi.com
 0.0.0.0 shopify.privy.com
 0.0.0.0 segment-cdn.producthunt.com
@@ -3126,6 +3127,7 @@
 0.0.0.0 1l-hit.vkplay.ru
 0.0.0.0 com.adv.vz.ru
 0.0.0.0 a.wb.ru
+0.0.0.0 acollector.wb.ru
 0.0.0.0 mitdmp.whiteboxdigital.ru
 0.0.0.0 tms.dmp.wi-fi.ru
 0.0.0.0 journal-bt.wildberries.ru
