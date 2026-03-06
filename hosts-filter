@@ -503,6 +503,7 @@
 0.0.0.0 sourcepoint.dexerto.com
 0.0.0.0 track.dictionary.com
 0.0.0.0 ads.digitalcaramel.com
+0.0.0.0 ssp-asr.digitalcaramel.com
 0.0.0.0 tracking.digitalocean.com
 0.0.0.0 file-service-default-114c67af0763a8a98e770ff3ee495371.fra1.digitaloceanspaces.com
 0.0.0.0 jsoon.digitiminimi.com
@@ -972,6 +973,7 @@
 0.0.0.0 storage.cloud.kargo.com
 0.0.0.0 krk.kargo.com
 0.0.0.0 krk2.kargo.com
+0.0.0.0 standout-cdn.kargo.com
 0.0.0.0 downloads.kaspersky-labs.com
 0.0.0.0 m-12521.fp.kaspersky-labs.com
 0.0.0.0 ru.fp.kaspersky-labs.com
@@ -1049,6 +1051,7 @@
 0.0.0.0 dc.ads.linkedin.com
 0.0.0.0 px.ads.linkedin.com
 0.0.0.0 ad.linksynergy.com
+0.0.0.0 automate-frontend.linksynergy.com
 0.0.0.0 login.live.com
 0.0.0.0 onedrive.live.com
 0.0.0.0 cid-05a24649e8b790a8.users.storage.live.com
@@ -2105,6 +2108,7 @@
 0.0.0.0 auth.split.io
 0.0.0.0 events.split.io
 0.0.0.0 sdk.split.io
+0.0.0.0 eye.targetads.io
 0.0.0.0 ad.vidverto.io
 0.0.0.0 static.whatshelp.io
 0.0.0.0 hb.yellowblue.io
@@ -3159,6 +3163,7 @@
 0.0.0.0 rtb.adxpremium.services
 0.0.0.0 koi-3qnnq0bhzm.marketingautomation.services
 0.0.0.0 rb.infox.sg
+0.0.0.0 jitsu.ixbt.site
 0.0.0.0 api.kickoffo.site
 0.0.0.0 www.takiparkrb.site
 0.0.0.0 ana.bandi.so
