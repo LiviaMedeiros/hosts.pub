@@ -459,6 +459,7 @@
 0.0.0.0 consentcdn.cookiebot.com
 0.0.0.0 policy.app.cookieinformation.com
 0.0.0.0 cookie-cdn.cookiepro.com
+0.0.0.0 log.cookieyes.com
 0.0.0.0 exchange.cootlogix.com
 0.0.0.0 sync.cootlogix.com
 0.0.0.0 static.cloud.coveo.com
@@ -2108,6 +2109,7 @@
 0.0.0.0 auth.split.io
 0.0.0.0 events.split.io
 0.0.0.0 sdk.split.io
+0.0.0.0 cdn.statically.io
 0.0.0.0 eye.targetads.io
 0.0.0.0 ad.vidverto.io
 0.0.0.0 static.whatshelp.io
