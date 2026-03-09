@@ -2006,6 +2006,7 @@
 0.0.0.0 x01.aidata.io
 0.0.0.0 insights.algolia.io
 0.0.0.0 px.arcspire.io
+0.0.0.0 events.backtrace.io
 0.0.0.0 widget.beop.io
 0.0.0.0 match.prod.bidr.io
 0.0.0.0 api2.branch.io
