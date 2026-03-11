@@ -200,6 +200,7 @@
 0.0.0.0 aax-us.amazon-adsystem.com
 0.0.0.0 aax-us-east.amazon-adsystem.com
 0.0.0.0 c.aps.amazon-adsystem.com
+0.0.0.0 client.aps.amazon-adsystem.com
 0.0.0.0 config.aps.amazon-adsystem.com
 0.0.0.0 c.amazon-adsystem.com
 0.0.0.0 fls-na.amazon-adsystem.com
@@ -448,6 +449,7 @@
 0.0.0.0 capi.connatix.com
 0.0.0.0 cd.connatix.com
 0.0.0.0 cdm.connatix.com
+0.0.0.0 cds.connatix.com
 0.0.0.0 config.content-settings.com
 0.0.0.0 ads2.contentabc.com
 0.0.0.0 cdn11.contentabc.com
@@ -1290,11 +1292,13 @@
 0.0.0.0 sync.otm-r.com
 0.0.0.0 otnolatrnup.com
 0.0.0.0 cdn.otnolatrnup.com
+0.0.0.0 amplify.outbrain.com
 0.0.0.0 amplifypixel.outbrain.com
 0.0.0.0 images.outbrain.com
 0.0.0.0 log.outbrain.com
 0.0.0.0 odb.outbrain.com
 0.0.0.0 sync.outbrain.com
+0.0.0.0 tr.outbrain.com
 0.0.0.0 widgets.outbrain.com
 0.0.0.0 images.outbrainimg.com
 0.0.0.0 log.outbrainimg.com
@@ -2613,6 +2617,7 @@
 0.0.0.0 lgp.thench.net
 0.0.0.0 incoming-telemetry.thunderbird.net
 0.0.0.0 trackcmp.net
+0.0.0.0 cdn-magiclinks.trackonomics.net
 0.0.0.0 res41.traffer.net
 0.0.0.0 res71.traffer.net
 0.0.0.0 res75.traffer.net
