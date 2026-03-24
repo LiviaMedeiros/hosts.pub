@@ -192,6 +192,7 @@
 0.0.0.0 alipromo.com
 0.0.0.0 aliradar.com
 0.0.0.0 acjs.aliyun.com
+0.0.0.0 ad-host-backup-europe.oss-eu-central-1.aliyuncs.com
 0.0.0.0 allvideometrika.com
 0.0.0.0 aloofvest.com
 0.0.0.0 aan.amazon-adsystem.com
@@ -605,6 +606,7 @@
 0.0.0.0 findicons.com
 0.0.0.0 detectportal.firefox.com
 0.0.0.0 t.firstpromoter.com
+0.0.0.0 ad2.fivecdm.com
 0.0.0.0 servedby.flashtalking.com
 0.0.0.0 track.flexlinkspro.com
 0.0.0.0 rt.flix360.com
@@ -2063,6 +2065,7 @@
 0.0.0.0 api16-access-gcp.pangle.io
 0.0.0.0 api16-access-sg.pangle.io
 0.0.0.0 api16-access-wf-sg.pangle.io
+0.0.0.0 api16-dual-event-sg2.pangle.io
 0.0.0.0 ssdk-sg.pangle.io
 0.0.0.0 cdn.piano.io
 0.0.0.0 experience-ap.piano.io
