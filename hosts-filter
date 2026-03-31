@@ -1478,6 +1478,8 @@
 0.0.0.0 dls.di.atlas.samsung.com
 0.0.0.0 ced.sascdn.com
 0.0.0.0 ced-ns.sascdn.com
+0.0.0.0 pushmarketing.sberbank-tele.com
+0.0.0.0 pushserver.sberbank-tele.com
 0.0.0.0 images.scanalert.com
 0.0.0.0 cdn.scarabresearch.com
 0.0.0.0 b.scorecardresearch.com
@@ -2898,6 +2900,7 @@
 0.0.0.0 connect.mail.ru
 0.0.0.0 cdn.connect.mail.ru
 0.0.0.0 e.mail.ru
+0.0.0.0 filin.mail.ru
 0.0.0.0 finance.mail.ru
 0.0.0.0 games.mail.ru
 0.0.0.0 hi-tech.mail.ru
@@ -3162,6 +3165,7 @@
 0.0.0.0 adsdk.yandex.ru
 0.0.0.0 amc.yandex.ru
 0.0.0.0 an.yandex.ru
+0.0.0.0 bs-metadsp.yandex.ru
 0.0.0.0 clck.yandex.ru
 0.0.0.0 informer.yandex.ru
 0.0.0.0 market-click-baobab.yandex.ru
