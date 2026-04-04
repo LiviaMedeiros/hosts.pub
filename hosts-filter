@@ -64,6 +64,8 @@
 0.0.0.0 j.6sc.co
 0.0.0.0 green.erne.co
 0.0.0.0 pixel.ex.co
+0.0.0.0 api.intellimize.co
+0.0.0.0 log.intellimize.co
 0.0.0.0 poweredby.jads.co
 0.0.0.0 cdn.keywee.co
 0.0.0.0 a.mailmunch.co
@@ -652,6 +654,7 @@
 0.0.0.0 collector.github.com
 0.0.0.0 collector.githubapp.com
 0.0.0.0 analytics.githubassets.com
+0.0.0.0 telemetry.individual.githubcopilot.com
 0.0.0.0 collector.prd-278964.gl-product-analytics.com
 0.0.0.0 cdn.glitch.com
 0.0.0.0 sw88.go.com
