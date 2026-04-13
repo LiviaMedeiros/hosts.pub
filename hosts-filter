@@ -234,6 +234,7 @@
 0.0.0.0 anymind360.com
 0.0.0.0 static.apester.com
 0.0.0.0 a.apkpure.com
+0.0.0.0 udbdf.apkpure.com
 0.0.0.0 app-measurement.com
 0.0.0.0 region1.app-measurement.com
 0.0.0.0 venetia.iad.appboy.com
@@ -408,6 +409,7 @@
 0.0.0.0 cchdbond.com
 0.0.0.0 cdn-spurit.com
 0.0.0.0 i.cdnkimg.com
+0.0.0.0 r.cdnpure.com
 0.0.0.0 t3.cdnpure.com
 0.0.0.0 cdnral.com
 0.0.0.0 h.cedatoplayer.com
@@ -3253,4 +3255,5 @@
 0.0.0.0 ad.moe.video
 0.0.0.0 app.adjust.world
 0.0.0.0 r.2ad.wtf
+0.0.0.0 a.apkpures.xyz
 0.0.0.0 ads.playground.xyz
