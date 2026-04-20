@@ -1159,6 +1159,10 @@
 0.0.0.0 tracking.minitool.com
 0.0.0.0 pixel.mintigo.com
 0.0.0.0 hb.minutemedia-prebid.com
+0.0.0.0 api.brs.intl.miui.com
+0.0.0.0 gtglobal.intl.miui.com
+0.0.0.0 adv.sec.intl.miui.com
+0.0.0.0 tracking.rus.miui.com
 0.0.0.0 m.mixadvert.com
 0.0.0.0 api.mixpanel.com
 0.0.0.0 api-eu.mixpanel.com
@@ -1923,6 +1927,8 @@
 0.0.0.0 wzrkt.com
 0.0.0.0 x7i0.com
 0.0.0.0 cloudmetrics.xenforo.com
+0.0.0.0 api.ad.intl.xiaomi.com
+0.0.0.0 cdn-exp-sg-recommend.pt.xiaomi.com
 0.0.0.0 creative.xlivrdr.com
 0.0.0.0 dc.xoalt.com
 0.0.0.0 static.xvideos.com
@@ -2656,7 +2662,9 @@
 0.0.0.0 media-ams2-1.cdn.whatsapp.net
 0.0.0.0 media-arn2-1.cdn.whatsapp.net
 0.0.0.0 media-cdg4-1.cdn.whatsapp.net
+0.0.0.0 media-dfw5-1.cdn.whatsapp.net
 0.0.0.0 media-fra3-1.cdn.whatsapp.net
+0.0.0.0 media-fra5-2.cdn.whatsapp.net
 0.0.0.0 media-hel3-1.cdn.whatsapp.net
 0.0.0.0 media-mxp1-1.cdn.whatsapp.net
 0.0.0.0 media-nrt1-1.cdn.whatsapp.net
@@ -2815,6 +2823,7 @@
 0.0.0.0 sdk-api.apptracer.ru
 0.0.0.0 easy.au.ru
 0.0.0.0 cs.avito.ru
+0.0.0.0 mon.avito.ru
 0.0.0.0 f014bf626a7a90fd3976b4ecda64a893.rt.avito.ru
 0.0.0.0 sntr.avito.ru
 0.0.0.0 stats.avito.ru
@@ -2886,6 +2895,7 @@
 0.0.0.0 limg.imgsmail.ru
 0.0.0.0 mediator.imgsmail.ru
 0.0.0.0 otvet.imgsmail.ru
+0.0.0.0 presizer.imgsmail.ru
 0.0.0.0 widget.info-static.ru
 0.0.0.0 checkout.insales.ru
 0.0.0.0 kladr.insales.ru
