@@ -1159,10 +1159,14 @@
 0.0.0.0 tracking.minitool.com
 0.0.0.0 pixel.mintigo.com
 0.0.0.0 hb.minutemedia-prebid.com
+0.0.0.0 mcc-intl.inf.miui.com
+0.0.0.0 mcc.russia.inf.miui.com
 0.0.0.0 api.brs.intl.miui.com
 0.0.0.0 gtglobal.intl.miui.com
 0.0.0.0 adv.sec.intl.miui.com
+0.0.0.0 api.sec.intl.miui.com
 0.0.0.0 tracking.rus.miui.com
+0.0.0.0 jupiter.rus.sys.miui.com
 0.0.0.0 m.mixadvert.com
 0.0.0.0 api.mixpanel.com
 0.0.0.0 api-eu.mixpanel.com
