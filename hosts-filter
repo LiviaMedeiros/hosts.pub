@@ -1587,6 +1587,7 @@
 0.0.0.0 apex.go.sonobi.com
 0.0.0.0 mtrx.go.sonobi.com
 0.0.0.0 sync.go.sonobi.com
+0.0.0.0 advertisementapi.indevice.sonymobile.com
 0.0.0.0 app.indevice.sonymobile.com
 0.0.0.0 contact.indevice.sonymobile.com
 0.0.0.0 eventlogger.soundcloud.com
