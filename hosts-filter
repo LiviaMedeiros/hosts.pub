@@ -423,6 +423,8 @@
 0.0.0.0 chimpstatic.com
 0.0.0.0 web-cache.chocomaru.com
 0.0.0.0 citrix.com
+0.0.0.0 updates.vmd.citrix.com
+0.0.0.0 www.citrix.com
 0.0.0.0 p.cityadstrack.com
 0.0.0.0 reveal.clearbit.com
 0.0.0.0 x.clearbitjs.com
