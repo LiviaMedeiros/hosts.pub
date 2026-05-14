@@ -277,12 +277,14 @@
 0.0.0.0 t.appsflyer.com
 0.0.0.0 wa.appsflyer.com
 0.0.0.0 websdk.appsflyer.com
+0.0.0.0 qbrere.attr.appsflyersdk.com
 0.0.0.0 cdn-settings.appsflyersdk.com
 0.0.0.0 fuuf4y.cdn-settings.appsflyersdk.com
 0.0.0.0 qbrere.cdn-settings.appsflyersdk.com
 0.0.0.0 conversions.appsflyersdk.com
 0.0.0.0 qbrere.conversions.appsflyersdk.com
 0.0.0.0 dlsdk.appsflyersdk.com
+0.0.0.0 qbrere.dlsdk.appsflyersdk.com
 0.0.0.0 inapps.appsflyersdk.com
 0.0.0.0 fuuf4y.inapps.appsflyersdk.com
 0.0.0.0 launches.appsflyersdk.com
