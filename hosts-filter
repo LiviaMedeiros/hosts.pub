@@ -204,6 +204,7 @@
 0.0.0.0 aax-eu.amazon-adsystem.com
 0.0.0.0 aax-us.amazon-adsystem.com
 0.0.0.0 aax-us-east.amazon-adsystem.com
+0.0.0.0 mdtb-cf-2.ads.aps.amazon-adsystem.com
 0.0.0.0 c.aps.amazon-adsystem.com
 0.0.0.0 client.aps.amazon-adsystem.com
 0.0.0.0 config.aps.amazon-adsystem.com
@@ -281,15 +282,18 @@
 0.0.0.0 cdn-settings.appsflyersdk.com
 0.0.0.0 fuuf4y.cdn-settings.appsflyersdk.com
 0.0.0.0 qbrere.cdn-settings.appsflyersdk.com
+0.0.0.0 r1akun.cdn-settings.appsflyersdk.com
 0.0.0.0 conversions.appsflyersdk.com
 0.0.0.0 qbrere.conversions.appsflyersdk.com
 0.0.0.0 dlsdk.appsflyersdk.com
 0.0.0.0 qbrere.dlsdk.appsflyersdk.com
 0.0.0.0 inapps.appsflyersdk.com
 0.0.0.0 fuuf4y.inapps.appsflyersdk.com
+0.0.0.0 r1akun.inapps.appsflyersdk.com
 0.0.0.0 launches.appsflyersdk.com
 0.0.0.0 fuuf4y.launches.appsflyersdk.com
 0.0.0.0 qbrere.launches.appsflyersdk.com
+0.0.0.0 r1akun.launches.appsflyersdk.com
 0.0.0.0 fuuf4y.register.appsflyersdk.com
 0.0.0.0 stat.appsgeyser.com
 0.0.0.0 adtrust.appspot.com
@@ -595,6 +599,7 @@
 0.0.0.0 facebook.com
 0.0.0.0 s-static.ak.facebook.com
 0.0.0.0 api.facebook.com
+0.0.0.0 b-graph.facebook.com
 0.0.0.0 badge.facebook.com
 0.0.0.0 z-p42-instagram.c10r.facebook.com
 0.0.0.0 developers.facebook.com
@@ -605,6 +610,7 @@
 0.0.0.0 staticxx.facebook.com
 0.0.0.0 web.facebook.com
 0.0.0.0 www.facebook.com
+0.0.0.0 z-m-gateway.facebook.com
 0.0.0.0 nel.fastly-insights.com
 0.0.0.0 www.fastly-insights.com
 0.0.0.0 vip.chps-api.fc2.com
@@ -1170,6 +1176,7 @@
 0.0.0.0 gtglobal.intl.miui.com
 0.0.0.0 adv.sec.intl.miui.com
 0.0.0.0 api.sec.intl.miui.com
+0.0.0.0 authbe.sec.intl.miui.com
 0.0.0.0 tracking.rus.miui.com
 0.0.0.0 jupiter.rus.sys.miui.com
 0.0.0.0 m.mixadvert.com
@@ -1193,6 +1200,7 @@
 0.0.0.0 sp-nl-02.mobidriven.com
 0.0.0.0 sdkapi.dsp-api.moloco.com
 0.0.0.0 sdkopmetrics-eu.dsp-api.moloco.com
+0.0.0.0 sdkopmetrics-us.dsp-api.moloco.com
 0.0.0.0 odr.mookie1.com
 0.0.0.0 ads.mopub.com
 0.0.0.0 i.moshimo.com
@@ -1420,9 +1428,13 @@
 0.0.0.0 s-bid.rmp.rakuten.com
 0.0.0.0 s-cs.rmp.rakuten.com
 0.0.0.0 affiliate-api.raptive.com
+0.0.0.0 check.rayjump.com
 0.0.0.0 check-tcp.rayjump.com
+0.0.0.0 configure.rayjump.com
 0.0.0.0 configure-tcp.rayjump.com
+0.0.0.0 lazy.rayjump.com
 0.0.0.0 lazy-tcp.rayjump.com
+0.0.0.0 policy.rayjump.com
 0.0.0.0 policy-tcp.rayjump.com
 0.0.0.0 www.rbth.com
 0.0.0.0 go.rcvlink.com
@@ -1662,6 +1674,7 @@
 0.0.0.0 mcs-sg.tiktok.com
 0.0.0.0 mssdk-sg.tiktok.com
 0.0.0.0 analytics.us.tiktok.com
+0.0.0.0 lf-static.tiktokpangle-cdn-us.com
 0.0.0.0 log.tiktokv.com
 0.0.0.0 mcs-va.tiktokv.com
 0.0.0.0 mon.tiktokv.com
@@ -1676,6 +1689,8 @@
 0.0.0.0 trackerads.com
 0.0.0.0 trackjs.com
 0.0.0.0 usage.trackjs.com
+0.0.0.0 api.tradplusad.com
+0.0.0.0 event.tradplusad.com
 0.0.0.0 z.cdn.trafficbass.com
 0.0.0.0 syndication.traffichaus.com
 0.0.0.0 ads.traffichunt.com
@@ -2317,6 +2332,7 @@
 0.0.0.0 s.ccsyncuuid.net
 0.0.0.0 ping.chartbeat.net
 0.0.0.0 cloudapp.net
+0.0.0.0 d1tru86qrby720.cloudfront.net
 0.0.0.0 d1z2jf7jlzjs58.cloudfront.net
 0.0.0.0 d2c8v52ll5s99u.cloudfront.net
 0.0.0.0 d2oh4tlt9mrke9.cloudfront.net
@@ -2444,6 +2460,7 @@
 0.0.0.0 navvy.media.net
 0.0.0.0 prebid.media.net
 0.0.0.0 j.microad.net
+0.0.0.0 analytics-tcp.mintegral.net
 0.0.0.0 pok.mintegral.net
 0.0.0.0 prod.balrog.prod.cloudops.mozgcp.net
 0.0.0.0 prod.classify-client.prod.webservices.mozgcp.net
@@ -2941,6 +2958,7 @@
 0.0.0.0 internet.mail.ru
 0.0.0.0 ip.mail.ru
 0.0.0.0 lady.mail.ru
+0.0.0.0 mailer.mail.ru
 0.0.0.0 maps.mail.ru
 0.0.0.0 731111.mediascope.mail.ru
 0.0.0.0 741111.mediascope.mail.ru
@@ -3222,6 +3240,7 @@
 0.0.0.0 rb.infox.sg
 0.0.0.0 jitsu.ixbt.site
 0.0.0.0 api.kickoffo.site
+0.0.0.0 gdl.news-cdn.site
 0.0.0.0 www.takiparkrb.site
 0.0.0.0 ana.bandi.so
 0.0.0.0 ver.bandi.so
