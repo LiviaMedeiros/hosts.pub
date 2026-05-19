@@ -1173,6 +1173,7 @@
 0.0.0.0 mcc-intl.inf.miui.com
 0.0.0.0 mcc.russia.inf.miui.com
 0.0.0.0 api.brs.intl.miui.com
+0.0.0.0 api.competition.intl.miui.com
 0.0.0.0 gtglobal.intl.miui.com
 0.0.0.0 adv.sec.intl.miui.com
 0.0.0.0 api.sec.intl.miui.com
@@ -1955,6 +1956,7 @@
 0.0.0.0 x7i0.com
 0.0.0.0 cloudmetrics.xenforo.com
 0.0.0.0 api.ad.intl.xiaomi.com
+0.0.0.0 t7.a.market.xiaomi.com
 0.0.0.0 cdn-exp-sg-recommend.pt.xiaomi.com
 0.0.0.0 creative.xlivrdr.com
 0.0.0.0 dc.xoalt.com
