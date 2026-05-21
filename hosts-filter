@@ -2691,6 +2691,7 @@
 0.0.0.0 use-application-dns.net
 0.0.0.0 s.uuidksinc.net
 0.0.0.0 webcachespace.net
+0.0.0.0 api.whatsapp.net
 0.0.0.0 media-ams2-1.cdn.whatsapp.net
 0.0.0.0 media-arn2-1.cdn.whatsapp.net
 0.0.0.0 media-cdg4-1.cdn.whatsapp.net
