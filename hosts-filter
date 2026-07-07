@@ -60,6 +60,7 @@
 0.0.0.0 mochajs.matomo.cloud
 0.0.0.0 cdn.optmn.cloud
 0.0.0.0 grs.dbankcloud.cn
+0.0.0.0 receiver-ta-demo.thinkingdata.cn
 0.0.0.0 cdp.cloud.unity.cn
 0.0.0.0 b.6sc.co
 0.0.0.0 j.6sc.co
@@ -205,6 +206,7 @@
 0.0.0.0 aax-us.amazon-adsystem.com
 0.0.0.0 aax-us-east.amazon-adsystem.com
 0.0.0.0 mdtb-cf-2.ads.aps.amazon-adsystem.com
+0.0.0.0 web-banner.ads.aps.amazon-adsystem.com
 0.0.0.0 c.aps.amazon-adsystem.com
 0.0.0.0 client.aps.amazon-adsystem.com
 0.0.0.0 config.aps.amazon-adsystem.com
@@ -318,6 +320,7 @@
 0.0.0.0 www.awin1.com
 0.0.0.0 js.monitor.azure.com
 0.0.0.0 api.b2c.com
+0.0.0.0 fxgate.baidu.com
 0.0.0.0 hm.baidu.com
 0.0.0.0 mountain.zhidao.baidu.com
 0.0.0.0 ru.bandisoft.com
@@ -331,6 +334,7 @@
 0.0.0.0 reachms.bfmio.com
 0.0.0.0 sync.bfmio.com
 0.0.0.0 nr.bidderstack.com
+0.0.0.0 track-us.bidease.com
 0.0.0.0 platform.bidgear.com
 0.0.0.0 ssp.bidvol.com
 0.0.0.0 analytics-cf.bigcrunch.com
@@ -738,6 +742,7 @@
 0.0.0.0 crashlyticsreports-pa.googleapis.com
 0.0.0.0 dialercallinfolookup-pa.googleapis.com
 0.0.0.0 fcm.googleapis.com
+0.0.0.0 federatedcompute-pa.googleapis.com
 0.0.0.0 firebase.googleapis.com
 0.0.0.0 firebaseinstallations.googleapis.com
 0.0.0.0 firebaselogging.googleapis.com
@@ -863,6 +868,8 @@
 0.0.0.0 beacons5.gvt2.com
 0.0.0.0 beacons.gcp.gvt2.com
 0.0.0.0 e2c4.gcp.gvt2.com
+0.0.0.0 e2c9.gcp.gvt2.com
+0.0.0.0 e2c54.gcp.gvt2.com
 0.0.0.0 beacons5.gvt3.com
 0.0.0.0 h5r2dzdwqk.com
 0.0.0.0 tags.h12-media.com
@@ -2171,7 +2178,9 @@
 0.0.0.0 o4504695552606208.ingest.sentry.io
 0.0.0.0 o4505871093989376.ingest.sentry.io
 0.0.0.0 o22381.ingest.us.sentry.io
+0.0.0.0 o432685.ingest.us.sentry.io
 0.0.0.0 o4507178952687616.ingest.us.sentry.io
+0.0.0.0 o4511181517815808.ingest.us.sentry.io
 0.0.0.0 seoab.io
 0.0.0.0 simpleanalytics.io
 0.0.0.0 cdn.simpleanalytics.io
@@ -2313,6 +2322,7 @@
 0.0.0.0 videohead.adspeed.net
 0.0.0.0 engine.adzerk.net
 0.0.0.0 ds-aksb-a.akamaihd.net
+0.0.0.0 qsearch-a.akamaihd.net
 0.0.0.0 statics-marketingsites-eus-ms-com.akamaized.net
 0.0.0.0 cdn.alfasense.net
 0.0.0.0 www.anrdoezrs.net
@@ -2770,6 +2780,7 @@
 0.0.0.0 direct.adsrvr.org
 0.0.0.0 js.adsrvr.org
 0.0.0.0 match.adsrvr.org
+0.0.0.0 openads.adsrvr.org
 0.0.0.0 us.ynuf.aliapp.org
 0.0.0.0 rdvs.alljoyn.org
 0.0.0.0 ads-servebom-com.cdn.ampproject.org
