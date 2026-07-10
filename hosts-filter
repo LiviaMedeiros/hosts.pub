@@ -60,6 +60,7 @@
 0.0.0.0 mochajs.matomo.cloud
 0.0.0.0 cdn.optmn.cloud
 0.0.0.0 grs.dbankcloud.cn
+0.0.0.0 grs-iot.platform.dbankcloud.cn
 0.0.0.0 receiver-ta-demo.thinkingdata.cn
 0.0.0.0 cdp.cloud.unity.cn
 0.0.0.0 b.6sc.co
@@ -512,6 +513,7 @@
 0.0.0.0 rum-http-intake.logs.datadoghq.com
 0.0.0.0 datawrkz.com
 0.0.0.0 grs.dbankcloud.com
+0.0.0.0 grs-iot.platform.dbankcloud.com
 0.0.0.0 a.deadlinefunnel.com
 0.0.0.0 s.deepl.com
 0.0.0.0 sm.dell.com
@@ -560,6 +562,7 @@
 0.0.0.0 targeting.api.drift.com
 0.0.0.0 js.driftt.com
 0.0.0.0 improving.duckduckgo.com
+0.0.0.0 zombie.duolingo.com
 0.0.0.0 www.dwin1.com
 0.0.0.0 cdn.dynamicyield.com
 0.0.0.0 cdn-eu.dynamicyield.com
@@ -727,11 +730,13 @@
 0.0.0.0 workspacevideo-pa.clients6.google.com
 0.0.0.0 fcmatch.google.com
 0.0.0.0 fundingchoicesmessages.google.com
+0.0.0.0 history.google.com
 0.0.0.0 id.google.com
 0.0.0.0 mail-ads.google.com
 0.0.0.0 smartlock.google.com
 0.0.0.0 partner.googleadservices.com
 0.0.0.0 www.googleadservices.com
+0.0.0.0 appsgrowthpromo-pa.googleapis.com
 0.0.0.0 auditrecording-pa.googleapis.com
 0.0.0.0 businesscalls.googleapis.com
 0.0.0.0 calendarsync-pa.googleapis.com
@@ -759,7 +764,9 @@
 0.0.0.0 jnn-pa.googleapis.com
 0.0.0.0 lamssettings-pa.googleapis.com
 0.0.0.0 locationhistory-pa.googleapis.com
+0.0.0.0 locationhistoryplacedetails-pa.googleapis.com
 0.0.0.0 myphonenumbers-pa.googleapis.com
+0.0.0.0 notifications-ueeshp-pa.googleapis.com
 0.0.0.0 ogads-pa.googleapis.com
 0.0.0.0 optimizationguide-pa.googleapis.com
 0.0.0.0 passwordsleakcheck-pa.googleapis.com
@@ -769,10 +776,12 @@
 0.0.0.0 readaloud.googleapis.com
 0.0.0.0 reminders-pa.googleapis.com
 0.0.0.0 safebrowsing.googleapis.com
+0.0.0.0 searchlabspartnerservice-pa.googleapis.com
 0.0.0.0 semanticlocation-pa.googleapis.com
 0.0.0.0 speechs3proto2-pa.googleapis.com
 0.0.0.0 telephonyspamprotect-pa.googleapis.com
 0.0.0.0 userlocation.googleapis.com
+0.0.0.0 xgapromomanager-pa.googleapis.com
 0.0.0.0 www.googleoptimize.com
 0.0.0.0 ade.googlesyndication.com
 0.0.0.0 afs.googlesyndication.com
@@ -965,6 +974,8 @@
 0.0.0.0 cdn.intergient.com
 0.0.0.0 sync.ipredictive.com
 0.0.0.0 api.ipstack.com
+0.0.0.0 ape-androids.isappcloud.com
+0.0.0.0 ib.isappcloud.com
 0.0.0.0 i.isnssdk.com
 0.0.0.0 mon.isnssdk.com
 0.0.0.0 tnc16-alisg.isnssdk.com
@@ -1422,6 +1433,7 @@
 0.0.0.0 cp.pushwoosh.com
 0.0.0.0 post-log.pushwoosh.com
 0.0.0.0 pxpfnbe1t1.com
+0.0.0.0 pc.bugly.qcloud.com
 0.0.0.0 android.bugly.qq.com
 0.0.0.0 a.gdt.qq.com
 0.0.0.0 jqmt.qq.com
@@ -1527,7 +1539,10 @@
 0.0.0.0 api.sail-personalize.com
 0.0.0.0 d.la1-c2-ph2.salesforceliveagent.com
 0.0.0.0 d.la3-c2-ia2.salesforceliveagent.com
+0.0.0.0 dc.di.atlas.samsung.com
 0.0.0.0 dls.di.atlas.samsung.com
+0.0.0.0 insight.samsunghealth.com
+0.0.0.0 shealth-analytics-api.samsunghealth.com
 0.0.0.0 ced.sascdn.com
 0.0.0.0 ced-ns.sascdn.com
 0.0.0.0 pushmarketing.sberbank-tele.com
@@ -2046,6 +2061,7 @@
 0.0.0.0 mediation.goog
 0.0.0.0 c.pki.goog
 0.0.0.0 syndicatedsearch.goog
+0.0.0.0 sba.keys.ohttp.prod.via.google
 0.0.0.0 dap.digitalgov.gov
 0.0.0.0 axiabanners.exodus.gr
 0.0.0.0 interactive.forthnet.gr
@@ -2397,6 +2413,7 @@
 0.0.0.0 tags.crwdcntrl.net
 0.0.0.0 cdn.d2-apps.net
 0.0.0.0 bc.ad.daum.net
+0.0.0.0 idt-gjrlg5-mreu10lb.loc-ru-ru.chk-webapp.res-ok.dur-0.v1.dc-telemetry.net
 0.0.0.0 adobedc.demdex.net
 0.0.0.0 condenast.demdex.net
 0.0.0.0 dpm.demdex.net
@@ -3213,6 +3230,7 @@
 0.0.0.0 hc.uralweb.ru
 0.0.0.0 utarget.ru
 0.0.0.0 utimg.ru
+0.0.0.0 cdn.uxfeedback.ru
 0.0.0.0 vastroll.ru
 0.0.0.0 waterfall.vedomosti.ru
 0.0.0.0 woodpecker.vedomosti.ru
@@ -3245,6 +3263,7 @@
 0.0.0.0 adsdk.yandex.ru
 0.0.0.0 amc.yandex.ru
 0.0.0.0 an.yandex.ru
+0.0.0.0 log.enterprise.api-maps.yandex.ru
 0.0.0.0 bs-metadsp.yandex.ru
 0.0.0.0 clck.yandex.ru
 0.0.0.0 informer.yandex.ru
