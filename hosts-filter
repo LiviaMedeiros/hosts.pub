@@ -742,6 +742,7 @@
 0.0.0.0 calendarsync-pa.googleapis.com
 0.0.0.0 chromefeedcontentsuggestions-pa.googleapis.com
 0.0.0.0 chromesyncpasswords-pa.googleapis.com
+0.0.0.0 clienttracing-pa.googleapis.com
 0.0.0.0 contactsui-pa.googleapis.com
 0.0.0.0 content-autofill.googleapis.com
 0.0.0.0 crashlyticsreports-pa.googleapis.com
@@ -760,6 +761,7 @@
 0.0.0.0 gmscompliance-pa.googleapis.com
 0.0.0.0 growth-pa.googleapis.com
 0.0.0.0 imasdk.googleapis.com
+0.0.0.0 infinitedata-pa.googleapis.com
 0.0.0.0 instantmessaging-pa.googleapis.com
 0.0.0.0 jnn-pa.googleapis.com
 0.0.0.0 lamssettings-pa.googleapis.com
@@ -2730,6 +2732,7 @@
 0.0.0.0 use-application-dns.net
 0.0.0.0 s.uuidksinc.net
 0.0.0.0 webcachespace.net
+0.0.0.0 pc.crashsight.wetest.net
 0.0.0.0 api.whatsapp.net
 0.0.0.0 media-ams2-1.cdn.whatsapp.net
 0.0.0.0 media-arn2-1.cdn.whatsapp.net
@@ -2780,6 +2783,7 @@
 0.0.0.0 csp.yandex.net
 0.0.0.0 startup.mobile.yandex.net
 0.0.0.0 abt.s3.yandex.net
+0.0.0.0 static-mon.yandex.net
 0.0.0.0 mobile.yandexadexchange.net
 0.0.0.0 ad.yieldlab.net
 0.0.0.0 cdn.static.zdbb.net
@@ -2829,6 +2833,8 @@
 0.0.0.0 uhm26jyr11zv.www.freecodecamp.org
 0.0.0.0 cdnads.geeksforgeeks.org
 0.0.0.0 2azzarita.hopto.org
+0.0.0.0 api4.ipify.org
+0.0.0.0 api64.ipify.org
 0.0.0.0 matomo.manjaro.org
 0.0.0.0 tagdelivery.mayoclinic.org
 0.0.0.0 ads.mozilla.org
@@ -2895,6 +2901,7 @@
 0.0.0.0 cm.p.altergeo.ru
 0.0.0.0 sdk-api.apptracer.ru
 0.0.0.0 easy.au.ru
+0.0.0.0 ads-storage.avito.ru
 0.0.0.0 cs.avito.ru
 0.0.0.0 mon.avito.ru
 0.0.0.0 f014bf626a7a90fd3976b4ecda64a893.rt.avito.ru
