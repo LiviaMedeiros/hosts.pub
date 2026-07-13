@@ -782,6 +782,7 @@
 0.0.0.0 semanticlocation-pa.googleapis.com
 0.0.0.0 speechs3proto2-pa.googleapis.com
 0.0.0.0 telephonyspamprotect-pa.googleapis.com
+0.0.0.0 ulp1p-pa.googleapis.com
 0.0.0.0 userlocation.googleapis.com
 0.0.0.0 xgapromomanager-pa.googleapis.com
 0.0.0.0 www.googleoptimize.com
@@ -884,6 +885,7 @@
 0.0.0.0 beacons5.gvt3.com
 0.0.0.0 h5r2dzdwqk.com
 0.0.0.0 tags.h12-media.com
+0.0.0.0 effect.habr.com
 0.0.0.0 stats.habr.com
 0.0.0.0 hdbcome.com
 0.0.0.0 heapanalytics.com
@@ -1987,6 +1989,7 @@
 0.0.0.0 eligibility.wootric.com
 0.0.0.0 pixel.wp.com
 0.0.0.0 stats.wp.com
+0.0.0.0 widgets.wp.com
 0.0.0.0 js.wpadmngr.com
 0.0.0.0 wzrkt.com
 0.0.0.0 x7i0.com
