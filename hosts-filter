@@ -2205,6 +2205,7 @@
 0.0.0.0 seoab.io
 0.0.0.0 simpleanalytics.io
 0.0.0.0 cdn.simpleanalytics.io
+0.0.0.0 static.smartplacement.io
 0.0.0.0 web-analytics.smile.io
 0.0.0.0 auth.split.io
 0.0.0.0 events.split.io
@@ -3262,8 +3263,10 @@
 0.0.0.0 com.adv.vz.ru
 0.0.0.0 a.wb.ru
 0.0.0.0 acollector.wb.ru
+0.0.0.0 nel.wb.ru
 0.0.0.0 mitdmp.whiteboxdigital.ru
 0.0.0.0 tms.dmp.wi-fi.ru
+0.0.0.0 ads-media.wildberries.ru
 0.0.0.0 journal-bt.wildberries.ru
 0.0.0.0 xcec.ru
 0.0.0.0 counter.yadro.ru
