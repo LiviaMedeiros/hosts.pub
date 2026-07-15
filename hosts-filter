@@ -2420,6 +2420,8 @@
 0.0.0.0 cdn.d2-apps.net
 0.0.0.0 bc.ad.daum.net
 0.0.0.0 idt-gjrlg5-mreu10lb.loc-ru-ru.chk-webapp.res-ok.dur-0.v1.dc-telemetry.net
+0.0.0.0 idt-ncrgd7-mrm2p5y0.loc-ru-ru.chk-webapp.res-ok.dur-0.v1.dc-telemetry.net
+0.0.0.0 idt-uzm0a7-mrm3t91h.loc-ru-ru.chk-webapp.res-ok.dur-0.v1.dc-telemetry.net
 0.0.0.0 adobedc.demdex.net
 0.0.0.0 condenast.demdex.net
 0.0.0.0 dpm.demdex.net
@@ -2785,6 +2787,8 @@
 0.0.0.0 api.browser.yandex.net
 0.0.0.0 sync.browser.yandex.net
 0.0.0.0 csp.yandex.net
+0.0.0.0 dr.yandex.net
+0.0.0.0 dr2.yandex.net
 0.0.0.0 startup.mobile.yandex.net
 0.0.0.0 abt.s3.yandex.net
 0.0.0.0 static-mon.yandex.net
@@ -3132,6 +3136,7 @@
 0.0.0.0 redllama.ru
 0.0.0.0 reformal.ru
 0.0.0.0 parking.reg.ru
+0.0.0.0 event-logger-bff.svc.reg.ru
 0.0.0.0 cdn.retailrocket.ru
 0.0.0.0 a.ria.ru
 0.0.0.0 warning.rt.ru
