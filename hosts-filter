@@ -5,6 +5,8 @@
 0.0.0.0 creatives.afp.ai
 0.0.0.0 ssp.afp.ai
 0.0.0.0 events.character.ai
+0.0.0.0 sensor.crushon.ai
+0.0.0.0 sentry.crushon.ai
 0.0.0.0 content.hybrid.ai
 0.0.0.0 dm.hybrid.ai
 0.0.0.0 dm-eu.hybrid.ai
@@ -1388,6 +1390,7 @@
 0.0.0.0 vox.amp.permutive.com
 0.0.0.0 cdn.permutive.com
 0.0.0.0 cdn.petametrics.com
+0.0.0.0 ss.phncdn.com
 0.0.0.0 ct.pinterest.com
 0.0.0.0 log.pinterest.com
 0.0.0.0 pv.pjtsu.com
