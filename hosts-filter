@@ -598,6 +598,7 @@
 0.0.0.0 loadeu.exelator.com
 0.0.0.0 loadus.exelator.com
 0.0.0.0 main.exoclick.com
+0.0.0.0 default.exp-tas.com
 0.0.0.0 ctl-api.exponea.com
 0.0.0.0 ozon-api.exponea.com
 0.0.0.0 tags.expo9.exponential.com
@@ -2430,6 +2431,7 @@
 0.0.0.0 condenast.demdex.net
 0.0.0.0 dpm.demdex.net
 0.0.0.0 mscom.demdex.net
+0.0.0.0 cdn.diginetica.net
 0.0.0.0 tracking.diginetica.net
 0.0.0.0 tracking-app.diginetica.net
 0.0.0.0 uk-script.dotmetrics.net
