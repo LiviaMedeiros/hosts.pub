@@ -2471,6 +2471,7 @@
 0.0.0.0 0914.global.ssl.fastly.net
 0.0.0.0 clarium.global.ssl.fastly.net
 0.0.0.0 confiant-integrations.global.ssl.fastly.net
+0.0.0.0 ithub.global.ssl.fastly.net
 0.0.0.0 stripensrq.global.ssl.fastly.net
 0.0.0.0 feedify.net
 0.0.0.0 fndrsp.net
