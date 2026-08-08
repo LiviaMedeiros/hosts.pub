@@ -716,6 +716,7 @@
 0.0.0.0 grimoireoss-pa.clients6.google.com
 0.0.0.0 iam.clients6.google.com
 0.0.0.0 instantmessaging-pa.clients6.google.com
+0.0.0.0 lensfrontend-pa.clients6.google.com
 0.0.0.0 mobilesdk-pa.clients6.google.com
 0.0.0.0 moltron-pa.clients6.google.com
 0.0.0.0 monitoring.clients6.google.com
@@ -2431,6 +2432,7 @@
 0.0.0.0 idt-gjrlg5-mreu10lb.loc-ru-ru.chk-webapp.res-ok.dur-0.v1.dc-telemetry.net
 0.0.0.0 idt-ncrgd7-mrm2p5y0.loc-ru-ru.chk-webapp.res-ok.dur-0.v1.dc-telemetry.net
 0.0.0.0 idt-uzm0a7-mrm3t91h.loc-ru-ru.chk-webapp.res-ok.dur-0.v1.dc-telemetry.net
+0.0.0.0 idt-xkenmp-msjt0epk.loc-ru-ru.chk-webapp.res-ok.dur-0.v1.dc-telemetry.net
 0.0.0.0 adobedc.demdex.net
 0.0.0.0 condenast.demdex.net
 0.0.0.0 dpm.demdex.net
@@ -2954,6 +2956,7 @@
 0.0.0.0 cshi.ru
 0.0.0.0 cszz.ru
 0.0.0.0 culturaltracking.ru
+0.0.0.0 grs-iot.platform.dbankcloud.ru
 0.0.0.0 dmg.digitaltarget.ru
 0.0.0.0 tag.digitaltarget.ru
 0.0.0.0 cdn.directadvert.ru
@@ -3102,6 +3105,7 @@
 0.0.0.0 tamtam.ok.ru
 0.0.0.0 sync.opendsp.ru
 0.0.0.0 otclick-adv.ru
+0.0.0.0 rotor.overclockers.ru
 0.0.0.0 st.overclockers.ru
 0.0.0.0 xapi.ozon.ru
 0.0.0.0 cs44.pikabu.ru
