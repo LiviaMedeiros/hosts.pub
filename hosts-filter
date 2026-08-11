@@ -1208,6 +1208,7 @@
 0.0.0.0 storecatalogrevocation.storequality.microsoft.com
 0.0.0.0 target.microsoft.com
 0.0.0.0 watson.telemetry.microsoft.com
+0.0.0.0 telemetry.visualstudio.microsoft.com
 0.0.0.0 www.microvirt.com
 0.0.0.0 tracking.minitool.com
 0.0.0.0 pixel.mintigo.com
