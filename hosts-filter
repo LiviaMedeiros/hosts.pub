@@ -1199,9 +1199,11 @@
 0.0.0.0 msedge.b.tlu.dl.delivery.mp.microsoft.com
 0.0.0.0 fe3cr.delivery.mp.microsoft.com
 0.0.0.0 displaycatalog.mp.microsoft.com
+0.0.0.0 cp801.prod.do.dsp.mp.microsoft.com
 0.0.0.0 geo.prod.do.dsp.mp.microsoft.com
 0.0.0.0 geover.prod.do.dsp.mp.microsoft.com
 0.0.0.0 kv501.prod.do.dsp.mp.microsoft.com
+0.0.0.0 kv801.prod.do.dsp.mp.microsoft.com
 0.0.0.0 tsfe.trafficshaping.dsp.mp.microsoft.com
 0.0.0.0 storeedgefd.dsx.mp.microsoft.com
 0.0.0.0 licensing.mp.microsoft.com
@@ -2481,6 +2483,7 @@
 0.0.0.0 ithub.global.ssl.fastly.net
 0.0.0.0 stripensrq.global.ssl.fastly.net
 0.0.0.0 feedify.net
+0.0.0.0 media.flixsyndication.net
 0.0.0.0 fndrsp.net
 0.0.0.0 ozon2-st.secure.footprint.net
 0.0.0.0 t.fullres.net
