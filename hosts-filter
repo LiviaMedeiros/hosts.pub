@@ -20,6 +20,7 @@
 0.0.0.0 hbe199.hybrid.ai
 0.0.0.0 ssp.hybrid.ai
 0.0.0.0 st.hybrid.ai
+0.0.0.0 rtb-eu-warsaw.intent.ai
 0.0.0.0 m2d.m2.ai
 0.0.0.0 cdn.rebel.ai
 0.0.0.0 secure.rebel.ai
@@ -338,6 +339,7 @@
 0.0.0.0 cache.betweendigital.com
 0.0.0.0 reachms.bfmio.com
 0.0.0.0 sync.bfmio.com
+0.0.0.0 cmr.bidderstack.com
 0.0.0.0 nr.bidderstack.com
 0.0.0.0 track-us.bidease.com
 0.0.0.0 platform.bidgear.com
@@ -1526,6 +1528,7 @@
 0.0.0.0 cllctr.roistat.com
 0.0.0.0 cloud.roistat.com
 0.0.0.0 cdn-plus.roxot-panel.com
+0.0.0.0 t.rtbwave.com
 0.0.0.0 ads.rubiconproject.com
 0.0.0.0 beacon-us-west.rubiconproject.com
 0.0.0.0 eus.rubiconproject.com
@@ -1712,6 +1715,7 @@
 0.0.0.0 pixel.tapad.com
 0.0.0.0 tag.tapad.com
 0.0.0.0 script.tapfiliate.com
+0.0.0.0 match.targetrtb.com
 0.0.0.0 tat3ayogh6.com
 0.0.0.0 fp.techinasia.com
 0.0.0.0 ad-cdn.technoratimedia.com
@@ -2058,6 +2062,7 @@
 0.0.0.0 new-adtest.pages.dev
 0.0.0.0 ads-static.conde.digital
 0.0.0.0 globalservices.conde.digital
+0.0.0.0 dsp.mpartner.digital
 0.0.0.0 secure.gaug.es
 0.0.0.0 track.gaug.es
 0.0.0.0 browser-http-intake.logs.datadoghq.eu
@@ -2129,6 +2134,7 @@
 0.0.0.0 pubsrv.devhints.io
 0.0.0.0 cdn.districtm.io
 0.0.0.0 dmx.districtm.io
+0.0.0.0 rtb.dynotech.io
 0.0.0.0 media.ethicalads.io
 0.0.0.0 ecdn.firstimpression.io
 0.0.0.0 get.geojs.io
@@ -2150,6 +2156,7 @@
 0.0.0.0 pp.lp4.io
 0.0.0.0 sdkconfig.pulse.m10s.io
 0.0.0.0 sdk.mrf.io
+0.0.0.0 events.myweb3id.io
 0.0.0.0 toy.log.nexon.io
 0.0.0.0 s.ntv.io
 0.0.0.0 cdn.onthe.io
@@ -2892,6 +2899,7 @@
 0.0.0.0 www.00ed983688.kacwyb.pl
 0.0.0.0 advmanager.techfun.pl
 0.0.0.0 cdn.adfinity.pro
+0.0.0.0 px4.admon.pro
 0.0.0.0 hashvault.pro
 0.0.0.0 monero.hashvault.pro
 0.0.0.0 pool.hashvault.pro
@@ -3112,6 +3120,7 @@
 0.0.0.0 842121.ms.ok.ru
 0.0.0.0 852121.ms.ok.ru
 0.0.0.0 tamtam.ok.ru
+0.0.0.0 pixel.dsp.onetarget.ru
 0.0.0.0 sync.opendsp.ru
 0.0.0.0 otclick-adv.ru
 0.0.0.0 rotor.overclockers.ru
@@ -3241,6 +3250,7 @@
 0.0.0.0 bs.serving-sys.ru
 0.0.0.0 st-01.showjet.ru
 0.0.0.0 simferopol.sidex.ru
+0.0.0.0 tracker.smartcallback.ru
 0.0.0.0 smi2.ru
 0.0.0.0 amp.smi2.ru
 0.0.0.0 exad.smi2.ru
@@ -3293,6 +3303,7 @@
 0.0.0.0 a.wb.ru
 0.0.0.0 acollector.wb.ru
 0.0.0.0 nel.wb.ru
+0.0.0.0 redirect-frontend.weborama-tech.ru
 0.0.0.0 mitdmp.whiteboxdigital.ru
 0.0.0.0 tms.dmp.wi-fi.ru
 0.0.0.0 ads-media.wildberries.ru
@@ -3353,6 +3364,7 @@
 0.0.0.0 www.smi.today
 0.0.0.0 metrics.pico.tools
 0.0.0.0 rocketme.top
+0.0.0.0 prebid.admatic.com.tr
 0.0.0.0 s.console.adtarget.com.tr
 0.0.0.0 cdn.attn.tv
 0.0.0.0 context.iris.tv
