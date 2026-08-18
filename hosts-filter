@@ -1191,6 +1191,7 @@
 0.0.0.0 self.events.data.microsoft.com
 0.0.0.0 v10.events.data.microsoft.com
 0.0.0.0 v20.events.data.microsoft.com
+0.0.0.0 watson.events.data.microsoft.com
 0.0.0.0 settings-win.data.microsoft.com
 0.0.0.0 vortex.data.microsoft.com
 0.0.0.0 web.vortex.data.microsoft.com
@@ -1992,6 +1993,7 @@
 0.0.0.0 whourgie.com
 0.0.0.0 beacon.wikia-services.com
 0.0.0.0 rest.wildstar-online.com
+0.0.0.0 activity.windows.com
 0.0.0.0 maps.windows.com
 0.0.0.0 client.wns.windows.com
 0.0.0.0 image.winudf.com
@@ -2442,6 +2444,7 @@
 0.0.0.0 cdn.d2-apps.net
 0.0.0.0 bc.ad.daum.net
 0.0.0.0 idt-3jwdeg-msuqivt1.loc-ru-ru.chk-webapp.res-ok.dur-0.v1.dc-telemetry.net
+0.0.0.0 idt-23y063-msycptza.loc-ru-ru.chk-webapp.res-ok.dur-0.v1.dc-telemetry.net
 0.0.0.0 idt-c3vvkn-msvhxecp.loc-ru-ru.chk-webapp.res-ok.dur-0.v1.dc-telemetry.net
 0.0.0.0 idt-gjrlg5-mreu10lb.loc-ru-ru.chk-webapp.res-ok.dur-0.v1.dc-telemetry.net
 0.0.0.0 idt-jtialt-msvhg6hr.loc-ru-ru.chk-webapp.res-ok.dur-0.v1.dc-telemetry.net
