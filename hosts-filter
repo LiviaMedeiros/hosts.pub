@@ -1202,6 +1202,7 @@
 0.0.0.0 msedge.b.tlu.dl.delivery.mp.microsoft.com
 0.0.0.0 fe3cr.delivery.mp.microsoft.com
 0.0.0.0 displaycatalog.mp.microsoft.com
+0.0.0.0 cp601.prod.do.dsp.mp.microsoft.com
 0.0.0.0 cp801.prod.do.dsp.mp.microsoft.com
 0.0.0.0 geo.prod.do.dsp.mp.microsoft.com
 0.0.0.0 geover.prod.do.dsp.mp.microsoft.com
@@ -1259,6 +1260,7 @@
 0.0.0.0 classify-client.services.mozilla.com
 0.0.0.0 contile.services.mozilla.com
 0.0.0.0 location.services.mozilla.com
+0.0.0.0 merino.services.mozilla.com
 0.0.0.0 normandy-cdn.services.mozilla.com
 0.0.0.0 push.services.mozilla.com
 0.0.0.0 updates.push.services.mozilla.com
