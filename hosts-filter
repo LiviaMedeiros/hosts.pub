@@ -390,6 +390,7 @@
 0.0.0.0 img.btdmp.com
 0.0.0.0 btloader.com
 0.0.0.0 api.btloader.com
+0.0.0.0 cdn.btmessage.com
 0.0.0.0 bttrack.com
 0.0.0.0 sessions.bugsnag.com
 0.0.0.0 ads.bumlam.com
@@ -1325,6 +1326,7 @@
 0.0.0.0 consent.cmp.oath.com
 0.0.0.0 service.cmp.oath.com
 0.0.0.0 offerimage.com
+0.0.0.0 outlook.office365.com
 0.0.0.0 log.olark.com
 0.0.0.0 static.olark.com
 0.0.0.0 a.omappapi.com
@@ -1500,6 +1502,7 @@
 0.0.0.0 alb.reddit.com
 0.0.0.0 error-tracking.reddit.com
 0.0.0.0 events.reddit.com
+0.0.0.0 pi.reddit.com
 0.0.0.0 pixel-config.reddit.com
 0.0.0.0 w3-reporting.reddit.com
 0.0.0.0 w3-reporting-nel.reddit.com
@@ -2139,6 +2142,7 @@
 0.0.0.0 cdn.districtm.io
 0.0.0.0 dmx.districtm.io
 0.0.0.0 rtb.dynotech.io
+0.0.0.0 mvideo.edna.io
 0.0.0.0 media.ethicalads.io
 0.0.0.0 ecdn.firstimpression.io
 0.0.0.0 get.geojs.io
@@ -3104,6 +3108,7 @@
 0.0.0.0 dsp.rtb.mts.ru
 0.0.0.0 sm.rtb.mts.ru
 0.0.0.0 tech.rtb.mts.ru
+0.0.0.0 log-stream.mvideo.ru
 0.0.0.0 news.ru
 0.0.0.0 p1.ntvk1.ru
 0.0.0.0 ps.ntvk1.ru
