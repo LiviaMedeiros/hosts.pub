@@ -1274,6 +1274,7 @@
 0.0.0.0 identity.mparticle.com
 0.0.0.0 tracker.mrpfd.com
 0.0.0.0 ad.mrtnsvr.com
+0.0.0.0 ipv6.msftconnecttest.com
 0.0.0.0 www.msftconnecttest.com
 0.0.0.0 dns.msftncsi.com
 0.0.0.0 event.msi.com
@@ -2541,6 +2542,7 @@
 0.0.0.0 beacon.krxd.net
 0.0.0.0 cdn.krxd.net
 0.0.0.0 licensebuttons.net
+0.0.0.0 player.stats.live-video.net
 0.0.0.0 blogroll.livedoor.net
 0.0.0.0 lptag.liveperson.net
 0.0.0.0 munchkin.marketo.net
