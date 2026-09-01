@@ -2158,6 +2158,7 @@
 0.0.0.0 vc.hotjar.io
 0.0.0.0 jsc.idealmedia.io
 0.0.0.0 ad.impactify.io
+0.0.0.0 ipinfo.io
 0.0.0.0 kimberlite.io
 0.0.0.0 static.kimberlite.io
 0.0.0.0 impression-east.liftoff.io
@@ -2553,6 +2554,7 @@
 0.0.0.0 navvy.media.net
 0.0.0.0 prebid.media.net
 0.0.0.0 j.microad.net
+0.0.0.0 cxcs.microsoft.net
 0.0.0.0 analytics-tcp.mintegral.net
 0.0.0.0 pok.mintegral.net
 0.0.0.0 prod.balrog.prod.cloudops.mozgcp.net
