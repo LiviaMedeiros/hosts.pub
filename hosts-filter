@@ -1225,6 +1225,7 @@
 0.0.0.0 hb.minutemedia-prebid.com
 0.0.0.0 mcc-intl.inf.miui.com
 0.0.0.0 mcc.russia.inf.miui.com
+0.0.0.0 api.aurogon.intl.miui.com
 0.0.0.0 api.brs.intl.miui.com
 0.0.0.0 api.competition.intl.miui.com
 0.0.0.0 gtglobal.intl.miui.com
@@ -2024,6 +2025,7 @@
 0.0.0.0 api.ad.intl.xiaomi.com
 0.0.0.0 t7.a.market.xiaomi.com
 0.0.0.0 cdn-exp-sg-recommend.pt.xiaomi.com
+0.0.0.0 sdkconfig.ad.rus.xiaomi.com
 0.0.0.0 creative.xlivrdr.com
 0.0.0.0 dc.xoalt.com
 0.0.0.0 static.xvideos.com
@@ -2827,6 +2829,7 @@
 0.0.0.0 static.whatsapp.net
 0.0.0.0 targetemsecure.blob.core.windows.net
 0.0.0.0 recommendation-newsletter.wpdigital.net
+0.0.0.0 ru.resolver.msg.global.xiaomi.net
 0.0.0.0 report.appmetrica.yandex.net
 0.0.0.0 rosenberg.appmetrica.yandex.net
 0.0.0.0 browser-updater.yandex.net
