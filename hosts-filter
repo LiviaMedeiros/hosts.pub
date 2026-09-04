@@ -22,6 +22,7 @@
 0.0.0.0 st.hybrid.ai
 0.0.0.0 rtb-eu-warsaw.intent.ai
 0.0.0.0 m2d.m2.ai
+0.0.0.0 ourdream.ai
 0.0.0.0 cdn.rebel.ai
 0.0.0.0 secure.rebel.ai
 0.0.0.0 ev.stellarlabs.ai
@@ -3124,6 +3125,7 @@
 0.0.0.0 ps.ntvk1.ru
 0.0.0.0 ok.ru
 0.0.0.0 api.ok.ru
+0.0.0.0 api2.ok.ru
 0.0.0.0 connect.ok.ru
 0.0.0.0 dsm.ok.ru
 0.0.0.0 liveut2-dl.ok.ru
