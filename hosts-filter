@@ -2097,6 +2097,7 @@
 0.0.0.0 mediation.goog
 0.0.0.0 c.pki.goog
 0.0.0.0 syndicatedsearch.goog
+0.0.0.0 ep1.adtrafficquality.google
 0.0.0.0 sba.keys.ohttp.prod.via.google
 0.0.0.0 dap.digitalgov.gov
 0.0.0.0 axiabanners.exodus.gr
@@ -2460,6 +2461,7 @@
 0.0.0.0 bc.ad.daum.net
 0.0.0.0 idt-3jwdeg-msuqivt1.loc-ru-ru.chk-webapp.res-ok.dur-0.v1.dc-telemetry.net
 0.0.0.0 idt-23y063-msycptza.loc-ru-ru.chk-webapp.res-ok.dur-0.v1.dc-telemetry.net
+0.0.0.0 idt-bzf3og-mto214u3.loc-ru-ru.chk-webapp.res-ok.dur-0.v1.dc-telemetry.net
 0.0.0.0 idt-c3vvkn-msvhxecp.loc-ru-ru.chk-webapp.res-ok.dur-0.v1.dc-telemetry.net
 0.0.0.0 idt-gjrlg5-mreu10lb.loc-ru-ru.chk-webapp.res-ok.dur-0.v1.dc-telemetry.net
 0.0.0.0 idt-jtialt-msvhg6hr.loc-ru-ru.chk-webapp.res-ok.dur-0.v1.dc-telemetry.net
@@ -2835,6 +2837,7 @@
 0.0.0.0 rosenberg.appmetrica.yandex.net
 0.0.0.0 browser-updater.yandex.net
 0.0.0.0 api.browser.yandex.net
+0.0.0.0 cdn.browser.yandex.net
 0.0.0.0 sync.browser.yandex.net
 0.0.0.0 csp.yandex.net
 0.0.0.0 dr.yandex.net
@@ -2979,6 +2982,8 @@
 0.0.0.0 cc.calltracking.ru
 0.0.0.0 events.cardsmobile.ru
 0.0.0.0 catsnetwork.ru
+0.0.0.0 plstat01.cdnvideo.ru
+0.0.0.0 plstat02.cdnvideo.ru
 0.0.0.0 rumstat.cdnvideo.ru
 0.0.0.0 clck.ru
 0.0.0.0 cleversite.ru
@@ -3260,6 +3265,7 @@
 0.0.0.0 ssp-rtb-asrv386.sape.ru
 0.0.0.0 ssp-rtb-asrv399.sape.ru
 0.0.0.0 ssp-rtb-asrv402.sape.ru
+0.0.0.0 bfds.sberbank.ru
 0.0.0.0 ext.clickstream.sberbank.ru
 0.0.0.0 pfm-stat.online.sberbank.ru
 0.0.0.0 svi.online.sberbank.ru
@@ -3290,6 +3296,7 @@
 0.0.0.0 ssso.ru
 0.0.0.0 stat-feedot.ru
 0.0.0.0 statad.ru
+0.0.0.0 stmtag.ru
 0.0.0.0 s.suprion.ru
 0.0.0.0 widget.svk-native.ru
 0.0.0.0 lcab.talk-me.ru
@@ -3306,6 +3313,7 @@
 0.0.0.0 utarget.ru
 0.0.0.0 utimg.ru
 0.0.0.0 cdn.uxfeedback.ru
+0.0.0.0 widget-api.uxfeedback.ru
 0.0.0.0 vastroll.ru
 0.0.0.0 waterfall.vedomosti.ru
 0.0.0.0 woodpecker.vedomosti.ru
@@ -3346,6 +3354,7 @@
 0.0.0.0 bs-metadsp.yandex.ru
 0.0.0.0 clck.yandex.ru
 0.0.0.0 informer.yandex.ru
+0.0.0.0 api.lbs.yandex.ru
 0.0.0.0 market-click-baobab.yandex.ru
 0.0.0.0 aflt.market.yandex.ru
 0.0.0.0 sovetnik.market.yandex.ru
