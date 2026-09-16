@@ -1344,6 +1344,7 @@
 0.0.0.0 onetag-sys.com
 0.0.0.0 geolocation.onetrust.com
 0.0.0.0 privacyportal.onetrust.com
+0.0.0.0 svibeacon.onezapp.com
 0.0.0.0 onmarshtompor.com
 0.0.0.0 ontetag-sys.com
 0.0.0.0 opensharecount.com
@@ -2001,6 +2002,7 @@
 0.0.0.0 u.startup.mobile.webvisor.com
 0.0.0.0 metrics.westernunion.com
 0.0.0.0 smetrics.westernunion.com
+0.0.0.0 htrace.wetvinfo.com
 0.0.0.0 universal.wgplayer.com
 0.0.0.0 whourgie.com
 0.0.0.0 beacon.wikia-services.com
