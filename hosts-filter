@@ -290,6 +290,7 @@
 0.0.0.0 wa.appsflyer.com
 0.0.0.0 websdk.appsflyer.com
 0.0.0.0 qbrere.attr.appsflyersdk.com
+0.0.0.0 b0dcpg-cdn-settings.appsflyersdk.com
 0.0.0.0 cdn-settings.appsflyersdk.com
 0.0.0.0 fuuf4y.cdn-settings.appsflyersdk.com
 0.0.0.0 qbrere.cdn-settings.appsflyersdk.com
@@ -323,6 +324,7 @@
 0.0.0.0 analytics.audioeye.com
 0.0.0.0 ws.audioeye.com
 0.0.0.0 wsv3cdn.audioeye.com
+0.0.0.0 logs.authy.com
 0.0.0.0 b2cdn.automatad.com
 0.0.0.0 us-east-pbs.automatad.com
 0.0.0.0 sdks.automizely-analytics.com
@@ -1748,6 +1750,7 @@
 0.0.0.0 log.tiktokv.com
 0.0.0.0 mcs-va.tiktokv.com
 0.0.0.0 mon.tiktokv.com
+0.0.0.0 neo.tildacdn.com
 0.0.0.0 stat.tildacdn.com
 0.0.0.0 cdn.tinypass.com
 0.0.0.0 dashboard.tinypass.com
@@ -2133,6 +2136,7 @@
 0.0.0.0 mp.4dex.io
 0.0.0.0 script.4dex.io
 0.0.0.0 cdn.adapex.io
+0.0.0.0 cloud.aditude.io
 0.0.0.0 track.adspire.io
 0.0.0.0 x01.aidata.io
 0.0.0.0 insights.algolia.io
@@ -2537,6 +2541,7 @@
 0.0.0.0 c.go-mpulse.net
 0.0.0.0 s.go-mpulse.net
 0.0.0.0 s2.go-mpulse.net
+0.0.0.0 dns-tunnel-check.googlezip.net
 0.0.0.0 cdn.gotraffic.net
 0.0.0.0 cdn.gravitec.net
 0.0.0.0 bbc.gscontxt.net
