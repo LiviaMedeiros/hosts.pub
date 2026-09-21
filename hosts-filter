@@ -2170,6 +2170,7 @@
 0.0.0.0 vc.hotjar.io
 0.0.0.0 jsc.idealmedia.io
 0.0.0.0 ad.impactify.io
+0.0.0.0 nexus-websocket-a.intercom.io
 0.0.0.0 ipinfo.io
 0.0.0.0 kimberlite.io
 0.0.0.0 static.kimberlite.io
@@ -3364,6 +3365,7 @@
 0.0.0.0 amc.yandex.ru
 0.0.0.0 an.yandex.ru
 0.0.0.0 log.enterprise.api-maps.yandex.ru
+0.0.0.0 log.api-maps.yandex.ru
 0.0.0.0 bs-metadsp.yandex.ru
 0.0.0.0 clck.yandex.ru
 0.0.0.0 informer.yandex.ru
