@@ -2578,6 +2578,7 @@
 0.0.0.0 prod.classify-client.prod.webservices.mozgcp.net
 0.0.0.0 prod.content-signature-chains.prod.webservices.mozgcp.net
 0.0.0.0 bcd.prod.mdn.prod.webservices.mozgcp.net
+0.0.0.0 prod-games-particle.merino.prod.webservices.mozgcp.net
 0.0.0.0 prod.ohttp-gateway.prod.webservices.mozgcp.net
 0.0.0.0 prod.remote-settings.prod.webservices.mozgcp.net
 0.0.0.0 assets-prod.sumo.prod.webservices.mozgcp.net
