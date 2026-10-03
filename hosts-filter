@@ -1264,6 +1264,7 @@
 0.0.0.0 sdkopmetrics-us.dsp-api.moloco.com
 0.0.0.0 odr.mookie1.com
 0.0.0.0 ads.mopub.com
+0.0.0.0 metric.morphic.com
 0.0.0.0 i.moshimo.com
 0.0.0.0 cdn.mouseflow.com
 0.0.0.0 movesickly.com
@@ -1433,6 +1434,7 @@
 0.0.0.0 cdn.polarbyte.com
 0.0.0.0 apiv2.popupsmart.com
 0.0.0.0 portoteamo.com
+0.0.0.0 us.i.posthog.com
 0.0.0.0 exchange.postrelease.com
 0.0.0.0 jadserve.postrelease.com
 0.0.0.0 api.pozvonim.com
@@ -1965,6 +1967,8 @@
 0.0.0.0 cdn.viewst.com
 0.0.0.0 cdn.viglink.com
 0.0.0.0 static.vilynx.com
+0.0.0.0 arclight.vimeo.com
+0.0.0.0 lensflare.vimeo.com
 0.0.0.0 player-telemetry.vimeo.com
 0.0.0.0 fresnel-events.vimeocdn.com
 0.0.0.0 dev.visualwebsiteoptimizer.com
@@ -2885,6 +2889,7 @@
 0.0.0.0 analytics.archive.org
 0.0.0.0 beyondwickedmapping.org
 0.0.0.0 browser-update.org
+0.0.0.0 t.comfy.org
 0.0.0.0 clickio.mgr.consensu.org
 0.0.0.0 consentmanager.mgr.consensu.org
 0.0.0.0 cdn.consentmanager.mgr.consensu.org
@@ -3346,6 +3351,7 @@
 0.0.0.0 ip4.tracker-api.vk-analytics.ru
 0.0.0.0 ts.tracker-api.vk-analytics.ru
 0.0.0.0 api.vk.ru
+0.0.0.0 login.vk.ru
 0.0.0.0 vkontakte.ru
 0.0.0.0 1l-hit.vkplay.ru
 0.0.0.0 com.adv.vz.ru
