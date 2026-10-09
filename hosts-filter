@@ -16,6 +16,7 @@
 0.0.0.0 dssa.hybrid.ai
 0.0.0.0 dssa-eu.hybrid.ai
 0.0.0.0 emd.hybrid.ai
+0.0.0.0 fp.hybrid.ai
 0.0.0.0 fpf.hybrid.ai
 0.0.0.0 hbe199.hybrid.ai
 0.0.0.0 ssp.hybrid.ai
@@ -3362,6 +3363,7 @@
 0.0.0.0 marketplace-sentry.wb.ru
 0.0.0.0 nel.wb.ru
 0.0.0.0 redirect-frontend.weborama-tech.ru
+0.0.0.0 wcm.weborama-tech.ru
 0.0.0.0 mitdmp.whiteboxdigital.ru
 0.0.0.0 tms.dmp.wi-fi.ru
 0.0.0.0 ads-media.wildberries.ru
