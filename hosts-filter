@@ -553,6 +553,7 @@
 0.0.0.0 referrer.disqus.com
 0.0.0.0 glitter.services.disqus.com
 0.0.0.0 links.services.disqus.com
+0.0.0.0 realtime.services.disqus.com
 0.0.0.0 tempest.services.disqus.com
 0.0.0.0 widget-view.dmm.com
 0.0.0.0 dmrtx.com
