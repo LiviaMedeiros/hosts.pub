@@ -2008,6 +2008,7 @@
 0.0.0.0 ctx.weborama.com
 0.0.0.0 dx.frontend.weborama.com
 0.0.0.0 web.webpushs.com
+0.0.0.0 booster.webtradecenter.com
 0.0.0.0 report.appmetrica.webvisor.com
 0.0.0.0 report-1.appmetrica.webvisor.com
 0.0.0.0 startup.mobile.webvisor.com
@@ -2893,6 +2894,7 @@
 0.0.0.0 analytics.archive.org
 0.0.0.0 beyondwickedmapping.org
 0.0.0.0 browser-update.org
+0.0.0.0 moderate.cleantalk.org
 0.0.0.0 t.comfy.org
 0.0.0.0 clickio.mgr.consensu.org
 0.0.0.0 consentmanager.mgr.consensu.org
