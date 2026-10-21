@@ -541,6 +541,7 @@
 0.0.0.0 apps.developermedia.com
 0.0.0.0 cdn1.developermedia.com
 0.0.0.0 cdn2.developermedia.com
+0.0.0.0 statgw.devtodev.com
 0.0.0.0 sourcepoint.dexerto.com
 0.0.0.0 track.dictionary.com
 0.0.0.0 ads.digitalcaramel.com
