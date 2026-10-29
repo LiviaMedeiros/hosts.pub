@@ -439,6 +439,7 @@
 0.0.0.0 cdnral.com
 0.0.0.0 h.cedatoplayer.com
 0.0.0.0 radar.cedexis.com
+0.0.0.0 reportna1.centauriglobal.com
 0.0.0.0 e.channelexco.com
 0.0.0.0 static.chartbeat.com
 0.0.0.0 live.chartboost.com
@@ -901,6 +902,7 @@
 0.0.0.0 e2c4.gcp.gvt2.com
 0.0.0.0 e2c9.gcp.gvt2.com
 0.0.0.0 e2c54.gcp.gvt2.com
+0.0.0.0 e2c84.gcp.gvt2.com
 0.0.0.0 beacons5.gvt3.com
 0.0.0.0 h5r2dzdwqk.com
 0.0.0.0 tags.h12-media.com
@@ -2817,6 +2819,7 @@
 0.0.0.0 use-application-dns.net
 0.0.0.0 s.uuidksinc.net
 0.0.0.0 webcachespace.net
+0.0.0.0 android.crashsight.wetest.net
 0.0.0.0 pc.crashsight.wetest.net
 0.0.0.0 api.whatsapp.net
 0.0.0.0 media-ams2-1.cdn.whatsapp.net
