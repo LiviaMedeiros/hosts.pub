@@ -1223,6 +1223,7 @@
 0.0.0.0 kv501.prod.do.dsp.mp.microsoft.com
 0.0.0.0 kv801.prod.do.dsp.mp.microsoft.com
 0.0.0.0 tsfe.trafficshaping.dsp.mp.microsoft.com
+0.0.0.0 tsfecr.trafficshaping.dsp.mp.microsoft.com
 0.0.0.0 storeedgefd.dsx.mp.microsoft.com
 0.0.0.0 licensing.mp.microsoft.com
 0.0.0.0 pti.store.microsoft.com
