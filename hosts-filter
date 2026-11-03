@@ -2558,6 +2558,7 @@
 0.0.0.0 ssl.geoplugin.net
 0.0.0.0 stat-api-yndx.cloud.gismeteo.net
 0.0.0.0 stat-api.gismeteo.net
+0.0.0.0 snowplowprd.trx.gitlab.net
 0.0.0.0 crl.globalsign.net
 0.0.0.0 c.go-mpulse.net
 0.0.0.0 s.go-mpulse.net
