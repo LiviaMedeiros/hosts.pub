@@ -2085,6 +2085,7 @@
 0.0.0.0 www.zergnet.com
 0.0.0.0 content.zeronaught.com
 0.0.0.0 static.ziffdavis.com
+0.0.0.0 cdn.ziffstatic.com
 0.0.0.0 salesiq.zoho.com
 0.0.0.0 salesiq.zohopublic.com
 0.0.0.0 dsp-service.admatic.de
@@ -2221,6 +2222,7 @@
 0.0.0.0 ssdk-sg.pangle.io
 0.0.0.0 cdn.piano.io
 0.0.0.0 experience-ap.piano.io
+0.0.0.0 polyfill.io
 0.0.0.0 sdk.postscript.io
 0.0.0.0 mweb-hb.presage.io
 0.0.0.0 pad-v3.presage.io
