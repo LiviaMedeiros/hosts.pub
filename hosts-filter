@@ -31,6 +31,8 @@
 0.0.0.0 a.vdo.ai
 0.0.0.0 tag.wknd.ai
 0.0.0.0 tru.am
+0.0.0.0 ip.bsky.app
+0.0.0.0 live-events.workers.bsky.app
 0.0.0.0 discord.app
 0.0.0.0 cdn.permutive.app
 0.0.0.0 0f73e92f-4074-4fe3-85d3-ed3fc969859e.edge.permutive.app
@@ -626,6 +628,7 @@
 0.0.0.0 s-static.ak.facebook.com
 0.0.0.0 api.facebook.com
 0.0.0.0 b-graph.facebook.com
+0.0.0.0 b-www.facebook.com
 0.0.0.0 badge.facebook.com
 0.0.0.0 z-p42-instagram.c10r.facebook.com
 0.0.0.0 developers.facebook.com
@@ -913,6 +916,7 @@
 0.0.0.0 cdn.heapanalytics.com
 0.0.0.0 my.hellobar.com
 0.0.0.0 cdn3.hentok.com
+0.0.0.0 nel.heroku.com
 0.0.0.0 stack-exchange-dynamic-ads.herokuapp.com
 0.0.0.0 wootric-eligibility.herokuapp.com
 0.0.0.0 tag.heylink.com
@@ -1444,6 +1448,7 @@
 0.0.0.0 apiv2.popupsmart.com
 0.0.0.0 portoteamo.com
 0.0.0.0 us.i.posthog.com
+0.0.0.0 us-assets.i.posthog.com
 0.0.0.0 exchange.postrelease.com
 0.0.0.0 jadserve.postrelease.com
 0.0.0.0 api.pozvonim.com
@@ -2194,6 +2199,7 @@
 0.0.0.0 ad.impactify.io
 0.0.0.0 nexus-websocket-a.intercom.io
 0.0.0.0 ipinfo.io
+0.0.0.0 usage.jenkins.io
 0.0.0.0 kimberlite.io
 0.0.0.0 static.kimberlite.io
 0.0.0.0 impression-east.liftoff.io
