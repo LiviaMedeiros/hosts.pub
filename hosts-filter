@@ -593,8 +593,10 @@
 0.0.0.0 dynspt.com
 0.0.0.0 src.ebay-us.com
 0.0.0.0 backstory.ebay.com
+0.0.0.0 devicebind.ebay.com
 0.0.0.0 epnt.ebay.com
 0.0.0.0 monitor.ebay.com
+0.0.0.0 reco.ebay.com
 0.0.0.0 srx.main.ebayrtm.com
 0.0.0.0 secureir.ebaystatic.com
 0.0.0.0 applets.ebxcdn.com
@@ -3413,8 +3415,10 @@
 0.0.0.0 clck.yandex.ru
 0.0.0.0 informer.yandex.ru
 0.0.0.0 api.lbs.yandex.ru
+0.0.0.0 market-baobab.yandex.ru
 0.0.0.0 market-click-baobab.yandex.ru
 0.0.0.0 aflt.market.yandex.ru
+0.0.0.0 media-adv.market.yandex.ru
 0.0.0.0 sovetnik.market.yandex.ru
 0.0.0.0 mc.yandex.ru
 0.0.0.0 zen-mobile-site.mediascope.mc.yandex.ru
@@ -3496,3 +3500,4 @@
 0.0.0.0 r.2ad.wtf
 0.0.0.0 a.apkpures.xyz
 0.0.0.0 ads.playground.xyz
+0.0.0.0 ingest.monium.yandex
