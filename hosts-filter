@@ -1826,6 +1826,7 @@
 0.0.0.0 perf-events.cloud.unity3d.com
 0.0.0.0 api.uca.cloud.unity3d.com
 0.0.0.0 config.uca.cloud.unity3d.com
+0.0.0.0 engine-data.unity3d.com
 0.0.0.0 ae.iads.unity3d.com
 0.0.0.0 cdn.iads.unity3d.com
 0.0.0.0 ecommerce.iap.unity3d.com
